@@ -1,0 +1,1957 @@
+[00:00:00,000 -> 00:00:08,160]  Porque, afinal de contas, tem testemunhas aguardando aqui há muito tempo.
+[00:00:08,160 -> 00:00:12,800]  Boa noite a todos, desculpem o atraso, mas a primeira atrasou demais, mais de uma hora,
+[00:00:12,800 -> 00:00:13,800]  quase duas horas.
+[00:00:13,800 -> 00:00:19,679]  Doutor Vinícius está aqui de prova, porque estavam participando da primeira audiência.
+[00:00:19,679 -> 00:00:25,440]  A segunda tivemos ato prejudicado e aí passamos para essa terceira, mas está
+[00:00:25,440 -> 00:00:29,560]  com esse impasse aí de apresentação dos acusados.
+[00:00:29,560 -> 00:00:36,960]  Não sei por que motivo, está presente apenas o acusado Paulo Henrique, mas como já houve
+[00:00:36,960 -> 00:00:43,800]  declaração por todas as defesas, que eu já anotei aqui, para as defesas técnicas
+[00:00:43,800 -> 00:00:49,640]  da condução da audiência, essa é a presença dos acusados, então nós vamos colher
+[00:00:49,640 -> 00:00:54,200]  a prova, primeiramente, ouvindo o doutor Rodrigo Moreira, o delegado.
+[00:00:54,200 -> 00:00:58,719]  Doutor Rodrigo, o senhor está sob compromisso de dizer a verdade, sob pena de responder
+[00:00:58,719 -> 00:01:00,519]  criminalmente para o falso-testemunho.
+[00:01:00,519 -> 00:01:08,120]  A doutora Renata, não sei se é promotora com atribuição, mas de qualquer forma,
+[00:01:08,120 -> 00:01:14,960]  não sendo eventualmente ela remete peças, se for o caso, o senhor é agente público
+[00:01:14,960 -> 00:01:16,799]  e eu tenho dever de adverti-lo.
+[00:01:16,799 -> 00:01:22,560]  Eu pergunto, embora não estejam presentes, está presente apenas o senhor Paulo Henrique,
+[00:01:23,159 -> 00:01:29,760]  eu pergunto se tem algum problema pessoal com as pessoas que foram denunciadas, que
+[00:01:29,760 -> 00:01:35,159]  são essas pessoas que eu li os nomes, mas vou reiterar.
+[00:01:35,159 -> 00:01:41,840]  É Júlio Pereira Marcos, supostamente vulgo Julião, José Guilherme da Costa Freire,
+[00:01:41,840 -> 00:01:46,840]  sem vulgo indicado, o senhor Cristiano Pereira Marcos, o senhor Paulo Henrique
+[00:01:46,840 -> 00:01:52,359]  Bento, supostamente vulgo Paulinho, que seria o senhor presente aqui, de blusa branca,
+[00:01:52,359 -> 00:01:59,040]  o senhor é Merson Fernandes Ananias, o senhor Rodrigo Duarte Souza, que também
+[00:01:59,040 -> 00:02:03,480]  não está mais nesse processo, está desmembrado também, como a doutora Renata falou,
+[00:02:03,480 -> 00:02:07,920]  e o senhor Juliano Lucas, supostamente vulgo Lucas.
+[00:02:07,920 -> 00:02:10,199]  Tem algum problema pessoal com eles, doutor?
+[00:02:10,199 -> 00:02:11,520]  Boa tarde, silêncio.
+[00:02:11,520 -> 00:02:13,480]  Nenhum problema, nem os conhecia.
+[00:02:13,480 -> 00:02:14,480]  Ok.
+[00:02:14,479 -> 00:02:20,159]  Então veja bem, quem vai indagar primeiramente do senhor, será a doutora Renata, e depois
+[00:02:20,159 -> 00:02:25,519]  eu vou seguindo os advogados pela ordem da denúncia, e se for o caso farei alguma
+[00:02:25,519 -> 00:02:27,120]  pergunta complementar ao final.
+[00:02:27,120 -> 00:02:31,159]  A doutora Renata querendo pode indagar do doutor Rodrigo.
+[00:02:31,159 -> 00:02:33,159]  Obrigada, silêncio.
+[00:02:33,159 -> 00:02:35,159]  Boa tarde, doutor Rodrigo, tudo bom?
+[00:02:35,159 -> 00:02:37,159]  Tudo bem, silêncio.
+[00:02:37,159 -> 00:02:42,639]  O senhor pode explicar para a gente, por favor, como que começou a operação
+[00:02:42,640 -> 00:02:46,640]  Delivery, como que começaram as investigações relacionadas a essa operação?
+[00:02:46,640 -> 00:02:55,160]  Sim, a investigação começou em março de 2021, como eu me recordo ao certo a data,
+[00:02:55,160 -> 00:02:59,680]  em razão de uma ocorrência apresentada por policiais militares, dando conta de
+[00:02:59,680 -> 00:03:07,120]  que o José Guilherme, ele foi encontrado com um tablet de substâncias supostamente
+[00:03:07,599 -> 00:03:12,599]  maconha, só depois do lado que foi confirmado, e alegava que era para seu consumo próprio.
+[00:03:12,599 -> 00:03:19,599]  Ele informou que havia comprado aquele tablet de maconha por uma quantia de cerca de
+[00:03:19,599 -> 00:03:26,599]  R$600,00 e comprou aquela quantidade porque ele era usuário e tinha medo de frequentar,
+[00:03:26,599 -> 00:03:31,599]  entre aspas, as bocas de fumo, e por isso ele tinha comprado aquela quantidade.
+[00:03:32,079 -> 00:03:38,079]  Tenho em vista a apresentação dessa ocorrência e as declarações do José Guilherme,
+[00:03:38,079 -> 00:03:43,079]  que não tinha nenhum material para indolação, não tinha mais nada em sua posse,
+[00:03:43,079 -> 00:03:47,079]  em vez de tomar uma decisão naquele momento precipitada de fazer uma prisão
+[00:03:47,079 -> 00:03:54,079]  em flagrante por tráfego, e também para não fazer uma decisão de menos gravidade
+[00:03:54,079 -> 00:03:59,079]  de Sórtigo 28, eu optei por aprender o material, encaminhar a perícia e realizar
+[00:03:59,560 -> 00:04:02,560]  uma investigação para saber do que se tratava realmente.
+[00:04:02,560 -> 00:04:08,560]  A primeira surpresa foi que ele informou que comprou o tablet de maconha de uma pessoa
+[00:04:08,560 -> 00:04:13,560]  que ele não sabia o nome, mas sabia o telefone. Após obter a informação da operadora,
+[00:04:13,560 -> 00:04:18,560]  esse telefone estava cadastrado em nome de Júlio Pereira Marcos, mas com endereço
+[00:04:18,560 -> 00:04:22,560]  em São Paulo. O endereço que foi fornecido para a operadora era de São Paulo,
+[00:04:23,040 -> 00:04:29,040]  e os bancos de dados acessíveis pela polícia, tal portal de segurança,
+[00:04:29,040 -> 00:04:34,040]  apontavam que o Júlio Pereira Marcos residia em Buzos, na Rua Manuel Turiba de Farias.
+[00:04:34,040 -> 00:04:39,040]  Daí nós começamos a investigar e houve a representação,
+[00:04:39,040 -> 00:04:43,040]  por medida cautelar, de interceptação telefônica.
+[00:04:43,040 -> 00:04:48,040]  O Ministério Público se manifestou de forma favorável e o juízo da Segunda Vara
+[00:04:48,520 -> 00:04:55,520]  também decretou a interceptação, que se desenrolou salvo engano por quatro rodadas.
+[00:04:55,520 -> 00:05:00,520]  Eu participei das duas primeiras rodadas, em seguida entrei em férias,
+[00:05:00,520 -> 00:05:05,520]  e o delegado Nelson Esquiba, que à época era meu assistente na delegacia de Buzos,
+[00:05:05,520 -> 00:05:08,520]  continuou tocando a investigação.
+[00:05:08,520 -> 00:05:13,520]  Tretanto, posso dizer que nas duas primeiras rodadas,
+[00:05:14,000 -> 00:05:19,000]  foi bastante evidenciada a transação ilícita de drogas
+[00:05:19,000 -> 00:05:24,000]  no centro de Buzos e com entregas nas proximidades.
+[00:05:24,000 -> 00:05:31,000]  As pessoas interceptadas falavam sobre drogas, mas de forma velada.
+[00:05:33,000 -> 00:05:38,000]  Inclusive, o Paulo Henrique e o José Guilherme
+[00:05:38,000 -> 00:05:41,000]  chegavam a repreender os interlocutores
+[00:05:41,480 -> 00:05:44,480]  quando eles se referiam expressamente à droga.
+[00:05:44,480 -> 00:05:47,480]  Não fala esse negócio no telefone, não.
+[00:05:47,480 -> 00:05:49,480]  Porra, me desculpe a expressão.
+[00:05:49,480 -> 00:05:53,480]  Vamos falar pelo WhatsApp, para usar um outro mecanismo
+[00:05:53,480 -> 00:05:56,480]  para, provavelmente, ou com medo,
+[00:05:56,480 -> 00:06:00,480]  de uma suposta interceptação telefônica que estava em andamento.
+[00:06:00,480 -> 00:06:06,480]  Chamou a atenção também que eles se referirem ao entorpecente com outros nomes.
+[00:06:06,960 -> 00:06:08,960]  Por exemplo, eles se referiam a agulhoba,
+[00:06:08,960 -> 00:06:10,960]  para trocar as palavras de bagulho.
+[00:06:10,960 -> 00:06:14,960]  Se referiam a lacoste, para falar da verdinha,
+[00:06:14,960 -> 00:06:17,960]  em alusão ao jacaré da marca, que é verdinha.
+[00:06:17,960 -> 00:06:19,960]  Se referia à maconha.
+[00:06:19,960 -> 00:06:25,960]  Usavam o arroba, para se referir à êxtase.
+[00:06:25,960 -> 00:06:28,960]  Falavam sobre Colômbia, falavam sobre ameta,
+[00:06:28,960 -> 00:06:33,960]  quando se referiam a, provavelmente, pedras de êxtase.
+[00:06:34,440 -> 00:06:41,440]  E os diálogos, eles referiam explicitamente à compra e venda de drogas.
+[00:06:42,440 -> 00:06:45,440]  Então, eles, pelo que o senhor está falando,
+[00:06:45,440 -> 00:06:48,440]  era um grupo de pessoas que traficavam,
+[00:06:48,440 -> 00:06:51,440]  essencialmente, no centro de Búzios.
+[00:06:51,440 -> 00:06:53,440]  No centro, chegavam a combinar a entrega,
+[00:06:53,440 -> 00:06:55,440]  em frente ao barro do Botafogo,
+[00:06:55,440 -> 00:06:58,440]  que é um bar que funciona ali na esquina,
+[00:06:58,440 -> 00:07:00,440]  numa esquina da Rua Manuel Turiba de Faris,
+[00:07:00,920 -> 00:07:03,920]  diretamente em frente à casa dos irmãos cristianos.
+[00:07:03,920 -> 00:07:08,920]  E Júlio Pereira entregavam no Porto da Barra,
+[00:07:08,920 -> 00:07:12,920]  em locais próximos, em pontos turísticos da região,
+[00:07:12,920 -> 00:07:14,920]  a quem quisesse fazer contato com eles.
+[00:07:14,920 -> 00:07:18,920]  Inclusive, eu me recordo que em uma das ligações,
+[00:07:18,920 -> 00:07:20,920]  um dos alvos pediu ao outro,
+[00:07:20,920 -> 00:07:22,920]  me dá uma quantidade de 100 gramas de cocaína
+[00:07:22,920 -> 00:07:24,920]  que eu vou vender com a madame.
+[00:07:24,920 -> 00:07:27,920]  Então, eles falavam sobre drogas bastantes vezes.
+[00:07:28,400 -> 00:07:33,400]  Então, não era uma dinâmica típica de facção criminosa,
+[00:07:33,400 -> 00:07:36,400]  tipo um comando vermelho e um terceiro comando,
+[00:07:36,400 -> 00:07:40,400]  com bocas de fumo que eles se organizavam nas bocas para vender.
+[00:07:40,400 -> 00:07:43,400]  Era uma dinâmica de entrega de drogas, efetivamente.
+[00:07:43,400 -> 00:07:46,400]  As pessoas entravam em contato com eles pelo telefone,
+[00:07:46,400 -> 00:07:48,400]  e eles iam entregar a droga ao usuário, era isso?
+[00:07:48,400 -> 00:07:52,400]  Sim, não havia uma venda explícita nas ruas.
+[00:07:52,400 -> 00:07:54,400]  Era uma coisa escamoteada,
+[00:07:54,400 -> 00:07:56,400]  por isso até que a gente deu o nome de Delivery,
+[00:07:56,880 -> 00:07:58,880]  que fazia um contato via telefone,
+[00:07:58,880 -> 00:08:02,880]  e entre eles também um tentava adiantar o outro.
+[00:08:02,880 -> 00:08:04,880]  Fala, tem um cliente para você.
+[00:08:04,880 -> 00:08:06,880]  Quando provavelmente um deles não tinha droga,
+[00:08:06,880 -> 00:08:08,880]  adiantava o colega de trabalho.
+[00:08:08,880 -> 00:08:10,880]  Entendi.
+[00:08:10,880 -> 00:08:13,880]  E ao longo das fases da interceptação telefônica,
+[00:08:13,880 -> 00:08:16,880]  como que vocês faziam para identificar
+[00:08:16,880 -> 00:08:19,880]  a qualificação da pessoa que estava usando aquele terminal
+[00:08:19,880 -> 00:08:21,880]  que entrava em contato com um com o outro
+[00:08:21,880 -> 00:08:24,880]  para fazer essa qualificação dos interlocutores?
+[00:08:25,360 -> 00:08:30,360]  Essa identificação ficou na terceira e quarta rodada,
+[00:08:30,360 -> 00:08:33,360]  especificamente, que foram conduzidas pelo Doutor Nelson Esquiva.
+[00:08:33,360 -> 00:08:36,360]  Mas eu me recordo que ele chegou a chamar
+[00:08:36,360 -> 00:08:39,360]  duas pessoas que tinham telefones em seu nome,
+[00:08:39,360 -> 00:08:41,360]  e uma delas, uma moça,
+[00:08:41,360 -> 00:08:43,360]  me esqueci o nome agora,
+[00:08:43,360 -> 00:08:46,360]  falou que autorizou uma das pessoas,
+[00:08:46,360 -> 00:08:48,360]  agora não vou lembrar como investigado,
+[00:08:48,360 -> 00:08:50,360]  talvez Doutor Nelson tenha essa lembrança,
+[00:08:50,360 -> 00:08:52,360]  mas com certeza ele colocou isso no relatório,
+[00:08:52,840 -> 00:08:54,840]  que aquele alvo usasse o telefone,
+[00:08:54,840 -> 00:08:56,840]  e eles se falavam,
+[00:08:56,840 -> 00:08:58,840]  e o nosso analista de inteligência,
+[00:08:58,840 -> 00:09:00,840]  o Rodrigo Pinheiro,
+[00:09:00,840 -> 00:09:02,840]  ele conseguiu fazer essa correlação
+[00:09:02,840 -> 00:09:05,840]  entre os investigados e os interceptados,
+[00:09:05,840 -> 00:09:08,840]  para saber que aquela pessoa era aquele alvo.
+[00:09:12,840 -> 00:09:13,840]  Entendi.
+[00:09:13,840 -> 00:09:18,840]  A participação pessoal de cada um dos denunciados
+[00:09:19,320 -> 00:09:23,320]  ficou mais com o Doutor Esquiva e o Rodrigo,
+[00:09:23,320 -> 00:09:25,320]  que fizeram a parte final das investigações.
+[00:09:25,320 -> 00:09:29,320]  E que terminaram a terceira e quarta rodadas,
+[00:09:29,320 -> 00:09:32,320]  mas desde o início já ficou evidenciado
+[00:09:32,320 -> 00:09:35,320]  que o Júlio Pereira e o Paulo Henrique
+[00:09:35,320 -> 00:09:38,320]  forneciam drogas para o José Guilherme,
+[00:09:38,320 -> 00:09:42,320]  e o José Guilherme capitaneava usuários,
+[00:09:42,320 -> 00:09:44,320]  o Paulo Henrique também,
+[00:09:44,320 -> 00:09:46,320]  o Rodrigo também,
+[00:09:46,800 -> 00:09:48,800]  eles foram pegos fazendo essa intermediação
+[00:09:48,800 -> 00:09:50,800]  para o fulano que era droga,
+[00:09:50,800 -> 00:09:52,800]  então a própria pessoa já ligava para ele
+[00:09:52,800 -> 00:09:54,800]  e perguntava se tinha droga.
+[00:09:54,800 -> 00:09:56,800]  Entendi.
+[00:09:56,800 -> 00:10:00,800]  Quando aconteceu a deflagração da operação,
+[00:10:00,800 -> 00:10:02,800]  o senhor chegou a acompanhar também?
+[00:10:02,800 -> 00:10:04,800]  Acompanhei,
+[00:10:04,800 -> 00:10:07,800]  a operação foi deflagrar no dia 2 de fevereiro,
+[00:10:07,800 -> 00:10:11,800]  desse ano de 2022,
+[00:10:11,800 -> 00:10:15,800]  e eu fui à casa inclusive dos irmãos Júlio Pereira
+[00:10:16,280 -> 00:10:18,280]  e Cristiano Pereira.
+[00:10:18,280 -> 00:10:20,280]  O Júlio estava foragido,
+[00:10:20,280 -> 00:10:22,280]  a família não soube explicar o paradeiro dele,
+[00:10:22,280 -> 00:10:25,280]  e me parece que até hoje ele está foragido.
+[00:10:25,280 -> 00:10:27,280]  Eu falo me parece porque em abril
+[00:10:27,280 -> 00:10:29,280]  eu saio da delegacia de buses
+[00:10:29,280 -> 00:10:31,280]  e eu não tenho mais noção do que está acontecendo.
+[00:10:31,280 -> 00:10:33,280]  O Cristiano,
+[00:10:33,280 -> 00:10:35,280]  ele teve mandado cumprido nesse dia,
+[00:10:35,280 -> 00:10:37,280]  ele foi preso nesse dia.
+[00:10:37,280 -> 00:10:40,280]  Ele chegou a falar alguma coisa
+[00:10:40,280 -> 00:10:42,280]  sobre essa suposta participação
+[00:10:42,280 -> 00:10:44,280]  do irmão, do Júlio,
+[00:10:44,759 -> 00:10:46,759]  nesses crimes?
+[00:10:46,759 -> 00:10:48,759]  Ele, como os outros que foram presos
+[00:10:48,759 -> 00:10:50,759]  no dia da operação,
+[00:10:50,759 -> 00:10:52,759]  o Paulo Henrique,
+[00:10:52,759 -> 00:10:54,759]  se mostraram surpresos
+[00:10:54,759 -> 00:10:56,759]  porque talvez não imaginasse
+[00:10:56,759 -> 00:10:58,759]  que aquele esquema seria desbaratado.
+[00:10:58,759 -> 00:11:00,759]  O Cristiano se mostrou muito surpreso,
+[00:11:00,759 -> 00:11:02,759]  falou que o irmão já tinha se envolvido
+[00:11:02,759 -> 00:11:04,759]  com drogas de maneira informática,
+[00:11:04,759 -> 00:11:06,759]  comentou com a gente,
+[00:11:06,759 -> 00:11:08,759]  mas não deu nenhum sinal do paradeiro dele
+[00:11:08,759 -> 00:11:10,759]  onde ele poderia ser encontrado.
+[00:11:10,759 -> 00:11:12,759]  Mas falou que o irmão já teve relação
+[00:11:13,240 -> 00:11:15,240]  e ele foi flagrado nas interceptações.
+[00:11:17,240 -> 00:11:19,240]  Entendi.
+[00:11:19,240 -> 00:11:21,240]  Obrigada, doutor Rodrigo.
+[00:11:21,240 -> 00:11:23,240]  Eu não tenho mais perguntas excelentes.
+[00:11:25,240 -> 00:11:27,240]  Doutora Mayra, não está saindo o áudio da senhora.
+[00:11:29,240 -> 00:11:31,240]  É porque eu tiro para não atrapalhar
+[00:11:31,240 -> 00:11:33,240]  e às vezes...
+[00:11:33,240 -> 00:11:35,240]  Bom, agora a defesa técnica
+[00:11:35,240 -> 00:11:37,240]  do senhor José Guilherme.
+[00:11:37,240 -> 00:11:39,240]  Tem alguma pergunta?
+[00:11:39,240 -> 00:11:41,240]  Eu tenho perguntas sim, senhora.
+[00:11:41,720 -> 00:11:43,720]  Então pode formular diretamente, doutor.
+[00:11:43,720 -> 00:11:45,720]  Como que o senhor José Guilherme...
+[00:11:47,720 -> 00:11:49,720]  Como correu a prisão dele?
+[00:11:49,720 -> 00:11:51,720]  Como correu a prisão o senhor José Guilherme?
+[00:11:53,720 -> 00:11:55,720]  A prisão dele eu não participei efetivamente,
+[00:11:55,720 -> 00:11:57,720]  excelência, que no dia da operação
+[00:11:57,720 -> 00:11:59,720]  foram algumas equipes.
+[00:11:59,720 -> 00:12:01,720]  Então eu não lembro nem de cabeça
+[00:12:01,720 -> 00:12:03,720]  qual foi a equipe que foi
+[00:12:03,720 -> 00:12:05,720]  responsável pela prisão do José Guilherme,
+[00:12:05,720 -> 00:12:07,720]  mas com certeza no registro de ocorrência
+[00:12:07,720 -> 00:12:09,720]  do cumprimento do mandado,
+[00:12:09,720 -> 00:12:11,720]  dos policiais que participaram.
+[00:12:11,720 -> 00:12:13,720]  Porque o senhor José Guilherme se apresentou
+[00:12:13,720 -> 00:12:15,720]  na delegacia
+[00:12:15,720 -> 00:12:17,720]  assim que soube que tinha um dado de prisão
+[00:12:17,720 -> 00:12:19,720]  em seu desfavor.
+[00:12:19,720 -> 00:12:21,720]  O senhor sabe disso?
+[00:12:21,720 -> 00:12:23,720]  Eu não me recordava exatamente
+[00:12:23,720 -> 00:12:25,720]  porque a operação foi no dia 2,
+[00:12:25,720 -> 00:12:27,720]  no dia anterior eu fui responsável pela central
+[00:12:27,720 -> 00:12:29,720]  de flagrantes, depois emendei o dinheiro da operação.
+[00:12:29,720 -> 00:12:31,720]  Mas, doutor,
+[00:12:31,720 -> 00:12:33,720]  qual a pergunta que o senhor está a fazer
+[00:12:33,720 -> 00:12:35,720]  eu não participei.
+[00:12:35,720 -> 00:12:37,720]  Ele disse, ele afirma um suposto fato.
+[00:12:37,720 -> 00:12:39,720]  E aí eu pergunto ao senhor
+[00:12:39,720 -> 00:12:41,720]  se esse suposto fato afirmado
+[00:12:41,720 -> 00:12:43,720]  é verdade, edico. Ele disse que o José
+[00:12:43,720 -> 00:12:45,720]  Guilherme se apresentou
+[00:12:45,720 -> 00:12:47,720]  a delegacia. O senhor tem
+[00:12:47,720 -> 00:12:49,720]  notícia sobre isso? O senhor sabe
+[00:12:49,720 -> 00:12:51,720]  alguma coisa sobre isso? Porque ele disse que
+[00:12:51,720 -> 00:12:53,720]  o senhor José Guilherme
+[00:12:53,720 -> 00:12:55,720]  se apresentou assim que soube
+[00:12:55,720 -> 00:12:57,720]  da situação. Houve essa situação?
+[00:12:57,720 -> 00:12:59,720]  Algum acusado que se apresentou?
+[00:12:59,720 -> 00:13:01,720]  O senhor sabe alguma coisa a respeito?
+[00:13:01,720 -> 00:13:03,720]  Eu não me recordo de excelência, mas
+[00:13:03,720 -> 00:13:05,720]  é possível que tenha sim, mas a gente pode conferir
+[00:13:05,720 -> 00:13:07,720]  de cumprimento de mandato de prisão, se ele tivesse
+[00:13:07,720 -> 00:13:09,720]  apresentado, vai estar lá com um signado.
+[00:13:09,720 -> 00:13:11,720]  Porque no dia nós saímos várias vezes à rua
+[00:13:11,720 -> 00:13:13,720]  para tentar cumprir os mandados. Então eu não me recordo
+[00:13:13,720 -> 00:13:15,720]  especificamente desse caso.
+[00:13:15,720 -> 00:13:17,720]  O senhor se reporta e inquieta. Doutor,
+[00:13:17,720 -> 00:13:19,720]  pode prosseguir indagando.
+[00:13:19,720 -> 00:13:21,720]  Nobre delegado
+[00:13:21,720 -> 00:13:23,720]  que tinha conhecimento de tudo,
+[00:13:23,720 -> 00:13:25,720]  é até estranho saber que uma pessoa
+[00:13:25,720 -> 00:13:27,720]  Não, isso é opinião do senhor, doutor.
+[00:13:27,720 -> 00:13:29,720]  Nós não vamos nos sentir as indagações.
+[00:13:29,720 -> 00:13:31,720]  Se não, a gente não acaba saltir
+[00:13:31,720 -> 00:13:33,720]  essa hoje. Por favor, tem mais alguma pergunta?
+[00:13:33,720 -> 00:13:35,720]  A materialidade do senhor, da incursão
+[00:13:35,720 -> 00:13:37,720]  que fizeram na casa do senhor José Guilherme.
+[00:13:37,720 -> 00:13:39,720]  O senhor pode formular a pergunta
+[00:13:39,720 -> 00:13:41,720]  objetivamente, que nem eu entendi.
+[00:13:41,720 -> 00:13:43,720]  Por que foi na casa do senhor
+[00:13:43,720 -> 00:13:45,720]  José Guilherme?
+[00:13:45,720 -> 00:13:47,720]  Eles encontraram uma droga
+[00:13:47,720 -> 00:13:49,720]  na casa do senhor José Guilherme?
+[00:13:49,720 -> 00:13:51,720]  É isso aí. O senhor encontraram
+[00:13:51,720 -> 00:13:53,720]  alguma coisa na casa do senhor José
+[00:13:53,720 -> 00:13:55,720]  Guilherme?
+[00:13:55,720 -> 00:13:57,720]  Não foi cumprido, não foi a casa
+[00:13:57,720 -> 00:13:59,720]  do José Guilherme. O senhor, doutor,
+[00:13:59,720 -> 00:14:01,720]  o senhor está se referindo. Quando
+[00:14:01,720 -> 00:14:03,720]  da apresentação dele, segundo o senhor na
+[00:14:03,720 -> 00:14:05,720]  delegacia, se alguém foi à casa dele,
+[00:14:05,720 -> 00:14:07,720]  se essa foi a pergunta, eu desconheço.
+[00:14:07,720 -> 00:14:09,720]  Pode ser.
+[00:14:09,720 -> 00:14:11,720]  Alguém foi na casa do senhor José Guilherme?
+[00:14:11,720 -> 00:14:13,720]  Ele desconhece, doutor.
+[00:14:13,720 -> 00:14:15,720]  Ele acabou de dizer que ele não sabe.
+[00:14:15,720 -> 00:14:17,720]  Mais alguma indagação pertinente?
+[00:14:17,720 -> 00:14:19,720]  Eu quero fazer uma pergunta também,
+[00:14:19,720 -> 00:14:21,720]  senhora. Daniel Teres, advogado do
+[00:14:21,720 -> 00:14:23,720]  José Guilherme. O senhor também é advogado
+[00:14:23,720 -> 00:14:25,720]  do José Guilherme? Sim.
+[00:14:25,720 -> 00:14:27,720]  Ah, o senhor já me conhece, doutor.
+[00:14:27,720 -> 00:14:29,720]  Então o senhor já sabe como é que eu trabalho.
+[00:14:29,720 -> 00:14:31,720]  Seu colega é um pouco confuso.
+[00:14:31,720 -> 00:14:33,720]  O senhor pode indagar diretamente
+[00:14:33,720 -> 00:14:35,720]  então.
+[00:14:35,720 -> 00:14:37,720]  Na primeira, o senhor falou que ficou
+[00:14:37,720 -> 00:14:39,720]  provada a venda de droga na primeira operação
+[00:14:39,720 -> 00:14:41,720]  que o senhor participou. Eu gostaria de
+[00:14:41,720 -> 00:14:43,720]  perguntar se ele consegue distinguir
+[00:14:43,720 -> 00:14:45,720]  cada conduta que cada gente
+[00:14:45,720 -> 00:14:47,720]  praticou, ou seja,
+[00:14:47,720 -> 00:14:49,720]  o que cada acusado praticou?
+[00:14:49,720 -> 00:14:51,720]  Quem que vendeu a cocaína, igual ele falou?
+[00:14:51,720 -> 00:14:53,720]  Quem que comprou a maconha de quem?
+[00:14:53,720 -> 00:14:55,720]  Se ele consegue distinguir isso no processo.
+[00:14:55,720 -> 00:14:57,720]  Ok.
+[00:14:57,720 -> 00:14:59,720]  Sim, senhora excelência.
+[00:14:59,720 -> 00:15:01,720]  Doutor, talvez eu não tenha
+[00:15:01,720 -> 00:15:03,720]  talvez eu não tenha
+[00:15:03,720 -> 00:15:05,720]  talvez eu não tenha
+[00:15:05,720 -> 00:15:07,720]  me expressado corretamente
+[00:15:07,720 -> 00:15:09,720]  ou talvez o doutor não tenha entendido. Não houve duas operações.
+[00:15:09,720 -> 00:15:11,720]  Houve só uma operação
+[00:15:11,720 -> 00:15:13,720]  ao final, no dia 2,
+[00:15:13,720 -> 00:15:15,720]  para deflagrar o cumprimento dos mandados de prisão.
+[00:15:15,720 -> 00:15:17,720]  Eu entendi sim,
+[00:15:17,720 -> 00:15:19,720]  pela ordem. Desculpa até interromper.
+[00:15:19,720 -> 00:15:21,720]  Mas o senhor falou que num primeiro e segundo
+[00:15:21,720 -> 00:15:23,720]  momento, foi o senhor que participou.
+[00:15:23,720 -> 00:15:25,720]  E num terceiro, quarto momento,
+[00:15:25,720 -> 00:15:27,720]  quem participou foi o outro delegado.
+[00:15:27,720 -> 00:15:29,720]  Sim, para ver o momento que eu me refiro.
+[00:15:29,720 -> 00:15:31,720]  No momento que o senhor participou,
+[00:15:31,720 -> 00:15:33,720]  o senhor consegue distinguir
+[00:15:33,720 -> 00:15:35,720]  cada conduta que cada acusado cometeu?
+[00:15:35,720 -> 00:15:37,720]  Quem foi que vendeu a cocaína?
+[00:15:37,720 -> 00:15:39,720]  Quem foi que comprou maconha de quem?
+[00:15:39,720 -> 00:15:41,720]  Eu quero saber se o senhor consegue
+[00:15:41,720 -> 00:15:43,720]  distinguir cada conduta
+[00:15:43,720 -> 00:15:45,720]  de cada gente. Quem fez o quê?
+[00:15:45,720 -> 00:15:47,720]  Sim, o José
+[00:15:47,720 -> 00:15:49,720]  Guilherme, ele foi
+[00:15:49,720 -> 00:15:51,720]  encontrado
+[00:15:51,720 -> 00:15:53,720]  na posta de um tablet de cerca
+[00:15:53,720 -> 00:15:55,720]  de 200 gramas de maconha
+[00:15:55,720 -> 00:15:57,720]  e falou que comprou de uma pessoa
+[00:15:57,720 -> 00:15:59,720]  que não se recordava o nome, mas apenas
+[00:15:59,720 -> 00:16:01,720]  o telefone.
+[00:16:01,720 -> 00:16:03,720]  Esse telefone estava
+[00:16:03,720 -> 00:16:05,720]  cadastrado em nome de Júlio Pereira Marcos
+[00:16:05,720 -> 00:16:07,720]  com um endereço em São Paulo.
+[00:16:07,720 -> 00:16:09,720]  Um endereço esse,
+[00:16:09,720 -> 00:16:11,720]  fictício, que ele informou
+[00:16:11,720 -> 00:16:13,720]  operadora, provavelmente
+[00:16:13,720 -> 00:16:15,720]  com o intuito de esconder o local
+[00:16:15,720 -> 00:16:17,720]  exato onde ele residia.
+[00:16:17,720 -> 00:16:19,720]  Porque o endereço dele é Buses.
+[00:16:19,720 -> 00:16:21,720]  A partir daí,
+[00:16:21,720 -> 00:16:23,720]  iniciaram-se as rodadas
+[00:16:23,720 -> 00:16:25,720]  de interceptação telefônica.
+[00:16:25,720 -> 00:16:27,720]  Quando eu me reportei,
+[00:16:27,720 -> 00:16:29,720]  as etapas são as etapas
+[00:16:29,720 -> 00:16:31,720]  das interceptações telefônicas
+[00:16:31,720 -> 00:16:33,720]  que foram conduzidas a cada 15 dias.
+[00:16:33,720 -> 00:16:35,720]  Nessas rodadas,
+[00:16:35,720 -> 00:16:37,720]  das quais eu participei,
+[00:16:37,720 -> 00:16:39,720]  ficou ali evidenciado
+[00:16:39,720 -> 00:16:41,720]  que o Júlio
+[00:16:41,720 -> 00:16:43,720]  negociava drogas
+[00:16:43,720 -> 00:16:45,720]  com o José Guilherme.
+[00:16:45,720 -> 00:16:47,720]  Não foram apreendidas drogas
+[00:16:47,720 -> 00:16:49,720]  com eles, mas ficou ali
+[00:16:49,720 -> 00:16:51,720]  evidenciado que um pedia para o outro
+[00:16:51,720 -> 00:16:53,720]  negociação de compra e venda
+[00:16:53,720 -> 00:16:55,720]  de drogas. Inclusive, o Júlio
+[00:16:55,720 -> 00:16:57,720]  Pereira, ele cobrou uma quantia
+[00:16:57,720 -> 00:16:59,720]  que o Paulo Henrique estaria devendo a ele
+[00:16:59,720 -> 00:17:01,720]  por meio quilo de maconha, que ele
+[00:17:01,720 -> 00:17:03,720]  teria pego para vender e não teria
+[00:17:03,720 -> 00:17:05,720]  pago. Depois de uma outra interceptação,
+[00:17:05,720 -> 00:17:07,720]  um deles também cobrou
+[00:17:07,720 -> 00:17:09,720]  uma quantidade de drogas
+[00:17:09,720 -> 00:17:11,720]  que havia sido pega e não havia sido
+[00:17:11,720 -> 00:17:13,720]  entregue. Por esse motivo,
+[00:17:13,720 -> 00:17:15,720]  imagino eu, que não fui o
+[00:17:15,720 -> 00:17:17,720]  filho do relatório, não foram todos
+[00:17:17,720 -> 00:17:19,720]  denunciados por tráfico.
+[00:17:21,720 -> 00:17:23,720]  O Ministério Público também não ofereceu denúncia
+[00:17:23,720 -> 00:17:25,720]  de todos por tráfico, e sim
+[00:17:25,720 -> 00:17:27,720]  por associação ao tráfico.
+[00:17:27,720 -> 00:17:29,720]  Porque materialidade de tráfico,
+[00:17:29,720 -> 00:17:31,720]  evidentemente, a gente só
+[00:17:31,720 -> 00:17:33,720]  pôde ver aquela que estava com
+[00:17:33,720 -> 00:17:35,720]  o José Guilherme e que ele imputou a
+[00:17:35,720 -> 00:17:37,720]  venda ao Júlio.
+[00:17:37,720 -> 00:17:39,720]  Mais uma pergunta
+[00:17:39,720 -> 00:17:41,720]  que o senhor falou que
+[00:17:41,720 -> 00:17:43,720]  você conseguiu provar que o Júlio
+[00:17:43,720 -> 00:17:45,720]  vendeu para o Guilherme e que um outro
+[00:17:45,720 -> 00:17:47,720]  comprou uma quantidade de maconha.
+[00:17:47,720 -> 00:17:49,720]  Gostaria de saber se o senhor conseguiu provar nesse fato
+[00:17:49,720 -> 00:17:51,720]  todo que o Guilherme venderia
+[00:17:51,720 -> 00:17:53,720]  droga para alguém ou se ele só
+[00:17:53,720 -> 00:17:55,720]  comprou do Júlio, porque ele pode ter comprado
+[00:17:55,720 -> 00:17:57,720]  por consumo próprio, como ele alega
+[00:17:57,720 -> 00:17:59,720]  desde o início. O senhor consegue distinguir
+[00:17:59,720 -> 00:18:01,720]  isso?
+[00:18:01,720 -> 00:18:03,720]  Nas rodadas de interceptação,
+[00:18:03,720 -> 00:18:05,720]  eles tratam, inclusive
+[00:18:05,720 -> 00:18:07,720]  o José Guilherme trata sobre
+[00:18:07,720 -> 00:18:09,720]  venda de drogas.
+[00:18:09,720 -> 00:18:11,720]  E detalhando que
+[00:18:11,720 -> 00:18:13,720]  ele explica onde a droga
+[00:18:13,720 -> 00:18:15,720]  estava escondida, fica escondida
+[00:18:15,720 -> 00:18:17,720]  salvingando no forro do telhado da casa dele,
+[00:18:17,720 -> 00:18:19,720]  ele conversa com o Pé de
+[00:18:19,720 -> 00:18:21,720]  Macaroni em troca de droga,
+[00:18:21,720 -> 00:18:23,720]  que mostra que ele
+[00:18:23,720 -> 00:18:25,720]  repreende o cliente quando eles usam
+[00:18:25,720 -> 00:18:27,720]  a expressão droga.
+[00:18:27,720 -> 00:18:29,720]  Então essas rodadas
+[00:18:29,720 -> 00:18:31,720]  de interceptação permitiram a conclusão
+[00:18:31,720 -> 00:18:33,720]  de que eles estavam atuando nessa atividade
+[00:18:33,720 -> 00:18:35,720]  de tráfico de drogas.
+[00:18:35,720 -> 00:18:37,720]  Mas o senhor consegue distinguir
+[00:18:37,720 -> 00:18:39,720]  cada conduta que cada gente cometeu
+[00:18:39,720 -> 00:18:41,720]  porque para ter associação
+[00:18:41,720 -> 00:18:43,720]  a gente precisa ter um vínculo entre esses agentes,
+[00:18:43,720 -> 00:18:45,720]  várias condutas.
+[00:18:45,720 -> 00:18:47,720]  O senhor não respondeu, doutor.
+[00:18:47,720 -> 00:18:49,720]  Ele acabou de dizer
+[00:18:49,720 -> 00:18:51,720]  que um comprava do outro,
+[00:18:51,720 -> 00:18:53,720]  isso também indagado
+[00:18:53,720 -> 00:18:55,720]  pelo Ministério Público,
+[00:18:55,720 -> 00:18:57,720]  que um facilitava a vida do outro,
+[00:18:57,720 -> 00:18:59,720]  tem um cliente para você,
+[00:18:59,720 -> 00:19:01,720]  eu não tenho determinada droga,
+[00:19:01,720 -> 00:19:03,720]  mas pode ser para você. Isso ele já
+[00:19:03,720 -> 00:19:05,720]  respondeu quando das indagações
+[00:19:05,720 -> 00:19:07,720]  do Ministério Público, doutor.
+[00:19:07,720 -> 00:19:09,720]  Excellência pela ordem.
+[00:19:09,720 -> 00:19:11,720]  Ele fez algum exame, alguma
+[00:19:11,720 -> 00:19:13,720]  prova, prova técnica
+[00:19:13,720 -> 00:19:15,720]  para provar que era a voz
+[00:19:15,720 -> 00:19:17,720]  dessa conversa,
+[00:19:17,720 -> 00:19:19,720]  que era a voz de José Guilherme,
+[00:19:19,720 -> 00:19:21,720]  porque ele falava que tinha um favor.
+[00:19:21,720 -> 00:19:23,720]  É só o estado, a pergunta já está formulada, doutor.
+[00:19:23,720 -> 00:19:25,720]  Ele quer saber se houve
+[00:19:25,720 -> 00:19:27,720]  perícia para se verificar
+[00:19:27,720 -> 00:19:29,720]  se a voz era do
+[00:19:29,720 -> 00:19:31,720]  Guilherme mesmo. Negativo, não houve.
+[00:19:31,720 -> 00:19:33,720]  Ok. Mais alguma pergunta,
+[00:19:33,720 -> 00:19:35,720]  doutor?
+[00:19:35,720 -> 00:19:37,720]  Não, calma, doutor.
+[00:19:37,720 -> 00:19:39,720]  O processo sai de uma ordem.
+[00:19:39,720 -> 00:19:41,720]  Os senhores gostam muito da expressão
+[00:19:41,720 -> 00:19:43,720]  pela ordem. E agora o juiz
+[00:19:43,720 -> 00:19:45,720]  vai usar. Pela ordem.
+[00:19:45,720 -> 00:19:47,720]  Pela ordem o juiz que preside a audiência,
+[00:19:47,720 -> 00:19:49,720]  então ele que dirige, pela ordem.
+[00:19:49,720 -> 00:19:51,720]  Segundo, eu expliquei
+[00:19:51,720 -> 00:19:53,720]  antes de dar a palavra que ia ser
+[00:19:53,720 -> 00:19:55,720]  pela ordem da
+[00:19:55,720 -> 00:19:57,720]  denúncia, portanto os senhores aguardem
+[00:19:57,720 -> 00:19:59,720]  a sua vez. Todo mundo vai ter a sua vez,
+[00:19:59,720 -> 00:20:01,720]  eu não violo direito ninguém. Ok?
+[00:20:01,720 -> 00:20:03,720]  Então primeiro foi
+[00:20:03,720 -> 00:20:05,720]  o doutor José Guilherme. Vamos ver se já
+[00:20:05,720 -> 00:20:07,720]  terminou. Doutor José Guilherme.
+[00:20:07,720 -> 00:20:09,720]  Advogado doutor José Guilherme. Já terminou?
+[00:20:09,720 -> 00:20:11,720]  Sem perguntas pela defesa
+[00:20:11,720 -> 00:20:13,720]  de José Guilherme. Agora
+[00:20:13,720 -> 00:20:15,720]  o advogado do senhor Cristiano
+[00:20:15,720 -> 00:20:17,720]  Pereira Marcos. Querendo, pode indagar.
+[00:20:19,720 -> 00:20:21,720]  Boa tarde, senhor Rodrigo.
+[00:20:21,720 -> 00:20:23,720]  Poderia falar um pouquinho, mas o próximo
+[00:20:23,720 -> 00:20:25,720]  microfone está muito baixo.
+[00:20:27,720 -> 00:20:29,720]  Doutor Rodrigo,
+[00:20:29,720 -> 00:20:31,720]  nessa
+[00:20:31,720 -> 00:20:33,720]  nessa
+[00:20:33,720 -> 00:20:35,720]  processo, o senhor conseguiu, como o senhor
+[00:20:35,720 -> 00:20:37,720]  conseguiu ser, conseguiu
+[00:20:37,720 -> 00:20:39,720]  identificar que era uma facção
+[00:20:39,720 -> 00:20:41,720]  criminosa?
+[00:20:41,720 -> 00:20:43,720]  Não foi identificada facção criminosa, doutora.
+[00:20:43,720 -> 00:20:45,720]  O que foi identificado foi uma venda
+[00:20:45,720 -> 00:20:47,720]  de drogas de forma escamoteada,
+[00:20:47,720 -> 00:20:49,720]  de forma bem
+[00:20:49,720 -> 00:20:51,720]  organizada,
+[00:20:51,720 -> 00:20:53,720]  para não se expor. Exatamente o contrário.
+[00:20:53,720 -> 00:20:55,720]  Eles não ostentavam armas,
+[00:20:55,720 -> 00:20:57,720]  não tinham um local fixo, uma boca de
+[00:20:57,720 -> 00:20:59,720]  fumo, não era assim que funcionava.
+[00:20:59,720 -> 00:21:01,720]  O senhor já tinha
+[00:21:01,720 -> 00:21:03,720]  ciência, teve ciência no decorrer
+[00:21:03,720 -> 00:21:05,720]  da investigação que o Júlio
+[00:21:05,720 -> 00:21:07,720]  e o Cristiano eram irmãos?
+[00:21:07,720 -> 00:21:09,720]  O Júlio Pereira Marcos
+[00:21:09,720 -> 00:21:11,720]  e o Cristiano. Depois que nós juntamos
+[00:21:11,720 -> 00:21:13,720]  os nomes, verificamos que eram irmãos.
+[00:21:13,720 -> 00:21:15,720]  Como ele
+[00:21:15,720 -> 00:21:17,720]  chegou à confusão,
+[00:21:17,720 -> 00:21:19,720]  doutor, que eles residiam no mesmo
+[00:21:19,720 -> 00:21:21,720]  local?
+[00:21:21,720 -> 00:21:23,720]  As informações, endereços
+[00:21:23,720 -> 00:21:25,720]  constam nos nossos bancos de dados.
+[00:21:25,720 -> 00:21:27,720]  Já tinha ciência
+[00:21:27,720 -> 00:21:29,720]  que o Júlio
+[00:21:29,720 -> 00:21:31,720]  atuava de forma
+[00:21:31,720 -> 00:21:33,720]  criminosa em búzios?
+[00:21:33,720 -> 00:21:35,720]  Foi verificado
+[00:21:35,720 -> 00:21:37,720]  pelos antecedentes criminais dele
+[00:21:37,720 -> 00:21:39,720]  que ele já tinha uma participação
+[00:21:39,720 -> 00:21:41,720]  no tráfego. Mas parte da investigação
+[00:21:41,720 -> 00:21:43,720]  a gente conhecer quem são os personagens.
+[00:21:43,720 -> 00:21:45,720]  E quanto ao
+[00:21:45,720 -> 00:21:47,720]  Cristiano, doutor?
+[00:21:47,720 -> 00:21:49,720]  Cristiano, salvo engano, não tinha
+[00:21:49,720 -> 00:21:51,720]  antecedentes criminais, não me recordo.
+[00:21:51,720 -> 00:21:53,720]  Na prisão do Cristiano ele
+[00:21:53,720 -> 00:21:55,720]  apresentou alguma resistência?
+[00:21:55,720 -> 00:21:57,720]  Não, ele desceu muito nervoso
+[00:21:57,720 -> 00:21:59,720]  da escada, mas
+[00:21:59,720 -> 00:22:01,720]  pode ser por causa do horário.
+[00:22:01,720 -> 00:22:03,720]  Foi muito cedo, mas não resistiu à prisão
+[00:22:03,720 -> 00:22:05,720]  não. Ele ficou se debatendo um bocado
+[00:22:05,720 -> 00:22:07,720]  e tudo, não acreditava, mas não houve
+[00:22:07,720 -> 00:22:09,720]  uma resistência digna de registro
+[00:22:09,720 -> 00:22:11,720]  policial.
+[00:22:11,720 -> 00:22:13,720]  Ok, muito obrigado, sem mais perguntas.
+[00:22:13,720 -> 00:22:15,720]  Ok, agora o advogado
+[00:22:15,720 -> 00:22:17,720]  do senhor Paulo Henrique.
+[00:22:19,720 -> 00:22:21,720]  Boa tarde, doutor.
+[00:22:21,720 -> 00:22:23,720]  Boa tarde, doutor.
+[00:22:25,720 -> 00:22:27,720]  Por relação ao Paulo Henrique,
+[00:22:27,720 -> 00:22:29,720]  você sabe de onde ele foi preso?
+[00:22:31,720 -> 00:22:33,720]  Paulo Henrique...
+[00:22:33,720 -> 00:22:35,720]  Paulo Henrique é o senhor que está preso.
+[00:22:35,720 -> 00:22:37,720]  Onde está preso?
+[00:22:37,720 -> 00:22:39,720]  Teve duas prisões que foram diferentes.
+[00:22:39,720 -> 00:22:41,720]  Paulo Henrique, eu não sei se era um motorista de bubre.
+[00:22:41,720 -> 00:22:43,720]  Não, não.
+[00:22:43,720 -> 00:22:45,720]  O da praia? Foi preso na praia.
+[00:22:45,720 -> 00:22:47,720]  Eu participei da prisão dele.
+[00:22:47,720 -> 00:22:49,720]  Foi preso na praia.
+[00:22:49,720 -> 00:22:51,720]  Se informasse que ele estava trabalhando na praia?
+[00:22:51,720 -> 00:22:53,720]  Estava aparentemente
+[00:22:53,720 -> 00:22:55,720]  vendendo alguma coisa na praia.
+[00:22:55,720 -> 00:22:57,720]  Só para constar.
+[00:22:57,720 -> 00:22:59,720]  Seu senhor sabe informar se
+[00:22:59,720 -> 00:23:01,720]  ele foi chamado em algum momento
+[00:23:01,720 -> 00:23:03,720]  no curso do inquérito para prestar depoimento na delegacia?
+[00:23:03,720 -> 00:23:05,720]  Eu não me recordo que
+[00:23:05,720 -> 00:23:07,720]  depois da segunda rodada de interceptação, quem assumiu
+[00:23:07,720 -> 00:23:09,720]  a presidência foi o doutor Nelson Esquiva.
+[00:23:09,720 -> 00:23:11,720]  Então eu não me recordo, definitivamente.
+[00:23:11,720 -> 00:23:13,720]  Ok, então.
+[00:23:13,720 -> 00:23:15,720]  Para consignar que ele foi chamado, mas eu pergunto
+[00:23:15,720 -> 00:23:17,720]  o doutor Nelson.
+[00:23:17,720 -> 00:23:19,720]  O doutor Nelson que está aguardando
+[00:23:19,720 -> 00:23:21,720]  no lobby para ser ouvido.
+[00:23:21,720 -> 00:23:23,720]  A última excelência.
+[00:23:23,720 -> 00:23:25,720]  Se informasse
+[00:23:25,720 -> 00:23:27,720]  sabe se ele confessou a
+[00:23:27,720 -> 00:23:29,720]  prática deletiva em algum momento?
+[00:23:29,720 -> 00:23:31,720]  O Paulo Henrique
+[00:23:31,720 -> 00:23:33,720]  se mostrou surpreso também.
+[00:23:33,720 -> 00:23:35,720]  E não sabia o que estava acontecendo.
+[00:23:35,720 -> 00:23:37,720]  Ele falou que não era envolvido
+[00:23:37,720 -> 00:23:39,720]  com tráfico de droga, nada disso.
+[00:23:39,720 -> 00:23:41,720]  Não admitiu a participação.
+[00:23:41,720 -> 00:23:43,720]  Sem mais perguntas, excelência.
+[00:23:43,720 -> 00:23:45,720]  Ok, agora o advogado
+[00:23:45,720 -> 00:23:47,720]  de Emerson Fernandes Aranis.
+[00:23:47,720 -> 00:23:49,720]  Boa tarde, excelência.
+[00:23:49,720 -> 00:23:51,720]  Boa tarde, senhor Rodrigo. Tudo bem?
+[00:23:51,720 -> 00:23:53,720]  Boa tarde, doutora.
+[00:23:53,720 -> 00:23:55,720]  O senhor sabe me dizer como cedeu a prisão do Emerson?
+[00:23:57,720 -> 00:23:59,720]  Não me recordo efetivamente
+[00:23:59,720 -> 00:24:01,720]  também, porque eu não participei da
+[00:24:01,720 -> 00:24:03,720]  prisão do Emerson.
+[00:24:03,720 -> 00:24:05,720]  O senhor sabe me dizer se ele
+[00:24:05,720 -> 00:24:07,720]  compareceu à delegacia para prestar
+[00:24:07,720 -> 00:24:09,720]  esclarecimentos?
+[00:24:09,720 -> 00:24:11,720]  Também como eu falei para o doutor Vinícius,
+[00:24:11,720 -> 00:24:13,720]  eu não me recordo porque
+[00:24:13,720 -> 00:24:15,720]  eu só participei do início da investigação.
+[00:24:15,720 -> 00:24:17,720]  Depois quem conduziu foi o doutor Nelson Esquiva.
+[00:24:17,720 -> 00:24:19,720]  O senhor consegue me
+[00:24:19,720 -> 00:24:21,720]  dizer em qual parte
+[00:24:21,720 -> 00:24:23,720]  dessas investigações apareceu
+[00:24:23,720 -> 00:24:25,720]  o nome dele?
+[00:24:25,720 -> 00:24:27,720]  Só vingando, o Emerson só apareceu para o final.
+[00:24:27,720 -> 00:24:29,720]  Embora não tivesse mais preso na investigação,
+[00:24:29,720 -> 00:24:31,720]  acabávamos trocando algumas
+[00:24:31,720 -> 00:24:33,720]  figurinhas sobre o trabalho.
+[00:24:33,720 -> 00:24:35,720]  Mas só vingando, o Emerson só apareceu
+[00:24:35,720 -> 00:24:37,720]  no final da investigação,
+[00:24:37,720 -> 00:24:39,720]  porque ele teria tido
+[00:24:39,720 -> 00:24:41,720]  um contato.
+[00:24:41,720 -> 00:24:43,720]  Um alvo ligou para ele ou ele ligou para um alvo
+[00:24:43,720 -> 00:24:45,720]  e ele admitiu que já tinha revidido a droga do Paulo Henrique,
+[00:24:45,720 -> 00:24:47,720]  salvo o engano, em outras oportunidades.
+[00:24:47,720 -> 00:24:49,720]  Ele admitiu que já teria.
+[00:24:49,720 -> 00:24:51,720]  Mas isso está bem materializado
+[00:24:51,720 -> 00:24:53,720]  no relatório do inquérito policial.
+[00:24:53,720 -> 00:24:55,720]  O senhor sabe me informar
+[00:24:55,720 -> 00:24:57,720]  se o telefone dele foi alvo
+[00:24:59,720 -> 00:25:01,720]  de intervenção?
+[00:25:01,720 -> 00:25:03,720]  Ele foi o último
+[00:25:03,720 -> 00:25:05,720]  pela conversa que eu tive,
+[00:25:05,720 -> 00:25:07,720]  pela troca de ideias que eu tive antes
+[00:25:07,720 -> 00:25:09,720]  com o Dr. Nelson Esquiva
+[00:25:09,720 -> 00:25:11,720]  antes de deflagrar a operação.
+[00:25:11,720 -> 00:25:13,720]  Só vingando, ele não foi o telefone dele,
+[00:25:13,720 -> 00:25:15,720]  não foi alvo da interceptação,
+[00:25:15,720 -> 00:25:17,720]  mas ele fez contato com alguém
+[00:25:17,720 -> 00:25:19,720]  ou alguém fez contato com ele
+[00:25:19,720 -> 00:25:21,720]  e nesse contato ficou provado
+[00:25:21,720 -> 00:25:23,720]  que eles tinham essa ligação
+[00:25:23,720 -> 00:25:25,720]  do tráfego de drogas.
+[00:25:25,720 -> 00:25:27,720]  Se ele foi o último realmente, eu gostaria de ressalvar.
+[00:25:27,720 -> 00:25:29,720]  O senhor sabe me dizer se ele ofereceu algum tipo
+[00:25:29,720 -> 00:25:31,720]  de resistência?
+[00:25:31,720 -> 00:25:33,720]  Como eu falei, eu não participei da prisão dele.
+[00:25:33,720 -> 00:25:35,720]  Mas pelo que nós vimos na delegacia,
+[00:25:35,720 -> 00:25:37,720]  nenhum dos alvos apresenta...
+[00:25:37,720 -> 00:25:39,720]  nenhum dos que foram presos naquele dia,
+[00:25:39,720 -> 00:25:41,720]  que nem todos foram presos no mesmo dia,
+[00:25:41,720 -> 00:25:43,720]  apresentou resistência digna de registro de ocorrência.
+[00:25:43,720 -> 00:25:45,720]  Sem mais excelência.
+[00:25:45,720 -> 00:25:47,720]  Finalmente, é o Dr.
+[00:25:47,720 -> 00:25:49,720]  César.
+[00:25:49,720 -> 00:25:51,720]  Dr. César, o senhor é bem paciente.
+[00:25:51,720 -> 00:25:53,720]  O senhor foi o único que não ficou nervoso.
+[00:25:53,720 -> 00:25:55,720]  Pode indagar e é o último.
+[00:25:57,720 -> 00:25:59,720]  Boa tarde, doutor, tudo bem?
+[00:25:59,720 -> 00:26:01,720]  Boa tarde, doutor.
+[00:26:01,720 -> 00:26:03,720]  Doutor,
+[00:26:03,720 -> 00:26:05,720]  eu poderia identificar qual a participação
+[00:26:05,720 -> 00:26:07,720]  do acusado Juliano Lucas Nunes?
+[00:26:09,720 -> 00:26:11,720]  Juliano,
+[00:26:11,720 -> 00:26:13,720]  me parece que a participação dele ele falava
+[00:26:13,720 -> 00:26:15,720]  com as pessoas para captar
+[00:26:15,720 -> 00:26:17,720]  clientes.
+[00:26:17,720 -> 00:26:19,720]  Perguntavam quem queria o quê.
+[00:26:19,720 -> 00:26:21,720]  E ele,
+[00:26:21,720 -> 00:26:23,720]  salvo enganos, Juliano era que usava
+[00:26:23,720 -> 00:26:25,720]  o telefone em nome de terceiro.
+[00:26:25,720 -> 00:26:27,720]  Em nome de uma moça
+[00:26:27,720 -> 00:26:29,720]  que vem a ser o parente, a amiga deles.
+[00:26:29,720 -> 00:26:31,720]  E ele captava
+[00:26:31,720 -> 00:26:33,720]  cliente.
+[00:26:33,720 -> 00:26:35,720]  Aí deu uma dificuldade porque a voz era de homem.
+[00:26:35,720 -> 00:26:37,720]  Isso foi no final da recepção.
+[00:26:37,720 -> 00:26:39,720]  Eu estou falando que foi
+[00:26:39,720 -> 00:26:41,720]  trocado figurinha
+[00:26:41,720 -> 00:26:43,720]  com os participantes.
+[00:26:43,720 -> 00:26:45,720]  Porque na época eu era o deputado da delegacia.
+[00:26:45,720 -> 00:26:47,720]  Tinha que saber o que estava acontecendo na delegacia.
+[00:26:47,720 -> 00:26:49,720]  Era meu dever.
+[00:26:49,720 -> 00:26:51,720]  Então, a informação que eu tenho
+[00:26:51,720 -> 00:26:53,720]  era essa.
+[00:26:53,720 -> 00:26:55,720]  Que ele captava cliente e uma ligação.
+[00:26:55,720 -> 00:26:57,720]  Um cliente pediu a ele uma droga.
+[00:26:57,720 -> 00:26:59,720]  Essa foi a participação dele.
+[00:26:59,720 -> 00:27:01,720]  Então, a intervenção
+[00:27:01,720 -> 00:27:03,720]  do telefone que o Juliano
+[00:27:03,720 -> 00:27:05,720]  utilizava foi só na
+[00:27:05,720 -> 00:27:07,720]  última rodada? Seria isso?
+[00:27:07,720 -> 00:27:09,720]  Foi a partir da segunda.
+[00:27:09,720 -> 00:27:11,720]  A partir da segunda rodada.
+[00:27:11,720 -> 00:27:13,720]  Sem mais perguntas, senhora.
+[00:27:13,720 -> 00:27:15,720]  Ok. Deixa-me ver se
+[00:27:15,720 -> 00:27:17,720]  eu tenho alguma, doutor.
+[00:27:29,720 -> 00:27:31,720]  Doutor, muito obrigada.
+[00:27:31,720 -> 00:27:33,720]  Não tenho, não.
+[00:27:33,720 -> 00:27:35,720]  Agradeço. Desculpe a demora
+[00:27:35,720 -> 00:27:37,720]  mais uma vez, mas a primeira demorou
+[00:27:37,720 -> 00:27:39,720]  muitíssimo, tá?
+[00:27:39,720 -> 00:27:41,720]  Para começarmos.
+[00:27:41,720 -> 00:27:43,720]  Inclusive,
+[00:27:43,720 -> 00:27:45,720]  a primeira demorou muito.
+[00:27:45,720 -> 00:27:47,720]  A primeira demorou muito.
+[00:27:47,720 -> 00:27:49,720]  A primeira demorou muito.
+[00:27:49,720 -> 00:27:51,720]  A primeira demorou muito.
+[00:27:51,720 -> 00:27:53,720]  A primeira demorou muito.
+[00:27:53,720 -> 00:27:55,720]  A primeira demorou muito.
+[00:27:55,720 -> 00:27:57,720]  A primeira demorou muito.
+[00:27:57,720 -> 00:27:59,720]  Para começarmos, inclusive.
+[00:27:59,720 -> 00:28:01,720]  O pessoal não está acostumado
+[00:28:01,720 -> 00:28:03,720]  com esse método e aí é tão
+[00:28:03,720 -> 00:28:05,720]  prático, mas as pessoas ainda não estão acostumadas.
+[00:28:05,720 -> 00:28:07,720]  Então eu agradeço.
+[00:28:07,720 -> 00:28:09,720]  Eu só precisava que o senhor me desse
+[00:28:09,720 -> 00:28:11,720]  a sua matrícula,
+[00:28:11,720 -> 00:28:13,720]  por favor. O senhor é delegado de polícia,
+[00:28:13,720 -> 00:28:15,720]  né? O senhor é da 119?
+[00:28:15,720 -> 00:28:17,720]  Hoje eu estou titulado a 119DP, Rio Bonito.
+[00:28:17,720 -> 00:28:19,720]  Sou delegado de polícia.
+[00:28:19,720 -> 00:28:21,720]  O ID funcional 5023
+[00:28:21,720 -> 00:28:23,720]  1251.
+[00:28:23,720 -> 00:28:25,720]  Recapitulando.
+[00:28:25,720 -> 00:28:27,720]  Recapitulando. 5023
+[00:28:27,720 -> 00:28:29,720]  1251. Essa é a sua matrícula,
+[00:28:29,720 -> 00:28:31,720]  não é isso? Isso, é o ID funcional.
+[00:28:31,720 -> 00:28:33,720]  Agora mudou, não tem matrícula.
+[00:28:33,720 -> 00:28:35,720]  Ah, é o ID funcional agora?
+[00:28:35,720 -> 00:28:37,720]  Ah, mas eu estou do tempo do ONSA mesmo.
+[00:28:37,720 -> 00:28:39,720]  Mas só usa o ID funcional agora.
+[00:28:39,720 -> 00:28:41,720]  Existe até uma matrícula, mas
+[00:28:41,720 -> 00:28:43,720]  dificilmente as pessoas lembram,
+[00:28:43,720 -> 00:28:45,720]  porque todas as publicações se referem agora ao ID funcional.
+[00:28:45,720 -> 00:28:47,720]  Ah, tá.
+[00:28:47,720 -> 00:28:49,720]  Muito obrigada pela atualização, inclusive.
+[00:28:49,720 -> 00:28:51,720]  Eu estou do tempo do ONSA.
+[00:28:51,720 -> 00:28:53,720]  Também já sou bem
+[00:28:53,720 -> 00:28:55,720]  reconhecida, né?
+[00:28:55,720 -> 00:28:57,720]  Eu vou fazer 21 anos de magistratura.
+[00:28:57,720 -> 00:28:59,720]  Eu sou da matrícula.
+[00:28:59,720 -> 00:29:01,720]  Não sei nem como é que eu realizo a audiência virtual.
+[00:29:01,720 -> 00:29:03,720]  Muito obrigada.
+[00:29:03,720 -> 00:29:05,720]  Muito obrigado. Boa tarde, doutora Renata.
+[00:29:05,720 -> 00:29:07,720]  Boa tarde, doutores.
+[00:29:07,720 -> 00:29:09,720]  Bom trabalho a todos.
+[00:29:09,720 -> 00:29:11,720]  Tudo de bom.
+[00:29:11,720 -> 00:29:13,720]  Agora o senhor Nelson esquiva e depois
+[00:29:13,720 -> 00:29:15,720]  vamos ter que captar de novo
+[00:29:15,720 -> 00:29:17,720]  o senhor Rodrigo, porque ele sumiu.
+[00:29:17,720 -> 00:29:19,720]  O outro Rodrigo.
+[00:29:19,720 -> 00:29:21,720]  Doutor Nelson, por favor,
+[00:29:21,720 -> 00:29:23,720]  se você puder disponibilizar a imagem
+[00:29:23,720 -> 00:29:25,720]  e o som pra nós,
+[00:29:25,720 -> 00:29:27,720]  agradeço.
+[00:29:31,720 -> 00:29:33,720]  Oi.
+[00:29:33,720 -> 00:29:35,720]  Vai na banheira aqui ou tem que ir lá fora?
+[00:29:35,720 -> 00:29:37,720]  Aqui.
+[00:29:43,720 -> 00:29:45,720]  Doutor Nelson.
+[00:29:45,720 -> 00:29:47,720]  Doutor Nelson.
+[00:29:47,720 -> 00:29:49,720]  Ai, o senhor está bem atrás de mim.
+[00:29:49,720 -> 00:29:51,720]  Eu vou ter que sair
+[00:29:51,720 -> 00:29:53,720]  e entrar de novo, porque o senhor está
+[00:29:53,720 -> 00:29:55,720]  atrás do meu quadradinho e eu preciso
+[00:29:55,720 -> 00:29:57,720]  ver o senhor declarando.
+[00:29:57,720 -> 00:29:59,720]  Só um minuto, vou sair, vou entrar imediatamente
+[00:29:59,720 -> 00:30:01,720]  só pra dar uma... Ah não, já sei.
+[00:30:01,720 -> 00:30:03,720]  Eu vou fixar o senhor que aí eu não
+[00:30:03,720 -> 00:30:05,720]  preciso fazer isso.
+[00:30:05,720 -> 00:30:07,720]  Pronto, agora eu estou vendo o senhor
+[00:30:07,720 -> 00:30:09,720]  bem. O senhor está é sem
+[00:30:09,720 -> 00:30:11,720]  sol. O senhor está sem
+[00:30:11,720 -> 00:30:13,720]  som.
+[00:30:13,720 -> 00:30:15,720]  O senhor tem que clicar
+[00:30:15,720 -> 00:30:17,720]  no microfonezinho pra tirar
+[00:30:17,720 -> 00:30:19,720]  o tracinho. Se tiver tido algum problema,
+[00:30:19,720 -> 00:30:21,720]  o senhor sai e entra
+[00:30:21,720 -> 00:30:23,720]  outra vez.
+[00:30:23,720 -> 00:30:25,720]  O microfone fica
+[00:30:25,720 -> 00:30:27,720]  em cima assim, naquela barra em
+[00:30:27,720 -> 00:30:29,720]  cima. Tem a câmera e tem
+[00:30:29,720 -> 00:30:31,720]  o microfonezinho. Então se ele tiver
+[00:30:31,720 -> 00:30:33,720]  com o tracinho...
+[00:30:35,720 -> 00:30:37,720]  Está sem som
+[00:30:37,720 -> 00:30:39,720]  ainda.
+[00:30:43,720 -> 00:30:45,720]  Se o senhor
+[00:30:45,720 -> 00:30:47,720]  tiver dificuldade, o senhor
+[00:30:47,720 -> 00:30:49,720]  sai e entra outra vez no link.
+[00:30:49,720 -> 00:30:51,720]  Sai lá no vermelhinho,
+[00:30:51,720 -> 00:30:53,720]  sai e volta.
+[00:30:55,720 -> 00:30:57,720]  Não está me ouvindo? Não está?
+[00:30:59,720 -> 00:31:01,720]  Não consegue falar.
+[00:31:01,720 -> 00:31:03,720]  Então, o senhor sai
+[00:31:03,720 -> 00:31:05,720]  e entra outra vez.
+[00:31:05,720 -> 00:31:07,720]  Às vezes dá um defeitinho e
+[00:31:07,720 -> 00:31:09,720]  corrige na saída.
+[00:31:13,720 -> 00:31:15,720]  É isso aí.
+[00:31:29,720 -> 00:31:31,720]  Obrigado!
+[00:31:35,720 -> 00:31:37,720]  Onde ele não está indo?
+[00:31:37,720 -> 00:31:39,720]  Ele está indo saindo.
+[00:31:39,720 -> 00:31:41,720]  E aí, quando ele entrar
+[00:32:11,720 -> 00:32:19,720]  Eu vou excluí-lo, então, que é para poder entrar de novo, tá?
+[00:32:19,720 -> 00:32:20,720]  Ok.
+[00:32:21,720 -> 00:32:26,720]  Eu vou excluí-lo, então, que é para poder entrar de novo, tá?
+[00:32:26,720 -> 00:32:27,720]  Ok.
+[00:32:50,720 -> 00:33:12,720]  Boa tarde, doutor Nelson, agora está me ouvindo e está conseguindo falar?
+[00:33:12,720 -> 00:33:14,720]  Eu estou ouvindo, está me ouvindo?
+[00:33:14,720 -> 00:33:17,720]  Estamos, viu como é que é só sair e entrar de novo?
+[00:33:17,720 -> 00:33:19,720]  É assim, está vendo?
+[00:33:19,720 -> 00:33:29,720]  Doutor Nelson, agora que eu fui atualizada pelo seu colega, que os senhores não têm mais matrícula, agora o senhor tem ID, o senhor pode me fornecer o seu ID?
+[00:33:29,720 -> 00:33:32,720]  Eu não sei o meu ID, doutora, eu só uso a minha matrícula.
+[00:33:32,720 -> 00:33:37,720]  Ah, então o senhor é do meu tempo, então o senhor pode me dar sua matrícula.
+[00:33:37,720 -> 00:33:40,720]  O problema é esse, doutor Rodrigo não tem matrícula, eu tenho.
+[00:33:40,720 -> 00:33:41,720]  Ah, tá bom.
+[00:33:41,720 -> 00:33:47,720]  Eu tenho matrícula, é 860-955-4.
+[00:33:47,720 -> 00:33:49,720]  4, ok.
+[00:33:49,720 -> 00:33:58,720]  Doutor, o senhor está sobre compromissos e a verdade, o senhor apenas responde criminalmente por falsos testemunhos, esclareça ao senhor que os acusados não estão presentes salvo o senhor Paulo Henrique.
+[00:33:58,720 -> 00:34:08,720]  Porque a SEAP não conseguiu apresentá-los, fez uma confusão danada e as defesas técnicas não se opuseram que colhesse a prova sem a presença deles.
+[00:34:08,720 -> 00:34:13,720]  Então só o senhor Paulo Henrique se encontra presente que está escrito ali José Henrique, inclusive.
+[00:34:13,720 -> 00:34:23,720]  Eu pergunto, mas eu vou ler os nomes dos acusados e eu pergunto ao senhor se sopia algum problema pessoal com quaisquer dessas pessoas, tá?
+[00:34:23,720 -> 00:34:29,720]  Bom, seria o nome dela.
+[00:34:29,720 -> 00:34:33,720]  O senhor Julio Pereira Marcos, supostamente vulgo Julião.
+[00:34:33,720 -> 00:34:35,720]  O senhor José Guilherme da Costa Freire.
+[00:34:35,720 -> 00:34:37,720]  O senhor Cristiano Pereira Marcos.
+[00:34:37,720 -> 00:34:44,720]  O senhor Paulo Henrique da Silva Bento, supostamente vulgo Paulinho, que é justamente a única pessoa presente.
+[00:34:44,720 -> 00:34:47,720]  O senhor Emerson Fernandes Anamias.
+[00:34:47,720 -> 00:34:49,720]  O senhor Rodrigo Duarte de Sousa.
+[00:34:49,720 -> 00:34:52,720]  O senhor Juliano Nunes, supostamente vulgo Lucas.
+[00:34:52,720 -> 00:34:54,720]  O senhor tem algum problema pessoal com algum desses?
+[00:34:54,720 -> 00:34:58,720]  Não, não. Eu não conhecia antes da investigação.
+[00:34:58,720 -> 00:35:11,720]  Ok, então o que vai indagar diretamente o senhor vai ser primeiramente a doutora Renata e depois na ordem que eu li, salvo que Rodrigo não se encontra nesse processo foi desmembrado.
+[00:35:11,720 -> 00:35:14,720]  E também Julio Pereira também foi desmembrado.
+[00:35:14,720 -> 00:35:20,720]  Então a partir do advogado de José Guilherme é que vão sendo as pessoas a indagar o senhor.
+[00:35:20,720 -> 00:35:23,720]  E se for o caso eu farei alguma pergunta complementar ao final.
+[00:35:23,720 -> 00:35:27,720]  Doutora Renata querendo pode indagar o doutor Nelson.
+[00:35:28,720 -> 00:35:30,720]  Boa tarde doutor Nelson, tudo bom?
+[00:35:30,720 -> 00:35:32,720]  Boa tarde.
+[00:35:32,720 -> 00:35:38,720]  O senhor participou das investigações relacionadas à Operação Delivery a partir de que momento?
+[00:35:38,720 -> 00:35:42,720]  Foi desde o início ou foi já durante as rodadas da intercepção telefônica?
+[00:35:42,720 -> 00:35:55,720]  Bom, eu conheci o assunto da delegacia por conversas com o doutor Rodrigo, mas a presidência do inquérito passou pra mim, se não me engano, a partir da quarta rodada de
+[00:35:56,720 -> 00:36:05,720]  Na verdade eu já sumi na terceira rodada, mas eu fiz a representação da quarta rodada por causa das férias do doutor Rodrigo.
+[00:36:05,720 -> 00:36:17,720]  Entendi. Então o senhor pode primeiro esclarecer pra gente mais ou menos como que funcionava a atuação dos réus nessa associação deles pro tráfico de drogas?
+[00:36:17,720 -> 00:36:21,720]  Como que eles agiam de uma forma geral, como grupo?
+[00:36:21,720 -> 00:36:34,720]  Sim doutora, é o seguinte, inicialmente os policiais militares aqui do município, acho que com alguma denúncia, alguma suspeita sobre uma motocicleta que estava estacionada numa residência,
+[00:36:34,720 -> 00:36:47,720]  eles chamaram o proprietário da motocicleta e em conversa esse proprietário da motocicleta admitiu que tinha drogas dentro de casa, algo em torno de 280 gramas de maconha.
+[00:36:47,720 -> 00:37:04,720]  Aí os policiais conduziram a delegacia, quem apreciou o fato foi o doutor Rodrigo e ele entendeu na ocasião que a alegação do conduzido seria de que era pra uso próprio, fazia sentido e demandava maiores investigações.
+[00:37:04,720 -> 00:37:20,720]  Aí ele acho que só ficou no artigo 28 e deu início a uma inquieto pra investigar o fato como um todo porque o conduzido que possuía essa quantidade de maconha indicou o telefone do suposto traficante que teria fornecido pra ele.
+[00:37:20,720 -> 00:37:35,720]  Aí o telefone desse suposto traficante e do conduzido foram interceptados, houve representação daquele afastamento do sigilo do fluxo das comunicações e aí passaram a serem ouvidos.
+[00:37:35,720 -> 00:37:59,720]  E na sequência foram se estabelecendo de maneira bem clara, esse conduzido espiritual e esse suposto vendedor de drogas pra ele tinham várias conexões em Búzios, praticamente limitado ao centro de Búzios, o ponto de venda deles era o foco maior no centro de Búzios.
+[00:37:59,720 -> 00:38:08,720]  Sempre usando, ficou claro que eles usavam prioritariamente o WhatsApp e que a linha telefônica era de uso secundário.
+[00:38:08,720 -> 00:38:25,720]  Então assim, desses dois telefones iniciais começaram as conversas com outras pessoas, a operação foi sendo expandida, as interceptações foram sendo prorrogadas, as que já tinham o número definido e os novos números foram sendo expandidos.
+[00:38:25,720 -> 00:38:40,720]  Até o ponto que chegou no final que não mais progredia essa expansão de pessoas envolvidas, mas a cada rodada de interceptação todos eles, todas as conversas deles, quem produziu o relatório final foi eu.
+[00:38:40,720 -> 00:38:58,720]  Então a cada rodada ficou muito claro que todos eles de alguma forma tinham vínculo entre si, até no meu relatório, no final do relatório eu faço uma menção, quem era vinculado a quem, porque embora todos se conheciam, porque Búzios é pequeno, o centro de Búzios é pequeno,
+[00:38:58,720 -> 00:39:06,720]  para todos se conhecessem era mais fácil de perceber quem era mais ligado a quem, quem pegava droga de quem, quem repassava droga para quem.
+[00:39:06,720 -> 00:39:21,720]  E assim, ficou muito claro na investigação a forma que eles vendiam, a forma velada que eles falavam sobre drogas, quando os compradores entravam em contato via telefonema,
+[00:39:21,720 -> 00:39:32,720]  eles automaticamente pediam para que a conversa fosse transferida pelo WhatsApp, sabedores da dificuldade técnica que a polícia tem com relação a conseguir essas informações.
+[00:39:32,720 -> 00:39:49,720]  Então assim, esse foi o andar da investigação, foi muito claro. Todos eles claramente conversavam entre si, alguns mais próximos ao outro, porque tinha o Cristiano, o Juliano Irmãos, outros eram amigos mais próximos.
+[00:39:49,720 -> 00:40:01,720]  Então assim, ficou muito claro, só que eu tenho como método de trabalho, quando eu vou relatar um método de tráfico desse, desse tipo, dessa forma de investigação, de interceptação,
+[00:40:01,720 -> 00:40:16,720]  eu faço questão de intimar os alvos para que eles saibam da investigação. Eu intimei todos os alvos da investigação, dois faltaram, os irmãos, os irmãos Cristiano e Julio faltaram,
+[00:40:16,720 -> 00:40:24,720]  mas foram intimados, inclusive eu falei pessoalmente com a mãe deles, eles estavam do lado, sabiam que estavam sendo intimados, e os outros foram para a delegacia,
+[00:40:24,720 -> 00:40:38,720]  e eles tomaram conhecimento de que estavam sendo investigados pelo tráfico de drogas, e eu perguntei se conhecia um, conhecia outro, com um pouco de reticências, um ou outro dos indiciados e agora réus,
+[00:40:38,720 -> 00:40:49,720]  todos admitiram que se conheciam, todos admitiram, só um que admitiu que realmente traficava, os demais admitiram que consumiam drogas, e na verdade, pela investigação,
+[00:40:49,720 -> 00:41:02,720]  a gente percebe que são consumidores de drogas, todos eles são consumidores de drogas e vendem também, e percebe-se na investigação que às vezes um deles está sem droga,
+[00:41:02,720 -> 00:41:14,720]  procura outro para conseguir um pouco de drogas, aquele outro que está aqui num primeiro momento e forneceu pode vir a comprar do primeiro, porque tudo depende de quem possuía droga no momento,
+[00:41:14,720 -> 00:41:27,720]  o que fica mais claro é que o Julio era uma peça central, o Julio tinha conexões fora de Búzios, então ele tinha conexões mais estabilizadas com traficantes de outras localidades,
+[00:41:28,720 -> 00:41:41,720]  então em linhas gerais é isso, claro que a conduta hormenalizada de cada um deles é bem longa, no meu relatório eu faço o relatório final,
+[00:41:41,720 -> 00:41:52,720]  eu faço menção a cada um, a cada uma das condutas de cada um deles que visivelmente se trata de comercialização de mercancias de drogas.
+[00:41:53,720 -> 00:42:07,720]  Ao longo das investigações, como que vocês fizeram para qualificar os interlocutores, quem eram as pessoas que estavam se comunicando ali para poder qualificar quem era a pessoa que efetivamente estava se comunicando em atos de tráfico?
+[00:42:08,720 -> 00:42:21,720]  Adiantando um pouco a resposta, como todos foram convocados a comparecer na delegacia para serem ouvidos, com exceção do Cristiano e do Juliano que foram chamados e não vieram,
+[00:42:21,720 -> 00:42:31,720]  eles admitiram pessoalmente durante a oitiva que eu fiz de todos eles, eu que fiz as oitivas, eles admitiram que aquelas linhas telefônicas que estavam interceptadas,
+[00:42:31,720 -> 00:42:38,720]  eles já tinham até uma noção de que era interceptação, porque como eles estavam sendo ouvidos e como a investigação já estava pronta,
+[00:42:38,720 -> 00:42:42,720]  eu não me preocupei em omitir deles que eu sabia de algumas coisas,
+[00:42:42,720 -> 00:42:50,720]  então quem era um pouco mais apto a entender a situação já percebeu que estava interceptado,
+[00:42:50,720 -> 00:42:58,720]  então com exceção dos que faltaram nas oitivas, os demais admitiram que a linha interceptada era de um judeu,
+[00:42:58,720 -> 00:43:08,720]  então assim não havia qualquer dúvida, quanto aos dois que não foram, que não foram, não compareceram a delegacia produtiva nos dois irmãos,
+[00:43:08,720 -> 00:43:14,720]  um deles foi preso na operação, o outro irmão na época ficou foragido,
+[00:43:14,720 -> 00:43:21,720]  Cristiano e o Julio que você está mencionando, o senhor está falando do Cristiano e do Julio que não foram na delegacia,
+[00:43:21,720 -> 00:43:30,720]  só os dois, os demais foram na delegacia e admitiram que eram os usuários daquelas linhas, então zero dúvida com relação a isso,
+[00:43:30,720 -> 00:43:41,720]  embora também já houvesse pesquisas que a gente fez através do Banco de Dados Credlink e através de quebra de sigilo das operadoras,
+[00:43:41,720 -> 00:43:53,720]  então assim, salvo engano, mas eu tenho praticamente certeza, o tanto o Cristiano quanto o Julio, o telefone se encontrava no nome deles no Credlink,
+[00:43:53,720 -> 00:44:02,720]  nesse Banco de Dados Credlink que é um banco de proteção ao crédito, então ele se serve de informações não só policiais,
+[00:44:02,720 -> 00:44:08,720]  informações de empresas, de comércio e das próprias operadoras de telefonia, então com essas informações,
+[00:44:08,720 -> 00:44:14,720]  tanto que inicialmente eu sabia que era um Cristiano e eu sabia que era um Julio, eu não sabia que eles eram irmãos,
+[00:44:14,720 -> 00:44:23,720]  eu fui descobrir que eles eram irmãos porque eu liguei para a mãe de um deles, o que acontece, eu mandei inicialmente um WhatsApp para o Cristiano,
+[00:44:23,720 -> 00:44:32,720]  ele leu o WhatsApp e me bloqueou, aí eu mandei um WhatsApp para o Julio, ele leu e me bloqueou, o Julio salvo engano continuou com a linha,
+[00:44:32,720 -> 00:44:40,720]  o Cristiano continuou com a linha, o Julio extinguiu aquela linha, parou de usar aquela linha, porque eu falei que era da polícia,
+[00:44:40,720 -> 00:44:49,720]  que eu queria confirmar se ele era ele, aí eu pesquisei a mãe do Cristiano, eu encontrei o telefone dela, quando eu liguei e falei com a mãe do Cristiano,
+[00:44:49,720 -> 00:44:58,720]  ela estava com o Cristiano do lado, eu falei então avisa seu filho, ele já foi intimado, ele já me bloqueou o WhatsApp, é importante que ele vá à delegacia,
+[00:44:58,720 -> 00:45:05,720]  eu ouvia ela falando Cristiano, tem que ir ao delegado Nelson para falar para você ver, beleza, aí quando eu fui ligar para a mãe do Julio,
+[00:45:05,720 -> 00:45:12,720]  eu vi que era a mesma pessoa, ali que eu percebi que era um irmão, até então a gente não sabia, dá para perceber pelos nomes,
+[00:45:12,720 -> 00:45:19,720]  mas eu estava focado no primeiro nome, não sobre o nome deles, que era o nome que eles falavam pelas interceptações, Julio, Julião, Cristiano,
+[00:45:19,720 -> 00:45:27,720]  então assim, ficou muito claro, tinha, existia a consulta do Confino Online já indicando que o telefone do Julio e do Cristiano
+[00:45:27,720 -> 00:45:35,720]  estava cadastrado no nome deles, não quer dizer que eles usassem, mas estava cadastrado, assim que eu entrei em contato,
+[00:45:35,720 -> 00:45:45,720]  ambos me bloquearam e um deles destruiu o chip, não deu mais contato, e quando eu falei com a mãe, a mãe confirmou que aqueles dois telefones eram dos dois,
+[00:45:45,720 -> 00:45:52,720]  então assim, a exceção desses dois os demais admitiram pessoalmente, com esses dois a própria mãe deles admitiu
+[00:45:52,720 -> 00:46:00,720]  e eu consegui contato com eles pela mãe, então assim, não havia dúvida alguma durante a investigação de que todos os intelectores
+[00:46:00,720 -> 00:46:09,720]  estavam identificados e além da identificação devidamente vinculados a cada uma das linhas que estavam sendo interceptadas.
+[00:46:10,720 -> 00:46:22,720]  O senhor mencionou sobre a conduta de cada um deles, eu sei que está no relatório, mas o senhor se recorda em linhas gerais da conduta individualizada de cada um deles,
+[00:46:22,720 -> 00:46:31,720]  assim, hoje essa audiência não é relacionada nem ao Julio nem ao Rodrigo que foi desmembrado, mas aos demais, com relação aos demais, o senhor se recorda?
+[00:46:31,720 -> 00:46:35,720]  Sim, eu até tenho aqui aberto o meu relatório final.
+[00:46:35,720 -> 00:46:45,720]  Eu posso ir passando aqui e aí eu vou perguntando para o senhor em linhas gerais individualmente de cada um e aí o senhor me fala o que o senhor se recorda da forma de atuação de cada um, pode ser?
+[00:46:45,720 -> 00:46:46,720]  Sim.
+[00:46:46,720 -> 00:47:02,720]  Primeiro eu vou seguir a ordem da denúncia até para os advogados para facilitar para acompanhar, primeiro é o José Guilherme da Costa Freire, como se dava a atuação dele?
+[00:47:02,720 -> 00:47:08,720]  O José Guilherme foi o primeiro, se não me engano, foi o que foi encontrado com 280 gramas de macon.
+[00:47:08,720 -> 00:47:26,720]  Ele na primeira rodada, ele a partir da segunda rodada ficou mais incisivo o comportamento dele, mas mesmo no começo ele fala, ele fala que ele escondia a droga no pelado da casa dele,
+[00:47:26,720 -> 00:47:44,720]  ele interage com outras pessoas dizendo que as pessoas ligam pedindo bulioba e o Guilherme, ele é de todos os indiciados agora réus, ele era o que tinha maior preocupação em estar sendo gravado, em estar interceptado,
+[00:47:44,720 -> 00:48:01,720]  ele a todo momento, qualquer pessoa que ligava para ele falava de bulioba, porque os termos que eles usavam eram bulioba, teve um dos interruptores que usou várias vezes o termo que queria comprar uma camiseta lacoste verdinha,
+[00:48:01,720 -> 00:48:11,720]  então assim, ele não vende, a gente sabe que ele não vende camiseta lacoste, então ele tem na verdade a camiseta lacoste verdinha era um indicativo do que a pessoa queria,
+[00:48:11,720 -> 00:48:31,720]  bulioba é, eles falam muitas palavras ao contrário, bulioba é bagulho, então eles falam bulioba ao contrário, dinheiro ao contrário, telefone ao contrário, celular ao contrário, então assim, o Guilherme desde a primeira rodada já se indicava, mas faltava alguma coisa incisiva,
+[00:48:32,720 -> 00:48:47,720]  surgiram diversas conversas dele, pessoas pedindo bulioba, ele dizendo que ia entregar e ele sempre preocupado, não fala pelo telefone, esse tipo de coisa, e aí a conversa parava e provavelmente continuava pelo whatsapp, então saia do nosso radar,
+[00:48:47,720 -> 00:49:02,720]  e mais a frente fica bem caracterizada o vínculo do Guilherme com o Júlio, ele disse principalmente que o Júlio era o traficante que vendia para ele usar, mas na verdade o Júlio era o traficante que vendia para ele vender,
+[00:49:02,720 -> 00:49:10,720]  então assim, então o Júlio era o fornecedor do José Guilherme?
+[00:49:10,720 -> 00:49:39,720]  Sim, sim, isso foi a primeira declaração do José Guilherme, ele já começa a declaração dele, quando ele foi convidado da delegacia, dizendo que quem fornecia para ele era o proprietário do telefone Tau, agora eu me recordo de cabeça o número, mas esse número já era vinculado ao Júlio, então desde o primeiro momento quando ele fala, eu comprei essa droga de um traficante, o telefone dele é Tau, quando ele fala esse telefone e a gente quebra o sigilo é o Júlio,
+[00:49:40,720 -> 00:49:46,720]  entendi, entendi, então ele tinha um contato bem direto com o Júlio mesmo, né, o José Guilherme?
+[00:49:46,720 -> 00:50:13,720]  Sim, sim, encontraram o próximo e evidente que o Júlio era fornecedor dele, mas fornecedor em quantidade, é porque assim a gente não pode perder de vista que aqui em Búzio o tráfico de drogas, esses traficantes são usuários, eles usam a droga, então eles compram a droga em quantidade maior, usam uma parte, revende uma parte,
+[00:50:13,720 -> 00:50:32,720]  um deles pede para o outro fornecedor entregar para ele, mas ele ia repassar para uma senhora e ia cobrar 100 reais de lucro, então assim, é uma relação de usuários que também vendem drogas.
+[00:50:32,720 -> 00:50:57,720]  Eu acho que tem algum sinal, doutor, eu acho que tem algum sinal que estava interferindo aqui, acho que voltou, tá, com relação ao Cristiano agora, o senhor já mencionou que o irmão do Júlio, que essa questão que ele nos apresentou na delegacia,
+[00:50:57,720 -> 00:51:05,720]  mas a atuação dele ao longo das interceptações, como que ela foi verificada? Como que ele atuava?
+[00:51:05,720 -> 00:51:06,720]  O Júlio.
+[00:51:06,720 -> 00:51:07,720]  O Cristiano.
+[00:51:07,720 -> 00:51:24,720]  Cristiano, eu vou só pedir licença para abrir aqui o meu relatório, só para me recordar de algumas coisas com relação a cada um deles, e aí eu posso, além de me recordar, aprofundar sobre cada um.
+[00:51:24,720 -> 00:51:35,720]  Bom, o Júlio, ele... desculpa, era o Cristiano, não é?
+[00:51:35,720 -> 00:51:36,720]  É o Cristiano.
+[00:51:36,720 -> 00:51:39,720]  É o Cristiano, mentira, mentira.
+[00:51:39,720 -> 00:51:47,720]  Não tinha uma vinculação do Júlio ao irmão, tanto que eu fui descobrir mais tarde quem era o irmão.
+[00:51:47,720 -> 00:51:53,720]  O Júlio estava conversando com outras pessoas.
+[00:51:53,720 -> 00:52:07,720]  O Júlio, ele conversava com outras pessoas, ele fornecia para várias... eu não me recordo agora, só vou abrir aqui que eu fiz a separação de cada um deles, com quem ele interagia.
+[00:52:07,720 -> 00:52:13,720]  O José Guilherme, ele interagia com os únicos...
+[00:52:13,720 -> 00:52:27,720]  Pabllo, eu acho que é o de vocês que está dando interferência aqui, a gente não está conseguindo... tá.
+[00:52:27,720 -> 00:52:33,720]  Ele era vinculado ao Emerson, ao José e ao Júlio.
+[00:52:33,720 -> 00:52:38,720]  Ele repetia a conduta de cada um, porque não saiu aqui para a gente desde o GZN Lab?
+[00:52:38,720 -> 00:52:42,720]  Desculpa, de quem está falando?
+[00:52:43,720 -> 00:52:45,720]  Bom, o José Guilherme.
+[00:52:45,720 -> 00:52:49,720]  Doutora Mayra, acho que a senhora está com o microfone desligado, não ouviu.
+[00:52:49,720 -> 00:52:50,720]  Eu tirei.
+[00:52:50,720 -> 00:52:59,720]  Ele está pedindo para o senhor repetir que ele não escutou sobre a participação do José Guilherme, é o advogado José Guilherme.
+[00:52:59,720 -> 00:53:04,720]  Bom, o José Guilherme, inicialmente ele foi a pessoa.
+[00:53:04,720 -> 00:53:07,720]  Ele foi o único, nesse primeiro momento, preso com a droga.
+[00:53:07,720 -> 00:53:17,720]  Ele foi preso com a droga, disse que era para uso pessoal e indicou o traficante e passou a ser interceptado junto com o suposto traficante dele, o Júlio.
+[00:53:17,720 -> 00:53:23,720]  Aí, durante a interceptação, ele usava o telefone no final 9417.
+[00:53:23,720 -> 00:53:37,720]  E ele, em diversos trechos de conversas, isso que eu relato com o livro da conversa, ele fala para um cliente que a droga ficava escondida na parte que tirou a casa dele.
+[00:53:37,720 -> 00:53:41,720]  Ele oferece droga a um cliente em troca de uma carona.
+[00:53:41,720 -> 00:53:47,720]  O cara fala assim, me leva lá em Rio das Ostras que eu te dou o culhopa, que eu te dou maconha.
+[00:53:48,720 -> 00:53:55,720]  Ele marca e compra num posto de casina na Rasa para entregar maconha.
+[00:53:55,720 -> 00:53:59,720]  Eu sou abertamente, eu sou através do telefone, me encontra lá que eu vou te levar.
+[00:54:08,720 -> 00:54:11,720]  Tem algum som entrando, eu vou continuar, se vocês querem me entenderem.
+[00:54:11,720 -> 00:54:23,720]  Aí ele fala com o cliente dele de drogas e marca para entregar essa droga próxima à clínica da família no bairro Vila Verde.
+[00:54:23,720 -> 00:54:33,720]  Ele oferece uma maconha de 50 reais dizendo que é uma camisa lacoste verdinha.
+[00:54:33,720 -> 00:54:36,720]  Uma camisa lacoste verdinha não custa 50 reais.
+[00:54:36,720 -> 00:54:38,720]  É óbvio que ele estava falando de droga.
+[00:54:38,720 -> 00:54:52,720]  O José Guilherme tem sedimentado a conversa dele nos autos, nas gravações, falando de droga e dizendo que entregaria drogas.
+[00:54:52,720 -> 00:55:00,720]  É impossível, e ele não pode dizer que o telefone era dele porque eu inquiri ele, ele admitiu que o telefone era dele.
+[00:55:00,720 -> 00:55:11,720]  Então assim, com relação ao real José Guilherme, tem pelo menos, nesses períodos de testemunha, pelo menos umas 5 ou 6 passagens
+[00:55:11,720 -> 00:55:18,720]  onde ele é gravado oferecendo ou dizendo que entrega droga para alguém, ou sendo solicitado.
+[00:55:18,720 -> 00:55:29,720]  E é sempre bom precisar que o José Guilherme, ele era o investigado, a época, com maior preocupação de não ser gravado.
+[00:55:29,720 -> 00:55:34,720]  Então, e mesmo assim, ainda tinha esses deslizes e falava.
+[00:55:34,720 -> 00:55:40,720]  Mas geralmente ele interrompia a conversa e pedia para migrar a conversa para o WhatsApp.
+[00:55:40,720 -> 00:55:45,720]  O outro que a doutora me perguntou era sobre o Cristiano.
+[00:55:45,720 -> 00:55:57,720]  Bom, o Cristiano, como eu falei, eu fui descobrir mais à frente da investigação que ele era irmão do Júlio.
+[00:55:57,720 -> 00:56:06,720]  Mas assim, o telefone dele era 5849. Eu não tive a confirmação pessoal dele, porque ele não teve a delegacia para estar declarações,
+[00:56:06,720 -> 00:56:16,720]  mas o telefone dele, o do irmão dele, a própria, o do Júlio, a própria operadora de telefonia, fez essa correlação.
+[00:56:16,720 -> 00:56:22,720]  E o do Cristiano eu consegui através desse banco de dados, credlink.
+[00:56:22,720 -> 00:56:27,720]  E aí, com o nome da mãe de ambos, eu consegui encontrar a mãe e eu cheguei a falar com a mãe de ambos.
+[00:56:27,720 -> 00:56:38,720]  Em termos de conduta, o Cristiano, talvez pela proximidade com o irmão dele e com essas pessoas que traficam junto com o irmão dele, ele tem essa facilidade.
+[00:56:38,720 -> 00:56:45,720]  Ficou muito claro na investigação que o Júlio é mais entranhado no tráfico de drogas do que o Cristiano.
+[00:56:46,720 -> 00:56:55,720]  O Júlio ele era a peça central, mas assim, talvez pela facilidade com relação ao irmão,
+[00:56:55,720 -> 00:57:02,720]  ocorreram várias conversas do Cristiano durante a investigação que indicavam o tráfico.
+[00:57:02,720 -> 00:57:10,720]  Por exemplo, o Cristiano, numa das gravações, ele combina o irmão dele, o Júlio,
+[00:57:10,720 -> 00:57:15,720]  para a venda de 25 gramas de maconha para uma cliente chamada Ana Clara.
+[00:57:15,720 -> 00:57:22,720]  E as pessoas conversam abertamente sobre isso, olha, vamos vender 25 gramas para Ana Clara.
+[00:57:22,720 -> 00:57:25,720]  Isso ao Cristiano conversando com o irmão dele, Júlio.
+[00:57:25,720 -> 00:57:35,720]  Então, sem menor sombra de dúvidas, que o Cristiano conhecia a interação do irmão Júlio com o tráfico de drogas, anuía e também participava.
+[00:57:35,720 -> 00:57:45,720]  Mas a atuação do Cristiano então era mais vinculada ao do Júlio, ele atuava mais auxiliando o próprio Júlio.
+[00:57:45,720 -> 00:57:53,720]  Eu acho que, sim, fica claro que o Júlio é principal e o Cristiano é uma peça acessória do irmão.
+[00:57:53,720 -> 00:58:00,720]  O que aconteceu, talvez, que dentro do inquérito tenha menos informações sobre o Cristiano,
+[00:58:00,720 -> 00:58:05,720]  é que o tempo que o Cristiano ficou interceptado foi menor.
+[00:58:05,720 -> 00:58:09,720]  O Cristiano apareceu na investigação num momento mais adiantado.
+[00:58:09,720 -> 00:58:14,720]  Então o Cristiano teve menos tempo de conversas interceptadas.
+[00:58:14,720 -> 00:58:18,720]  E a gente sempre tem que ter em vista, isso eu cito no meu relatório,
+[00:58:18,720 -> 00:58:27,720]  que as conversas telefônicas gravadas, transcritas e colocadas no meu relatório são apenas subsidiárias.
+[00:58:27,720 -> 00:58:33,720]  Porque o meio de contato primário desse grupo era o WhatsApp.
+[00:58:33,720 -> 00:58:40,720]  Então se a gente pega duas, três conversas de um dos indiciados nas ligações telefônicas,
+[00:58:40,720 -> 00:58:46,720]  é factível que houvesse diversas outras através do WhatsApp.
+[00:58:46,720 -> 00:58:56,720]  Então o Cristiano, tem que se admitir isso, que a interceptação dele foi mais curta, foi por menos tempo do que os demais,
+[00:58:56,720 -> 00:59:05,720]  não foram identificadas tantas conversas criminosas quanto foram encontradas com Juliano ou com José Guilherme,
+[00:59:05,720 -> 00:59:14,720]  mas ainda assim houve conversa entre Julio e Cristiano sobre a venda de drogas para uma senhora chamada Ana Clara.
+[00:59:14,720 -> 00:59:20,720]  Agora seguindo aqui na ordem da denúncia, o próximo seria o Paulo Henrique.
+[00:59:20,720 -> 00:59:27,720]  O senhor se recorda como era a atuação do Paulo Henrique, principalmente com quem ele mais falava, como que ele atuava?
+[00:59:27,720 -> 00:59:35,720]  Sim, o Paulo Henrique foi até, de todos os indiciados, todos os investigados,
+[00:59:35,720 -> 00:59:40,720]  foi o que inicialmente me trouxe mais dúvidas sobre a participação dele ou não.
+[00:59:40,720 -> 00:59:47,720]  Porque ele havia sido citado como Paulinho, ele havia sido citado como Paulinho e eu não tinha vinculado.
+[00:59:47,720 -> 00:59:56,720]  Inicialmente é muita informação chegando, a gente vai decupando essa informação até o momento que a gente vai estruturando um organograma.
+[00:59:56,720 -> 01:00:09,720]  Mas assim, depois que se identificou que alguns dos investigados na época citavam Paulinho como um possível fornecedor de drogas mais baratas,
+[01:00:09,720 -> 01:00:19,720]  eu comecei a focar a atenção nele, aí eu identifiquei o telefone dele, ele foi à delegacia prestar declarações,
+[01:00:19,720 -> 01:00:28,720]  por exemplo, tem um diálogo dele com o Julio em que ele é cobrado pelo Julio seiscentos reais,
+[01:00:28,720 -> 01:00:38,720]  de meio quilo de maconha que ele havia comprado, e aí você percebe que ele havia comprado essa maconha para revender.
+[01:00:38,720 -> 01:00:46,720]  Então assim, existia essa, o Paulo ele recebia maconha e surgiam uns autos de prova de que ele repassava.
+[01:00:46,720 -> 01:00:54,720]  Então assim, por exemplo, condutas dele delimitadas de maneira sucinta, óbvio, mas delimitadas dentro das interceptações.
+[01:00:54,720 -> 01:01:04,720]  Ele liga, ele conversa com o cliente e pergunta se o negócio poderia ser entregue para o filho dela.
+[01:01:04,720 -> 01:01:12,720]  Sempre assim, é negócio, bulhoba, que é normal, é o padrão dos traficantes falarem por telefone, que eles têm a noção do risco da interceptação.
+[01:01:12,720 -> 01:01:20,720]  E aí ele admite que aceitaria como pagamento PIX, porque a outra coisa que ficou muito patente nessa investigação
+[01:01:20,720 -> 01:01:27,720]  é que os investigados, agora réus, eles usavam PIX, então eles usavam WhatsApp e PIX,
+[01:01:27,720 -> 01:01:33,720]  tentando com isso dificultar qualquer ação estatal que levasse a identificação ou prisão deles.
+[01:01:33,720 -> 01:01:41,720]  Numa outra situação, o Paulo Henrique, o cliente liga para ele e pergunta se ele tinha um do bom.
+[01:01:41,720 -> 01:01:49,720]  Na hora o Paulo chega e diz, repreende o cliente dele e fala, não fale sobre isso no telefone, muda para o WhatsApp.
+[01:01:49,720 -> 01:01:59,720]  E automaticamente a ligação se encerra e a gente não tem mais a conversa, mas o Paulo orientou o cliente dele de drogas
+[01:01:59,720 -> 01:02:01,720]  para que a conversa continuasse no WhatsApp.
+[01:02:01,720 -> 01:02:10,720]  Paulo prestou depoimentos também na delegacia?
+[01:02:10,720 -> 01:02:11,720]  Eu respondo declarações.
+[01:02:11,720 -> 01:02:17,720]  O senhor se recorda se ele chegou a confessar ou se ele negou ou o que ele falou?
+[01:02:17,720 -> 01:02:25,720]  Eu me recordo, doutora, que um deles confessou, eu não me recordo se é o Paulo, eu posso ver que está no meu relatório isso, eu posso até dar uma olhada.
+[01:02:25,720 -> 01:02:29,720]  Mas não tem problema porque está no relatório, o senhor não se recorda quem foi.
+[01:02:29,720 -> 01:02:38,720]  O que acontece, de todos os investigados identificados, dois não compareceram na delegacia e os demais compareceram.
+[01:02:38,720 -> 01:02:45,720]  Os que compareceram, todos negaram, todos admitiram que usavam drogas, mas negaram que vendia.
+[01:02:45,720 -> 01:02:50,720]  A exceção de um, que eu não me recordo se foi o Paulo, mas teve um deles que admitiu que vendia.
+[01:02:50,720 -> 01:02:56,720]  Era inclusive o investigado que vendia canga na praia, que eu me recordo.
+[01:02:56,720 -> 01:03:04,720]  Eu entrei em contato com ele e ele disse que estava vendendo canga na praia, se não me engano foi o indicado que vendia canga na praia que admitiu.
+[01:03:04,720 -> 01:03:08,720]  Salvo engano, seria bom confirmar dentro do meu relatório.
+[01:03:10,720 -> 01:03:18,720]  Com relação ao Emerson, o senhor se recorda como foi que foi descoberto o envolvimento dele, como que ele atuava?
+[01:03:19,720 -> 01:03:23,720]  O Emerson, salvo engano, foi o último a ser identificado.
+[01:03:23,720 -> 01:03:28,720]  Ele foi o último identificado em conversa com o Paulo, com o Paulo Henrique, com o Paulinho.
+[01:03:28,720 -> 01:03:38,720]  Os dois conversaram, inclusive quando eu fiz a oitiva do Emerson e do Paulo na delegacia, eu perguntei, eu não me recordo qual dos dois que eu inquiri primeiro,
+[01:03:38,720 -> 01:03:43,720]  mas eu perguntei ou para o Paulo ou para o Emerson, que eu ouvi primeiro, se ele conhecia o outro.
+[01:03:44,720 -> 01:03:48,720]  Salvo engano foi o Emerson. O Emerson disse que não conhecia o Paulo.
+[01:03:48,720 -> 01:03:50,720]  Aí eu pedi que o Paulo entrasse na sala.
+[01:03:50,720 -> 01:03:54,720]  Aí o Emerson disse, eu não conheço o Paulo e ele falou, eu conheço.
+[01:03:54,720 -> 01:04:05,720]  Então assim, o Emerson, quando foi identificado, tentou se desincular da figura do Paulo porque ele sabia que o que linkava ele ao tráfico de drogas era o Paulo.
+[01:04:05,720 -> 01:04:13,720]  Então nós chegamos ao Emerson salvo engano na última rodada de interceptação através de uma conversa dele com o Paulo Henrique.
+[01:04:13,720 -> 01:04:26,720]  A conversa, eu não me recordo, acho que eu tenho aqui, o Emerson admite na conversa com o Paulo que revende drogas
+[01:04:26,720 -> 01:04:34,720]  e que alguma questão dele ter comprado drogas e se ele revendesse por aquele preço que ele comprou ele não teria lucro.
+[01:04:34,720 -> 01:04:45,720]  Então fica dentro da conversa do Emerson, fica claro que ele estava recebendo drogas do Paulo, ou seja, a conversa do Emerson já vincula o Paulo como traficante
+[01:04:45,720 -> 01:04:55,720]  e ao mesmo tempo o Emerson fala que ele iria repassar essa droga, mas que pelo preço que o Paulo estava entregando para ele, ele não conseguiria ter lucro.
+[01:04:55,720 -> 01:05:10,720]  E aí ele faz menção de que em outras situações ele teria oferecido lucro e por isso estaria bem para ele nessa situação que foi gravada ele não obter vantagem nessa revenda da droga.
+[01:05:10,720 -> 01:05:19,720]  Entendi. Só para finalizar agora quanto ao acusado Juliano Lucas, você se recorda do envolvimento dele?
+[01:05:19,720 -> 01:05:37,720]  Sim, sim. Juliano Lucas, se não me engano, ele estava preso um pouco antes, havia sido solto um pouco antes da operação e eu tentei localizá-lo, todos eles eu mandei o WhatsApp
+[01:05:37,720 -> 01:05:47,720]  me identificando como delegado da cidade e pedindo que eles entrassem em contato, fosse a delegacia para esclarecer. O Lucas foi um dos que eu também não conseguia contato.
+[01:05:47,720 -> 01:06:02,720]  Só que o que acontece, quando eu, quando a gente quebrou o sigilo, afastou o sigilo da, pegamos o cadastro dele junto do telefone que ele usava final 0924, a gente pegou o cadastro desse telefone na operadora
+[01:06:02,720 -> 01:06:19,720]  e apareceu o nome de uma mulher, apareceu o nome de uma mulher, se eu não me recordo, ela se chamava Débora, não estou sabendo o nome dela, que era irmã ou cunhada, eu acho que era cunhada dele, ela era casada com o irmão dele
+[01:06:19,720 -> 01:06:42,720]  Aí eu intimei ela e o marido, e os dois foram a delegacia no dia marcado e ela explicou que ela tinha autorizado o Lucas a comprar um telefone ou habilitar uma linha no nome dela e ela desconhecia a finalidade criminosa que o Lucas daria para essa linha
+[01:06:42,720 -> 01:07:11,720]  E aí ela explica com detalhes qual era o comportamento dele, que ele já tinha praticado vários crimes, já tinha sido preso, salvo engano, acho que o irmão dele também foi inquilino no dia, no mesmo sentido, dizendo que desconheciam os crimes especificamente praticados pelo Lucas, mas tinham conhecimento de que ele possuía envolvimento com a criminalidade, mas desconheciam que o telefone habilitado no nome da Débora era usado para a venda de drogas.
+[01:07:11,720 -> 01:07:13,720]  Ah, entendi.
+[01:07:13,720 -> 01:07:42,720]  O Lucas também foi, o Lucas foi inserido no afastamento do sigilo do fluxo das ligações dele no final da investigação, então houve pouco fluxo interceptado, mas nenhuma das conversas ele negocia com uma cliente
+[01:07:42,720 -> 01:07:46,720]  com um primeiro de êxtase, com um primeiro de IMD.
+[01:07:46,720 -> 01:07:48,720]  Entendi.
+[01:07:48,720 -> 01:07:54,720]  Tá bom. Obrigada, doutor Nelson, não tenho mais perguntas, excelência.
+[01:07:54,720 -> 01:08:07,720]  Agora, doutor, são os advogados respectivos. Primeiramente, doutor José Guilherme, doutor Querendo, pode indagar o doutor delegado.
+[01:08:08,720 -> 01:08:19,720]  Desculpa, doutora, só para saber, eu gostaria que, se for possível, como advogado, para me perguntar, eu saber quem é o real que ele defende, só para me localizar.
+[01:08:19,720 -> 01:08:24,720]  Não, então, advogado, então, justificamente, agora eu vou seguindo pela ordem da denúncia.
+[01:08:24,720 -> 01:08:34,720]  É o advogado do José Guilherme agora. Doutor, pode indagar, ele já levantou a mão, o senhor viu? Ele está na sala de audiência.
+[01:08:34,720 -> 01:08:36,720]  Sim, sim.
+[01:08:36,720 -> 01:08:40,720]  Pronto, doutor, pode indagar o doutor Nelson.
+[01:08:40,720 -> 01:08:41,720]  Boa noite, doutor.
+[01:08:41,720 -> 01:08:42,720]  Boa noite.
+[01:08:42,720 -> 01:09:03,720]  Eu sou o advogado Albert Pessanha. Um caso, como que o senhor sabe informar se o senhor José Guilherme, ele se apresentou na delegacia, na ocasião da sua prisão?
+[01:09:04,720 -> 01:09:08,720]  O caso é desequilibrado durante toda a investigação.
+[01:09:10,720 -> 01:09:27,720]  Eu sou advogado do José Guilherme também, doutor Daniel. Doutor Nelson, eu gostaria assim de, se o senhor se recorda, no dia da operação, quando vocês foram na casa do real José Guilherme, se ele foi localizado ou não em casa?
+[01:09:27,720 -> 01:09:44,720]  Não, justamente, no dia da operação, por alguma questão, José Guilherme não estava na casa dele, ele não foi localizado, ele tomou conhecimento de que a polícia tinha ido à casa dele e ele se apresentou pessoalmente a mim. Ele foi à delegacia e me procurou.
+[01:09:44,720 -> 01:09:51,720]  No caso, o senhor se recorda de mim também, que eu que apresentei ele na delegacia? Eu estou olhando aí para a câmera para ver se o senhor se recorda.
+[01:09:53,720 -> 01:09:56,720]  Ih, agora ficou sem som, doutor.
+[01:09:56,720 -> 01:09:57,720]  Eu?
+[01:09:57,720 -> 01:10:01,720]  É, agora a gente não escutou nenhuma falhada.
+[01:10:03,720 -> 01:10:14,720]  Eu acho que é por causa do som. Doutor, eu vou cortar o som da sala de audiência, porque eu acho que está dando uma interferência.
+[01:10:14,720 -> 01:10:20,720]  Ah, essa foi boa. Tanto interceptação que eu acabei usando o termo é equivocado.
+[01:10:21,720 -> 01:10:28,720]  Deixa eu cortar aqui a dúvida, coisa para poder o doutor falar, porque eu não consegui escutar.
+[01:10:28,720 -> 01:10:31,720]  Eu repito no caso, silêncio?
+[01:10:31,720 -> 01:10:38,720]  Não, o senhor indagou. Eu só não escutei a resposta do doutor Nelson.
+[01:10:38,720 -> 01:10:49,720]  Doutor Nelson, pode repetir? Ele perguntou se o senhor lembra dele como advogado apresentante de José Guilherme na delegacia.
+[01:10:49,720 -> 01:10:59,720]  Infelizmente eu não me recordo, mas até pela imagem pequena que eu não me recordo, mas sim, o José Guilherme todas as vezes que ele foi convocado,
+[01:10:59,720 -> 01:11:08,720]  ele foi à delegacia e no dia da prisão dele, ele não se encontrava em casa quando os policiais foram cumprir o malado de prisão,
+[01:11:08,720 -> 01:11:14,720]  ele tomou conhecimento por alguém que viu ou algum parente e se apresentou espontaneamente à delegacia para mim.
+[01:11:14,720 -> 01:11:21,720]  Ele sim, se encontrava acompanhado com advogado, eu só peço perdão porque eu realmente não me recordo do seu rosto, doutor, mas sim,
+[01:11:21,720 -> 01:11:26,720]  ele estava acompanhado com advogado e ele se apresentou espontaneamente para o cumprimento do mandado.
+[01:11:26,720 -> 01:11:37,720]  Eu tenho mais uma pergunta, o senhor quando passou a presidência da operação do doutor Rodrigo, o senhor não chegou a comunicar como foi o fato da prisão do José Guilherme?
+[01:11:37,720 -> 01:11:42,720]  A prisão do José Guilherme foi ao contrário. Então, certo, doutor Nelson.
+[01:11:42,720 -> 01:11:50,720]  Foi ao contrário, o doutor Rodrigo presidiu o inquérito até um certo ponto, aí durante as férias dele eu assumi a presidência
+[01:11:50,720 -> 01:12:03,720]  e como com o retorno dele muitas coisas tinham acontecido, eu já estava ciente de tudo, eu permaneci na presidência até o final, o relatório final do inquérito foi formulado por mim.
+[01:12:03,720 -> 01:12:09,720]  E no relatório final o senhor não comunicou o doutor Rodrigo como foi a prisão do José Guilherme?
+[01:12:09,720 -> 01:12:19,720]  Eu não me recordo exatamente, mas acho que salvo engano, ou o doutor Rodrigo se encontrava na delegacia, ou soube, eu não me recordo se eu diretamente,
+[01:12:19,720 -> 01:12:29,720]  porque acontece no momento em que ele deixou a presidência, ele tinha outras investigações em andamento, então, e como estava sob a minha presidência eu passava algumas informações
+[01:12:29,720 -> 01:12:41,720]  e essa questão de como o José Guilherme foi, como foi cumprido o mandado dele não era tão relevante, eu não me recordo se eu comentei ou não, mas sem sombra de dúvidas,
+[01:12:41,720 -> 01:12:51,720]  no registro de ocorrência do cumprimento de mandado deve constar esse fato de que ele se apresentou, se eventualmente não consta isso...
+[01:12:52,720 -> 01:13:02,720]  Não consta porque no dia foi localizado uma droga na casa dele e vocês lavaram na delegacia só o fragante da droga que foi localizado lá, que foi um baseado eu acho,
+[01:13:02,720 -> 01:13:07,720]  aí a forma que ele se entregou depois não ficou constando no relatório.
+[01:13:07,720 -> 01:13:20,720]  Agora, sem a menor sombra de dúvidas, o réu José Guilherme se apresentou espontaneamente, o mandado dele não foi cumprido no local onde nós imaginávamos,
+[01:13:20,720 -> 01:13:31,720]  onde havia o mandado de busca e apreensão, foi cumprido a busca e apreensão, foi encontrada a droga em quantidade pertinente ao artigo 28, ao uso próprio,
+[01:13:31,720 -> 01:13:41,720]  mas ele não foi localizado e ele foi apresentado por um advogado, imagino que seja o senhor algumas horas depois, no transcorrer da operação ainda ele foi apresentado.
+[01:13:41,720 -> 01:13:48,720]  Perfeito. O senhor sabe dizer se o José Guilherme é integrante em alguma facção perigosa na cidade?
+[01:13:48,720 -> 01:14:03,720]  Olha, a grande verdade é, todo esse grupo, tanto que eu não, no relatório final, na minha tipificação, eu faço uma ressalva o porquê eu não indiciei eles no crime de organização criminosa.
+[01:14:03,720 -> 01:14:16,720]  Porquê? Todos eles, eles sim, eles têm aquela estabilidade prevista no artigo 35 e isso fica muito claro, mas não aquela divisão hierarquizada,
+[01:14:16,720 -> 01:14:26,720]  com subdivisões, com posição dentro de uma organização que pudesse gerar a tipificação de crime.
+[01:14:26,720 -> 01:14:32,720]  Então assim, existe algum vínculo desse grupo com alguma facção criminosa?
+[01:14:32,720 -> 01:14:40,720]  Certamente, porque quem fornece drogas para eles deve ser alguém, ou do comando vermelho, ou do terceiro comando.
+[01:14:40,720 -> 01:14:51,720]  Alguns deles citam nas conversas com o comando vermelho, mas eles não são traficantes do que se vê no normal das prisões flagrantes,
+[01:14:51,720 -> 01:14:58,720]  aquele que a PM entra numa comunidade carente e encontra uma pessoa na esquina com saquinho de drogas, eles não trabalham assim.
+[01:14:58,720 -> 01:15:08,720]  Eles trabalham fora de comunidades carentes, eles trabalham através de telefonemas, WhatsApp, entregando na casa das pessoas ou em local previamente definido.
+[01:15:08,720 -> 01:15:17,720]  Então me parece claro que em algum nível eles têm interação com as facções criminosas porque eles servem da droga deles,
+[01:15:17,720 -> 01:15:25,720]  facção criminosa, comando vermelho, ao que parece, mas se eles integram essa facção de forma enraizada,
+[01:15:25,720 -> 01:15:35,720]  eu imagino que não, tanto que no meu relatório eu só considerei o 35 pela comunicação que existia entre eles,
+[01:15:35,720 -> 01:15:43,720]  mas não uma organização criminosa vinculada ao comando vermelho, ou ao terceiro comando, ou qualquer outro.
+[01:15:43,720 -> 01:15:45,720]  Tem mais perguntas?
+[01:15:45,720 -> 01:15:55,720]  Doutor, o senhor sabe especificar qual foi a droga que foi encontrado, Tarsul e Begler, a droga no dia?
+[01:15:55,720 -> 01:15:57,720]  No dia que ele foi...
+[01:15:57,720 -> 01:16:02,720]  Não, no dia que ele foi na casa dele. O senhor encontrou qual a quantidade de drogas?
+[01:16:02,720 -> 01:16:07,720]  Desculpa, doutor, na primeira vez que ele foi conduzido à delegacia...
+[01:16:07,720 -> 01:16:12,720]  O senhor esteve na casa dele quantas vezes?
+[01:16:12,720 -> 01:16:15,720]  Não, eu não fui à casa dele nenhuma vez.
+[01:16:15,720 -> 01:16:20,720]  E quantas expressões foi na casa dele?
+[01:16:20,720 -> 01:16:31,720]  Houve duas situações, a primeira que policiais militares desconfiados da motocicleta dele que estava estacionada na casa
+[01:16:31,720 -> 01:16:36,720]  pediram para falar com o morador, e aí ele entregou a droga para os policiais.
+[01:16:36,720 -> 01:16:40,720]  Nesse momento a droga era 280 gramas de maconha.
+[01:16:40,720 -> 01:16:42,720]  218 no laudo?
+[01:16:42,720 -> 01:16:45,720]  218.
+[01:16:45,720 -> 01:16:49,720]  Eu que estou confundindo, acho que é 218 mesmo, pode ser.
+[01:16:49,720 -> 01:16:53,720]  Está na folha 32 de excelência.
+[01:16:54,720 -> 01:16:58,720]  Ok, ok. Pode prosseguir que isso também está relatado por escrito.
+[01:16:58,720 -> 01:17:04,720]  Isso aí ele não precisa saber exata e precisamente o quanto que está escrito.
+[01:17:04,720 -> 01:17:13,720]  Vamos nos ater às perguntas que ele possa responder e que sejam situações que não estejam por escrito, por gentileza.
+[01:17:13,720 -> 01:17:20,720]  Senão a gente não vai conseguindo até muitos advogados aguardando para indagarem.
+[01:17:21,720 -> 01:17:23,720]  Tem mais alguma pergunta?
+[01:17:23,720 -> 01:17:29,720]  Na segunda diligência foi encontrado qual a quantidade? Na primeira ele falou que foi, acho que é 280, mas...
+[01:17:29,720 -> 01:17:32,720]  218, sim, mais de 200.
+[01:17:32,720 -> 01:17:34,720]  Na segunda, quanto que foi?
+[01:17:34,720 -> 01:17:40,720]  Na primeira diligência, estou vendo aqui no meu relatório, são 218, eu me equivoquei ao falar.
+[01:17:40,720 -> 01:17:46,720]  Na segunda diligência eu não me recordo, mas uma quantidade muito pequena,
+[01:17:46,720 -> 01:17:54,720]  tanto que a minha avaliação foi identificar no artigo 28 e não no artigo 33.
+[01:17:54,720 -> 01:18:00,720]  Então a segunda, a primeira, porque o doutor Rodrigo quando fez a primeira identificação,
+[01:18:00,720 -> 01:18:05,720]  no artigo 28, em razão desses 218 gramas de maconha,
+[01:18:05,720 -> 01:18:10,720]  porque é uma quantidade limítrofe, é possível que um usuário quanto mais de maconha use.
+[01:18:11,720 -> 01:18:20,720]  O que vai levar a autoridade policial a definir se 218 gramas de maconha é para uso próprio ou para mercancía,
+[01:18:20,720 -> 01:18:27,720]  são as condições colaterais, as condições paralelas à quantidade de maconha.
+[01:18:27,720 -> 01:18:34,720]  E essas condições foram plenamente estabelecidas durante a interceptação telefônica.
+[01:18:34,720 -> 01:18:40,720]  Então, a quantidade de maconha inicialmente apreendida, sim, poderia ser para o usuário,
+[01:18:40,720 -> 01:18:47,720]  mas os fatos paralelos a essa quantidade de maconha indicavam que a finalidade dela não era para uso, era para tráfego.
+[01:18:47,720 -> 01:18:53,720]  Na segunda maconha apreendida na casa dele, durante a busca e apreensão,
+[01:18:53,720 -> 01:18:58,720]  já na deflagração da operação, eu não me recordo, mas era uma quantidade pequena,
+[01:18:58,720 -> 01:19:03,720]  tanto que eu tipifiquei como artigo 28 em caminha do processo oficial criminal.
+[01:19:07,720 -> 01:19:19,720]  O senhor fala em identificar as vozes dados e interlocutores sobre a escuta telefônica.
+[01:19:19,720 -> 01:19:25,720]  Eu gostaria de saber se o senhor teve, se fez alguma prova técnica para saber quem estava falando,
+[01:19:25,720 -> 01:19:33,720]  que nessas gravações, o senhor se fundamentou em alguma prova técnica para saber a voz de cada um?
+[01:19:33,720 -> 01:19:40,720]  Doutor, seguinte, a linha telefônica do seu cliente, do José Guilherme, estava no nome dele.
+[01:19:40,720 -> 01:19:45,720]  Então, ele já tinha uma presunção de que quem usava a linha era o José Guilherme.
+[01:19:45,720 -> 01:19:50,720]  E quando eu o impuri, ele disse que era o José Guilherme.
+[01:19:50,720 -> 01:20:01,720]  Então não havia qualquer dúvida, não parava qualquer dúvida sobre o uso da linha do réu José Guilherme.
+[01:20:01,720 -> 01:20:05,720]  E se houvesse, tanto que no meu despacho, no meu relatório final,
+[01:20:05,720 -> 01:20:11,720]  eu determino que seja disponibilizada a mídia do sistema guardião da Polícia Civil
+[01:20:11,720 -> 01:20:17,720]  para que os advogados, caso quisessem pedir confronto vocalico, que o fizessem.
+[01:20:17,720 -> 01:20:21,720]  Porque nos autos não existe qualquer dúvida sobre isso.
+[01:20:21,720 -> 01:20:26,720]  Se houvesse alguma dúvida por parte da Defesa Técnica dos réus,
+[01:20:26,720 -> 01:20:36,720]  caderia a Defesa Técnica de posse desse CD da mídia do guardião requerer o confronto vocalico,
+[01:20:36,720 -> 01:20:39,720]  que eu de fato não sei se o senhor requeriu isso.
+[01:20:39,720 -> 01:20:41,720]  Eu imagino que talvez tenha requerido.
+[01:20:41,720 -> 01:20:47,720]  Mas eu sou... essa fundamentação dessa audição que o senhor ouviu,
+[01:20:47,720 -> 01:20:49,720]  o senhor ouviu, tá?
+[01:20:49,720 -> 01:20:53,720]  O senhor não teve nenhum...
+[01:20:53,720 -> 01:20:57,720]  como fazer, nenhum tipo de prova técnica.
+[01:20:57,720 -> 01:20:59,720]  O senhor...
+[01:20:59,720 -> 01:21:01,720]  Desculpe, olha só.
+[01:21:01,720 -> 01:21:05,720]  Ele disse que isso aí seria porque como não havia dúvida,
+[01:21:05,720 -> 01:21:07,720]  porque se houvesse dúvida,
+[01:21:07,720 -> 01:21:09,720]  deixa-se me corrigir, Doutor Nelson, deixa eu te enganar.
+[01:21:09,720 -> 01:21:13,720]  Como não havia dúvida para a Polícia Civil
+[01:21:13,720 -> 01:21:18,720]  de que as ligações e as pessoas que falavam eram exatamente os acusados,
+[01:21:18,720 -> 01:21:26,720]  ele não fez esta prova técnica, mas disponibilizou os CDs para tanto.
+[01:21:26,720 -> 01:21:31,720]  Então as defesas que julgam, não, não é o meu cliente que está falando,
+[01:21:31,720 -> 01:21:36,720]  é que podiam ter peticionado para que fizesse essa prova técnica.
+[01:21:36,720 -> 01:21:38,720]  Seria isso, Doutor Nelson?
+[01:21:38,720 -> 01:21:39,720]  Com certeza.
+[01:21:39,720 -> 01:21:46,720]  Inclusive porque o conhecimento do padrão bocálico depende da vontade do réu.
+[01:21:46,720 -> 01:21:49,720]  Então assim, como eu tinha a prova cabal,
+[01:21:49,720 -> 01:21:51,720]  porque o telefone era registrado no nome dele
+[01:21:51,720 -> 01:21:53,720]  e porque ele, em termos de declaração,
+[01:21:53,720 -> 01:21:58,720]  afirmou para mim que era o interlocutor daquele telefone,
+[01:21:58,720 -> 01:22:00,720]  não havia dúvida com relação a isso.
+[01:22:00,720 -> 01:22:04,720]  Mas a prova técnica, ela está preservada
+[01:22:04,720 -> 01:22:08,720]  e dentro do momento processual pertinente,
+[01:22:08,720 -> 01:22:12,720]  a defesa podia ou pode pedir esse confronto bocálico,
+[01:22:12,720 -> 01:22:14,720]  caso seja essa a tese de defesa.
+[01:22:18,720 -> 01:22:19,720]  Ok, Doutor.
+[01:22:19,720 -> 01:22:22,720]  Pela defesa de José Guilherme, sem perguntas, Excelência.
+[01:22:22,720 -> 01:22:24,720]  Que bom. Então vamos prosseguir.
+[01:22:24,720 -> 01:22:29,720]  Agora a defesa de Cristiano, Doutora, finalmente, conseguiu.
+[01:22:29,720 -> 01:22:32,720]  Boa noite, Doutor Nelson.
+[01:22:32,720 -> 01:22:34,720]  Eu preciso esclarecer um fato,
+[01:22:34,720 -> 01:22:39,720]  que o senhor afirma que o Cristiano não compareceu à delegacia.
+[01:22:39,720 -> 01:22:41,720]  O senhor lembra, sabe dizer...
+[01:22:41,720 -> 01:22:45,720]  O senhor ainda trabalha na delegacia daquele bus?
+[01:22:45,720 -> 01:22:46,720]  Sim, trabalho.
+[01:22:48,720 -> 01:22:51,720]  Existe uma pessoa lá de nome Liza?
+[01:22:54,720 -> 01:22:58,720]  Liza existia à época, era uma inspetora.
+[01:22:58,720 -> 01:23:02,720]  É, porque eu mesmo compareci com o Cristiano
+[01:23:02,720 -> 01:23:04,720]  e com a mãe dele da delegacia,
+[01:23:04,720 -> 01:23:07,720]  de posse da mensagem que ela recebeu,
+[01:23:07,720 -> 01:23:11,720]  inclusive eu tenho a mensagem aqui arquivada no meu celular,
+[01:23:11,720 -> 01:23:15,720]  e tivemos contato com a inspetora Liza,
+[01:23:15,720 -> 01:23:18,720]  mostramos a ela a mensagem que tínhamos recebido,
+[01:23:18,720 -> 01:23:20,720]  e ela, ao verificar a mensagem,
+[01:23:20,720 -> 01:23:22,720]  disse que não sabia do que se tratava,
+[01:23:22,720 -> 01:23:25,720]  deixei até o meu telefone de contato,
+[01:23:25,720 -> 01:23:27,720]  para caso ela quisesse entrar em contato,
+[01:23:27,720 -> 01:23:30,720]  porque ela disse que iria conversar com o delegado à época,
+[01:23:30,720 -> 01:23:33,720]  e iria nos retornar caso fosse necessário.
+[01:23:33,720 -> 01:23:37,720]  Então eu mesmo compareci com a mãe e com o Cristiano na delegacia,
+[01:23:37,720 -> 01:23:39,720]  fui atendida pela inspetora Liza,
+[01:23:39,720 -> 01:23:42,720]  mostrei a mensagem de WhatsApp que foi encaminhada,
+[01:23:42,720 -> 01:23:46,720]  e a mesma me disse que não sabia dizer do que se tratava.
+[01:23:46,720 -> 01:23:48,720]  Esse fato para esclarecer.
+[01:23:50,720 -> 01:23:53,720]  Doutora, eu posso fazer uma intervenção, por favor?
+[01:23:53,720 -> 01:23:54,720]  Claro, lógico.
+[01:23:54,720 -> 01:23:56,720]  É o senhor que está sendo indagado.
+[01:23:57,720 -> 01:23:58,720]  Obrigado, doutora.
+[01:23:59,720 -> 01:24:05,720]  Seguinte, essa versão que a senhora está trazendo agora
+[01:24:05,720 -> 01:24:10,720]  foi levantada pela mãe do Cristiano, do Cristiano e do Juliano,
+[01:24:10,720 -> 01:24:11,720]  no dia da prisão.
+[01:24:11,720 -> 01:24:14,720]  Eu estava presente na casa dela quando o Cristiano foi preso.
+[01:24:14,720 -> 01:24:18,720]  E ela, no dia, levantou isso para mim,
+[01:24:18,720 -> 01:24:23,720]  dizendo que o inspetor Evandro tinha ligado para ela,
+[01:24:23,720 -> 01:24:26,720]  que a inspetora Liza tinha ligado para ela,
+[01:24:26,720 -> 01:24:28,720]  só que a questão que esses inspetores,
+[01:24:28,720 -> 01:24:30,720]  tanto o Evandro, que ela disse isso,
+[01:24:30,720 -> 01:24:32,720]  não sei de onde ela tira essa informação,
+[01:24:32,720 -> 01:24:36,720]  ou a Liza, são policiais que não integravam essa investigação.
+[01:24:36,720 -> 01:24:40,720]  São policiais que desconheciam o conteúdo dessa investigação.
+[01:24:40,720 -> 01:24:42,720]  Uma investigação de tráfico de drogas,
+[01:24:42,720 -> 01:24:44,720]  o intersepção telefônica,
+[01:24:44,720 -> 01:24:47,720]  ela fica vinculada, ela fica restrita a poucas pessoas.
+[01:24:47,720 -> 01:24:51,720]  As pessoas que tinham conhecimento direto do que aconteceu era eu,
+[01:24:51,720 -> 01:24:55,720]  o doutor Rodrigo, através das informações que eu passava para ele,
+[01:24:55,720 -> 01:24:59,720]  o inspetor que fazia a análise das interceptações,
+[01:24:59,720 -> 01:25:02,720]  e eventualmente o chefe de serviço da delegacia
+[01:25:02,720 -> 01:25:05,720]  com alguma diligência específica que tinha que ser feita.
+[01:25:05,720 -> 01:25:08,720]  A Liza nunca participou dessa investigação.
+[01:25:08,720 -> 01:25:10,720]  O comissário de polícia, Evandro,
+[01:25:10,720 -> 01:25:12,720]  que foi citado pela mãe para mim no dia,
+[01:25:12,720 -> 01:25:13,720]  nunca participou.
+[01:25:13,720 -> 01:25:18,720]  Então faz o menor sentido a alegação da mãe.
+[01:25:18,720 -> 01:25:22,720]  No dia, a mãe não falou também que tinha reto com o advogado na delegacia.
+[01:25:22,720 -> 01:25:24,720]  Essa informação eu estou sabendo agora.
+[01:25:24,720 -> 01:25:27,720]  Porque a mãe tinha dito que ela tinha vindo à delegacia.
+[01:25:27,720 -> 01:25:29,720]  Ela não disse que vinha com o advogado.
+[01:25:29,720 -> 01:25:33,720]  Então me parece que procura, se o delegado manda,
+[01:25:33,720 -> 01:25:37,720]  se o delegado convoca o Cristiano Juliano para a delegacia,
+[01:25:37,720 -> 01:25:39,720]  o delegado Nelson Esquiba convoca eles.
+[01:25:39,720 -> 01:25:42,720]  E a advogada ou a mãe, ou o próprio Cristiano,
+[01:25:42,720 -> 01:25:45,720]  se apresenta à delegacia para a inspetora Liza,
+[01:25:45,720 -> 01:25:47,720]  e não ao delegado Nelson,
+[01:25:47,720 -> 01:25:52,720]  é plenamente compreensível que a inspetora Liza não conheça a informação.
+[01:25:52,720 -> 01:25:54,720]  Então o que acontece?
+[01:25:54,720 -> 01:25:58,720]  Se o Cristiano foi apresentado para um inspetor equivocado,
+[01:25:58,720 -> 01:26:01,720]  nem o inspetor Maicon, que era da investigação,
+[01:26:01,720 -> 01:26:05,720]  nem o inspetor Rodrigo, que era o analista,
+[01:26:05,720 -> 01:26:08,720]  essa apresentação é inófila.
+[01:26:08,720 -> 01:26:11,720]  Hoje eu tenho investigações da menor delegacia,
+[01:26:11,720 -> 01:26:13,720]  porque tem policiais que não conhecem.
+[01:26:13,720 -> 01:26:15,720]  Então me desculpa.
+[01:26:15,720 -> 01:26:21,720]  A apresentação, a mãe do Cristiano não citou que houve advogado.
+[01:26:21,720 -> 01:26:23,720]  Não citou que houve advogado na delegacia.
+[01:26:23,720 -> 01:26:27,720]  Mas vamos considerar que tenha ocorrido essa apresentação.
+[01:26:27,720 -> 01:26:31,720]  A apresentação foi feita de maneira equivocada.
+[01:26:31,720 -> 01:26:39,720]  Deveria ter sido apresentada a mim, como delegado do Cristiano.
+[01:26:39,720 -> 01:26:45,720]  O telefone do Julio com o meu telefone particular com o meu nome,
+[01:26:45,720 -> 01:26:47,720]  citando Nelson Esquiba, delegado de polícia.
+[01:26:47,720 -> 01:26:49,720]  E quando eu falei com a mãe dele,
+[01:26:49,720 -> 01:26:52,720]  ela também disse delegado de polícia Nelson Esquiba.
+[01:26:52,720 -> 01:26:55,720]  Então assim, todos sabiam que a pessoa que deveria ser
+[01:26:55,720 -> 01:26:57,720]  o direcionado da apresentação era o delegado,
+[01:26:57,720 -> 01:26:59,720]  e não porque era o inspetor do plantão.
+[01:26:59,720 -> 01:27:02,720]  O inspetor do plantão não é obrigado a conhecer
+[01:27:02,720 -> 01:27:08,720]  investigações sensíveis como essa do tráfico de drogas.
+[01:27:08,720 -> 01:27:09,720]  Entendi.
+[01:27:09,720 -> 01:27:10,720]  Excelente.
+[01:27:10,720 -> 01:27:14,720]  Será que me seria permitido mostrar a mensagem
+[01:27:14,720 -> 01:27:17,720]  para que o doutor Nelson diga que se realmente
+[01:27:17,720 -> 01:27:20,720]  essa mensagem foi encaminhada por ele ou não?
+[01:27:20,720 -> 01:27:22,720]  Claro que pode.
+[01:27:22,720 -> 01:27:24,720]  Mas a senhora vai ter que mostrar isso na câmera
+[01:27:24,720 -> 01:27:26,720]  para o doutor poder ver.
+[01:27:26,720 -> 01:27:29,720]  Mas vai ter que botar bem pertinho para poder enxergar.
+[01:27:29,720 -> 01:27:31,720]  Se é que vai dar para enxergar.
+[01:27:31,720 -> 01:27:34,720]  Ou então a senhora vai ter que fazer um print e juntar.
+[01:27:34,720 -> 01:27:37,720]  Acho que eu consigo abrir a janela, não consigo?
+[01:27:37,720 -> 01:27:41,720]  Deixa eu tentar aqui.
+[01:27:41,720 -> 01:27:44,720]  Ela está sendo um pouquinho cortada, doutora.
+[01:27:44,720 -> 01:27:49,720]  Eu tenho que virá-la um pouquinho mais para a sua esquerda.
+[01:27:49,720 -> 01:27:51,720]  Mais para a sua esquerda, é isso.
+[01:27:51,720 -> 01:27:52,720]  Doutora, eu não consigo...
+[01:27:52,720 -> 01:27:53,720]  Está muito clara.
+[01:27:53,720 -> 01:27:57,720]  Eu sugiro que o doutor faça complementar isso
+[01:27:57,720 -> 01:27:59,720]  por informação por escrito.
+[01:27:59,720 -> 01:28:02,720]  A senhora faz um print, junta no processo,
+[01:28:02,720 -> 01:28:05,720]  e a gente então solicita por ofício
+[01:28:05,720 -> 01:28:08,720]  para que o doutor confirme essa sua indagação.
+[01:28:08,720 -> 01:28:09,720]  Ou não?
+[01:28:09,720 -> 01:28:10,720]  Por quê, doutor Nelson?
+[01:28:10,720 -> 01:28:13,720]  Doutora, se ela ler essa mensagem agora,
+[01:28:13,720 -> 01:28:14,720]  eu já posso dizer...
+[01:28:14,720 -> 01:28:16,720]  Ah, então a senhora faça gentileza, por favor.
+[01:28:16,720 -> 01:28:19,720]  Então, eu vou falar o número que foi enviado,
+[01:28:19,720 -> 01:28:22,720]  é o 997797...
+[01:28:22,720 -> 01:28:25,720]  É o seu, esse telefone.
+[01:28:27,720 -> 01:28:29,720]  Não ouviu, desculpa.
+[01:28:29,720 -> 01:28:30,720]  Não faça o telefone.
+[01:28:30,720 -> 01:28:32,720]  A senhora pode ler o conteúdo, por favor?
+[01:28:32,720 -> 01:28:33,720]  Tá.
+[01:28:33,720 -> 01:28:35,720]  Bom dia, senhora Cristiane Pereira da Costa,
+[01:28:35,720 -> 01:28:38,720]  aqui da 127DP, que é a armação dos busos.
+[01:28:38,720 -> 01:28:40,720]  Estou entrando em contato com a senhora,
+[01:28:40,720 -> 01:28:43,720]  porque já se passaram alguns dias sem ter contato
+[01:28:43,720 -> 01:28:44,720]  e nada foi feito.
+[01:28:44,720 -> 01:28:47,720]  Então, dona Cristiane, vou entrar com um novo inquérito
+[01:28:47,720 -> 01:28:51,720]  dando como seus filhos, como foragidos da justiça.
+[01:28:53,720 -> 01:28:57,720]  Doutora, nenhum inspetor se crediria com essa redação.
+[01:28:57,720 -> 01:28:59,720]  Eu impossível.
+[01:28:59,720 -> 01:29:00,720]  Eu impossível.
+[01:29:00,720 -> 01:29:03,720]  Mas nenhum inspetor se crediria com essa redação,
+[01:29:03,720 -> 01:29:06,720]  que, alas, é formado em direito extremamente capacitado.
+[01:29:06,720 -> 01:29:08,720]  Nenhum inspetor da delegacia
+[01:29:08,720 -> 01:29:13,720]  encaminharia uma mensagem com essa mudação.
+[01:29:13,720 -> 01:29:17,720]  Esse texto não foi enviado por mim, com certeza,
+[01:29:17,720 -> 01:29:20,720]  e se foi enviado por algum policial,
+[01:29:20,720 -> 01:29:24,720]  acho improvável que tenha sido enviado pela senhora Liza.
+[01:29:24,720 -> 01:29:27,720]  É claro que eu posso pegar esse número e consultar bem
+[01:29:27,720 -> 01:29:30,720]  e ver quem é o proprietário da linha,
+[01:29:30,720 -> 01:29:34,720]  mas para quem é do direito, como mostra,
+[01:29:34,720 -> 01:29:38,720]  esse texto não é uma atimação.
+[01:29:38,720 -> 01:29:44,720]  A mãe leu esse texto para mim no dia que eu estava na prisão
+[01:29:44,720 -> 01:29:48,720]  e eu disse para ela que esse texto não foi enviado por um policial.
+[01:29:48,720 -> 01:29:53,720]  Inclusive, onde está vinculando esse texto a esse inquérito 370?
+[01:29:53,720 -> 01:29:54,720]  Em lugar algum.
+[01:29:54,720 -> 01:29:58,720]  Pode ser outro inquérito, pode ser outra pessoa, pode ser uma piada.
+[01:29:58,720 -> 01:30:01,720]  Doutora, inclusive, se a senhora quiser apresentar
+[01:30:01,720 -> 01:30:03,720]  em termos de pedeção ou o próprio juízo,
+[01:30:03,720 -> 01:30:05,720]  a gente pode aprofundar a investigação
+[01:30:05,720 -> 01:30:07,720]  para saber qual é o origem dessa mensagem.
+[01:30:07,720 -> 01:30:09,720]  Mas eu afirmo que não é minha,
+[01:30:09,720 -> 01:30:12,720]  eu não escreveria com essa redação.
+[01:30:12,720 -> 01:30:14,720]  Acho improvável.
+[01:30:19,720 -> 01:30:22,720]  Estou falando muito quando eu não estou escutando, doutor.
+[01:30:22,720 -> 01:30:24,720]  Eu vou ter que te ligar, vou ter que te ligar a senhora
+[01:30:24,720 -> 01:30:25,720]  e depois a senhora religa, tá?
+[01:30:25,720 -> 01:30:27,720]  Porque está andando e eu não estou conseguindo escutar
+[01:30:27,720 -> 01:30:29,720]  o que o doutor está falando.
+[01:30:29,720 -> 01:30:31,720]  Agora parou o som, acho que está me ouvindo?
+[01:30:31,720 -> 01:30:32,720]  Agora sim, doutor.
+[01:30:32,720 -> 01:30:39,720]  É importante dizer que essa mensagem não tem a forma
+[01:30:39,720 -> 01:30:44,720]  que deveria ter, ela parece muito mais uma piada que alguém fez.
+[01:30:44,720 -> 01:30:47,720]  E veja que nessa informação não consta o número do inquérito.
+[01:30:47,720 -> 01:30:49,720]  Então, se alguém chegou na delegacia e disse
+[01:30:49,720 -> 01:30:52,720]  eu vim aqui porque eu tenho essa mensagem,
+[01:30:52,720 -> 01:30:55,720]  se não tem o número do inquérito, ninguém vai encontrar.
+[01:30:55,720 -> 01:30:59,720]  E esse inquérito do Cristiano estava como sigiloso no nosso sistema.
+[01:30:59,720 -> 01:31:03,720]  Então, se a Liza digitasse o nome dele, não apareceria esse procedimento.
+[01:31:03,720 -> 01:31:11,720]  Então assim, eu tenho sinceras dúvidas sobre a autenticidade dessa mensagem.
+[01:31:11,720 -> 01:31:14,720]  Obviamente, doutor, é que eu não estou desconfiando da senhora,
+[01:31:14,720 -> 01:31:19,720]  porque a própria mãe do Cristiano me mostrou isso no dia da prisão dele.
+[01:31:19,720 -> 01:31:23,720]  Então, foi antes dessa audiência, não estou questionando a senhora.
+[01:31:23,720 -> 01:31:27,720]  Eu estou questionando a redação desse texto, que não é padrão.
+[01:31:31,720 -> 01:31:32,720]  Mais alguma pergunta, doutora?
+[01:31:34,720 -> 01:31:40,720]  Aí eu preciso que a senhora volte a se desmutar,
+[01:31:40,720 -> 01:31:44,720]  porque eu muto mas não tenho como desmutar e tenho que clicar para...
+[01:31:44,720 -> 01:31:46,720]  Está me ouvindo a voz?
+[01:31:46,720 -> 01:31:47,720]  Agora sim.
+[01:31:47,720 -> 01:31:53,720]  No decorrer da investigação, o senhor conseguiu apurar
+[01:31:53,720 -> 01:31:57,720]  se o Júlio e o Cristiano moravam no mesmo local?
+[01:32:04,720 -> 01:32:06,720]  Eu vou ter que desmutar de novo,
+[01:32:06,720 -> 01:32:10,720]  porque quando ele fala e está o barulho aí a gente não escuta.
+[01:32:10,720 -> 01:32:11,720]  Doutor, desculpe.
+[01:32:11,720 -> 01:32:13,720]  Pode repetir, por favor.
+[01:32:13,720 -> 01:32:16,720]  Com relação ao endereço dos dois irmãos,
+[01:32:16,720 -> 01:32:22,720]  as fontes que nós usamos, tanto as operadoras quanto o Infoseg,
+[01:32:22,720 -> 01:32:25,720]  porque um deles já tinha sido preso, já existia o Júlio,
+[01:32:25,720 -> 01:32:28,720]  que já tinha sido preso, já constava o endereço dele no Infoseg
+[01:32:28,720 -> 01:32:30,720]  e no portal de segurança.
+[01:32:30,720 -> 01:32:37,720]  O cotejo de todas essas informações indicava que ambos moravam no Triângulo de Búzios,
+[01:32:37,720 -> 01:32:41,720]  que é aqui no centro e é onde foi decretada a busca e apreensão
+[01:32:41,720 -> 01:32:43,720]  e onde foi executada a prisão do Cristiano.
+[01:32:43,720 -> 01:32:49,720]  Então, do Júlio não apareceu para nós outro local de possível moradia
+[01:32:49,720 -> 01:32:56,720]  que fosse relevante a ponto de nós representarmos pela busca e apreensão.
+[01:32:59,720 -> 01:33:04,720]  Mais uma vez, a senhora se desmuta e aí depois eu mudo quando ele for responder.
+[01:33:04,720 -> 01:33:07,720]  Se for o caso, a senhora faz mais alguma indagação, tá? Por favor.
+[01:33:07,720 -> 01:33:09,720]  Tenho sim, excelência.
+[01:33:09,720 -> 01:33:12,720]  Espera aí, eu tenho que me confundir.
+[01:33:14,720 -> 01:33:21,720]  O doutor sabe dizer, por exemplo, teria necessidade se eles morassem no mesmo local,
+[01:33:21,720 -> 01:33:23,720]  deles trocarem mensagens?
+[01:33:25,720 -> 01:33:29,720]  Doutora, a senhora tá querendo opinião dele e testemunha não tem opinião,
+[01:33:29,720 -> 01:33:33,720]  vai definir a pergunta, a senhora reformula e vai definir.
+[01:33:33,720 -> 01:33:36,720]  A senhora tá querendo saber opinião do delegado,
+[01:33:36,720 -> 01:33:39,720]  o delegado nem testemunha alguma tem opinião.
+[01:33:40,720 -> 01:33:45,720]  Qual quantidade de drogas, sabe, foi uma lembra que foi encontrada com o Cristiano?
+[01:33:45,720 -> 01:33:47,720]  A prisão dele?
+[01:33:47,720 -> 01:33:48,720]  Isso.
+[01:33:48,720 -> 01:33:50,720]  Também uma quantidade pequena.
+[01:33:50,720 -> 01:33:54,720]  Eu não me recordo quantos gramas de maconha,
+[01:33:54,720 -> 01:33:59,720]  mas uma quantidade pequena também, tanto que a tipificação que eu usei no dia
+[01:33:59,720 -> 01:34:05,720]  foi o 28 também em razão da quantidade, em razão não só da quantidade,
+[01:34:05,720 -> 01:34:09,720]  mas também das circunstâncias de fato da apreensão.
+[01:34:09,720 -> 01:34:13,720]  Mas no dia da prisão dele foi uma quantidade pequena.
+[01:34:13,720 -> 01:34:16,720]  No que foi apurado na investigação?
+[01:34:16,720 -> 01:34:19,720]  O Cristiano exercia um papel importante?
+[01:34:22,720 -> 01:34:25,720]  Em princípio, na minha visão, não.
+[01:34:25,720 -> 01:34:30,720]  Na minha visão, o papel de maior importância era do irmão dele, do Júlio,
+[01:34:30,720 -> 01:34:34,720]  e a posição do Cristiano era acessória à do Júlio,
+[01:34:34,720 -> 01:34:40,720]  talvez como o braço direito dele, talvez como o apoiador dele,
+[01:34:40,720 -> 01:34:48,720]  mas sim, nos irmãos, o Júlio tinha uma prevalência dentro do tráfico de drogas.
+[01:34:48,720 -> 01:34:55,720]  Parecia que o Cristiano era auxiliar dele, braço direito, alguma coisa,
+[01:34:55,720 -> 01:34:58,720]  mas a prevalência era do Júlio.
+[01:34:59,720 -> 01:35:06,720]  Em alguma parte da investigação, doutor, foi constatado que agiam de forma violenta?
+[01:35:06,720 -> 01:35:10,720]  Não, não, não. Não houve nenhum indicativo.
+[01:35:10,720 -> 01:35:13,720]  Como eu já falei até anteriormente em relação ao vínculo deles
+[01:35:13,720 -> 01:35:17,720]  com organizações criminosas estabelecidas na região,
+[01:35:17,720 -> 01:35:23,720]  não surgiu indicativo de que eles usassem armas, de que eles ameaçassem as pessoas.
+[01:35:23,720 -> 01:35:28,720]  O tipo de venda de droga deles era um nome de operação, era um delivery.
+[01:35:28,720 -> 01:35:34,720]  Eles evitavam pelo que se percebeu até aquele momento da investigação.
+[01:35:34,720 -> 01:35:38,720]  É óbvio que os fornecedores maiores devem ser de padições criminosas,
+[01:35:38,720 -> 01:35:44,720]  mas o que ficou documentado na investigação é que eles optaram pela venda de drogas
+[01:35:44,720 -> 01:35:48,720]  não dentro de uma comunidade competindo com outros traficantes
+[01:35:48,720 -> 01:35:50,720]  e tentando dominar o espaço.
+[01:35:50,720 -> 01:35:57,720]  Eles usavam um espaço que não oferecia risco para eles, que era a cidade, que era o centro da cidade.
+[01:35:57,720 -> 01:36:02,720]  Basta ver que a maioria das entregas de drogas que foram identificadas
+[01:36:02,720 -> 01:36:07,720]  ou eram aqui no centro, ou eram em Manguinhos, no centro gastro-colonômico de Manguinhos.
+[01:36:07,720 -> 01:36:12,720]  Houve até uma entrega na Vila Verde que já é próximo de comunidades
+[01:36:12,720 -> 01:36:14,720]  onde tem prato de droga estruturado.
+[01:36:14,720 -> 01:36:22,720]  Mas me parece que o interesse deles era ficar longe de uma disputa armada por cliente ou espaço.
+[01:36:22,720 -> 01:36:25,720]  Ok, muito obrigada. Sem mais, excelente.
+[01:36:25,720 -> 01:36:31,720]  Bom, agora seria o advogado do senhor Paulo Henrique.
+[01:36:34,720 -> 01:36:36,720]  Boa noite, doutor delegado.
+[01:36:36,720 -> 01:36:38,720]  Boa noite.
+[01:36:38,720 -> 01:36:45,720]  Eu vou me limitar a poucas perguntas. O senhor já falou sobre o Paulo Henrique.
+[01:36:45,720 -> 01:36:50,720]  Ele foi o que confessou na delegacia, que vem de canga.
+[01:36:50,720 -> 01:36:55,720]  No seu relatório o senhor pede a prisão de todos eles.
+[01:36:55,720 -> 01:36:58,720]  Relatório final de inquérito.
+[01:36:58,720 -> 01:37:05,720]  Sendo ele um réu confessa, o senhor entendeu ainda assim a necessidade de prisão dele?
+[01:37:05,720 -> 01:37:15,720]  Bom, doutor, as consoes, objetivas e subjetivas da prisão preventiva são pequenas, são poucas.
+[01:37:15,720 -> 01:37:22,720]  E quando eu relatei o relatório final de inquérito policial, ainda havia risco.
+[01:37:22,720 -> 01:37:29,720]  Não o risco de violência, não o risco de ordem pública, como a doutora tinha perguntado sobre violência.
+[01:37:29,720 -> 01:37:32,720]  Mas o risco de fuga do distrito da culpa.
+[01:37:32,720 -> 01:37:42,720]  Era factível, naquele momento, que os investigados tomaram conhecimento da investigação como um todo,
+[01:37:42,720 -> 01:37:48,720]  em especial sabendo que as interceptações eram provas cabais do que eles faziam,
+[01:37:48,720 -> 01:37:56,720]  eu entendi que havia risco, sim, de prejuízo à aplicação da lei penal pela fuga do distrito da culpa.
+[01:37:56,720 -> 01:38:03,720]  Uma vez comprovado isso, caberia ao juiz decidir com relação à manutenção ou não.
+[01:38:03,720 -> 01:38:08,720]  Mas como eu não conheço o processo, eu não tenho certeza sobre o que aconteceu.
+[01:38:08,720 -> 01:38:17,720]  Mas naquele momento, no meu relatório final, sem sombra de dúvidas, a prisão de todos eles garantiria a aplicação da lei penal.
+[01:38:17,720 -> 01:38:35,720]  Mas a oitiva do Sr. Paulo se deu em setembro de 2021, onde ele confessou que de fato a traficava, comprava ou vendia.
+[01:38:35,720 -> 01:38:44,720]  Ele até confessou com quem ele conhecia, no caso, e o seu relatório foi em dezembro do mesmo ano, três meses após.
+[01:38:45,720 -> 01:38:48,720]  Foi que dia a oitiva dele?
+[01:38:48,720 -> 01:38:49,720]  6 de setembro.
+[01:38:49,720 -> 01:38:50,720]  O relatório?
+[01:38:50,720 -> 01:38:52,720]  22 de dezembro.
+[01:38:54,720 -> 01:38:58,720]  Eu acho que essa questão de possibilidade de fuga não haveria mais.
+[01:38:58,720 -> 01:39:06,720]  Doutor, desculpa interromper, ele não sabia exatamente, não sabia do conteúdo da investigação.
+[01:39:06,720 -> 01:39:15,720]  Quando eu fizer uma análise apurada dos autos, o senhor vai perceber que a oitiva dele foi tomada em autos apartados.
+[01:39:15,720 -> 01:39:22,720]  Eu gerei um registro de ocorrência novo, porque a investigação tinha cautelares, interceptação.
+[01:39:22,720 -> 01:39:31,720]  Se eu chego, chamo ele para ser ouvido nessa oitiva, provavelmente as cautelares vazariam.
+[01:39:31,720 -> 01:39:37,720]  Então eu fiz um registro de ocorrência em apartado, que depois foi juntado, foi apensado ao inquérito principal,
+[01:39:37,720 -> 01:39:39,720]  que foi onde eu ouvi o seu cliente.
+[01:39:39,720 -> 01:39:46,720]  Ou seja, o seu cliente naquele momento não detinha o conhecimento das provas que eu tinha no processo.
+[01:39:46,720 -> 01:39:59,720]  Então, também seria da minha parte uma ação relapsa, presumir que ele manteria aquela postura inicial sabendo de todo o conteúdo da investigação.
+[01:39:59,720 -> 01:40:02,720]  Ele falou aquilo antes de conhecer a investigação.
+[01:40:02,720 -> 01:40:08,720]  Se ele conhece a investigação solta, haveria sim um risco para a aplicação da ureternal.
+[01:40:08,720 -> 01:40:12,720]  Essa foi a minha convicção no momento.
+[01:40:12,720 -> 01:40:19,720]  E esse tempo entre a oitiva e o relatório é porque as interceptações ainda estavam em andamento.
+[01:40:19,720 -> 01:40:23,720]  Ou seja, ele foi ouvido com algumas interceptações ainda em andamento,
+[01:40:23,720 -> 01:40:32,720]  e ainda havia a necessidade de identificação de alguns réus, de alguns investigados, identificação de endereço para buscar apreensão.
+[01:40:32,720 -> 01:40:41,720]  Então, se você olhar a cronologia do inquérito policial, o senhor vai ver que não houve um hiato entre a oitiva dele e o relatório final.
+[01:40:41,720 -> 01:40:45,720]  Não houve um hiato. Continuaram existindo vigências.
+[01:40:45,720 -> 01:40:51,720]  Eu não quis dizer que houve um hiato, como se não tivesse acontecido nada nesse instante.
+[01:40:51,720 -> 01:41:01,720]  Só falando do momento em que houve a oitiva, que se fosse o caso haveria fuga por ali e até onde ocorreu o PG de prisão.
+[01:41:01,720 -> 01:41:09,720]  Eu até parabenizo, mas é pouco usual essa questão de chamar os investigados para serem ouvidos antes.
+[01:41:09,720 -> 01:41:13,720]  Eu faço isso para preservar direitos.
+[01:41:13,720 -> 01:41:17,720]  Exatamente. Para que tenham uma espécie de contraditório ainda no inquérito.
+[01:41:17,720 -> 01:41:21,720]  É porque acontece, doutor. Eu sou delegado há 22 anos.
+[01:41:21,720 -> 01:41:28,720]  Já tivem investigações que a gente representa pela prisão de um investigado sem ouvi-lo.
+[01:41:28,720 -> 01:41:30,720]  E quando a gente aprende, a gente descobre que não é ele.
+[01:41:30,720 -> 01:41:37,720]  Então, para evitar esse risco, eu faço questão de ouvir, correndo o risco, inclusive, de fuga.
+[01:41:37,720 -> 01:41:46,720]  Quando eu chamei todos eles para serem ouvidos, eu corri um risco de fuga, mas garantia a todos eles que conseguissem rebater
+[01:41:46,720 -> 01:41:53,720]  inicialmente a suspeita que eu tinha sobre o tráfego de drogas. Essa foi a minha forma de trabalhar.
+[01:41:53,720 -> 01:41:56,720]  Perfeito. Sem mais perguntas, excelência. Obrigado, doutor.
+[01:41:56,720 -> 01:42:00,720]  Ok. Agora é o advogado de Emerson.
+[01:42:03,720 -> 01:42:05,720]  Boa noite, doutor. Tudo bem?
+[01:42:05,720 -> 01:42:07,720]  Boa noite, doutor.
+[01:42:08,720 -> 01:42:27,720]  Eu gostaria de saber se o senhor teve a intenção ou sentiu a necessidade de colocar o celular do Emerson como objeto de uma apreensão, como é que se fala?
+[01:42:27,720 -> 01:42:28,720]  Interceptação.
+[01:42:28,720 -> 01:42:30,720]  Interceptação. Obrigada.
+[01:42:31,720 -> 01:42:40,720]  Eu vou até, com licença para o doutor, dar uma olhadinha aqui no meu relatório que eu falo sobre o Emerson, é que ele foi o último, não é?
+[01:42:40,720 -> 01:42:42,720]  O Emerson na Mia, não é isso?
+[01:42:42,720 -> 01:42:44,720]  Sim, é ele mesmo.
+[01:42:44,720 -> 01:42:50,720]  Sim, o Emerson foi o último a ser...
+[01:42:50,720 -> 01:42:57,720]  Sim, ele foi identificado, não sei se foi o último, mas ele foi identificado na última fase de monitoramento do desvio de fluxo
+[01:42:58,720 -> 01:43:01,720]  em razão da interação dele com o Paulo Henrique.
+[01:43:01,720 -> 01:43:14,720]  O que aconteceu? O Emerson até então era desconhecido da investigação, durante a última fase de interceptação ele entra numa conversa com o Paulo Henrique,
+[01:43:14,720 -> 01:43:22,720]  esse sim nós já tínhamos definido uma impressão sobre a participação dele no tráfico de drogas até aquele momento,
+[01:43:22,720 -> 01:43:34,720]  e dessa conversa dele, do Emerson com o Paulo, surge a desconfiança da participação dele com o tráfico,
+[01:43:34,720 -> 01:43:43,720]  porque na conversa dos dois, eu não estou com a conversa aqui aberta agora, mas eu cito isso no relatório e eu cito o número da chamada telefônica,
+[01:43:43,720 -> 01:43:56,720]  do guardião, há uma conversa onde o Ananias fala com o Paulo sobre pegar drogas, repassar drogas e reclama que pelo preço cobrado pelo Paulo ele não teria lucro,
+[01:43:56,720 -> 01:44:08,720]  mas deixa entendido que em outras situações parecidas ou iguais, ele obteve lucro pegando droga do Paulo Henrique e repassando para alguém, isso foi gravado.
+[01:44:08,720 -> 01:44:18,720]  Aí quando eu ultimei o Emerson e o Paulo para que eles viessem à delegacia, e até já complementando a resposta que eu dei para o outro doutor,
+[01:44:18,720 -> 01:44:27,720]  quando eles vieram à delegacia, a minha pergunta foi direta, o senhor está traficando drogas? Ele disse não, não estou, aí eu falei, o senhor conhece o Paulo Henrique?
+[01:44:27,720 -> 01:44:35,720]  Ele disse não, não conheço, só que o Paulo Henrique estava por lá de fora, aí eu pedi para o Paulo Henrique entrar, o Paulo Henrique disse, eu conheço ele, então assim,
+[01:44:35,720 -> 01:44:45,720]  o Emerson, o Emerson se não me engano, eu não me recordo, ele que era o motorista de bulgar, não sei se é ele, então o que acontece,
+[01:44:45,720 -> 01:44:57,720]  na investigação, provavelmente o Emerson pela facilidade de se deslocar pela cidade, ele usava isso como meio das entregas de drogas dele,
+[01:44:57,720 -> 01:45:11,720]  então assim, o Emerson, ele era um traficante de facção criminosa? Não, ele pegava droga do Paulo, tinha alguns contatos de alguns clientes, entregava essa droga e tinha uma margem de lucro,
+[01:45:11,720 -> 01:45:21,720]  eu não me recordo, inclusive, eu acho que a margem de lucro que ele tentava, se não me engano, era R$ 100, entendeu, então assim, mas ficou devidamente comprovado,
+[01:45:21,720 -> 01:45:38,720]  nos autos, nas conversas transcritas, inclusive, quando foi finalizadas as conversas, eu pedi que o analista reiterasse a análise com relação ao Emerson,
+[01:45:38,720 -> 01:45:55,720]  porque como eu não tinha outras ligações, eu falei, faz com atenção, vê se o Emerson é o Emerson, vê se o Paulo é o Paulo, vê se a conversa realmente é essa, porque era a única conversa que eu tinha respondido sobre o tráfico de drogas do Emerson,
+[01:45:55,720 -> 01:46:07,720]  mas conversa essa, em conteste, com relação à participação dele no tráfico, com certeza, se ele fosse mantido, a operação já estava madura para ser encerrada,
+[01:46:07,720 -> 01:46:26,720]  mas se mantirem a participação, por mais alguma forma, nós teríamos conceitos, outras provas, mas assim, eu no meu relatório, teve até um telefone que foi interceptado que foi arquivamento,
+[01:46:26,720 -> 01:46:44,720]  todo mundo tem o menor problema pessoal que chegar ao plano de investigação e dizer, com relação a essa pessoa, não há provas, mas eu tenho convicção plena de que com relação ao Emerson, esse diálogo que ele tem com o Paulo, é em conteste da participação dele no tráfico de drogas.
+[01:46:45,720 -> 01:47:10,720]  Só mais uma pergunta, excelência, quando o senhor coloca ambos frente a frente e que há o reconhecimento do denunciado Paulo Henrique, ele afirma que já vendeu drogas ao denunciado Emerson, mas ele, em algum momento, diz na qualidade de quê, se foi para revendo, se foi para uso próprio?
+[01:47:10,720 -> 01:47:33,720]  Eu não me recordo os detalhes da declaração do denúncio do real Paulo Henrique, até tenho aqui, posso tentar para ver, mas ela tomaria tempo, mas a minha, esse reconhecimento de um pelo outro, não foi um reconhecimento formal,
+[01:47:33,720 -> 01:47:48,720]  foi uma opção minha só para saber se o Emerson estava falando a verdade ou não, e quando foi demonstrado que ele estava mentindo, aí ele perdeu muito da credibilidade e inclusive perdeu espaço para mais mentiras.
+[01:47:48,720 -> 01:48:05,720]  Com relação, se o senhor perguntou o que ele faria com a droga do Paulo, isso não é, acho que salvo engano, não é baseado na declaração do Paulo, é baseado na conversa dos dois pela ligação que o fluxo foi interceptado.
+[01:48:05,720 -> 01:48:28,720]  Então, na interceptação, o Emerson fala ao Paulo que pegaria a droga e revenderia, e aí na declaração do Paulo, o Paulo confirma que realmente vendia drogas de forma reiterada ao Emerson, e o Emerson, na ligação que teve o fluxo desviado, o Emerson deixa claro que ele já tinha feito os três vezes e tinha obtido lucro,
+[01:48:28,720 -> 01:48:36,720]  mas que naquela vez, em razão do preço que o Paulo estava fazendo pela droga, ele não obteria lucro, mas mesmo assim faria, não obteria o lucro.
+[01:48:38,720 -> 01:48:39,720]  Sem mais excelência.
+[01:48:40,720 -> 01:48:48,720]  Ok, e agora o doutor, que é advogado do Juliano Lucas Nunes. Doutor César até desistiu, sumiu.
+[01:48:49,720 -> 01:48:58,720]  Eu não estou aqui. Boa tarde, doutor. Eu não vou distender muito, não, que já foi bastante esclarecedor o depoimento do doutor.
+[01:48:59,720 -> 01:49:16,720]  Eu só tenho uma dúvida. Nessas interceptações, o senhor fala o nome de uma pessoa, Ana Clara, em algum momento nessas investigações foi chamado ou foi ouvido algum viciado ou alguma pessoa que comprou drogas desse grupo?
+[01:49:17,720 -> 01:49:33,720]  Doutor, nós identificamos, se não me engano, no final da operação, ao próximo a 30 pessoas que foram contratadas por esse grupo, supostamente viciadas, porque nós filtravamos a conversa nesse sentido.
+[01:49:33,720 -> 01:49:45,720]  Quando a pessoa que interagia com os nossos autos não falava de revenda, não falava de ter lucro com a droga, nós não aprofundávamos a investigação nesse sentido.
+[01:49:45,720 -> 01:50:08,720]  Então, por opção de não aprofundar a investigação para identificar 30 usuários, ouvir 30 usuários, e aí é toda a dificuldade de se ter, inclusive, esses telefones que estão nos autos, todos os telefones que foram contatados com os réus para a compra de droga estão nos autos.
+[01:50:09,720 -> 01:50:21,720]  Então, também poderia, qualquer defesa, poderia tranquilamente, com base naqueles dados, requerer que fosse ouvido como testemunha, entendeu? Os supostos usuários.
+[01:50:21,720 -> 01:50:27,720]  Eu, como opção de investigação, eu preferi não aprofundar, porque senão a nossa investigação não acabaria.
+[01:50:27,720 -> 01:50:38,720]  Eu teria que localizar, identificar e ouvir pelo menos 30 usuários de droga na cidade. Isso demanda tempo, demanda um desgaste absurdo.
+[01:50:38,720 -> 01:50:51,720]  Mas todos aqueles telefones que foram identificados pelo sistema guardião, eu não sei se o senhor teve acesso às telas do sistema guardião, às transcrições, tem o telefone chamador e o chamado.
+[01:50:51,720 -> 01:51:07,720]  Nos autos os advogados têm acesso a todos os telefones. E se eventualmente aproveitar a defesa de qualquer um dos réus, a localização noitiva dessas pessoas, eu desde já me coloco à disposição para localizar e ouvir.
+[01:51:07,720 -> 01:51:18,720]  Só que a gente já tem a conversa dessa pessoa gravada. Então, se eu chamar essa pessoa para ser ouvido, esse viciado, esse usuário de drogas para ser ouvido, ele tem duas opções.
+[01:51:18,720 -> 01:51:32,720]  Ele pode reiterar o que está gravado com a voz dele, ou ele pode dizer que não se lembra, outra coisa ele não pode dizer. Então eu considero que essa prova era irrelevante no momento.
+[01:51:32,720 -> 01:51:46,720]  Mas as defesas podem considerar relevante nessas provas e indicar, olha, meu cliente falou com o telefone e tal, eu quero ouvir essa pessoa, eu não sei se agora a fase processual permite esse tipo de pedido.
+[01:51:46,720 -> 01:52:06,720]  Mas era algo viável desde o relatório final da investigação. Eu, no meu relatório, eu cito que essa linha investigativa de ouvir todos os compradores de drogas geraria um custo para o Estado, um custo para a delegacia em termos de recursos humanos e recursos materiais que não compensavam.
+[01:52:06,720 -> 01:52:16,720]  Porque essas pessoas tinham conversado, tem conversas gravadas, sem dúvida de que o padrão vocalico é dos termos.
+[01:52:16,720 -> 01:52:19,720]  Tá bom, cês são obrigados. Tem mais perguntas?
+[01:52:19,720 -> 01:52:25,720]  Doutor, eu também não tenho perguntas aqui, eu já fiz, você me respondeu que você tem matrícula e eu já anotei.
+[01:52:25,720 -> 01:52:40,720]  Doutor, muito obrigada, muito obrigada por sua paciência de repetir várias vezes, inclusive após já ter falado com o Ministério Público, repetir detidamente com cada indagação dos advogados.
+[01:52:40,720 -> 01:53:00,720]  Muito obrigada e parabenizo o senhor pelo seu trabalho, especialmente por esse cuidado que o senhor tem de identificar as pessoas e de intimá-las para que evite realmente da gente colocar alguém que não é efetivamente envolvido dentro de uma situação dessa.
+[01:53:00,720 -> 01:53:12,720]  Muito obrigada, o senhor está de parabéns, eu não o conhecia, acabei aqui ainda até de mandando mensagem com o meu promotor que trabalha comigo, parabenizando o seu trabalho. Fiquei muito impressionada com a sua diligência.
+[01:53:12,720 -> 01:53:14,720]  Muito obrigada, tá doutor?
+[01:53:14,720 -> 01:53:15,720]  Boa noite a todos.
+[01:53:15,720 -> 01:53:27,720]  Desculpe a demora, desculpe o horário e foi um prazer conhecê-lo. Eu sou de guaba grande, me suruquinha, pequenininha, ovinha. Mas se o senhor quiser aparecer, será o prazer. Obrigada.
+[01:53:27,720 -> 01:53:30,720]  Muito obrigada, doutora. Boa noite a todos.
+[01:53:30,720 -> 01:53:31,720]  Obrigada, igualmente.
+[01:53:31,720 -> 01:53:32,720]  Boa noite, doutora.
+[01:53:32,720 -> 01:53:42,720]  Doutora Renata, agora a senhora quer ouvir. O senhor Rodrigo Pinheiro, a senhora quer ouvir, o senhor Daniel Bragança, o senhor Vanderlei Targa, que todos os três estão no lobby.
+[01:53:42,720 -> 01:53:55,720]  Então, doutora, duas coisas. O Targa, que é policial civil, parece que ele está de licença na polícia civil. Se não me engano, licença até psiquiátrica. Eu vou dispensar a ativa dele.
+[01:53:55,720 -> 01:53:59,720]  Tá, então eu vou admiti-lo pra dispensá-lo, tá? Só um minuto.
+[01:53:59,720 -> 01:54:00,720]  Mas eu ia também...
+[01:54:00,720 -> 01:54:16,720]  Agora, eu não sei se houve testemunha comum de algum, se os senhores concordam com essa desistência, porque realmente esse processo eu não consegui achar todas as testemunhas de cada um, porque eu peguei esse bom dia andando.
+[01:54:16,720 -> 01:54:33,720]  Então, eu pergunto, há alguma das defesas que tenha rolado esse Vanderlei Targa como testemunha comum, ou seja, tenha posto as mesmas da denúncia? E aí, se houver, eu confirmo no processo aqui.
+[01:54:33,720 -> 01:54:47,720]  E aí, obviamente, a gente tem que ver se há possibilidade de definir ou não essa dispensa, considerando que se for testemunha comum, aquele que tiver rolado também precisa concordar.
+[01:54:47,720 -> 01:55:02,720]  Então, houve algum desses? Não. Não? Então, doutora, considerando o silêncio, é sinal de que não houve, então eu vou homologar a dispensa.
+[01:55:02,720 -> 01:55:07,720]  E vou só admiti-lo para poder dispensar.
+[01:55:07,720 -> 01:55:24,720]  Seu Vanderlei, você não precisa nem disponibilizar a sua imagem, eu estou só admitindo o senhor para dispensá-lo, porque o Ministério Público dispensou a sua oitiva e o senhor não foi rolado como testemunha comum de nenhuma das defesas, então o senhor está dispensado.
+[01:55:24,720 -> 01:55:35,720]  Eu vou pedir ao senhor que se retire e vou ouvir o próximo, a próxima testemunha que o Ministério Público não dispensa. Muito obrigada, tá, seu Vanderlei? Boa noite.
+[01:55:35,720 -> 01:55:58,720]  Ok, agora a senhora quer ouvir o Rodrigo ou o Daniel? Ah, deu uma congelada. Tenho que esperar a doutora voltar.
+[01:55:59,720 -> 01:56:07,720]  Por isso que eu realizo audiência do escritório da minha casa, porque a minha internet eu garanto.
+[01:56:07,720 -> 01:56:15,720]  Agora amanhã tem plantão em Búzios e eu vou fazer as minhas audiências da minha vara de lá cumprindo o plantão.
+[01:56:15,720 -> 01:56:24,720]  Eu espero que seja um plantão e não um plantão daquele que eu vá chorar muito, porque eu não vá conseguir fazer minhas audiências, vamos ver.
+[01:56:24,720 -> 01:56:30,720]  Mas o meu santo é tão forte que amanhã eu só tenho audiência de apresentação de menor infrator, graças a Deus.
+[01:56:30,720 -> 01:56:37,720]  Meu hoje de guarda é tão legal que ele já sabia que eu ia estar de plantão, mesmo sem eu saber que ele está acumulando Búzios, entendeu?
+[01:56:37,720 -> 01:56:45,720]  Então tem essas coisas assim, ele já sabe tudo. Porque essa audiência minha de apresentação, só apresentação, eu falei nossa que maravilha.
+[01:56:46,720 -> 01:56:54,720]  Que aí eu baixo o processo até a representação não vai dar problema. Doutora, doutora deu uma congelada, porque a senhora já ouviu o rosto do Daniel.
+[01:56:54,720 -> 01:57:05,720]  Eu caí, desculpa. Então o Rodrigo eu também vou dispensar, porque o Rodrigo foi o relator da análise da interceptação e ele sabe a mesma coisa que o doutor esquiva.
+[01:57:05,720 -> 01:57:10,720]  Tá, então eu vou também admiti-lo e agradecer a presença e dispensá-lo.
+[01:57:10,720 -> 01:57:13,720]  Isso, aí por mim eu posso ouvir o Daniel Bragança.
+[01:57:14,720 -> 01:57:30,720]  Senhor Rodrigo, muito prazer mais uma vez em tê-lo conosco, mas desculpe, a doutora agora dispensou a sua oitiva, porque as declarações do doutor Nelson supriram a sua oitiva.
+[01:57:30,720 -> 01:57:36,720]  Então eu quero agradecer a sua presença, mas eu pergunto novamente pelas defesas.
+[01:57:37,720 -> 01:57:44,720]  Alguém que tenha rolado também, o senhor Rodrigo, como testemunha comum? Não.
+[01:57:44,720 -> 01:57:53,720]  Então, senhor Rodrigo, eu também vou homologar a dispensa da sua oitiva. Peço desculpas por retê-lo esse tempo todo, mas eu não tenho disponibilidade sobre a prova.
+[01:57:53,720 -> 01:57:56,720]  Eu sou destinatária, mas disponibilidade eu não tenho.
+[01:57:56,720 -> 01:57:57,720]  Sem problema, senhora.
+[01:57:57,720 -> 01:58:02,720]  Quem dispõe são as partes. Então, senhor, me desculpe mais uma vez e eu agradeço a sua presença.
+[01:58:02,720 -> 01:58:05,720]  Sem problema, uma boa noite a todos e uma boa audiência.
+[01:58:05,720 -> 01:58:08,720]  Muito bom, desculpe. Até logo.
+[01:58:10,720 -> 01:58:14,720]  Pronto, agora sim, vamos ouvir o senhor Daniel.
+[01:58:15,720 -> 01:58:20,720]  Por gentileza, senhor Daniel Braga, por ter disponibilizado sua imagem e som, agradeço.
+[01:58:35,720 -> 01:58:37,720]  É bragança, na verdade.
+[01:58:38,720 -> 01:58:41,720]  É porque eu vi ali o que estava escrito, né?
+[01:58:45,720 -> 01:58:51,720]  Senhor Daniel, eu vou fazer o seguinte, vou fixar o senhor porque o senhor está atrás de mim, eu não estou vendo o senhor.
+[01:58:54,720 -> 01:59:01,720]  Senhor Daniel, o senhor está sob compromisso de dizer a verdade, sob pena de responder criminalmente por falso testemunho.
+[01:59:01,720 -> 01:59:09,720]  Os acusados, em grande maioria, não estão presentes, uma vez que o SEAP não conseguiu colocá-los no lobby nem apresentá-los.
+[01:59:10,720 -> 01:59:18,720]  A exceção do senhor Paulo Henrique, que é aquele senhor que está de fonezinho com blusa branca.
+[01:59:20,720 -> 01:59:29,720]  Mas eu tenho o nome de todos eles, então eu vou indagar do senhor se eu tenho algum problema pessoal com quaisquer dessas pessoas, que os nomes eu vou relatar agora.
+[01:59:30,720 -> 01:59:39,720]  A primeira seria Júlio Pereira Marcos, imposto vulgo Julião, esse está desmembrado desse processo, mas é um dos denunciados.
+[01:59:40,720 -> 01:59:50,720]  José Guilherme da Costa Freire, Cristiano Pereira Marcos, Paulo Henrique da Silva Bento, que é exatamente o senhor que está presente, o único.
+[01:59:51,720 -> 01:59:58,720]  Emerson Fernandes Ananias, Rodrigo Duarte de Souza, que também está desmembrado desse processo, mas é um dos réus.
+[01:59:59,720 -> 02:00:03,720]  E por último, Juliano Lucas Nunes, supostamente vulgo Lucas.
+[02:00:04,720 -> 02:00:12,720]  E eu não sei se você vai ver o meu cursor, talvez, veja, mas essa pessoa é que é o senhor Paulo Henrique.
+[02:00:13,720 -> 02:00:17,720]  Ou seja, ele está entre a doutora Renata e o advogado para mim.
+[02:00:18,720 -> 02:00:23,720]  Ele está de blusinha branca, de fone. Você tem algum problema pessoal com essas pessoas?
+[02:00:24,720 -> 02:00:25,720]  Não, nenhum.
+[02:00:25,720 -> 02:00:32,720]  Então o senhor vai ser ouvido com o compromisso da verdade. Quem vai indagar do senhor primeiramente vai ser a doutora Renata, promotora.
+[02:00:33,720 -> 02:00:37,720]  E depois, pela ordem dos denunciados, serão os respectivos advogados.
+[02:00:38,720 -> 02:00:44,720]  Está sendo certo que a partir do José Guilherme, porque o primeiro já está desmembrado desse processo.
+[02:00:45,720 -> 02:00:47,720]  Doutora Renata querendo pode indagar do senhor Daniel.
+[02:00:48,720 -> 02:00:51,720]  Se for o caso eu farei alguma pergunta complementar ao final.
+[02:00:51,720 -> 02:00:53,720]  Mas para adiantar, para evitar que eu me esqueça.
+[02:00:54,720 -> 02:00:58,720]  O senhor tem matrícula, ID, sei lá, porque agora eu descobri que tem um tal do ID também.
+[02:00:59,720 -> 02:01:01,720]  O senhor tem matrícula, RG, o que é que o senhor tem?
+[02:01:02,720 -> 02:01:05,720]  Tem assim, é primeiro sargento Daniel Bragança de Souro.
+[02:01:06,720 -> 02:01:07,720]  Ah, o senhor é DPM, ah tá.
+[02:01:08,720 -> 02:01:13,720]  Eu pensei que se eu fosse policial civil.
+[02:01:14,720 -> 02:01:16,720]  Então por favor, primeiro sargento, RG, o quê?
+[02:01:17,720 -> 02:01:19,720]  71820.
+[02:01:20,720 -> 02:01:22,720]  Ah tá, muito obrigada.
+[02:01:23,720 -> 02:01:25,720]  Então senhor Daniel, o senhor vai ser indagado agora pela doutora Renata.
+[02:01:26,720 -> 02:01:30,720]  Doutora Renata querendo pode indagar do policial militar, senhor Daniel.
+[02:01:31,720 -> 02:01:34,720]  Só um minuto, eu não sei do que se trata a audiência, eu não li a inicial.
+[02:01:35,720 -> 02:01:37,720]  Eu não leio denúncia, eu vou explicar uma coisa para o senhor.
+[02:01:38,720 -> 02:01:40,720]  O juiz tem que ser imparcial, sua lei denuncia para os acusados.
+[02:01:41,720 -> 02:01:45,720]  Se o senhor não lembrar, obviamente isso não tem culpa, ninguém lembra de tudo.
+[02:01:45,720 -> 02:01:51,720]  Mas os promotores de justiça já estão muito acostumados e eles sabem fazer aquele, sabe?
+[02:01:52,720 -> 02:01:53,720]  Faz meio que uma mágica.
+[02:01:54,720 -> 02:01:58,720]  Aí quando diz assim, eu não lembro, o sujeito fala a denúncia inteira, entendeu?
+[02:01:59,720 -> 02:02:02,720]  E mais alguma coisa que não está na denúncia, como reagressa.
+[02:02:03,720 -> 02:02:04,720]  Doutora Renata pode indagar.
+[02:02:05,720 -> 02:02:09,720]  Você vai ficar tranquilo que se o senhor lembrar, vai fazer o senhor lembrar.
+[02:02:10,720 -> 02:02:11,720]  Certo?
+[02:02:12,720 -> 02:02:14,720]  Obrigada, excelente. Boa noite policial, tudo bem?
+[02:02:15,720 -> 02:02:16,720]  Tudo bem.
+[02:02:17,720 -> 02:02:20,720]  Na verdade, esse processo aqui é bem grande, né?
+[02:02:21,720 -> 02:02:26,720]  A participação do senhor seria referente apenas com o Tom Hell chamado José Guilherme, não aos demais.
+[02:02:27,720 -> 02:02:34,720]  Eu queria saber sobre uma ocorrência que o senhor participou, foi em março de 2021, já tem um tempo.
+[02:02:35,720 -> 02:02:39,720]  A relacionada a uma moto, um patrulhamento sobre motos usados para roubo.
+[02:02:40,720 -> 02:02:43,720]  E que durante a ocorrência foi encontrado um tablet maconha na residência.
+[02:02:44,720 -> 02:02:49,720]  Era mais ou menos essa dinâmica inicial que foi, que consta na denúncia perto da reta da Marina.
+[02:02:50,720 -> 02:02:51,720]  O senhor se recorda dessa ocorrência?
+[02:02:52,720 -> 02:02:53,720]  Ah, recordo.
+[02:02:54,720 -> 02:02:57,720]  O senhor pode contar, por favor, como foi?
+[02:02:58,720 -> 02:03:06,720]  Nós tivemos nessa data aí, a gente estava no centro de buses e tivemos uma denúncia,
+[02:03:06,720 -> 02:03:20,720]  vião 90, se eu não me engano, que tinham dois elementos de uma moto praticando roubos naquelas imediações ali da Marina, do cruzeiro e, se eu não me engano ali, acho que era um buraco quente, uma coisa assim.
+[02:03:21,720 -> 02:03:31,720]  E aí nós nos deslocamos do centro para a Rasa e dentro desse deslocamento nós cruzamos com uma moto, com as características muito parecidas.
+[02:03:31,720 -> 02:03:37,720]  E aí nós fizemos o retorno e conseguimos ver o local onde ela parou.
+[02:03:38,720 -> 02:03:52,720]  Nesse local onde ela parou, a gente indagou algumas pessoas ali, ela tinha uma vila aberta, com várias casas, indagamos algumas pessoas ali, entre elas esse rapaz aí, que eu não lembro o nome, que a doutora falou aí.
+[02:03:53,720 -> 02:04:05,720]  Ele morava na parte de cima da casa e falou que era dono dessa moto que estava parada em frente a ele, mas não tinha nada de regular na moto, nem com o carro dele que estava lá.
+[02:04:06,720 -> 02:04:14,720]  Aí nós perguntamos a ele se tinha algo que regular em casa, ele falou que tinha uma quantidade de maconha e apresentou para a gente, só isso.
+[02:04:15,720 -> 02:04:22,720]  Essa maconha que ele apresentou, ele pegou e levou para vocês ou vocês entraram na casa e procuraram e acharam?
+[02:04:23,720 -> 02:04:32,720]  Para a gente ir num potinho, eram vários pedacinhos, não era uma coisa assim elaborada não, vários pedacinhos que ele falou que era para o uso dele.
+[02:04:33,720 -> 02:04:38,720]  Mas era tipo um tablet ou era bucha já endolada?
+[02:04:39,720 -> 02:04:47,720]  Não, eram pedacinhos, pedacinhos de... é solto, Zé, dentro de um potinho daquele de doce, que o pessoal costuma botar doce.
+[02:04:48,720 -> 02:04:52,720]  E ele chegou a falar se era para o uso pessoal ou se era para vento?
+[02:04:53,720 -> 02:04:54,720]  Ele falou que era para o uso pessoal.
+[02:04:55,720 -> 02:05:02,720]  Tá, essa ocorrência dessa apreensão no Samacón, vocês levaram ele para a delegacia e fizeram esse registro?
+[02:05:03,720 -> 02:05:04,720]  Levaram para a delegacia.
+[02:05:05,720 -> 02:05:21,720]  Depois desse dia, o senhor chegou a ver o José Guilherme, essa pessoa em alguma atividade que o senhor tem considerado suspeita de tráfico, chegou a abordar ele de novo, viu ele de novo?
+[02:05:22,720 -> 02:05:27,720]  Na realidade, eu nem conhecia ele até o dia do ocorrência e após o dia também nunca mais vi.
+[02:05:28,720 -> 02:05:32,720]  Nunca mais viu, né? Tá, tá bom. Obrigada, policial. Sem mais perguntas.
+[02:05:35,720 -> 02:05:37,720]  Tá, tá mudo, doutora.
+[02:05:38,720 -> 02:05:48,720]  Agora são os advogados. Então, agora, exatamente o advogado do senhor José Guilherme, essa pessoa que o senhor disse que tá envolvido, que a doutora lhe localizou.
+[02:05:49,720 -> 02:05:52,720]  Doutor, pode indagar do policial militar.
+[02:05:53,720 -> 02:05:56,720]  Sem perguntas. Outro advogado tem pergunta, silêncio?
+[02:05:57,720 -> 02:06:00,720]  Ok. Advogado é do senhor Cristiano?
+[02:06:01,720 -> 02:06:04,720]  Não, pela ordem, silêncio. Outro advogado do José Guilherme tem uma pergunta.
+[02:06:05,720 -> 02:06:08,720]  Ah, então pode falar. Por isso que eu falei. O senhor falou que era sem perguntas, então pode falar.
+[02:06:09,720 -> 02:06:15,720]  Se a doutora se entrou na casa do José Guilherme ou não? E do horário que foi essa apreensão?
+[02:06:17,720 -> 02:06:28,720]  É, ele perguntou se o senhor chegou a adentrar na casa do seu José Guilherme e se o senhor se recorda do horário, mais ou menos, dessa diligência.
+[02:06:28,720 -> 02:06:30,720]  O senhor teve contato com...
+[02:06:31,720 -> 02:06:36,720]  Era bem adiantado da noite, deveria ser umas 9, 10 horas da noite, por aí.
+[02:06:37,720 -> 02:06:40,720]  Podendo ser até um pouco mais, mas eu calculo que mais seja mais ou menos isso, umas 10 horas.
+[02:06:41,720 -> 02:06:43,720]  E a gente não adentrou não, a gente só perguntou a ele.
+[02:06:44,720 -> 02:06:46,720]  Ele colaborou muito com a diligência da gente.
+[02:06:47,720 -> 02:06:54,720]  Ele não resistiu em nada, deu a redocumentação da moto, deu a documentação do carro e falou que realmente tinha a quantidade de drogas.
+[02:06:55,720 -> 02:06:57,720]  E apresentou pra gente, só isso. Não teve nada de mais não.
+[02:06:58,720 -> 02:06:59,720]  Mais alguma pergunta, doutor?
+[02:07:00,720 -> 02:07:07,720]  Eu queria só constanhar que na folha 32 do processo tem uma foto da droga que foi apreendida e é um pedaço só, não é pedacinho pra mercancinha.
+[02:07:08,720 -> 02:07:15,720]  Não, mas olha só, doutor, isso aí é uma manifestação que o senhor tem que fazer quando o senhor for manifestar no processo, aqui nós estamos inquirindo.
+[02:07:16,720 -> 02:07:17,720]  Tem mais alguma pergunta, doutor?
+[02:07:18,720 -> 02:07:19,720]  Sem perguntas.
+[02:07:19,720 -> 02:07:20,720]  Eu vou consignar isso, isso aí é sua fala.
+[02:07:21,720 -> 02:07:22,720]  Isso não é o momento.
+[02:07:23,720 -> 02:07:26,720]  É quando o senhor tiver a manifestação técnica ser feita, não é o momento.
+[02:07:27,720 -> 02:07:28,720]  Mais alguma indagação?
+[02:07:29,720 -> 02:07:30,720]  Sem perguntas, mãe.
+[02:07:31,720 -> 02:07:34,720]  Ok. Agora, defesa do senhor Cristiano.
+[02:07:35,720 -> 02:07:36,720]  Sem perguntas.
+[02:07:37,720 -> 02:07:39,720]  Defesa do senhor Paulo Henrique.
+[02:07:40,720 -> 02:07:41,720]  Sem perguntas, excelência.
+[02:07:42,720 -> 02:07:43,720]  Defesa do senhor Emerson.
+[02:07:44,720 -> 02:07:45,720]  Sem perguntas, excelência.
+[02:07:46,720 -> 02:07:48,720]  Defesa do senhor Juliano.
+[02:07:49,720 -> 02:07:50,720]  Sem perguntas, excelência.
+[02:07:50,720 -> 02:07:51,720]  Sem perguntas, excelência.
+[02:07:52,720 -> 02:07:53,720]  Muito obrigada, senhor Daniel.
+[02:07:54,720 -> 02:08:04,720]  Desculpe o horário, desculpe estar na sua folga, mas eu espero que o senhor tenha ficado em casa, sei lá, em algum lugar confortável, considerando que a nossa audiência atrasou pra caramba.
+[02:08:05,720 -> 02:08:06,720]  Então, muito obrigada.
+[02:08:07,720 -> 02:08:11,720]  Eu já peguei os dados do senhor e agradeço a sua participação.
+[02:08:12,720 -> 02:08:13,720]  Obrigado, o senhor está dispensado.
+[02:08:14,720 -> 02:08:21,720]  Não há mais ninguém no lobby e há ainda testemunhas arroladas na denúncia.
+[02:08:23,720 -> 02:08:24,720]  Deixa-me ver aqui.
+[02:08:26,720 -> 02:08:28,720]  Vanderlei ouve dispensa.
+[02:08:32,720 -> 02:08:34,720]  O outro Rodrigo também.
+[02:08:35,720 -> 02:08:37,720]  Ouviu o doutor Rodrigo e o doutor Nelson.
+[02:08:38,720 -> 02:08:42,720]  Ainda há Débora Santana da Silva, que não se encontra presente,
+[02:08:43,720 -> 02:08:46,720]  Peter Nunes, que não se encontra presente também.
+[02:08:48,720 -> 02:08:49,720]  E aí, doutora?
+[02:08:50,720 -> 02:08:57,720]  Tem outro policial militar também de nome Anderson dos Santos da Rocha, que também não se encontra presente.
+[02:08:58,720 -> 02:08:59,720]  A Rocha está entrando.
+[02:09:00,720 -> 02:09:01,720]  Oi, quem?
+[02:09:02,720 -> 02:09:03,720]  O Rocha, o policial.
+[02:09:04,720 -> 02:09:05,720]  Anderson.
+[02:09:06,720 -> 02:09:07,720]  É o Anderson?
+[02:09:08,720 -> 02:09:10,720]  Ah, então tá bom, então o Anderson.
+[02:09:11,720 -> 02:09:14,720]  A Débora e o Peter, doutora, eu vou desistir, eu não vou insistir neles, não.
+[02:09:33,720 -> 02:09:34,720]  Ele está no meu lobby, não.
+[02:09:36,720 -> 02:09:37,720]  Ele está conectando.
+[02:09:38,720 -> 02:09:39,720]  Tá bom.
+[02:09:41,720 -> 02:09:46,720]  Bom, então ele vai ser o último arrolado pela denúncia.
+[02:09:47,720 -> 02:09:50,720]  E aí eu quero saber se...
+[02:09:51,720 -> 02:09:54,720]  Vou ter que descobrir aqui onde estão as respostas de cada um.
+[02:09:55,720 -> 02:09:59,720]  Ah, sim, senhor Anderson, para ver aqueles que...
+[02:10:06,720 -> 02:10:07,720]  Boa noite.
+[02:10:08,720 -> 02:10:10,720]  Boa noite, o senhor está atrás de mim de novo.
+[02:10:11,720 -> 02:10:14,720]  Espera aí, deixa eu me fixar aqui o senhor, que é para poder vê-lo de perto.
+[02:10:15,720 -> 02:10:17,720]  Policial, o senhor está de folga? Não, né?
+[02:10:18,720 -> 02:10:19,720]  Tá nada, né?
+[02:10:20,720 -> 02:10:23,720]  Tá trabalhando. Ai, graças a Deus, porque a sua horário ninguém merece, né?
+[02:10:24,720 -> 02:10:26,720]  O senhor já é subtenente?
+[02:10:27,720 -> 02:10:28,720]  O senhor é o quê?
+[02:10:29,720 -> 02:10:30,720]  Primeiro sargento.
+[02:10:31,720 -> 02:10:33,720]  Primeiro sargento? Tá quase, daqui a pouco é rapidinho.
+[02:10:34,720 -> 02:10:36,720]  O senhor pode me dar o seu RG?
+[02:10:37,720 -> 02:10:39,720]  620.
+[02:10:40,720 -> 02:10:41,720]  620.
+[02:10:42,720 -> 02:10:44,720]  Anderson dos Santos da Rocha, não é isso?
+[02:10:45,720 -> 02:10:46,720]  Senhor Anderson.
+[02:10:47,720 -> 02:10:55,720]  Senhor Anderson, quem vai indagar do senhor, primeiramente vai ser a doutora Renata, promotora de justiça,
+[02:10:56,720 -> 02:11:00,720]  depois as defesas de cada acusado, que são vários, tá?
+[02:11:00,720 -> 02:11:03,720]  Se for o caso, eu farei alguma pergunta complementar ao final.
+[02:11:04,720 -> 02:11:10,720]  Eu não leio denúncia, como o meu colega parece que faz, eu não leio, mas não tem problema,
+[02:11:11,720 -> 02:11:16,720]  porque a doutora tem o jeitinho, os promotores estão acostumados a fazê-los lembrar de alguma coisa,
+[02:11:17,720 -> 02:11:20,720]  então só pode ficar tranquilo que, só mesmo se realmente eu não lembrar mesmo,
+[02:11:21,720 -> 02:11:23,720]  mas fora isso, ela vai dar o jeitinho dela.
+[02:11:24,720 -> 02:11:27,720]  E aí depois eu passo a palavra para os advogados das defesas,
+[02:11:27,720 -> 02:11:31,720]  se for o caso, eu farei alguma pergunta complementar ao final.
+[02:11:32,720 -> 02:11:33,720]  Podemos começar então?
+[02:11:34,720 -> 02:11:39,720]  Mas antes disso, deixa eu ver onde é que está ele que eu não estou vendo.
+[02:11:40,720 -> 02:11:41,720]  Cadê o acusado?
+[02:11:42,720 -> 02:11:43,720]  Não está aqui.
+[02:11:44,720 -> 02:11:45,720]  Sumiu.
+[02:11:46,720 -> 02:11:52,720]  Os acusados, na verdade, eles não foram apresentados, apenas um deles, Paulo Henrique,
+[02:11:52,720 -> 02:11:57,720]  que foi apresentado e eu não estou vendo mais ele aqui, porque não sei.
+[02:11:58,720 -> 02:12:00,720]  Não sei se eles estão vendo o Paulo Henrique?
+[02:12:01,720 -> 02:12:02,720]  Sim, excelente.
+[02:12:03,720 -> 02:12:04,720]  É eu que não estou.
+[02:12:05,720 -> 02:12:08,720]  Bom, é um que está de camisa branca, não sei se o senhor está conseguindo ver,
+[02:12:09,720 -> 02:12:13,720]  porque eu também aumentei a sua imagem, aí pode ser que eu tenha perdido a imagem dele.
+[02:12:14,720 -> 02:12:18,720]  Ele é um dos acusados e eu vou dizer os nomes das pessoas
+[02:12:19,720 -> 02:12:21,720]  e pergunto se o senhor tem algum problema pessoal com essas pessoas.
+[02:12:22,720 -> 02:12:27,720]  Elas não foram apresentadas, mas as defesas não se opuseram de colher a prova sem a presença deles.
+[02:12:28,720 -> 02:12:33,720]  Então, o primeiro acusado chama-se Júlio Pereira Marcos, supostamente vulgo, Julião.
+[02:12:34,720 -> 02:12:39,720]  A segunda pessoa seria José Guilherme da Costa Freire, o terceiro, Cristiano Pereira Marcos,
+[02:12:40,720 -> 02:12:46,720]  o quarto é o tal do Paulo Henrique, que se encontra presente, único acusado, supostamente vulgo, Paulinho,
+[02:12:46,720 -> 02:12:53,720]  Emerson Fernandes Ananias, Rodrigo Duarte de Souza, que embora esteja denunciado esse processo,
+[02:12:54,720 -> 02:12:56,720]  ele não está neste processo agora porque foi desmembrado,
+[02:12:57,720 -> 02:12:59,720]  para não prejudicar os demais que estão presos,
+[02:13:00,720 -> 02:13:04,720]  e o último, Juliano Lucas Nunes, que supostamente teria o vulgo de Lucas.
+[02:13:05,720 -> 02:13:06,720]  O senhor tem algum problema pessoal com essas pessoas?
+[02:13:07,720 -> 02:13:08,720]  Não.
+[02:13:09,720 -> 02:13:11,720]  Então está bem, então podemos ouvi-lo sobre o compromisso de verdade.
+[02:13:12,720 -> 02:13:16,720]  Doutora Renata, querendo, pode indagar do policial senhor Anderson.
+[02:13:17,720 -> 02:13:20,720]  Obrigada, silêncio. Boa noite, policial, tudo bom?
+[02:13:21,720 -> 02:13:22,720]  Boa noite, senhora.
+[02:13:23,720 -> 02:13:26,720]  Esse processo aqui, na verdade, se refere a vários réus,
+[02:13:27,720 -> 02:13:32,720]  mas a participação do senhor seria só relacionada ao réu chamado José Guilherme,
+[02:13:33,720 -> 02:13:39,720]  sobre uma ocorrência em março de 2021 relacionada a uma denúncia de roubos de moto lá perto da reta da Marina,
+[02:13:39,720 -> 02:13:44,720]  onde foi apreendido uma quantidade de maconha numa das casinhas, o senhor se recorda?
+[02:13:45,720 -> 02:13:46,720]  Lembro-se, senhora.
+[02:13:47,720 -> 02:13:48,720]  O senhor pode contar, por favor, como foi a sua ocorrência?
+[02:13:49,720 -> 02:13:55,720]  Bom, a gente recebeu uma denúncia que estava tendo assalto de moto na Rasa,
+[02:13:56,720 -> 02:14:00,720]  está na Marina, eu lembro que a gente ficou patrulhando ali no local,
+[02:14:01,720 -> 02:14:07,720]  e o moto viu a gente, voltou, e a gente foi atrás.
+[02:14:08,720 -> 02:14:10,720]  Aí eu lembro que a gente se abordou.
+[02:14:12,720 -> 02:14:15,720]  Aí eu não lembro como foi o senhor José, eu não lembro o que foi.
+[02:14:16,720 -> 02:14:19,720]  É o senhor que chegou lá na casa, a gente contou a pessoa,
+[02:14:20,720 -> 02:14:23,720]  aí perguntaram se tinha arma, se tinha droga,
+[02:14:24,720 -> 02:14:26,720]  ele foi muito educado com a gente,
+[02:14:27,720 -> 02:14:30,720]  e depois ele disse que tinha droga e a gente pediu pra pegar lá o que era,
+[02:14:31,720 -> 02:14:33,720]  e ele e todo mundo pediu.
+[02:14:37,720 -> 02:14:42,720]  Para a gente, só um finalzinho, que eu acho que teve alguma interrupção aí no seu áudio,
+[02:14:43,720 -> 02:14:45,720]  aí vocês pediram para ele buscar a droga dentro de casa e ele saiu com o quê?
+[02:14:46,720 -> 02:14:49,720]  Ele saiu dentro de um vidro, um pote tipo aqueles potes de vidro de bispoito,
+[02:14:50,720 -> 02:14:54,720]  aí ele trouxe, aí a gente levou para a delegacia, mas...
+[02:14:57,720 -> 02:15:01,720]  Eu acho que ele não estava envolvido com o negócio de moto lá de local.
+[02:15:02,720 -> 02:15:03,720]  Não sei.
+[02:15:04,720 -> 02:15:07,720]  Então ele que pegou dentro de casa, vocês não chegaram a entrar na casa dele,
+[02:15:08,720 -> 02:15:11,720]  fizeram buscas e pegaram, ele que levou para vocês a maconha que ele tinha?
+[02:15:12,720 -> 02:15:16,720]  Não, é porque ele tratou a gente de má educação ali no portão e tal, falando,
+[02:15:17,720 -> 02:15:21,720]  aí a gente foi conversando e ele... aí eu perguntei, olha, tem arma dentro de casa?
+[02:15:22,720 -> 02:15:23,720]  Droga, alguma coisa?
+[02:15:24,720 -> 02:15:25,720]  Ele disse, não tem aqui.
+[02:15:26,720 -> 02:15:28,720]  Aí foi lá que a gente pegou.
+[02:15:29,720 -> 02:15:32,720]  Era tipo um tablet assim de maconha ou estava fracionado?
+[02:15:33,720 -> 02:15:34,720]  Não lembra?
+[02:15:35,720 -> 02:15:38,720]  Não lembro, acho que estava quebrado, quebrado dentro de um pote de bispoito.
+[02:15:39,720 -> 02:15:44,720]  Mas não estava assim, tipo o bus, endolado, com inscrição, tipo aquela fracionada?
+[02:15:45,720 -> 02:15:46,720]  Não.
+[02:15:49,720 -> 02:15:54,720]  Depois desse dia, lembra se o senhor chegou a ver o Zé Guilherme de novo,
+[02:15:55,720 -> 02:15:56,720]  chegou a abordar ele de novo?
+[02:15:57,720 -> 02:15:58,720]  Não, não.
+[02:15:58,720 -> 02:16:03,720]  Depois dessa semana eu saí da rua e vim trabalhar interno, já.
+[02:16:04,720 -> 02:16:08,720]  Ah, tá, tá. Então tá bom. Obrigada, Priscila. Sem mais perguntas.
+[02:16:09,720 -> 02:16:12,720]  Ok, agora eu vou indagar dos advogados de cada cruzado, tá?
+[02:16:13,720 -> 02:16:14,720]  Só um minutinho se tem perguntas para o senhor.
+[02:16:15,720 -> 02:16:17,720]  Priscila, eu tenho uma pergunta...
+[02:16:18,720 -> 02:16:21,720]  É só um minutinho, vamos para a gente respeitar a ordem, né?
+[02:16:22,720 -> 02:16:23,720]  Os senhores gostam tanto de usar a expressão, né?
+[02:16:23,720 -> 02:16:25,720]  Pela ordem, então, eu estou a...
+[02:16:26,720 -> 02:16:27,720]  Está na onda, Priscila.
+[02:16:28,720 -> 02:16:29,720]  Vamos lá.
+[02:16:30,720 -> 02:16:34,720]  Advogado do Zé Guilherme, pode formular a pergunta se tiver.
+[02:16:35,720 -> 02:16:37,720]  O policial, boa noite.
+[02:16:38,720 -> 02:16:43,720]  O senhor falou que a droga estava na casa dele,
+[02:16:44,720 -> 02:16:46,720]  e que ele trouxe com o senhor espontaneamente.
+[02:16:47,720 -> 02:16:50,720]  Então a droga, conforme o delegado falou, não estava na porta,
+[02:16:50,719 -> 02:16:52,719]  ela estava na porta, ela estava dentro da casa dele.
+[02:16:53,719 -> 02:17:00,719]  Ela estava dentro da casa dele, que ele trouxe para lhe entregar.
+[02:17:01,719 -> 02:17:02,719]  Foi isso que o senhor falou?
+[02:17:03,719 -> 02:17:06,719]  Sim, ele disse que sim, doutor. Mais alguma indagação?
+[02:17:07,719 -> 02:17:12,719]  Tá. Então, essa droga a senhora não sabe como foi encontrada, não, né?
+[02:17:13,719 -> 02:17:14,719]  Que foi pressionada...
+[02:17:15,719 -> 02:17:18,719]  Ele respondeu que estava pressionada dentro de um pontinho de biscoito.
+[02:17:18,719 -> 02:17:20,719]  Mais alguma indagação?
+[02:17:21,719 -> 02:17:22,719]  Sem perguntas em silêncio.
+[02:17:23,719 -> 02:17:27,719]  Ok, obrigada. Agora, defesa do senhor Cristiano.
+[02:17:28,719 -> 02:17:29,719]  Sem perguntas.
+[02:17:30,719 -> 02:17:32,719]  Defesa do senhor Paulo Henrique.
+[02:17:33,719 -> 02:17:34,719]  Sem perguntas em silêncio.
+[02:17:35,719 -> 02:17:37,719]  Defesa do senhor Emerson Fernandes Ananias.
+[02:17:38,719 -> 02:17:39,719]  Sem perguntas em silêncio.
+[02:17:40,719 -> 02:17:43,719]  Defesa do senhor Juliano Lucas Nunes.
+[02:17:44,719 -> 02:17:45,719]  Sem perguntas em silêncio.
+[02:17:45,719 -> 02:17:47,719]  Ok. Muito obrigada, senhoranda.
+[02:17:48,719 -> 02:17:52,719]  Eu sou um desculpe do horário, mas é que atrasou muito a primeira e essa também é bem longa.
+[02:17:53,719 -> 02:17:54,719]  Tenho outra ainda, tenho outra ainda.
+[02:17:55,719 -> 02:17:59,719]  Pois é, eu tenho também. Se servir de consola, nós nos encontraremos.
+[02:18:00,719 -> 02:18:02,719]  Mas o senhor tem que saber que o senhor está trabalhando hoje, o senhor deu sorte.
+[02:18:03,719 -> 02:18:04,719]  Deu sorte mesmo.
+[02:18:05,719 -> 02:18:06,719]  Isso aí. Muito obrigada, então.
+[02:18:07,719 -> 02:18:08,719]  Eu que agradeço.
+[02:18:09,719 -> 02:18:10,719]  Boa noite até daqui a pouco, então.
+[02:18:11,719 -> 02:18:12,719]  Boa noite.
+[02:18:13,719 -> 02:18:14,719]  Obrigada.
+[02:18:16,719 -> 02:18:17,719]  É.
+[02:18:18,719 -> 02:18:25,719]  Doutores, eu creio que não estão presentes as testemunhas arroladas pela defesa.
+[02:18:26,719 -> 02:18:28,719]  Não me apareceu ninguém no lobby aqui.
+[02:18:29,719 -> 02:18:31,719]  Eu tenho que saber com o pessoal lá do...
+[02:18:32,719 -> 02:18:33,719]  Se tem alguém.
+[02:18:34,719 -> 02:18:35,719]  É.
+[02:18:36,719 -> 02:18:37,719]  Se tem alguém aguardando.
+[02:18:38,719 -> 02:18:40,719]  Estão todas aqui presentes aqui no ato, silêncio.
+[02:18:41,719 -> 02:18:45,719]  Sim, só que nós vamos ter um problema porque nós não vamos poder colher o interrogatório.
+[02:18:46,719 -> 02:18:51,719]  Então, eu vou encerrando a prova do Ministério Público.
+[02:18:52,719 -> 02:18:56,719]  Eu vou deixar para que seja colhida a prova da defesa junto com a possibilidade do interrogatório.
+[02:18:57,719 -> 02:18:59,719]  Porque senão a gente não vai terminar isso hoje.
+[02:19:00,719 -> 02:19:03,719]  E não vai adiantar porque nós não vamos conseguir ultimar a audiência hoje.
+[02:19:04,719 -> 02:19:06,719]  Porque não poderemos colher o interrogatório.
+[02:19:07,719 -> 02:19:10,719]  Então, eu vou determinar a continuação.
+[02:19:11,719 -> 02:19:15,719]  Vou determinar na sentada que seja o marcado com urgência.
+[02:19:16,719 -> 02:19:18,719]  Considerando que se tratam de réus presos.
+[02:19:19,719 -> 02:19:23,719]  E vamos prosseguir com essa continuação da audiência.
+[02:19:24,719 -> 02:19:27,719]  No momento em que se possa colher a prova da defesa.
+[02:19:28,719 -> 02:19:33,719]  E se fazer o interrogatório.
+[02:19:33,719 -> 02:19:35,719]  Então, eu já vou mandar mensagem aqui.
+[02:19:36,719 -> 02:19:37,719]  Não sei se o Pablo está me ouvindo.
+[02:19:38,719 -> 02:19:39,719]  Para eles já marcarem uma data.
+[02:19:40,719 -> 02:19:45,719]  E colherem as intimações das testemunhas presenciais.
+[02:19:46,719 -> 02:19:48,719]  Para que não haja nenhum tipo de prejuízo.
+[02:19:49,719 -> 02:19:50,719]  Em termos de não serem intimados.
+[02:19:51,719 -> 02:19:52,719]  Eu vou falar aqui com o pessoal.
+[02:19:53,719 -> 02:19:54,719]  Que eu não sei se ele está me escutando.
+[02:19:55,719 -> 02:19:56,719]  Está me escutando, doutora.
+[02:19:57,719 -> 02:19:58,719]  Então, beleza.
+[02:19:59,719 -> 02:20:01,719]  Eu ia mandar por WhatsApp porque às vezes não escutam.
+[02:20:01,719 -> 02:20:03,719]  Então, eu gostaria de pedir a vocês já.
+[02:20:04,719 -> 02:20:05,719]  Para designar a continuação.
+[02:20:06,719 -> 02:20:07,719]  E eu fixo isso na sentada.
+[02:20:08,719 -> 02:20:09,719]  Pela ordem, silêncio.
+[02:20:10,719 -> 02:20:11,719]  Sim.
+[02:20:12,719 -> 02:20:13,719]  Eu tenho requerimento.
+[02:20:14,719 -> 02:20:15,719]  Não, doutor.
+[02:20:16,719 -> 02:20:17,719]  Calma aí que eu ainda não encerrei a audiência.
+[02:20:18,719 -> 02:20:19,719]  Calma.
+[02:20:20,719 -> 02:20:21,719]  O senhor é muito apoio, doutor.
+[02:20:22,719 -> 02:20:23,719]  O senhor tem que ficar mais calmo.
+[02:20:24,719 -> 02:20:25,719]  A gente quando vai ficando assim de mais idade.
+[02:20:26,719 -> 02:20:27,719]  A gente vai ficando mais calmo.
+[02:20:28,719 -> 02:20:29,719]  O senhor parece que ficou mais agitado.
+[02:20:30,719 -> 02:20:31,719]  Calma.
+[02:20:32,719 -> 02:20:33,719]  Já fui muito mais agitado.
+[02:20:34,719 -> 02:20:35,719]  O senhor é muito agitado.
+[02:20:36,719 -> 02:20:38,719]  Daqui a pouco eu vou permitir a manifestação de todo mundo.
+[02:20:39,719 -> 02:20:40,719]  Eu agora estou falando com a secretaria.
+[02:20:41,719 -> 02:20:42,719]  Para nós marcarmos a continuação.
+[02:20:43,719 -> 02:20:44,719]  Ok?
+[02:20:45,719 -> 02:20:46,719]  Doutora.
+[02:20:47,719 -> 02:20:48,719]  Sim.
+[02:20:49,719 -> 02:20:50,719]  Posso colocar para segunda semana de agosto?
+[02:20:51,719 -> 02:20:52,719]  Você acha perto?
+[02:20:53,719 -> 02:20:54,719]  Tem que ver.
+[02:20:55,719 -> 02:20:56,719]  Olha só.
+[02:20:57,719 -> 02:20:58,719]  Os réus estão presos.
+[02:20:59,719 -> 02:21:00,719]  Não tem que ser tão alto.
+[02:21:01,719 -> 02:21:02,719]  O mais rápido possível.
+[02:21:03,719 -> 02:21:04,719]  Se for a única data, entendeu?
+[02:21:05,719 -> 02:21:06,719]  Mas se tiver alguma possibilidade
+[02:21:07,719 -> 02:21:08,719]  porque vão ser ouvidas as testemunhas
+[02:21:09,719 -> 02:21:10,719]  agoladas pela defesa.
+[02:21:11,719 -> 02:21:14,719]  Tem que ser um dia que esteja tranquilo a situação.
+[02:21:15,719 -> 02:21:16,719]  E eu não sei como que o colega vai fazer.
+[02:21:17,719 -> 02:21:18,719]  Vai fazer presencial.
+[02:21:19,719 -> 02:21:20,719]  Vai fazer via virtual.
+[02:21:21,719 -> 02:21:22,719]  Eu não sei.
+[02:21:23,719 -> 02:21:24,719]  Tem que ver.
+[02:21:25,719 -> 02:21:26,719]  Tem que ver a data que vocês possam marcar.
+[02:21:26,719 -> 02:21:33,479]  Eu só preciso consignar isso em ata para poder saber a continuação, por favor.
+[02:21:33,479 -> 02:21:56,519]  E aí eu peço eles que colhem as intimações por certidão e depois integrem
+[02:21:57,079 -> 02:22:03,120]  digitalizando a certidão com a assinatura das testemunhas intimadas, tá? Para data e horário.
+[02:22:03,120 -> 02:22:08,520]  Doutor, o Pabllo tá te enviando pelo WhatsApp.
+[02:22:08,520 -> 02:22:11,079]  Ah, que ótimo, então tá bom.
+[02:22:11,079 -> 02:22:13,280]  As testemunhas estão em defesa, estão dispensadas, Celense?
+[02:22:13,280 -> 02:22:17,239]  Não, não estão dispensadas, porque elas vão ser intimadas da data, doutor.
+[02:22:17,239 -> 02:22:24,399]  Exatamente. Enquanto elas não se forem intimadas por certidão da continuação da audiência,
+[02:22:24,440 -> 02:22:28,799]  elas não estão dispensadas, só não vão ser ouvidas hoje, somente.
+[02:22:28,799 -> 02:22:35,000]  Mas eles vão providenciar isso aí, a certidãozinha com a continuação e vão colher as
+[02:22:35,000 -> 02:22:40,600]  intimações das testemunhas, ok? Então eu agradeço a presença de todos, teremos ainda,
+[02:22:40,600 -> 02:22:46,719]  doutora Renata, para a tristeza nossa e alegria talvez de, sei lá, dos acusados,
+[02:22:47,319 -> 02:22:53,519]  teremos a última audiência, 21, 25, 18, de índice 28.
+[02:22:53,519 -> 02:23:00,519]  Passe tudo, disto 28. Só agradeço a presença de todos, peço desculpa por alguma coisa,
+[02:23:00,519 -> 02:23:02,519]  alguma brincadeirinha, sei lá.
+[02:23:02,519 -> 02:23:05,920]  Celense, pela ordem, Celense. Antes de encerrar a audiência,
+[02:23:05,920 -> 02:23:08,319]  é, os senhores querem fazer os requerimentos, né?
+[02:23:08,319 -> 02:23:11,519]  Eu já presumo quais sejam. Posso adivinhar?
+[02:23:11,720 -> 02:23:16,720]  Liberdade, infelizmente, não vou poder. Porque nós estamos no meio da instrução.
+[02:23:16,720 -> 02:23:22,720]  Então, se os senhores quiserem, eu vou indeferir, na assentada eu vou indeferir, tá?
+[02:23:22,720 -> 02:23:29,120]  Porque nós estamos colhendo, colhemos hoje a prova arrolada na denúncia,
+[02:23:29,120 -> 02:23:32,520]  nós estamos no meio da instrução, né?
+[02:23:32,520 -> 02:23:38,720]  O status do processo continua com o que consta da inquisa,
+[02:23:38,920 -> 02:23:43,319]  porque até agora nós só produzimos a prova da denúncia.
+[02:23:43,319 -> 02:23:47,319]  Portanto, não alterou o estado dos fatos aqui até agora.
+[02:23:47,319 -> 02:23:52,920]  Então, por isso, eu vou indeferir o requerimento libertário que vou atribuir a todos, né?
+[02:23:52,920 -> 02:23:56,719]  Consigo que todos os advogados requeriram a liberdade,
+[02:23:56,719 -> 02:23:59,319]  mas já estou declarando que eu vou indeferi-la,
+[02:23:59,319 -> 02:24:02,319]  porque não alterou o estado do processo.
+[02:24:02,319 -> 02:24:06,719]  Nós até agora colhemos a prova do Ministério Público,
+[02:24:06,719 -> 02:24:14,119]  e como os senhores viram, um delegado que eu fiquei bem pressionada com o trabalho diligente dele.
+[02:24:14,119 -> 02:24:18,319]  Então, podemos encerrar a nossa audiência,
+[02:24:18,319 -> 02:24:22,119]  sendo certo que as testemunhas dos senhores já irão intimadas,
+[02:24:22,119 -> 02:24:24,920]  acho que estão presentes hoje, ok?
+[02:24:24,920 -> 02:24:29,119]  Muito obrigada, uma boa noite a todos, tudo de bom.
+[02:24:29,119 -> 02:24:32,319]  Pela ordem, a senhora quer falar, a senhora?
+[02:24:32,319 -> 02:24:33,719]  Pode falar, doutor.
+[02:24:33,719 -> 02:24:38,319]  A excelência, considerando que o réu se apresentou espontaneamente na...
+[02:24:38,319 -> 02:24:39,920]  Vou indeferir, doutor.
+[02:24:39,920 -> 02:24:43,519]  Vou indeferir, já está indeferida a defesa, sabe por quê?
+[02:24:43,519 -> 02:24:45,920]  Vou repetir a fundamentação.
+[02:24:45,920 -> 02:24:49,519]  Até agora, nós só temos o que consta da inquisa.
+[02:24:49,519 -> 02:24:56,119]  A instrução está mantida, porque ainda estamos com o que consta da inquisa.
+[02:24:56,119 -> 02:24:59,119]  A inquisa que foi decretada a prisão,
+[02:24:59,120 -> 02:25:03,120]  porque não foi decretada a prisão apenas por uma...
+[02:25:03,120 -> 02:25:06,120]  No primeiro, nós não precisamos da concomitância
+[02:25:06,120 -> 02:25:09,120]  de todos os requisitos do artigo 312.
+[02:25:09,120 -> 02:25:11,320]  Basta a presença de um.
+[02:25:11,320 -> 02:25:14,920]  Nós já estamos ainda com o relatório da inquisa,
+[02:25:14,920 -> 02:25:18,320]  ou seja, o que fundamentou a denúncia.
+[02:25:18,320 -> 02:25:21,320]  Até agora, só temos essa prova produzida.
+[02:25:21,320 -> 02:25:25,520]  Por outro lado, nós ainda não terminamos a instrução,
+[02:25:25,520 -> 02:25:28,320]  começa por aí, não terminamos.
+[02:25:28,319 -> 02:25:33,119]  E, por outro lado, ainda tem a possibilidade da aplicação da lei penal.
+[02:25:33,119 -> 02:25:37,719]  Então, diante disso, são todos os requisitos do artigo 312,
+[02:25:37,719 -> 02:25:40,119]  que não são concomitantes.
+[02:25:40,119 -> 02:25:42,520]  Basta a presença de um.
+[02:25:42,520 -> 02:25:47,520]  E eu entendo que as medidas cautelares substitutivas
+[02:25:47,520 -> 02:25:56,319]  da cautelar corporal não atendem à garantia da aplicação da lei penal
+[02:25:56,319 -> 02:26:00,319]  e nem à conveniência da instrução criminal,
+[02:26:00,319 -> 02:26:06,520]  porque já foi encerrado apenas o que constou da inquisa.
+[02:26:06,520 -> 02:26:08,719]  Nós estamos ainda em instrução.
+[02:26:08,719 -> 02:26:10,719]  Então, está indefinida.
+[02:26:10,719 -> 02:26:13,719]  O senhor pode ficar à vontade para empetrar o habeas corpus,
+[02:26:13,719 -> 02:26:15,119]  não tem problema.
+[02:26:15,119 -> 02:26:19,119]  Eu não ligo com habeas corpus de verdade, só ligo de verdade.
+[02:26:19,119 -> 02:26:21,319]  Sabe qual é o habeas corpus que eu acho que eu ligo?
+[02:26:21,319 -> 02:26:25,319]  É certo de fato, a minha vara não tem.
+[02:26:25,319 -> 02:26:28,119]  Agora, habeas corpus, por outras fundamentações,
+[02:26:28,119 -> 02:26:30,520]  podem ingressar com vários, porque eu informo em uma...
+[02:26:30,520 -> 02:26:32,119]  Excelente.
+[02:26:32,119 -> 02:26:35,520]  Tem que definir como está a defesa, mas é um recurso.
+[02:26:35,520 -> 02:26:37,520]  Isso, isso mesmo.
+[02:26:37,520 -> 02:26:40,319]  Mas aí, os senhores ganham mais dinheiro, pô.
+[02:26:40,319 -> 02:26:42,520]  Os senhores estão reclamando, os senhores trabalham por peça,
+[02:26:42,520 -> 02:26:43,719]  pelo amor de Deus.
+[02:26:43,719 -> 02:26:46,920]  Quanto mais recurso, quanto mais defesa,
+[02:26:46,920 -> 02:26:49,520]  mais os senhores têm que falar ao cliente, olha só,
+[02:26:49,520 -> 02:26:51,119]  que você me dá trabalho.
+[02:26:51,119 -> 02:26:52,520]  É isso, doutor.
+[02:26:52,520 -> 02:26:54,920]  Mas beleza, estou até ajudando o trabalho do senhor,
+[02:26:54,920 -> 02:26:56,319]  pelo amor de Deus.
+[02:26:56,319 -> 02:26:57,920]  Né? Então, só isso.
+[02:26:57,920 -> 02:27:01,319]  Muito obrigada, uma boa noite a todos,
+[02:27:01,319 -> 02:27:03,520]  é prazer em conhecê-los.
+[02:27:03,520 -> 02:27:07,520]  E vamos, doutora, para a nossa última lei,
+[02:27:07,520 -> 02:27:11,319]  horário 15h30, 15h30.
+[02:27:11,319 -> 02:27:12,319]  Ok?

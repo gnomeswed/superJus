@@ -1,0 +1,19 @@
+{
+  "nome": "Júlio Pereira Marcos",
+  "numero_processo": "0029845-67.2026.8.19.0002",
+  "rg": "",
+  "cpf": "",
+  "artigo": "Art. 33 e 35, Lei 11.343/06",
+  "status": "Preso - Preventiva",
+  "processos_relacionados": [
+    "0029845-67.2026",
+    "0023013-51.2021",
+    "0022975-39.2021",
+    "0012801-74.2022",
+    "0001140-87.2024"
+  ],
+  "crime": "Tráfico e Associação (Operação Delivery)",
+  "prisao_data": "2022-01-27",
+  "cumprimento_data": "2026-05-12",
+  "hc_impetrado": "2026-05-05"
+}

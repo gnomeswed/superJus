@@ -1,0 +1,294 @@
+--- PAGINA 1 ---
+Consulta Processual por Número - Segunda Instância
+As informações aqui contidas não produzem efeitos legais.
+Somente a publicação no DJERJ oficializa despachos e decisões e estabelece prazos.
+o
+Processo N : 0012801-74.2022.8.19.0000
+TJ/RJ - 30/05/2026 07:46 - Segunda Instância - Autuado em 23/02/2022
+Processo eletrônico - clique aqui para visualizar.
+Classe: HABEAS CORPUS
+Assunto: Tráfico de Drogas e Condutas Afins / Crimes de Tráfico Ilícito e
+Uso Indevido de Drogas / Crimes Previstos na Legislação
+Extravagante / DIREITO PENAL
+Associação para a Produção e Tráfico e Condutas Afins /
+Crimes de Tráfico Ilícito e Uso Indevido de Drogas / Crimes
+Previstos na Legislação Extravagante / DIREITO PENAL
+Circunstâncias Agravantes / Aplicação da Pena / Parte Geral /
+DIREITO PENAL
+Concurso Material / Aplicação da Pena / Parte Geral / DIREITO
+PENAL
+Localização: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Órgão Julgador: SÉTIMA CAMARA CRIMINAL
+Relator: DES. SIDNEY ROSA DA SILVA
+Processo originário: 0022975-39.2021.8.19.0078
+RIO DE JANEIRO ARMACAO DOS BUZIOS 2 VARA
+FASE ATUAL: Arquivamento Definitivo
+Data do Movimento: 06/05/2022 17:29
+Tipo: Definitivo
+Volumes: 1
+Apensos: 0
+Destino: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Certidão Trânsito em Julgado
+Data do Movimento: 06/05/2022 17:19
+Complemento 1: Trânsito em Julgado
+FASE: Juntada de Petição - Ciência
+Data do Movimento: 13/04/2022 12:08
+Tipo: Petição
+
+--- PAGINA 2 ---
+Subtipo: Ciência
+Petição: 3204/2022.00243747 Sem denominacao (PETICAO)
+Local Responsável: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Intimação/Citação Eletrônica - INTERESSADO(S)
+Data do Movimento: 12/04/2022 11:03
+Destinatário: INTERESSADO(S)
+FASE: Publicação Acordão ID: 4429803 Pág. 168/190
+Data do Movimento: 12/04/2022 00:05
+Complemento 1: Acordão
+Local Responsável: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Data de Publicação: 12/04/2022
+Nro do Expediente: ACO/2022.000035
+ID no DJE: 4429803
+FASE: Acórdão
+Data do Movimento: 08/04/2022 17:53
+Destino: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Data de Publicação: 12/04/2022
+ID: 4429803
+Pág. DJ: 168/190
+Nro. do Expediente: ACO 2022.000035
+FASE: Conclusão ao Relator para Lavratura de Acórdão
+Data do Movimento: 08/04/2022 15:10
+Magistrado: Relator
+Motivo: Lavratura de Acórdão
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Órgão Processante: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Destino: GAB. DES SIDNEY ROSA DA SILVA
+Data de Devolução: 08/04/2022 17:53
+FASE: Julgamento - Com Resolução do Mérito - Denegação - Habeas
+corpus
+Data do Movimento: 07/04/2022 10:00
+Resultado: Com Resolução do Mérito
+Motivo: Denegação
+COMPL.3: Habeas corpus
+Resultado: Com Resolução do Mérito
+Motivo: Denegação
+COMPL.3: Habeas corpus
+Data da Sessão: 07/04/2022 10:00
+Antecipação de Tutela: Não
+Liminar: Não
+Presidente: DES. SIRO DARLAN DE OLIVEIRA
+Relator: DES. SIDNEY ROSA DA SILVA
+Designado p/ Acórdão: DES. SIDNEY ROSA DA SILVA
+Votação: Por Unanimidade
+Decisão: Denegado o Habeas Corpus - Unanimidade
+Texto: POR UNANIMIDADE, E NA FORMA DO VOTO DO DES. RELATOR,
+DENEGOU-SE A ORDEM.
+
+--- PAGINA 3 ---
+FASE: Intimação/Citação Eletrônica - ADVOGADO DO AUTOR/RÉU
+Ciência
+Data do Movimento: 31/03/2022 16:18
+Destinatário: ADVOGADO DO AUTOR/RÉU
+Motivo: Ciência
+FASE: Despacho - Mero expediente
+Data do Movimento: 31/03/2022 14:07
+Tipo: Mero expediente
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Terminativo: Não
+Destino: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Conclusão ao Relator para Despacho/Decisao
+Data do Movimento: 31/03/2022 10:03
+Magistrado: Relator
+Motivo: Despacho/Decisao
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Órgão Processante: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Destino: GAB. DES SIDNEY ROSA DA SILVA
+Data de Devolução: 31/03/2022 14:07
+FASE: Certidão
+Data do Movimento: 31/03/2022 10:01
+FASE: Juntada de Petição - Petição Comum
+Data do Movimento: 31/03/2022 09:59
+Tipo: Petição
+Subtipo: Petição Comum
+Petição: 3204/2022.00204221 INFORMAÇÕES
+Local Responsável: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Juntada de Petição - Ciência
+Data do Movimento: 28/03/2022 13:45
+Tipo: Petição
+Subtipo: Ciência
+Petição: 3204/2022.00196181 Sem denominacao (PETICAO)
+Local Responsável: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Intimação/Citação Eletrônica - INTERESSADO(S)
+Data do Movimento: 25/03/2022 11:18
+Destinatário: INTERESSADO(S)
+FASE: Publicação Pauta de julgamento ID: 4382820 Pág. 180/189
+Data do Movimento: 25/03/2022 00:05
+Complemento 1: Pauta de julgamento
+Local Responsável: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Data de Publicação: 25/03/2022
+Data da Sessão: 07/04/2022 10:00
+Nro do Expediente: PAUTA_VIRT/2022.000008
+ID no DJE: 4382820
+
+--- PAGINA 4 ---
+FASE: Despacho - Mero expediente
+Data do Movimento: 22/03/2022 17:09
+Tipo: Mero expediente
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Terminativo: Não
+Destino: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Conclusão ao Relator para Despacho/Decisao Processo na pauta
+de 07/07/22.
+Data do Movimento: 22/03/2022 13:58
+Magistrado: Relator
+Motivo: Despacho/Decisao
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Órgão Processante: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Destino: GAB. DES SIDNEY ROSA DA SILVA
+Data de Devolução: 22/03/2022 17:09
+FASE: Juntada de Petição - Petição Comum
+Data do Movimento: 22/03/2022 13:56
+Tipo: Petição
+Subtipo: Petição Comum
+Petição: 3204/2022.00178037 INFORMAÇÕES
+Local Responsável: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Inclusão em pauta Sessão Virtual (REGITJRJ Art. 60A)
+Data do Movimento: 22/03/2022 12:17
+Complemento 1: Sessão Virtual (REGITJRJ Art. 60A)
+Data da Sessão: 07/04/2022 10:00
+Órgão Julgador: SÉTIMA CAMARA CRIMINAL
+Relator: DES. SIDNEY ROSA DA SILVA
+Data de Publicação: 25/03/2022
+ID: 4382820
+Pág. DJ: 180/189
+Nro. do Expediente: PAUTA_VIRT 2022.000008
+FASE: Despacho - Em Mesa - Sessão Virtual
+Data do Movimento: 21/03/2022 17:03
+Tipo: Em Mesa - Sessão Virtual
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Terminativo: Não
+Destino: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Conclusão ao Relator para Para apreciação
+Data do Movimento: 14/03/2022 15:40
+Magistrado: Relator
+Motivo: Para apreciação
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Órgão Processante: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Destino: GAB. DES SIDNEY ROSA DA SILVA
+Data de Devolução: 21/03/2022 17:03
+
+--- PAGINA 5 ---
+FASE: Juntada de Petição - Parecer
+Data do Movimento: 14/03/2022 15:39
+Tipo: Petição
+Subtipo: Parecer
+Petição: 3204/2022.00153422 Sem denominacao (PETICAO)
+Local Responsável: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Intimação/Citação Eletrônica - MINISTERIO PUBLICO Parecer
+Data do Movimento: 09/03/2022 15:59
+Destinatário: MINISTERIO PUBLICO
+Motivo: Parecer
+FASE: Publicação Decisão ID: 4336631 Pág. 145/146
+Data do Movimento: 09/03/2022 00:05
+Complemento 1: Decisão
+Local Responsável: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Data de Publicação: 09/03/2022
+Nro do Expediente: DECI/2022.000054
+ID no DJE: 4336631
+FASE: Decisão - Não-Concessão - Liminar
+Data do Movimento: 07/03/2022 19:06
+Tipo: Não-Concessão
+Motivo: Liminar
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Terminativo: Não
+Destino: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Data de Publicação: 09/03/2022
+ID: 4336631
+Pág. DJ: 145/146
+Nro. do Expediente: DECI 2022.000054
+FASE: Conclusão ao Relator para Despacho/Decisao
+Data do Movimento: 07/03/2022 17:57
+Magistrado: Relator
+Motivo: Despacho/Decisao
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Órgão Processante: SECRETARIA DA 7ª CÂMARA CRIMINAL
+Destino: GAB. DES SIDNEY ROSA DA SILVA
+Data de Devolução: 07/03/2022 19:06
+FASE: Publicação Ata de distribuicao ID: 4315884 Pág. 76/89
+Data do Movimento: 03/03/2022 00:06
+Complemento 1: Ata de distribuicao
+Local Responsável: 2VP - DEPTO AUTUACAO E DISTRIBUICAO CRIMINAL
+Data de Publicação: 03/03/2022
+Nro do Expediente: DISTR
+FASE: Publicação Ata de distribuicao ID: 4315884 Pág. 76/89
+Data do Movimento: 03/03/2022 00:00
+Complemento 1: Ata de distribuicao
+Local Responsável: 2VP - DEPTO AUTUACAO E DISTRIBUICAO CRIMINAL
+
+--- PAGINA 6 ---
+Data de Publicação: 03/03/2022
+Nro do Expediente: DISTR
+FASE: Expedição de documento Comprovante de Malote
+Data do Movimento: 25/02/2022 14:00
+Tipo: Comprovante de Malote
+FASE: Expedição de documento Oficio
+Data do Movimento: 25/02/2022 13:54
+Tipo: Oficio
+FASE: Despacho - Mero expediente
+Data do Movimento: 24/02/2022 20:25
+Tipo: Mero expediente
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Terminativo: Não
+Destino: SECRETARIA DA 7ª CÂMARA CRIMINAL
+FASE: Conclusão ao Relator
+Data do Movimento: 24/02/2022 11:06
+Magistrado: Relator
+Magistrado: DES. SIDNEY ROSA DA SILVA
+Órgão Processante: 2VP - DEPTO AUTUACAO E DISTRIBUICAO CRIMINAL
+Destino: GAB. DES SIDNEY ROSA DA SILVA
+Data de Devolução: 24/02/2022 20:25
+FASE: Distribuição Automatica
+Data do Movimento: 24/02/2022 11:00
+Tipo: Automatica
+Órgão Julgador: SÉTIMA CAMARA CRIMINAL
+Relator: DES. SIDNEY ROSA DA SILVA
+FASE: Autuação
+Data do Movimento: 23/02/2022 21:42
+Destino: 2VP - DEPTO AUTUACAO E DISTRIBUICAO CRIMINAL
+SESSÃO DE JULGAMENTO
+Data do Movimento: 07/04/2022 10:00
+Resultado: Com Resolução do Mérito
+Motivo: Denegação
+COMPL.3: Habeas corpus
+Resultado: Com Resolução do Mérito
+Motivo: Denegação
+COMPL.3: Habeas corpus
+Data da Sessão: 07/04/2022 10:00
+Antecipação de Tutela: Não
+Liminar: Não
+Presidente: DES. SIRO DARLAN DE OLIVEIRA
+
+--- PAGINA 7 ---
+Relator: DES. SIDNEY ROSA DA SILVA
+Designado p/ Acórdão: DES. SIDNEY ROSA DA SILVA
+Votação: Por Unanimidade
+Decisão: Denegado o Habeas Corpus - Unanimidade
+Texto: POR UNANIMIDADE, E NA FORMA DO VOTO DO DES. RELATOR,
+DENEGOU-SE A ORDEM.
+PUBLICAÇÃO DO ACÓRDÃO
+Data da Publicacao: 12/04/2022
+Folhas/Diario: 168/190
+Número do Diário: 4429803
+INTEIRO TEOR
+Íntegra do(a) Despacho Mero expediente em Segredo de Justiça - Data: 24/02/2022
+Íntegra do(a) Decisão Não-Concessão em Segredo de Justiça - Data: 07/03/2022
+Íntegra do(a) Despacho Em Mesa - Sessão Virtual em Segredo de Justiça - Data: 21/03/2022
+Íntegra do(a) Despacho Mero expediente em Segredo de Justiça - Data: 22/03/2022
+Íntegra do(a) Despacho Mero expediente em Segredo de Justiça - Data: 31/03/2022
+Íntegra do(a) Acórdão em Segredo de Justiça - Data: 08/04/2022
+×
+Processo do PJE
+Srs. Usuários,
+O número 0022975-39.2021.8.19.0078 informado é um processo do PJE, para consultá-lo
+clique no botão Acessar PJE.
+✓ Acessar PJE (cid:0) Fechar

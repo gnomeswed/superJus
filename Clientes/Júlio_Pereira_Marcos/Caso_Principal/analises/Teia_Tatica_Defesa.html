@@ -1,0 +1,142 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 560px;
+                 background-color: #09090b;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"borderWidth": 3, "borderWidthSelected": 5, "font": {"color": "#fafafa"}, "group": "cliente", "id": "Julio Marcos", "label": "JULIO MARCOS\n(Cliente)", "shape": "dot", "size": 40, "title": "\u003cb\u003eJulio Pereira Marcos\u003c/b\u003e\u003cbr\u003eStatus: PRESO (Preventiva)\u003cbr\u003eArt. 33 + Art. 35 Lei 11.343/06\u003cbr\u003e\u003ci\u003eUnico preso entre 6 correus\u003c/i\u003e"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "prova", "id": "Chip 4432", "label": "CHIP 4432\n(Prova Fragil)", "shape": "diamond", "size": 30, "title": "\u003cb\u003eChip Telefonico Final 4432\u003c/b\u003e\u003cbr\u003eNao houve pericia de voz\u003cbr\u003eNao ha laudo tecnico vinculando ao cliente\u003cbr\u003e\u003cspan style=\u0027color:#f59e0b\u0027\u003ePROVA NULA?\u003c/span\u003e"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "tese", "id": "Isonomia Art.580", "label": "ISONOMIA\nArt. 580 CPP", "shape": "star", "size": 28, "title": "\u003cb\u003eExtensao de Efeitos\u003c/b\u003e\u003cbr\u003eSe 5 correus estao soltos, Julio tambem deve ser\u003cbr\u003eJurisprudencia consolidada no STJ"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "correu_solto", "id": "Guilherme", "label": "Guilherme\n(Solto)", "shape": "dot", "size": 22, "title": "\u003cb\u003eGuilherme\u003c/b\u003e\u003cbr\u003eApreendido com 218g de maconha\nSTATUS: SOLTO\u003cbr\u003e\u003cspan style=\u0027color:#22c55e\u0027\u003eArt. 580 CPP - Isonomia\u003c/span\u003e"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "correu_solto", "id": "Rodrigo", "label": "Rodrigo\n(Solto)", "shape": "dot", "size": 22, "title": "\u003cb\u003eRodrigo\u003c/b\u003e\u003cbr\u003eCorreu - mesmo inquerito\nSTATUS: SOLTO\u003cbr\u003e\u003cspan style=\u0027color:#22c55e\u0027\u003eArt. 580 CPP - Isonomia\u003c/span\u003e"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "correu_solto", "id": "Correu 3", "label": "Correu 3\n(Solto)", "shape": "dot", "size": 22, "title": "\u003cb\u003eCorreu 3\u003c/b\u003e\u003cbr\u003eCorreu - mesmo inquerito\nSTATUS: SOLTO\u003cbr\u003e\u003cspan style=\u0027color:#22c55e\u0027\u003eArt. 580 CPP - Isonomia\u003c/span\u003e"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "correu_solto", "id": "Correu 4", "label": "Correu 4\n(Solto)", "shape": "dot", "size": 22, "title": "\u003cb\u003eCorreu 4\u003c/b\u003e\u003cbr\u003eCorreu - mesmo inquerito\nSTATUS: SOLTO\u003cbr\u003e\u003cspan style=\u0027color:#22c55e\u0027\u003eArt. 580 CPP - Isonomia\u003c/span\u003e"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "correu_solto", "id": "Correu 5", "label": "Correu 5\n(Solto)", "shape": "dot", "size": 22, "title": "\u003cb\u003eCorreu 5\u003c/b\u003e\u003cbr\u003eCorreu - mesmo inquerito\nSTATUS: SOLTO\u003cbr\u003e\u003cspan style=\u0027color:#22c55e\u0027\u003eArt. 580 CPP - Isonomia\u003c/span\u003e"}, {"borderWidth": 1, "font": {"color": "#fafafa"}, "group": "autoridade", "id": "Del. Rodrigo", "label": "Del. Rodrigo\n(Depoimento)", "shape": "square", "size": 18, "title": "\u003cb\u003eDelegado Rodrigo\u003c/b\u003e\u003cbr\u003eAdmitiu: NAO foi feito laudo de voz\u003cbr\u003e\u003cspan style=\u0027color:#ef4444\u0027\u003eFragiliza a acusacao\u003c/span\u003e"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "tese", "id": "Ausencia Materialidade", "label": "SEM PROVA\nMATERIAL", "shape": "star", "size": 25, "title": "\u003cb\u003eAusencia de Materialidade\u003c/b\u003e\u003cbr\u003eNenhuma droga apreendida com Julio\u003cbr\u003eChip sem laudo pericial"}, {"borderWidth": 2, "font": {"color": "#fafafa"}, "group": "prova", "id": "Droga 218g", "label": "218g Maconha\n(Apreensao)", "shape": "diamond", "size": 25, "title": "\u003cb\u003eApreensao de Drogas\u003c/b\u003e\u003cbr\u003e218g de maconha\u003cbr\u003eApreendida com GUILHERME, nao com Julio"}, {"borderWidth": 1, "font": {"color": "#fafafa"}, "group": "autoridade", "id": "Del. Nelson", "label": "Del. Nelson\n(Depoimento)", "shape": "square", "size": 18, "title": "\u003cb\u003eDelegado Nelson\u003c/b\u003e\u003cbr\u003eDeclarou: NAO ha evidencia de faccao\u003cbr\u003e\u003cspan style=\u0027color:#22c55e\u0027\u003eFavoravel a defesa\u003c/span\u003e"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "color": {"color": "#ef4444", "opacity": 0.7}, "dashes": true, "font": {"color": "#ef4444", "size": 9}, "from": "Julio Marcos", "label": "Vinculo SUPOSTO", "to": "Chip 4432", "width": 1}, {"arrows": "to", "color": {"color": "#2563eb", "opacity": 0.9}, "font": {"color": "#2563eb", "size": 10}, "from": "Julio Marcos", "label": "DEVE SER ESTENDIDO", "to": "Isonomia Art.580", "width": 1}, {"arrows": "to", "color": {"color": "#22c55e", "opacity": 0.4}, "dashes": [5, 5], "from": "Guilherme", "to": "Isonomia Art.580", "width": 1}, {"arrows": "to", "color": {"color": "#22c55e", "opacity": 0.4}, "dashes": [5, 5], "from": "Rodrigo", "to": "Isonomia Art.580", "width": 1}, {"arrows": "to", "color": {"color": "#22c55e", "opacity": 0.4}, "dashes": [5, 5], "from": "Correu 3", "to": "Isonomia Art.580", "width": 1}, {"arrows": "to", "color": {"color": "#22c55e", "opacity": 0.4}, "dashes": [5, 5], "from": "Correu 4", "to": "Isonomia Art.580", "width": 1}, {"arrows": "to", "color": {"color": "#22c55e", "opacity": 0.4}, "dashes": [5, 5], "from": "Correu 5", "to": "Isonomia Art.580", "width": 1}, {"arrows": "to", "color": {"color": "#f59e0b", "opacity": 0.8}, "font": {"color": "#f59e0b", "size": 9}, "from": "Chip 4432", "label": "Sem laudo", "to": "Del. Rodrigo", "width": 1}, {"arrows": "to", "color": {"color": "#2563eb", "opacity": 0.7}, "font": {"color": "#2563eb", "size": 9}, "from": "Chip 4432", "label": "Sem pericia", "to": "Ausencia Materialidade", "width": 1}, {"arrows": "to", "color": {"color": "#f59e0b", "opacity": 0.8}, "font": {"color": "#f59e0b", "size": 9}, "from": "Droga 218g", "label": "Apreendida COM ELE", "to": "Guilherme", "width": 1}, {"arrows": "to", "color": {"color": "#2563eb", "opacity": 0.7}, "font": {"color": "#2563eb", "size": 9}, "from": "Droga 218g", "label": "Nao era de Julio", "to": "Ausencia Materialidade", "width": 1}, {"arrows": "to", "color": {"color": "#22c55e", "opacity": 0.8}, "font": {"color": "#22c55e", "size": 9}, "from": "Del. Nelson", "label": "Afastou Art.35", "to": "Julio Marcos", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"physics": {"enabled": true, "solver": "forceAtlas2Based", "forceAtlas2Based": {"gravitationalConstant": -80, "centralGravity": 0.008, "springLength": 180, "springConstant": 0.04, "damping": 0.5}, "stabilization": {"enabled": true, "iterations": 200}}, "interaction": {"hover": true, "tooltipDelay": 100, "navigationButtons": true, "keyboard": true, "zoomView": true}, "edges": {"smooth": {"type": "curvedCW", "roundness": 0.15}, "arrows": {"to": {"enabled": true, "scaleFactor": 0.6}}}, "nodes": {"shadow": {"enabled": true, "color": "rgba(0,0,0,0.3)", "size": 8}}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    
+    <div style="position:absolute; top:10px; right:10px; background:rgba(9,9,11,0.85); 
+                border:1px solid #1e1e24; border-radius:8px; padding:12px 16px; 
+                font-family:'DM Sans',sans-serif; font-size:11px; color:#a1a1aa; z-index:999;">
+        <div style="font-weight:600; color:#fafafa; margin-bottom:8px; font-size:12px;">LEGENDA</div>
+        <div style="margin:4px 0;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#ef4444;margin-right:6px;"></span> Cliente (Preso)</div>
+        <div style="margin:4px 0;"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#22c55e;margin-right:6px;"></span> Correus (Soltos)</div>
+        <div style="margin:4px 0;"><span style="display:inline-block;width:10px;height:10px;background:#f59e0b;margin-right:6px;transform:rotate(45deg);"></span> Provas</div>
+        <div style="margin:4px 0;"><span style="display:inline-block;width:10px;height:10px;background:#64748b;margin-right:6px;"></span> Autoridades</div>
+        <div style="margin:4px 0;"><span style="display:inline-block;width:12px;height:12px;background:#2563eb;margin-right:6px;clip-path:polygon(50% 0%,61% 35%,98% 35%,68% 57%,79% 91%,50% 70%,21% 91%,32% 57%,2% 35%,39% 35%);"></span> Teses de Defesa</div>
+        <div style="margin-top:8px; border-top:1px solid #1e1e24; padding-top:6px; font-size:10px; color:#52525b;">
+            --- tracejado = vinculo fragil<br>
+            Passe o mouse nos nos para detalhes
+        </div>
+    </div>
+    </body>
+</html>

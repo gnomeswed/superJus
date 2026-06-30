@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dossiê Completo de Defesa - Júlio Pereira Marcos</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap');
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: #fcfcfc;
+        }
+
+        /* ----- HEADER / CAPA ----- */
+        .cover {
+            text-align: center;
+            border: 4px double #1a5276;
+            padding: 40px 20px;
+            margin-bottom: 40px;
+            background-color: #fff;
+        }
+        .cover h1 {
+            font-family: 'Merriweather', serif;
+            color: #1a5276;
+            margin-bottom: 10px;
+            font-size: 32px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .cover h2 {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 18px;
+            color: #c0392b;
+            margin-bottom: 30px;
+            border-bottom: none;
+        }
+        .cover-details {
+            display: flex;
+            justify-content: space-around;
+            text-align: left;
+            margin-top: 30px;
+            background: #f4f6f7;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .cover-details p {
+            margin: 5px 0;
+            font-size: 15px;
+        }
+        .cover-details strong {
+            color: #2980b9;
+        }
+
+        /* ----- TYPOGRAPHY & LAYOUT ----- */
+        h2.section-title {
+            font-family: 'Merriweather', serif;
+            color: #fff;
+            background-color: #1a5276;
+            padding: 10px 15px;
+            margin-top: 40px;
+            font-size: 20px;
+            border-radius: 3px;
+        }
+        h3 {
+            font-family: 'Merriweather', serif;
+            color: #2c3e50;
+            font-size: 18px;
+            border-bottom: 1px solid #bdc3c7;
+            padding-bottom: 5px;
+            margin-top: 25px;
+        }
+        p {
+            text-align: justify;
+            margin-bottom: 15px;
+            font-size: 15px;
+        }
+        ul, ol {
+            margin-bottom: 15px;
+            padding-left: 25px;
+        }
+        li {
+            text-align: justify;
+            margin-bottom: 10px;
+            font-size: 15px;
+        }
+
+        /* ----- HIGHLIGHT BOXES ----- */
+        .box-crucial {
+            background-color: #fdedec;
+            border-left: 6px solid #e74c3c;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 0 5px 5px 0;
+        }
+        .box-crucial h4 {
+            color: #c0392b;
+            margin-top: 0;
+            font-family: 'Merriweather', serif;
+            font-size: 16px;
+        }
+        
+        .box-juris {
+            background-color: #ebf5fb;
+            border-left: 6px solid #2980b9;
+            padding: 15px 20px;
+            margin: 15px 0;
+            font-style: italic;
+            font-size: 14.5px;
+            border-radius: 0 5px 5px 0;
+        }
+        .box-juris strong {
+            font-style: normal;
+            color: #1a5276;
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 700;
+        }
+
+        /* ----- PRINT SPECIFIC CSS (Pagination Fix) ----- */
+        .no-print {
+            background-color: #e8f4fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            text-align: center;
+            border: 1px solid #bde0fe;
+        }
+        
+        @media print {
+            body {
+                padding: 0;
+                margin: 0;
+                background-color: #fff;
+            }
+            .no-print {
+                display: none !important;
+            }
+            /* Garantia de que blocos não serão cortados na virada de página */
+            h1, h2, h3, h4 {
+                page-break-after: avoid;
+            }
+            p, li, .box-crucial, .box-juris, .cover-details {
+                page-break-inside: avoid;
+            }
+            .section {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="no-print">
+        <strong>Aviso de Impressão:</strong> Este Dossiê Completo foi diagramado para impressão em PDF sem cortes.<br> 
+        Pressione <strong>Ctrl + P</strong>, escolha <strong>Salvar como PDF</strong>. Ative "Gráficos de segundo plano" nas definições.
+    </div>
+
+    <div class="cover">
+        <h1>Dossiê Estratégico Integral</h1>
+        <h2>Análise de Mérito e Situação Prisional</h2>
+        
+        <div class="cover-details">
+            <div>
+                <p><strong>Paciente/Réu:</strong> JÚLIO PEREIRA MARCOS</p>
+                <p><strong>Processo Principal:</strong> Nº 0022975-39.2021.8.19.0078</p>
+                <p><strong>Proc. Desmembrado:</strong> Nº 0023013-51.2021.8.19.0078</p>
+            </div>
+            <div>
+                <p><strong>Habeas Corpus TJRJ:</strong> Nº 0029845-67.2026.8.19.0000</p>
+                <p><strong>Relator HC:</strong> Des. Sidney Rosa da Silva</p>
+                <p><strong>Comarca:</strong> Vara Criminal de Armação dos Búzios</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- SEÇÃO 1 -->
+    <div class="section">
+        <h2 class="section-title">1. Resumo do Quadro Processual</h2>
+        <p>Júlio Pereira Marcos foi denunciado por Tráfico de Drogas (Art. 33) e Associação Criminosa (Art. 35) no bojo da chamada "Operação Delivery". O processo foi desmembrado em maio de 2022 devido à sua não localização temporária.</p>
+        <p>Atualmente, o Paciente encontra-se em prisão preventiva (cumprida em 12/05/2026). A defesa maneja Habeas Corpus preventivo impetrado no TJRJ, aguardando julgamento, pleiteando o direito de responder ao processo em liberdade, assim como <strong>todos os demais réus do processo originário</strong>.</p>
+    </div>
+
+    <!-- SEÇÃO 2 -->
+    <div class="section">
+        <h2 class="section-title">2. A Tese Prisional: Desconstrução do Risco de Fuga</h2>
+        <p>O pilar que sustenta a prisão preventiva é a equivocada presunção de que Júlio passou quatro anos "foragido", o que demonstraria intenção de burlar a lei penal. A cronologia documental dos autos pulveriza essa hipótese.</p>
+        
+        <div class="box-crucial">
+            <h4>Fato Novo: Submissão Voluntária ao Judiciário</h4>
+            <p>O mandado de prisão sequer foi incluído no BNMP (Banco Nacional de Mandados) nos primeiros dois anos, configurando falha estatal de publicidade. O Paciente não foi citado. Ao tomar conhecimento real da sua situação, o Paciente <strong>não se ocultou</strong>. Pelo contrário:</p>
+            <ul>
+                <li><strong>05 de Maio de 2026:</strong> O Paciente contratou advogado e impetrou o Habeas Corpus, estando totalmente LIVRE.</li>
+                <li><strong>12 de Maio de 2026:</strong> O mandado de prisão foi cumprido.</li>
+            </ul>
+            <p><strong>Conclusão Inafastável:</strong> O Paciente buscou voluntariamente as vias judiciais para regularizar sua situação SETE DIAS ANTES de ser capturado. Não há <em>periculum libertatis</em> (risco de fuga) em quem bate às portas do Tribunal de Justiça por conta própria.</p>
+        </div>
+    </div>
+
+    <!-- SEÇÃO 3 -->
+    <div class="section">
+        <h2 class="section-title">3. Princípio da Isonomia e Desproporcionalidade</h2>
+        <p>É incontroverso nos autos que <strong>TODOS os demais 5 (cinco) corréus</strong> do processo originário encontram-se em liberdade desde <strong>02 de agosto de 2022</strong> (por excesso de prazo). Inclusive o corréu José Guilherme, que foi o único flagrado fisicamente com drogas (218g de maconha).</p>
+        
+        <div class="box-juris">
+            <strong>STF — HC 143.333:</strong>
+            "A manutenção de réu em situação de desigualdade em relação a corréus libertados, em idênticas circunstâncias processuais, configura violação ao princípio da isonomia (art. 5º, caput, CF), impondo-se a extensão dos efeitos da decisão concessiva nos termos do art. 580 do CPP."
+        </div>
+        
+        <div class="box-juris">
+            <strong>STJ — HC 390.518/SP:</strong>
+            "A situação do Paciente é mais favorável que a dos corréus beneficiados pela liberdade. Violação ao Art. 580 do CPP. Ordem concedida."
+        </div>
+    </div>
+
+    <!-- SEÇÃO 4 -->
+    <div class="section">
+        <h2 class="section-title">4. Condições Pessoais Amplamente Favoráveis</h2>
+        <p>A prisão preventiva deve ser a <em>ultima ratio</em>. O Paciente preenche os requisitos essenciais para a concessão de liberdade provisória com medidas cautelares (Art. 319 do CPP):</p>
+        <ul>
+            <li><strong>Primariedade Plena:</strong> O Paciente respondeu a um único processo semelhante há quase 10 anos, tendo sido <strong>absolvido</strong>, o que atesta seus bons antecedentes.</li>
+            <li><strong>Ocupação Lícita:</strong> Conta com Declaração de Empregador nos autos, evidenciando vínculo de trabalho ativo e honesto.</li>
+            <li><strong>Residência Fixa:</strong> Comprovante de endereço anexado.</li>
+        </ul>
+
+        <div class="box-juris">
+            <strong>STJ — HC 544.893/SP:</strong>
+            "Réu primário, sem antecedentes, com emprego lícito e residência fixa, não preenche os requisitos para decretação ou manutenção da prisão preventiva, devendo ser aplicadas medidas cautelares alternativas."
+        </div>
+    </div>
+
+    <!-- SEÇÃO 5 -->
+    <div class="section">
+        <h2 class="section-title">5. Análise de Mérito: A Extrema Fragilidade da Acusação</h2>
+        <p>Embora a ação de Habeas Corpus não seja a via para aprofundar provas, a falta de materialidade é tão flagrante que esvazia qualquer justificativa para a prisão cautelar baseada na garantia da ordem pública.</p>
+        
+        <h3>5.1 Ausência de Apreensão de Drogas</h3>
+        <p>Durante toda a investigação e operação, <strong>nenhuma grama de substância ilícita</strong> foi encontrada na posse de Júlio. A materialidade recaiu unicamente sobre outro corréu (que está solto).</p>
+        <div class="box-juris">
+            <strong>STJ — HC 568.211/SP (Min. Laurita Vaz):</strong>
+            "A ausência de apreensão da droga com o acusado inviabiliza a condenação pelo crime de tráfico de entorpecentes, dada a falta de comprovação da materialidade delitiva..."
+        </div>
+
+        <h3>5.2 Inexistência de Laudo de Confronto Vocálico</h3>
+        <p>Em audiência do processo principal, o Delegado Rodrigo Moreira confirmou que a autoria foi presumida apenas pela titularidade da linha telefônica cadastrada. <strong>Não houve perícia de voz.</strong></p>
+        <div class="box-juris">
+            <strong>STJ — HC 512.278/SP:</strong>
+            "A interceptação telefônica, por si só, sem a devida identificação técnica dos interlocutores por meio de perícia vocálica, não pode servir como prova plena de autoria."
+        </div>
+
+        <h3>5.3 Desconstrução do Crime de Associação (Art. 35)</h3>
+        <p>O próprio Delegado Nelson Esquiba depôs em juízo que o grupo investigado se tratava de <em>"uma relação de usuários que também vendem drogas [...] não é uma organização com hierarquia"</em>. A própria polícia descartou a existência de facção criminosa, armas ou estrutura fixa (boca de fumo). Isso descaracteriza o "animus associativo" estável.</p>
+        <div class="box-juris">
+            <strong>STJ — HC 189.385/SP:</strong>
+            "Para a caracterização do crime de associação ao tráfico, exige-se a comprovação do animus associativo permanente e estável, não bastando a mera coautoria ocasional ou o concurso eventual de agentes."
+        </div>
+    </div>
+
+    <!-- SEÇÃO 6 -->
+    <div class="section">
+        <h2 class="section-title">6. Conclusões e Pedidos</h2>
+        <p>Diante do quadro fático consolidado por provas já documentadas nos autos, resta cristalino que:</p>
+        <ol>
+            <li>Não há materialidade física que vincule o Paciente ao crime de tráfico.</li>
+            <li>A imputação baseada em voz não tem laudo pericial confirmador.</li>
+            <li>A tese de fuga caiu por terra quando o Paciente buscou o TJRJ espontaneamente antes de ser preso.</li>
+            <li>A manutenção da sua prisão viola o Princípio da Isonomia, visto que todos os demais envolvidos gozam de liberdade.</li>
+        </ol>
+        <p>Portanto, faz-se imperiosa a <strong>REVOGAÇÃO DA PRISÃO PREVENTIVA</strong>, com a concessão em definitivo da Ordem de Habeas Corpus, ou, subsidiariamente, a aplicação de medidas cautelares diversas previstas no Art. 319 do CPP (como o monitoramento eletrônico), garantindo o direito do Paciente de responder ao processo em liberdade.</p>
+    </div>
+
+</body>
+</html>

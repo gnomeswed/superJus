@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dossiê Jurídico - Pastor Juneo Luciano de Oliveira</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --surface-color: rgba(20, 27, 45, 0.6);
+            --surface-border: rgba(255, 255, 255, 0.08);
+            --primary: #3b82f6;
+            --primary-glow: rgba(59, 130, 246, 0.5);
+            --accent: #ef4444;
+            --accent-glow: rgba(239, 68, 68, 0.4);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --success: #10b981;
+            --warning: #f59e0b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+            background-image: 
+                radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.08), transparent 25%),
+                radial-gradient(circle at 85% 30%, rgba(239, 68, 68, 0.05), transparent 25%);
+            background-attachment: fixed;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* Glassmorphism utility */
+        .glass {
+            background: var(--surface-color);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid var(--surface-border);
+            border-radius: 16px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        .tag {
+            display: inline-block;
+            background: rgba(59, 130, 246, 0.1);
+            color: var(--primary);
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+            border: 1px solid rgba(59, 130, 246, 0.2);
+        }
+
+        header h1 {
+            font-size: 3rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #fff 0%, #cbd5e1 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        /* Sections */
+        section {
+            margin-bottom: 40px;
+            padding: 32px;
+            opacity: 0;
+            transform: translateY(20px);
+            animation: fadeInUp 0.8s ease-out forwards;
+        }
+
+        section:nth-child(2) { animation-delay: 0.2s; }
+        section:nth-child(3) { animation-delay: 0.4s; }
+        section:nth-child(4) { animation-delay: 0.6s; }
+
+        section h2 {
+            font-size: 1.8rem;
+            margin-bottom: 24px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        section h2::before {
+            content: '';
+            display: block;
+            width: 4px;
+            height: 24px;
+            background: var(--primary);
+            border-radius: 4px;
+            box-shadow: 0 0 10px var(--primary-glow);
+        }
+
+        /* Status Banner */
+        .status-banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 24px;
+            background: linear-gradient(135deg, rgba(239, 68, 68, 0.1) 0%, rgba(20, 27, 45, 0.8) 100%);
+            border-left: 4px solid var(--accent);
+            margin-bottom: 40px;
+        }
+
+        .status-banner h3 {
+            color: var(--accent);
+            font-size: 1.5rem;
+            margin-bottom: 8px;
+        }
+
+        .status-banner p {
+            font-size: 1.05rem;
+        }
+
+        .badge {
+            background: var(--accent);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            box-shadow: 0 0 15px var(--accent-glow);
+            animation: pulse 2s infinite;
+        }
+
+        /* Timeline */
+        .timeline {
+            position: relative;
+            padding-left: 30px;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--surface-border);
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 32px;
+        }
+
+        .timeline-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -35px;
+            top: 4px;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--bg-color);
+            border: 2px solid var(--primary);
+            box-shadow: 0 0 10px var(--primary-glow);
+            transition: all 0.3s ease;
+        }
+
+        .timeline-item:hover::before {
+            background: var(--primary);
+            transform: scale(1.2);
+        }
+
+        .timeline-date {
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.9rem;
+            color: var(--primary);
+            font-weight: 600;
+            margin-bottom: 4px;
+            display: block;
+        }
+
+        .timeline-content {
+            background: rgba(255, 255, 255, 0.02);
+            padding: 16px 20px;
+            border-radius: 8px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: transform 0.3s ease, background 0.3s ease;
+        }
+
+        .timeline-item:hover .timeline-content {
+            transform: translateX(5px);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .timeline-content h4 {
+            margin-bottom: 8px;
+            font-size: 1.1rem;
+            color: #fff;
+        }
+        
+        /* Next Steps */
+        .step-list {
+            list-style: none;
+        }
+
+        .step-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            margin-bottom: 20px;
+            padding: 20px;
+            background: rgba(16, 185, 129, 0.05);
+            border: 1px solid rgba(16, 185, 129, 0.2);
+            border-radius: 12px;
+        }
+
+        .step-icon {
+            background: rgba(16, 185, 129, 0.2);
+            color: var(--success);
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2rem;
+            flex-shrink: 0;
+        }
+
+        .step-content h4 {
+            color: var(--success);
+            margin-bottom: 6px;
+            font-size: 1.1rem;
+        }
+
+        /* Animations */
+        @keyframes fadeInDown {
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4); }
+            70% { box-shadow: 0 0 0 10px rgba(239, 68, 68, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 2.2rem; }
+            .status-banner { flex-direction: column; text-align: center; gap: 16px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <header>
+            <span class="tag">Confidencial - Equipe Jurídica</span>
+            <h1>Dossiê Explicativo</h1>
+            <p>Análise da Situação Prisional e Processual de <strong>Pastor Juneo Luciano de Oliveira</strong></p>
+        </header>
+
+        <div class="status-banner glass">
+            <div>
+                <h3>Situação Atual: Preso Preventivamente</h3>
+                <p>O cliente encontra-se detido provisoriamente. O processo corre na 2ª Vara Criminal da Regional de Jacarepaguá (Rio de Janeiro).</p>
+            </div>
+            <div class="badge">Atenção Imediata</div>
+        </div>
+
+        <section class="glass">
+            <h2>Por que ele foi preso? O Processo Principal</h2>
+            <p style="margin-bottom: 24px; color: var(--text-muted);">
+                A prisão ocorreu em virtude do <strong>Processo nº 0810659-95.2026.8.19.0203</strong>. Ele responde por suposto <strong>furto de energia elétrica/água</strong> (Art. 155, § 3º) e por <strong>crime contra as relações de consumo</strong> (vender mercadorias em condições impróprias). Abaixo, detalhamos o andamento processual recente:
+            </p>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <span class="timeline-date">Antes de 12 de Maio de 2026</span>
+                    <div class="timeline-content">
+                        <h4>A Prisão Inicial (Flagrante)</h4>
+                        <p>Ocorreu a prisão em flagrante por parte da polícia. Nessa fase, são gerados os primeiros documentos da acusação, conhecidos como Auto de Prisão em Flagrante (APF).</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-date">14 de Maio de 2026</span>
+                    <div class="timeline-content">
+                        <h4 style="color: var(--accent);">Audiência de Custódia</h4>
+                        <p>Foi realizada a Audiência de Custódia no Rio de Janeiro. Nela, o Juiz decidiu por <strong>converter a prisão em flagrante para Prisão Preventiva</strong>, determinando que ele aguarde o desenrolar do processo detido.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-date">18 de Maio de 2026</span>
+                    <div class="timeline-content">
+                        <h4>Acusação Formal</h4>
+                        <p>O Ministério Público (a Promotoria) analisou o inquérito policial e apresentou a denúncia (aditamento) acusando formalmente o Pastor Juneo pelos crimes mencionados.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-date">20 de Maio de 2026</span>
+                    <div class="timeline-content">
+                        <h4>Denúncia Recebida pelo Juiz</h4>
+                        <p>O Juiz Titular da 2ª Vara Criminal de Jacarepaguá recebeu a denúncia e <strong>manteve a decisão da prisão preventiva</strong>. Agora inicia-se a fase de defesa, onde buscaremos reverter esta situação.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="margin-top: 24px; padding: 16px; background: rgba(245, 158, 11, 0.1); border-left: 4px solid var(--warning); border-radius: 4px;">
+                <h4 style="color: var(--warning); margin-bottom: 8px;">Atenção: Ausência de Documentos Completos</h4>
+                <p style="font-size: 0.95rem;">Nossa equipe precisa ter acesso aos autos do inquérito completos para examinar os depoimentos dos policiais e encontrar falhas na abordagem (como falta de laudos oficiais ou violação indevida). Precisamos solicitar isso à Justiça com urgência.</p>
+            </div>
+        </section>
+
+        <section class="glass">
+            <h2>Próximos Passos: Como a Família Pode Ajudar</h2>
+            <p style="margin-bottom: 24px; color: var(--text-muted);">
+                Abaixo está o plano de ação jurídico. A cooperação da família nos itens 1 e 2 é indispensável para o sucesso da defesa.
+            </p>
+
+            <ul class="step-list">
+                <li class="step-item">
+                    <div class="step-icon">1</div>
+                    <div class="step-content">
+                        <h4>Reunir Comprovantes Pessoais e Residenciais</h4>
+                        <p>Precisamos provar ao juiz que ele tem vínculos na sociedade e não apresenta risco de fuga. <strong>Tragam os seguintes documentos:</strong> Comprovante de residência atualizado, documentos pessoais (RG/CPF) e certidões que demonstrem ocupação lícita (como a comprovação de suas atividades de Pastor).</p>
+                    </div>
+                </li>
+                <li class="step-item">
+                    <div class="step-icon">2</div>
+                    <div class="step-content">
+                        <h4>Juntar Documentos da Atividade (Igreja/Mercado)</h4>
+                        <p>Qualquer documentação referente ao estabelecimento ou à igreja que comprove a regularidade das atividades, alvarás ou o histórico das mercadorias, pois será importante para combater as acusações.</p>
+                    </div>
+                </li>
+                <li class="step-item">
+                    <div class="step-icon">3</div>
+                    <div class="step-content">
+                        <h4>Ação da Defesa: Habeas Corpus e Defesa Prévia</h4>
+                        <p>Com os documentos reunidos, nossa equipe entrará com pedido de Revogação da Prisão (ou Habeas Corpus) baseando-se no fato de que os crimes não possuem violência ou grave ameaça e que ele possui bons antecedentes. Em paralelo, prepararemos a resposta à acusação refutando a legalidade das provas periciais (laudos de furto de energia e alimentos).</p>
+                    </div>
+                </li>
+            </ul>
+        </section>
+
+    </div>
+
+</body>
+</html>

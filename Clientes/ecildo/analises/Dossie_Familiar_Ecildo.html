@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dossiê Jurídico - Ecildo Victor dos Santos Ferreira</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --surface-color: rgba(20, 27, 45, 0.6);
+            --surface-border: rgba(255, 255, 255, 0.08);
+            --primary: #3b82f6;
+            --primary-glow: rgba(59, 130, 246, 0.5);
+            --accent: #ef4444;
+            --accent-glow: rgba(239, 68, 68, 0.4);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --success: #10b981;
+            --warning: #f59e0b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+            background-image: 
+                radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.08), transparent 25%),
+                radial-gradient(circle at 85% 30%, rgba(239, 68, 68, 0.05), transparent 25%);
+            background-attachment: fixed;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* Glassmorphism utility */
+        .glass {
+            background: var(--surface-color);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid var(--surface-border);
+            border-radius: 16px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        .tag {
+            display: inline-block;
+            background: rgba(59, 130, 246, 0.1);
+            color: var(--primary);
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+            border: 1px solid rgba(59, 130, 246, 0.2);
+        }
+
+        header h1 {
+            font-size: 3rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #fff 0%, #cbd5e1 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        /* Sections */
+        section {
+            margin-bottom: 40px;
+            padding: 32px;
+            opacity: 0;
+            transform: translateY(20px);
+            animation: fadeInUp 0.8s ease-out forwards;
+        }
+
+        section:nth-child(2) { animation-delay: 0.2s; }
+        section:nth-child(3) { animation-delay: 0.4s; }
+        section:nth-child(4) { animation-delay: 0.6s; }
+        section:nth-child(5) { animation-delay: 0.8s; }
+
+        section h2 {
+            font-size: 1.8rem;
+            margin-bottom: 24px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        section h2::before {
+            content: '';
+            display: block;
+            width: 4px;
+            height: 24px;
+            background: var(--primary);
+            border-radius: 4px;
+            box-shadow: 0 0 10px var(--primary-glow);
+        }
+
+        /* Status Banner */
+        .status-banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 24px;
+            background: linear-gradient(135deg, rgba(239, 68, 68, 0.1) 0%, rgba(20, 27, 45, 0.8) 100%);
+            border-left: 4px solid var(--accent);
+            margin-bottom: 40px;
+        }
+
+        .status-banner h3 {
+            color: var(--accent);
+            font-size: 1.5rem;
+            margin-bottom: 8px;
+        }
+
+        .status-banner p {
+            font-size: 1.05rem;
+        }
+
+        .badge {
+            background: var(--accent);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            box-shadow: 0 0 15px var(--accent-glow);
+            animation: pulse 2s infinite;
+        }
+
+        /* Timeline */
+        .timeline {
+            position: relative;
+            padding-left: 30px;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--surface-border);
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 32px;
+        }
+
+        .timeline-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -35px;
+            top: 4px;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--bg-color);
+            border: 2px solid var(--primary);
+            box-shadow: 0 0 10px var(--primary-glow);
+            transition: all 0.3s ease;
+        }
+
+        .timeline-item:hover::before {
+            background: var(--primary);
+            transform: scale(1.2);
+        }
+
+        .timeline-date {
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.9rem;
+            color: var(--primary);
+            font-weight: 600;
+            margin-bottom: 4px;
+            display: block;
+        }
+
+        .timeline-content {
+            background: rgba(255, 255, 255, 0.02);
+            padding: 16px 20px;
+            border-radius: 8px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: transform 0.3s ease, background 0.3s ease;
+        }
+
+        .timeline-item:hover .timeline-content {
+            transform: translateX(5px);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .timeline-content h4 {
+            margin-bottom: 8px;
+            font-size: 1.1rem;
+            color: #fff;
+        }
+
+        /* Grid Cards */
+        .grid-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            padding: 24px;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.04);
+            border-color: rgba(59, 130, 246, 0.3);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .card-title {
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: #fff;
+        }
+
+        .card-status {
+            font-size: 0.8rem;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-weight: 600;
+        }
+
+        .status-suspended { background: rgba(245, 158, 11, 0.2); color: var(--warning); border: 1px solid rgba(245, 158, 11, 0.3); }
+        .status-archived { background: rgba(148, 163, 184, 0.2); color: var(--text-muted); border: 1px solid rgba(148, 163, 184, 0.3); }
+        
+        /* Next Steps */
+        .step-list {
+            list-style: none;
+        }
+
+        .step-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            margin-bottom: 20px;
+            padding: 20px;
+            background: rgba(16, 185, 129, 0.05);
+            border: 1px solid rgba(16, 185, 129, 0.2);
+            border-radius: 12px;
+        }
+
+        .step-icon {
+            background: rgba(16, 185, 129, 0.2);
+            color: var(--success);
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2rem;
+            flex-shrink: 0;
+        }
+
+        .step-content h4 {
+            color: var(--success);
+            margin-bottom: 6px;
+            font-size: 1.1rem;
+        }
+
+        /* Animations */
+        @keyframes fadeInDown {
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4); }
+            70% { box-shadow: 0 0 0 10px rgba(239, 68, 68, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 2.2rem; }
+            .status-banner { flex-direction: column; text-align: center; gap: 16px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <header>
+            <span class="tag">Confidencial - Equipe Jurídica</span>
+            <h1>Dossiê Explicativo</h1>
+            <p>Análise da Situação Prisional e Processual de <strong>Ecildo Victor dos Santos Ferreira</strong></p>
+        </header>
+
+        <div class="status-banner glass">
+            <div>
+                <h3>Situação Atual: Preso no Rio de Janeiro</h3>
+                <p>O cliente está detido de forma preventiva (provisória). Há uma ordem judicial para transferi-lo (recambiamento) para o Estado de Mato Grosso.</p>
+            </div>
+            <div class="badge">Atenção Imediata</div>
+        </div>
+
+        <section class="glass">
+            <h2>Por que ele foi preso? O Processo Principal</h2>
+            <p style="margin-bottom: 24px; color: var(--text-muted);">
+                A prisão ocorreu devido ao <strong>Processo nº 1003524-57.2023.8.11.0015</strong> (Acusação de Furto Simples). Abaixo, detalhamos a cronologia dos eventos para fácil compreensão da família:
+            </p>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <span class="timeline-date">Março de 2023</span>
+                    <div class="timeline-content">
+                        <h4>A Prisão Inicial e a Soltura</h4>
+                        <p>No início do processo, o juiz de Sinop concedeu <strong>liberdade provisória</strong>. Para continuar solto, Ecildo precisava cumprir algumas regras (como estar em casa à noite, não ir a bares e frequentar tratamento no CAPS).</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-date">Meses Seguintes</span>
+                    <div class="timeline-content">
+                        <h4>O Problema: A Perda de Contato</h4>
+                        <p>A promotoria (Ministério Público) fez a denúncia formal, mas quando o oficial de justiça foi procurar Ecildo para avisá-lo (citá-lo), <strong>ele não foi encontrado no endereço</strong> e parou de cumprir as regras exigidas pelo juiz.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-date">Julho de 2023 a Meados de 2024</span>
+                    <div class="timeline-content">
+                        <h4>O Pedido de Prisão e a Defesa da Juíza Local</h4>
+                        <p>O Ministério Público pediu a prisão dele alegando que ele havia fugido. A Juíza de Sinop (1º Grau) <strong>negou o pedido de prisão</strong>, entendendo que o simples fato de não o encontrarem não significava que ele estava fugindo para não responder o processo. Ela determinou que ele fosse chamado através de "Edital" (aviso público).</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-date">Decisão do Tribunal de Justiça (TJMT)</span>
+                    <div class="timeline-content">
+                        <h4 style="color: var(--accent);">O Recurso que Gerou a Prisão</h4>
+                        <p>O Ministério Público não aceitou a decisão da juíza e recorreu para a capital (Tribunal de Justiça). Lá, os desembargadores discordaram da juíza local. Eles entenderam que a ida de Ecildo para lugar não sabido demonstrava intenção de "frustrar a aplicação da lei". Com isso, <strong>o TJMT decretou a prisão preventiva</strong>.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-date">Data Recente</span>
+                    <div class="timeline-content">
+                        <h4>A Prisão no Rio de Janeiro</h4>
+                        <p>Devido a esse mandado que estava aberto, Ecildo foi abordado e preso no Rio de Janeiro. A juíza de Sinop já mandou ofícios pedindo que o Rio de Janeiro o envie (recambiamento) para os presídios de Mato Grosso.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="glass">
+            <h2>Outros Processos (O Risco da Prisão)</h2>
+            <p style="margin-bottom: 20px; color: var(--text-muted);">
+                Ecildo possui um total de 8 registros no Tribunal. A maioria (5) já está arquivada. No entanto, há outros <strong>dois processos pendentes (ativos)</strong> que requerem cuidado imediato para não gerarem novas ordens de prisão.
+            </p>
+
+            <div class="grid-cards">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">Proc. 1013261-21.2022</div>
+                        <span class="card-status status-suspended">Suspenso</span>
+                    </div>
+                    <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 10px;">Acusação de Furto.</p>
+                    <p style="font-size: 0.9rem;"><strong>O que acontece:</strong> O processo estava paralisado porque ele não tinha sido encontrado. Agora que a Justiça sabe que ele está preso no RJ, ele será intimado dentro do presídio. O processo vai voltar a correr.</p>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">Proc. 1017084-03.2022</div>
+                        <span class="card-status status-suspended">Distribuído</span>
+                    </div>
+                    <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 10px;">Acusação de Furto Qualificado.</p>
+                    <p style="font-size: 0.9rem;"><strong>O que acontece:</strong> O prazo que ele tinha para apresentar um advogado de defesa venceu no final de 2024. A prisão atual obriga a defesa técnica a intervir com urgência neste caso também.</p>
+                </div>
+                
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">Processos Arquivados</div>
+                        <span class="card-status status-archived">Encerrados</span>
+                    </div>
+                    <p style="font-size: 0.9rem; color: var(--text-muted);">Há registros antigos (Posse de Drogas, Tráfico, etc.) sob os números finais 4274, 9059, 4036 e 1246, que já constam como arquivados ou arquivados definitivamente. Estes não geram risco de prisão imediato.</p>
+                </div>
+            </div>
+            
+            <div style="margin-top: 24px; padding: 16px; background: rgba(245, 158, 11, 0.1); border-left: 4px solid var(--warning); border-radius: 4px;">
+                <h4 style="color: var(--warning); margin-bottom: 8px;">Atenção: Risco de Soma de Penas</h4>
+                <p style="font-size: 0.95rem;">Se ele for julgado e condenado nestes processos paralelos que irão "despertar", as penas de prisão serão somadas (concurso material), aumentando significativamente o tempo total da pena.</p>
+            </div>
+        </section>
+
+        <section class="glass">
+            <h2>Próximos Passos: Estratégia da Defesa</h2>
+            <p style="margin-bottom: 24px; color: var(--text-muted);">
+                Abaixo está o plano de ação jurídico recomendado para a família visando a liberdade ou a melhoria das condições do Ecildo.
+            </p>
+
+            <ul class="step-list">
+                <li class="step-item">
+                    <div class="step-icon">1</div>
+                    <div class="step-content">
+                        <h4>Juntar Comprovantes do Rio de Janeiro</h4>
+                        <p>Precisamos que a família consiga provar que ele não foi para o Rio de Janeiro para "fugir da Justiça", mas sim para recomeçar a vida. Precisamos de: <strong>Comprovante de residência no RJ, carteira de trabalho assinada ou prova de ocupação lícita</strong>.</p>
+                    </div>
+                </li>
+                <li class="step-item">
+                    <div class="step-icon">2</div>
+                    <div class="step-content">
+                        <h4>Pedido de Revogação de Prisão (Habeas Corpus)</h4>
+                        <p>Com as provas acima, a defesa entrará com um pedido (no MT) solicitando a soltura dele ou a troca da prisão no presídio por uma <strong>Tornozeleira Eletrônica</strong> a ser usada lá mesmo no Rio de Janeiro. Isso evitaria a dolorosa e lenta viagem de transferência (recambiamento) em carro-cela através de vários estados.</p>
+                    </div>
+                </li>
+                <li class="step-item">
+                    <div class="step-icon">3</div>
+                    <div class="step-content">
+                        <h4>Apresentação Espontânea nos Outros Processos</h4>
+                        <p>Os advogados deverão se apresentar formalmente nos outros dois processos que estavam parados, antes que outros juízes também decretem ordens de prisão por "fuga". Mostrar que ele tem defesa técnica apazigua a Justiça.</p>
+                    </div>
+                </li>
+            </ul>
+        </section>
+
+    </div>
+
+</body>
+</html>
