@@ -1,0 +1,19 @@
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Origem *
+Comarca/Regional *
+Competência *
+Nome da parte *
+Nome social 
+Ano Inicial *
+Ano Final *
+Exibir somente Processos em Andamento
+ Pesquisar Limpar Filtros
+Nenhum registro encontrado.
+Nenhum registro encontrado.

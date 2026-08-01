@@ -87,7 +87,7 @@ def extract_tjrj(process_number: str, save_dir: str, headless: bool = False) -> 
         page.goto(
             "https://www3.tjrj.jus.br/consultaprocessual/#/consultapublica",
             timeout=60000,
-            wait_until="networkidle",
+            wait_until="domcontentloaded",
         )
 
         frame = None
@@ -104,12 +104,12 @@ def extract_tjrj(process_number: str, save_dir: str, headless: bool = False) -> 
                             if "original" in (b.inner_text() or "").lower()
                             and "ver" in (b.inner_text() or "").lower()
                         ]
-                        if len(originals) >= 10:
+                        if len(originals) >= 1:
                             frame = f
                             print(f"\nDetectados {len(originals)} botoes 'Original'! Iniciando...")
                             time.sleep(5)
                             break
-                        elif len(originals) > 0 and i % 10 == 0:
+                        elif len(originals) == 0 and i % 10 == 0:
                             print(
                                 f"  Vistos apenas {len(originals)} botoes. Por favor, "
                                 "clique em 'Todos Os Movimentos' e mude a paginacao."

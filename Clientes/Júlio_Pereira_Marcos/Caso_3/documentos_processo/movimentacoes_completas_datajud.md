@@ -1,0 +1,261 @@
+# PROCESSAMENTO DO PROCESSO: 0001492-25.2016.8.19.0046
+**Tribunal:** TJRJ (Tribunal de Justiça do Estado do Rio de Janeiro)
+**Total de Instâncias/Instâncias Encontradas:** 2
+
+## Instância 1: Apelação Criminal
+- **Órgão Julgador:** 3 Cï¿½MARA CRIMINAL
+- **Data de Ajuizamento:** 20170310100100
+- **Assuntos:** Tráfico de Drogas e Condutas Afins
+- **Quantidade de Movimentações:** 22
+
+### Movimentações:
+- **[2017-03-16T15:29:00.000Z]** Distribuição | prevenção: tipo_de_distribuicao_redistribuicao *(Código CNJ: 26)*
+- **[2017-03-16T15:43:00.000Z]** Remessa | outros motivos: motivo_da_remessa *(Código CNJ: 123)*
+- **[2017-03-16T15:52:00.000Z]** Conclusão | para decisão: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2017-03-20T00:01:00.000Z]** Publicação *(Código CNJ: 92)*
+- **[2017-04-24T11:42:00.000Z]** Petição | Parecer: tipo_de_peticao *(Código CNJ: 85)*
+- **[2017-04-24T11:43:00.000Z]** Conclusão | para decisão: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2017-05-19T17:10:00.000Z]** Remessa | outros motivos: motivo_da_remessa *(Código CNJ: 123)*
+- **[2017-05-19T18:11:00.000Z]** Conclusão | para decisão: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2017-06-07T16:59:00.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2017-06-20T00:00:00.000Z]** Publicação *(Código CNJ: 92)*
+- **[2017-06-27T13:00:00.000Z]** Provimento em Parte *(Código CNJ: 238)*
+- **[2017-06-27T13:02:00.000Z]** Conclusão | para julgamento: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2017-06-29T14:04:00.000Z]** Documento | Acórdão: tipo_de_documento *(Código CNJ: 581)*
+- **[2017-06-30T00:00:00.000Z]** Publicação *(Código CNJ: 92)*
+- **[2017-07-05T16:14:00.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2017-10-06T18:39:00.000Z]** Documento | Certidão: tipo_de_documento *(Código CNJ: 581)*
+- **[2017-04-17T16:04:00.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2017-04-17T16:28:00.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2017-05-29T18:44:00.000Z]** Pedido de inclusão *(Código CNJ: 12311)*
+- **[2017-06-07T17:00:00.000Z]** Inclusão em pauta *(Código CNJ: 12104)*
+- **[2017-07-03T11:50:00.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2017-10-09T12:32:00.000Z]** Baixa Definitiva *(Código CNJ: 22)*
+
+==================================================
+
+## Instância 2: Ação Penal - Procedimento Sumário
+- **Órgão Julgador:** RIO BONITO 1 VARA
+- **Data de Ajuizamento:** 2016-03-17T00:00:00.000Z
+- **Assuntos:** Tráfico de Drogas e Condutas Afins, Associação para a Produção e Tráfico e Condutas Afins
+- **Quantidade de Movimentações:** 216
+
+### Movimentações:
+- **[2016-03-17T12:38:48.000Z]** Distribuição | sorteio: tipo_de_distribuicao_redistribuicao *(Código CNJ: 26)*
+- **[2016-03-18T12:57:53.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-03-18T15:31:23.000Z]** Conclusão | para decisão: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-03-29T11:56:42.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-03-29T12:25:59.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-04-02T13:34:34.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-04-06T15:09:39.000Z]** Conclusão | para decisão: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-04-06T15:09:39.000Z]** Publicação *(Código CNJ: 92)*
+- **[2016-04-07T14:29:50.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-04-07T16:08:21.000Z]** Publicação *(Código CNJ: 92)*
+- **[2016-04-09T11:39:22.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-04-11T00:00:00.000Z]** Disponibilização no Diário da Justiça Eletrônico *(Código CNJ: 1061)*
+- **[2016-04-19T14:58:58.000Z]** Conclusão | para decisão: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-04-27T10:08:09.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-04-27T14:20:49.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-04-27T14:22:51.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-04-27T14:26:44.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-05-02T15:42:31.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-05-02T15:48:34.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-05-02T15:54:24.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-05-04T16:30:57.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-05-04T17:19:48.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-05-14T17:12:09.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-05-14T17:12:54.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-05-30T12:35:37.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-05-30T12:36:52.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-05-31T10:25:26.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-05-31T10:25:26.000Z]** Publicação *(Código CNJ: 92)*
+- **[2016-06-08T00:00:00.000Z]** Disponibilização no Diário da Justiça Eletrônico *(Código CNJ: 1061)*
+- **[2016-06-17T15:25:55.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-06-20T14:06:21.000Z]** Documento | Laudo Pericial: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-07-04T13:20:02.000Z]** de Instrução e Julgamento *(Código CNJ: 12750)*
+- **[2016-07-18T14:56:39.000Z]** Conclusão | para decisão: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-08-03T10:35:26.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-08-17T17:16:47.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-08-26T17:46:38.000Z]** Petição | Alegações finais: tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-08-26T17:50:10.000Z]** Publicação *(Código CNJ: 92)*
+- **[2016-08-30T00:00:00.000Z]** Disponibilização no Diário da Justiça Eletrônico *(Código CNJ: 1061)*
+- **[2016-09-05T15:51:50.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-09-06T14:53:04.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-09-06T14:53:29.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-09-08T11:49:37.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-09-08T13:20:51.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-09-08T17:07:26.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-09-08T17:08:33.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-09-12T16:30:57.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-09-28T17:07:50.000Z]** Conclusão | para julgamento: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-09-28T17:07:50.000Z]** Publicação *(Código CNJ: 92)*
+- **[2016-10-06T14:42:52.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-10-07T00:00:00.000Z]** Disponibilização no Diário da Justiça Eletrônico *(Código CNJ: 1061)*
+- **[2016-10-07T13:31:55.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-10-27T13:10:53.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-10-27T13:11:54.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-10-27T13:31:47.000Z]** Conclusão | para julgamento: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-10-27T13:31:47.000Z]** Publicação *(Código CNJ: 92)*
+- **[2016-11-03T13:41:18.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-12-01T00:00:00.000Z]** Disponibilização no Diário da Justiça Eletrônico *(Código CNJ: 1061)*
+- **[2016-12-07T17:39:00.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2016-12-07T17:53:41.000Z]** Documento | Alvará: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-12-07T17:53:57.000Z]** Documento | Alvará: tipo_de_documento *(Código CNJ: 581)*
+- **[2016-12-19T13:28:17.000Z]** Conclusão | para decisão: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-12-22T12:04:01.000Z]** Documento | Decisão: tipo_de_documento *(Código CNJ: 581)*
+- **[2017-01-13T14:03:32.000Z]** Petição | Contra-razões: tipo_de_peticao *(Código CNJ: 85)*
+- **[2017-02-22T11:31:04.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2017-02-22T17:24:50.000Z]** Remessa | em grau de recurso: motivo_da_remessa *(Código CNJ: 123)*
+- **[2017-10-20T11:40:02.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2017-10-25T14:56:03.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2018-01-05T13:20:53.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2018-01-29T09:08:26.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2018-01-31T17:00:50.000Z]** Documento | Certidão: tipo_de_documento *(Código CNJ: 581)*
+- **[2018-02-23T13:54:54.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2018-02-26T13:13:25.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2021-07-09T17:50:24.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2021-07-14T00:00:00.000Z]** Remessa *(Código CNJ: 980)*
+- **[2021-07-15T14:06:14.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2021-08-02T12:03:39.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2021-12-14T16:09:40.000Z]** Expedição de documento | Outros documentos: tipo_de_documento - Ofício: tipo_de_documento *(Código CNJ: 60)*
+- **[2022-08-30T10:02:03.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2022-09-02T16:17:49.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2022-09-03T07:26:28.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2022-09-12T16:37:20.000Z]** Documento | Ofício: tipo_de_documento *(Código CNJ: 581)*
+- **[2022-09-13T09:43:19.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2022-09-23T13:58:17.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2022-09-23T18:55:06.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2022-10-18T16:58:24.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2023-02-08T13:30:08.000Z]** Expedição de documento | Ofício: tipo_de_documento *(Código CNJ: 60)*
+- **[2023-05-04T20:11:59.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2023-05-17T15:04:12.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2023-05-17T15:28:48.000Z]** Documento | Outros documentos: tipo_de_documento *(Código CNJ: 581)*
+- **[2023-05-17T18:52:55.000Z]** Petição | Petição (outras): tipo_de_peticao *(Código CNJ: 85)*
+- **[2023-07-21T21:43:23.000Z]** Redistribuição | sorteio: tipo_de_distribuicao_redistribuicao - incompetência: motivo_da_redistribuicao *(Código CNJ: 36)*
+- **[2023-07-25T13:53:48.000Z]** Conclusão | para julgamento: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2023-08-10T16:18:36.000Z]** Conclusão | para despacho: tipo_de_conclusao *(Código CNJ: 51)*
+- **[2016-03-18T17:18:22.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-03-18T17:18:24.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-03-18T17:18:26.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-03-18T17:56:22.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-03-18T18:21:40.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-03-18T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2016-03-21T11:12:10.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-03-29T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2016-04-02T13:35:26.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-04-06T15:09:39.000Z]** Liberdade Provisória *(Código CNJ: 12146)*
+- **[2016-04-07T16:08:21.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-04-09T11:40:29.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-04-13T09:40:33.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-04-26T16:21:36.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-04-26T16:48:00.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-04-26T16:54:37.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-04-27T09:25:43.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-04-27T17:23:47.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-04-27T17:23:49.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-04-27T18:10:47.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-05-02T16:05:31.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-05-04T16:46:33.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-05-04T17:41:52.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-05-16T14:31:07.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-05-16T16:13:01.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-05-30T13:59:07.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-06-02T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2016-06-06T14:38:19.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-06-06T14:38:20.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-06-06T14:38:21.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-06-06T14:38:22.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-06-06T15:25:03.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-06-06T15:34:47.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-06-06T15:34:48.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-07-04T13:20:00.000Z]** Para julgamento de mérito *(Código CNJ: 12115)*
+- **[2016-07-14T16:41:35.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-07-15T10:59:09.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-07-19T14:56:39.000Z]** Liberdade Provisória *(Código CNJ: 12146)*
+- **[2016-08-03T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2016-08-12T12:46:26.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-08-17T17:53:34.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-08-26T17:50:10.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-09-08T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2016-09-28T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2016-10-04T17:07:50.000Z]** Procedência *(Código CNJ: 219)*
+- **[2016-10-05T17:41:20.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-10-05T18:06:25.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-10-07T11:20:09.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-10-07T13:50:24.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-10-07T13:50:25.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-10-07T13:50:26.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-10-07T13:50:27.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2016-10-07T14:12:50.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-10-07T17:06:36.000Z]** Confirmada *(Código CNJ: 12283)*
+- **[2016-10-27T13:14:39.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-10-31T13:31:47.000Z]** Não-Acolhimento de Embargos de Declaração *(Código CNJ: 200)*
+- **[2016-11-29T11:22:35.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-12-15T16:15:25.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2016-12-19T13:28:17.000Z]** Com efeito suspensivo *(Código CNJ: 394)*
+- **[2017-02-22T11:37:22.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2017-02-22T17:18:43.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2017-02-22T17:20:11.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2017-10-17T14:55:29.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2017-10-24T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2017-10-27T00:00:00.000Z]** Cálculo de Liquidação *(Código CNJ: 478)*
+- **[2017-10-27T00:00:00.000Z]** Cálculo de Liquidação *(Código CNJ: 478)*
+- **[2018-01-29T09:07:14.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2018-01-29T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2018-02-09T00:00:00.000Z]** Cálculo de Liquidação *(Código CNJ: 478)*
+- **[2018-02-09T00:00:00.000Z]** Cálculo de Liquidação *(Código CNJ: 478)*
+- **[2018-02-22T00:00:00.000Z]** Custas *(Código CNJ: 479)*
+- **[2018-02-23T13:56:45.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2018-02-27T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2019-05-28T12:42:11.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2021-07-12T18:19:37.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2021-07-12T18:19:40.000Z]** Expedida/Certificada *(Código CNJ: 12282)*
+- **[2021-07-14T00:00:00.000Z]** Cálculo de Liquidação *(Código CNJ: 478)*
+- **[2021-07-14T00:00:00.000Z]** Cálculo de Liquidação *(Código CNJ: 478)*
+- **[2021-08-12T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2022-08-31T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2022-09-02T11:30:55.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T11:30:55.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-02T11:30:57.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T11:30:59.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T11:31:01.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T11:31:03.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T14:59:50.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T14:59:50.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-02T14:59:52.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T14:59:54.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T14:59:56.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-02T14:59:59.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-05T08:09:55.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2022-09-09T11:30:59.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-09T14:59:54.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-13T09:42:23.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2022-09-13T11:30:57.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-13T11:31:01.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-13T11:31:03.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-13T14:59:52.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-13T14:59:56.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-13T14:59:59.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-22T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2022-09-23T12:44:45.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-23T12:44:45.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2022-09-23T18:54:22.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2022-09-26T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+- **[2022-09-27T09:38:12.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2022-09-27T16:42:30.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2022-09-28T16:42:30.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2023-03-03T09:40:13.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2023-03-03T13:36:04.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2023-03-05T13:36:04.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2023-05-17T15:41:40.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2023-05-17T17:02:16.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2023-05-17T17:02:16.000Z]** Confirmada *(Código CNJ: 12266)*
+- **[2023-07-26T13:53:48.000Z]** Pronúncia de Decadência ou Prescrição *(Código CNJ: 471)*
+- **[2023-08-10T16:17:52.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2023-08-10T16:17:54.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2023-08-10T16:17:55.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2023-08-10T16:17:59.000Z]** Expedida/certificada *(Código CNJ: 12265)*
+- **[2023-08-10T16:18:09.000Z]** Ato ordinatório *(Código CNJ: 11383)*
+- **[2023-08-10T23:59:59.000Z]** Mero expediente *(Código CNJ: 11010)*
+
+==================================================

@@ -1,0 +1,21 @@
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Origem *
+Comarca/Regional
+Competência
+Nome da parte *
+Ano Inicial *
+Ano Final *
+Exibir somente Processos em Andamento
+ Pesquisar Limpar Filtros
+O campo Origem deve ser preenchido.
+O campo Origem deve ser preenchido.
+Libras
+Voz
++ Acessibilidade

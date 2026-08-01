@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2026-05-04",
+    "event": "[NITEROI 3 VARA CRIMINAL] Publicação",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 92
+  },
+  {
+    "date": "2026-05-12",
+    "event": "[NITEROI 3 VARA CRIMINAL] Mero expediente",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 11010
+  },
+  {
+    "date": "2026-05-15",
+    "event": "[NITEROI 3 VARA CRIMINAL] Expedida/Certificada",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 12287
+  },
+  {
+    "date": "2026-05-15",
+    "event": "[NITEROI 3 VARA CRIMINAL] Expedida/certificada",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 12265
+  },
+  {
+    "date": "2026-05-18",
+    "event": "[NITEROI 3 VARA CRIMINAL] Mandado",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 985
+  },
+  {
+    "date": "2026-05-18",
+    "event": "[NITEROI 3 VARA CRIMINAL] Confirmada",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 12288
+  },
+  {
+    "date": "2026-05-26",
+    "event": "[NITEROI 3 VARA CRIMINAL] Mandado (não entregue ao destinatário: resultado)",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 106
+  },
+  {
+    "date": "2026-05-27",
+    "event": "[NITEROI 3 VARA CRIMINAL] Expedição de documento",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 60
+  },
+  {
+    "date": "2026-05-27",
+    "event": "[NITEROI 3 VARA CRIMINAL] Documento",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 581
+  },
+  {
+    "date": "2026-05-28",
+    "event": "[NITEROI 3 VARA CRIMINAL] Documento",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 581
+  },
+  {
+    "date": "2026-05-29",
+    "event": "[NITEROI 3 VARA CRIMINAL] Documento",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 581
+  },
+  {
+    "date": "2026-06-01",
+    "event": "[NITEROI 3 VARA CRIMINAL] Documento",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 581
+  },
+  {
+    "date": "2026-06-09",
+    "event": "[NITEROI 3 VARA CRIMINAL] Conclusão (para despacho: tipo_de_conclusao)",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 51
+  },
+  {
+    "date": "2026-06-09",
+    "event": "[NITEROI 3 VARA CRIMINAL] Ato ordinatório",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 11383
+  },
+  {
+    "date": "2026-06-10",
+    "event": "[NITEROI 3 VARA CRIMINAL] Mero expediente",
+    "orgao": "NITEROI 3 VARA CRIMINAL",
+    "codigo": 11010
+  }
+]

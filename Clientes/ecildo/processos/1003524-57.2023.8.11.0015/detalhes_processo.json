@@ -1,0 +1,2209 @@
+{
+  "metadados": {
+    "numero": "1003524-57.2023.8.11.0015",
+    "clean": "10035245720238110015",
+    "vara": "1ª Vara Criminal - Comarca de Sinop/MT",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "assunto": "Furto Simples (Art. 155, CP)",
+    "status": "ATIVO (Em tramitação - Mandado / Recambiamento)"
+  },
+  "datajud_raw": [
+    {
+      "id": "TJMT_G2_10035245720238110015",
+      "tribunal": "TJMT",
+      "grau": "G2",
+      "numeroProcesso": "10035245720238110015",
+      "dataAjuizamento": "20250331145622",
+      "nivelSigilo": 0,
+      "orgaoJulgador": {
+        "codigo": 48631,
+        "nome": "Gabinete 1 - Terceira Câmara Criminal",
+        "codigoMunicipioIBGE": null
+      },
+      "classe": {
+        "codigo": 426,
+        "nome": "Recurso em Sentido Estrito"
+      },
+      "sistema": {
+        "codigo": 1,
+        "nome": "PJe"
+      },
+      "formato": {
+        "codigo": 1,
+        "nome": "Eletrônico"
+      },
+      "dataHoraUltimaAtualizacao": "2026-07-14T17:08:45.840000Z",
+      "@timestamp": "2026-07-14T17:08:45.840000Z",
+      "movimentos": [
+        {
+          "codigo": 26,
+          "dataHora": "2025-03-31T14:56:23.000Z",
+          "nome": "Distribuição",
+          "complementosTabelados": [
+            {
+              "codigo": 2,
+              "descricao": "tipo_de_distribuicao_redistribuicao",
+              "valor": 2,
+              "nome": "sorteio"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2025-04-02T18:46:50.000Z",
+          "nome": "Documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2025-04-02T18:46:51.000Z",
+          "nome": "Documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2025-04-03T11:34:36.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2025-04-22T21:29:56.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 51,
+          "dataHora": "2025-04-23T07:39:55.000Z",
+          "nome": "Conclusão",
+          "complementosTabelados": [
+            {
+              "codigo": 3,
+              "descricao": "tipo_de_conclusao",
+              "valor": 6,
+              "nome": "para decisão"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2025-05-28T18:42:25.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2025-05-28T18:42:55.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 1061,
+          "dataHora": "2025-05-30T02:18:59.000Z",
+          "nome": "Disponibilização no Diário da Justiça Eletrônico",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 92,
+          "dataHora": "2025-05-30T02:19:00.000Z",
+          "nome": "Publicação",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2025-05-30T08:44:55.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2025-06-04T02:11:26.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2025-06-06T18:36:08.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 237,
+          "dataHora": "2025-06-06T23:15:09.000Z",
+          "nome": "Provimento",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2025-06-06T23:15:10.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2025-06-06T23:15:10.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2025-06-09T07:48:48.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2025-07-17T00:26:33.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 848,
+          "dataHora": "2025-07-17T10:11:45.000Z",
+          "nome": "Trânsito em julgado",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 123,
+          "dataHora": "2025-07-17T10:12:22.000Z",
+          "nome": "Remessa",
+          "complementosTabelados": [
+            {
+              "codigo": 18,
+              "descricao": "motivo_da_remessa",
+              "valor": 40,
+              "nome": "outros motivos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 132,
+          "dataHora": "2025-03-31T14:56:24.000Z",
+          "nome": "Recebimento",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 132,
+          "dataHora": "2025-03-31T17:48:12.000Z",
+          "nome": "Recebimento",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 12313,
+          "dataHora": "2025-05-26T14:57:46.000Z",
+          "nome": "Pedido de inclusão em pauta virtual",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 12116,
+          "dataHora": "2025-05-30T17:31:16.000Z",
+          "nome": "Para julgamento de mérito",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 12200,
+          "dataHora": "2025-06-06T18:32:03.000Z",
+          "nome": "Mérito",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 22,
+          "dataHora": "2025-06-06T23:15:10.000Z",
+          "nome": "Baixa Definitiva",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2025-06-09T15:43:19.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        },
+        {
+          "codigo": 22,
+          "dataHora": "2025-07-17T10:12:22.000Z",
+          "nome": "Baixa Definitiva",
+          "orgaoJulgador": {
+            "codigo": "48631",
+            "nome": "Gabinete 1 - Terceira Câmara Criminal"
+          }
+        }
+      ],
+      "assuntos": [
+        {
+          "codigo": 3416,
+          "nome": "Furto "
+        }
+      ]
+    },
+    {
+      "id": "TJMT_G1_10035245720238110015",
+      "tribunal": "TJMT",
+      "grau": "G1",
+      "numeroProcesso": "10035245720238110015",
+      "dataAjuizamento": "20230303105334",
+      "nivelSigilo": 0,
+      "orgaoJulgador": {
+        "codigo": 7341,
+        "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR",
+        "codigoMunicipioIBGE": null
+      },
+      "classe": {
+        "codigo": 283,
+        "nome": "Ação Penal - Procedimento Ordinário"
+      },
+      "sistema": {
+        "codigo": 1,
+        "nome": "PJe"
+      },
+      "formato": {
+        "codigo": 1,
+        "nome": "Eletrônico"
+      },
+      "dataHoraUltimaAtualizacao": "2026-07-15T05:10:46.205000Z",
+      "@timestamp": "2026-07-15T05:10:46.205000Z",
+      "movimentos": [
+        {
+          "codigo": 26,
+          "dataHora": "2023-03-03T10:53:34.000Z",
+          "nome": "Distribuição",
+          "complementosTabelados": [
+            {
+              "codigo": 2,
+              "descricao": "tipo_de_distribuicao_redistribuicao",
+              "valor": 2,
+              "nome": "sorteio"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 982,
+          "dataHora": "2023-03-03T10:53:43.000Z",
+          "nome": "Remessa",
+          "complementosTabelados": [
+            {
+              "codigo": 18,
+              "descricao": "motivo_da_remessa",
+              "valor": 40,
+              "nome": "outros motivos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:03.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:06.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:06.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:06.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:07.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:07.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:07.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:07.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:08.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:08.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:08.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:09.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:09.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:09.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:09.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:10.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:10.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:10.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:10.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:10.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:11.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:11.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:11.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:11.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:12.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:12.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:12.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:12.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:13.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:13.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:13.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:13.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:14.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:14.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:14.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:14.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:15.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-03T10:54:15.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2023-03-03T15:03:50.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-23T18:44:46.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 47,
+              "nome": "Denúncia"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 51,
+          "dataHora": "2023-03-23T18:44:53.000Z",
+          "nome": "Conclusão",
+          "complementosTabelados": [
+            {
+              "codigo": 3,
+              "descricao": "tipo_de_conclusao",
+              "valor": 6,
+              "nome": "para decisão"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 391,
+          "dataHora": "2023-07-31T18:17:38.000Z",
+          "nome": "Denúncia",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2023-07-31T18:17:40.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2023-08-01T11:26:45.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2023-08-01T11:31:21.000Z",
+          "nome": "Documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-08-01T16:33:31.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2024-02-04T22:40:34.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 106,
+          "dataHora": "2024-02-04T22:40:34.000Z",
+          "nome": "Mandado",
+          "complementosTabelados": [
+            {
+              "codigo": 6,
+              "descricao": "resultado",
+              "valor": 8,
+              "nome": "não entregue ao destinatário"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2024-03-08T11:37:48.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2024-03-20T08:36:34.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 106,
+          "dataHora": "2024-03-20T08:36:34.000Z",
+          "nome": "Mandado",
+          "complementosTabelados": [
+            {
+              "codigo": 6,
+              "descricao": "resultado",
+              "valor": 8,
+              "nome": "não entregue ao destinatário"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2024-03-21T07:21:50.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2024-04-09T01:11:03.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2024-04-11T18:53:06.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2024-04-12T11:22:21.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2024-05-21T10:40:39.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 106,
+          "dataHora": "2024-05-21T10:40:39.000Z",
+          "nome": "Mandado",
+          "complementosTabelados": [
+            {
+              "codigo": 6,
+              "descricao": "resultado",
+              "valor": 8,
+              "nome": "não entregue ao destinatário"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2024-06-10T20:27:20.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2024-06-26T01:08:21.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2024-07-11T19:26:33.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 51,
+          "dataHora": "2024-07-12T13:41:52.000Z",
+          "nome": "Conclusão",
+          "complementosTabelados": [
+            {
+              "codigo": 3,
+              "descricao": "tipo_de_conclusao",
+              "valor": 6,
+              "nome": "para decisão"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2024-11-21T14:22:43.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2024-11-22T10:22:08.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1061,
+          "dataHora": "2024-11-26T02:05:00.000Z",
+          "nome": "Disponibilização no Diário da Justiça Eletrônico",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 92,
+          "dataHora": "2024-11-26T02:05:03.000Z",
+          "nome": "Publicação",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2024-12-06T18:42:45.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2025-01-14T12:10:41.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2025-01-24T06:13:55.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2025-01-28T15:35:25.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 51,
+          "dataHora": "2025-01-28T16:26:44.000Z",
+          "nome": "Conclusão",
+          "complementosTabelados": [
+            {
+              "codigo": 3,
+              "descricao": "tipo_de_conclusao",
+              "valor": 6,
+              "nome": "para decisão"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2025-03-31T17:50:34.000Z",
+          "nome": "Documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 123,
+          "dataHora": "2025-03-31T17:50:35.000Z",
+          "nome": "Remessa",
+          "complementosTabelados": [
+            {
+              "codigo": 18,
+              "descricao": "motivo_da_remessa",
+              "valor": 38,
+              "nome": "em grau de recurso"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2025-07-17T10:12:16.000Z",
+          "nome": "Documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2025-07-23T14:48:02.000Z",
+          "nome": "Documento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2026-01-16T13:07:34.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2026-01-23T15:19:30.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2026-02-09T22:02:26.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 51,
+          "dataHora": "2026-02-10T16:45:04.000Z",
+          "nome": "Conclusão",
+          "complementosTabelados": [
+            {
+              "codigo": 3,
+              "descricao": "tipo_de_conclusao",
+              "valor": 6,
+              "nome": "para decisão"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2026-03-04T13:29:54.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2026-03-09T14:14:38.000Z",
+          "nome": "Documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2026-03-09T18:05:51.000Z",
+          "nome": "Documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 581,
+          "dataHora": "2026-04-06T17:52:36.000Z",
+          "nome": "Documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2026-04-06T17:57:30.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2026-05-12T02:16:20.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2026-05-14T13:39:22.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2026-05-18T22:07:19.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 71,
+              "nome": "Resposta"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2026-05-18T22:07:19.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 71,
+              "nome": "Resposta"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2026-06-01T13:54:52.000Z",
+          "nome": "Expedição de documento",
+          "complementosTabelados": [
+            {
+              "codigo": 4,
+              "descricao": "tipo_de_documento",
+              "valor": 80,
+              "nome": "Outros documentos"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2026-06-10T02:20:08.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2026-06-10T02:34:08.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2026-06-16T21:53:53.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 51,
+          "dataHora": "2026-06-17T12:15:32.000Z",
+          "nome": "Conclusão",
+          "complementosTabelados": [
+            {
+              "codigo": 3,
+              "descricao": "tipo_de_conclusao",
+              "valor": 6,
+              "nome": "para decisão"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 981,
+          "dataHora": "2023-03-03T10:53:44.000Z",
+          "nome": "Recebimento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2023-05-03T14:06:41.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2023-07-31T18:17:40.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 132,
+          "dataHora": "2023-07-31T18:17:41.000Z",
+          "nome": "Recebimento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2023-08-01T11:34:15.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 985,
+          "dataHora": "2023-08-03T16:12:49.000Z",
+          "nome": "Mandado",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 985,
+          "dataHora": "2024-03-08T16:54:17.000Z",
+          "nome": "Mandado",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2024-03-21T07:21:50.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 985,
+          "dataHora": "2024-04-29T15:05:37.000Z",
+          "nome": "Mandado",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2024-06-10T20:27:20.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2024-11-21T14:22:43.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 132,
+          "dataHora": "2024-11-21T14:22:44.000Z",
+          "nome": "Recebimento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2025-01-14T12:10:41.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1059,
+          "dataHora": "2025-03-28T15:15:56.000Z",
+          "nome": "Sem efeito suspensivo",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 132,
+          "dataHora": "2025-03-28T15:15:58.000Z",
+          "nome": "Recebimento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2025-03-31T14:41:07.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12315,
+          "dataHora": "2025-07-17T10:12:17.000Z",
+          "nome": "Devolvidos os autos",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 849,
+          "dataHora": "2025-07-17T18:17:59.000Z",
+          "nome": "Reativação",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2025-07-24T09:57:37.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 14997,
+          "dataHora": "2025-07-24T09:58:06.000Z",
+          "nome": "Arquivamento Provisório - Aguardando Captura de Réu Condenado",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2025-12-16T12:34:25.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 893,
+          "dataHora": "2026-01-23T15:18:09.000Z",
+          "nome": "Desarquivamento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2026-01-23T15:19:30.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12164,
+          "dataHora": "2026-02-28T09:44:20.000Z",
+          "nome": "Outras Decisões",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 132,
+          "dataHora": "2026-02-28T09:44:21.000Z",
+          "nome": "Recebimento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2026-03-05T18:08:07.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2026-03-05T18:10:25.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2026-03-09T14:18:40.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2026-03-09T18:08:48.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2026-03-13T15:59:08.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 245,
+          "dataHora": "2026-03-13T16:02:27.000Z",
+          "nome": "Provisório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 893,
+          "dataHora": "2026-04-06T17:53:44.000Z",
+          "nome": "Desarquivamento",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2026-04-06T17:55:04.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2026-04-06T17:57:30.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2026-04-14T17:49:07.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2026-05-14T13:39:22.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12265,
+          "dataHora": "2026-06-01T13:54:52.000Z",
+          "nome": "Expedida/certificada",
+          "orgaoJulgador": {
+            "codigo": "7341",
+            "nome": "Primeira Vara Criminal - Comarca de Sinop - SDCR"
+          }
+        }
+      ],
+      "assuntos": [
+        {
+          "codigo": 3416,
+          "nome": "Furto "
+        }
+      ]
+    }
+  ]
+}

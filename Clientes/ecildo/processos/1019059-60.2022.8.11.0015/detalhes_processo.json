@@ -1,0 +1,294 @@
+{
+  "metadados": {
+    "numero": "1019059-60.2022.8.11.0015",
+    "clean": "10190596020228110015",
+    "vara": "Juizado Especial Cível e Criminal de Sinop/MT",
+    "classe": "Termo Circunstanciado",
+    "assunto": "Posse de Drogas para Consumo Pessoal (Art. 28)",
+    "status": "INATIVO (Arquivado Definitivamente em 27/03/2023)"
+  },
+  "datajud_raw": [
+    {
+      "id": "TJMT_JE_10190596020228110015",
+      "tribunal": "TJMT",
+      "grau": "JE",
+      "numeroProcesso": "10190596020228110015",
+      "dataAjuizamento": "20221111095543",
+      "nivelSigilo": 0,
+      "orgaoJulgador": {
+        "codigo": 7338,
+        "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR",
+        "codigoMunicipioIBGE": null
+      },
+      "classe": {
+        "codigo": 278,
+        "nome": "Termo Circunstanciado"
+      },
+      "sistema": {
+        "codigo": 1,
+        "nome": "PJe"
+      },
+      "formato": {
+        "codigo": 1,
+        "nome": "Eletrônico"
+      },
+      "dataHoraUltimaAtualizacao": "2026-07-14T01:27:57.892000Z",
+      "@timestamp": "2026-07-14T01:27:57.892000Z",
+      "movimentos": [
+        {
+          "codigo": 26,
+          "dataHora": "2022-11-11T09:55:43.000Z",
+          "nome": "Distribuição",
+          "complementosTabelados": [
+            {
+              "codigo": 2,
+              "descricao": "tipo_de_distribuicao_redistribuicao",
+              "valor": 2,
+              "nome": "sorteio"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2022-11-11T09:55:56.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2022-12-05T10:16:20.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2023-02-01T01:48:47.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2023-03-02T08:28:38.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-06T21:54:27.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 51,
+          "dataHora": "2023-03-09T17:15:22.000Z",
+          "nome": "Conclusão",
+          "complementosTabelados": [
+            {
+              "codigo": 3,
+              "descricao": "tipo_de_conclusao",
+              "valor": 36,
+              "nome": "para julgamento"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2023-03-26T21:44:39.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 60,
+          "dataHora": "2023-03-27T13:47:25.000Z",
+          "nome": "Expedição de documento",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 85,
+          "dataHora": "2023-03-27T22:08:29.000Z",
+          "nome": "Petição",
+          "complementosTabelados": [
+            {
+              "codigo": 19,
+              "descricao": "tipo_de_peticao",
+              "valor": 57,
+              "nome": "Petição (outras)"
+            }
+          ],
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 1051,
+          "dataHora": "2023-05-19T16:25:11.000Z",
+          "nome": "Decurso de Prazo",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2022-12-05T10:06:17.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2022-12-05T10:07:46.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2022-12-05T10:09:03.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2022-12-05T10:09:42.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2022-12-05T10:10:46.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12270,
+          "dataHora": "2022-12-05T10:12:29.000Z",
+          "nome": "Documento",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2022-12-05T10:15:14.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2023-02-22T11:04:59.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 11383,
+          "dataHora": "2023-03-02T08:28:38.000Z",
+          "nome": "Ato ordinatório",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 12325,
+          "dataHora": "2023-03-26T21:44:39.000Z",
+          "nome": "Perda do objeto",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 132,
+          "dataHora": "2023-03-26T21:44:40.000Z",
+          "nome": "Recebimento",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        },
+        {
+          "codigo": 246,
+          "dataHora": "2023-03-27T13:47:40.000Z",
+          "nome": "Definitivo",
+          "orgaoJulgador": {
+            "codigo": "7338",
+            "nome": "Primeiro Juizado Especial da Comarca de Sinop - SDCR"
+          }
+        }
+      ],
+      "assuntos": [
+        {
+          "codigo": 5885,
+          "nome": "Posse de Drogas para Consumo Pessoal"
+        }
+      ]
+    }
+  ]
+}

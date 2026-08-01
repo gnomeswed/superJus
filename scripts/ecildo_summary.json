@@ -1,0 +1,84 @@
+[
+  {
+    "processo": "1003524-57.2023.8.11.0015",
+    "datajud": true,
+    "classe": "Recurso em Sentido Estrito",
+    "orgao": "Gabinete 1 - Terceira Câmara Criminal",
+    "dt_ajuizamento": "20250331145622",
+    "ultima_movimentacao_data": "2025-07-17T10:12:22.000Z",
+    "ultima_movimentacao_nome": "Remessa",
+    "total_movimentacoes": 28,
+    "audiencias": []
+  },
+  {
+    "processo": "1003524-57.2023.8.11.0015",
+    "datajud": true,
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "orgao": "Primeira Vara Criminal - Comarca de Sinop - SDCR",
+    "dt_ajuizamento": "20230303105334",
+    "ultima_movimentacao_data": "2026-06-17T12:15:32.000Z",
+    "ultima_movimentacao_nome": "Conclusão",
+    "total_movimentacoes": 131,
+    "audiencias": []
+  },
+  {
+    "processo": "1011246-79.2022.8.11.0015",
+    "datajud": true,
+    "classe": "Auto de Prisão em Flagrante",
+    "orgao": "Primeira Vara Criminal - Comarca de Sinop - SDCR",
+    "dt_ajuizamento": "20220627162022",
+    "ultima_movimentacao_data": "2024-03-13T17:24:27.000Z",
+    "ultima_movimentacao_nome": "Documento",
+    "total_movimentacoes": 47,
+    "audiencias": []
+  },
+  {
+    "processo": "1013261-21.2022.8.11.0015",
+    "datajud": true,
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "orgao": "Primeira Vara Criminal - Comarca de Sinop - SDCR",
+    "dt_ajuizamento": "20220801094957",
+    "ultima_movimentacao_data": "2025-03-28T17:03:48.000Z",
+    "ultima_movimentacao_nome": "Petição",
+    "total_movimentacoes": 56,
+    "audiencias": []
+  },
+  {
+    "processo": "1014036-36.2022.8.11.0015",
+    "datajud": false,
+    "info": "Sem dados públicos no DataJud (ou segredo)"
+  },
+  {
+    "processo": "1014274-55.2022.8.11.0015",
+    "datajud": true,
+    "classe": "Procedimento Especial da Lei Antitóxicos",
+    "orgao": "Quinta Vara Criminal - Comarca de Sinop - SDCR",
+    "dt_ajuizamento": "20220818094331",
+    "ultima_movimentacao_data": "2025-04-29T02:15:43.000Z",
+    "ultima_movimentacao_nome": "Decurso de Prazo",
+    "total_movimentacoes": 101,
+    "audiencias": []
+  },
+  {
+    "processo": "1017084-03.2022.8.11.0015",
+    "datajud": true,
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "orgao": "Segunda Vara Criminal - Comarca de Sinop - SDCR",
+    "dt_ajuizamento": "20221005101608",
+    "ultima_movimentacao_data": "2024-10-25T17:55:46.000Z",
+    "ultima_movimentacao_nome": "Recebimento",
+    "total_movimentacoes": 64,
+    "audiencias": []
+  },
+  {
+    "processo": "1019059-60.2022.8.11.0015",
+    "datajud": true,
+    "classe": "Termo Circunstanciado",
+    "orgao": "Primeiro Juizado Especial da Comarca de Sinop - SDCR",
+    "dt_ajuizamento": "20221111095543",
+    "ultima_movimentacao_data": "2023-05-19T16:25:11.000Z",
+    "ultima_movimentacao_nome": "Decurso de Prazo",
+    "total_movimentacoes": 23,
+    "audiencias": []
+  }
+]

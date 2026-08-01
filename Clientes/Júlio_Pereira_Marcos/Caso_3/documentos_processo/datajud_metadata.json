@@ -1,0 +1,241 @@
+{
+  "id": "TJRJ_417_G2_16623_00014922520168190046",
+  "tribunal": "TJRJ",
+  "grau": "G2",
+  "numeroProcesso": "00014922520168190046",
+  "dataAjuizamento": "20170310100100",
+  "nivelSigilo": 0,
+  "orgaoJulgador": {
+    "codigo": 16623,
+    "nome": "3 Cï¿½MARA CRIMINAL",
+    "codigoMunicipioIBGE": 3304557
+  },
+  "classe": {
+    "codigo": 417,
+    "nome": "Apelação Criminal"
+  },
+  "sistema": {
+    "codigo": -1,
+    "nome": "Inválido"
+  },
+  "formato": {
+    "codigo": 1,
+    "nome": "Eletrônico"
+  },
+  "dataHoraUltimaAtualizacao": "2022-01-31T05:15:14.800000Z",
+  "@timestamp": "2022-01-31T05:15:14.800000Z",
+  "movimentos": [
+    {
+      "codigo": 26,
+      "dataHora": "2017-03-16T15:29:00.000Z",
+      "nome": "Distribuição",
+      "complementosTabelados": [
+        {
+          "codigo": 2,
+          "descricao": "tipo_de_distribuicao_redistribuicao",
+          "valor": 3,
+          "nome": "prevenção"
+        }
+      ]
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2017-03-16T15:43:00.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 40,
+          "nome": "outros motivos"
+        }
+      ]
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2017-03-16T15:52:00.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ]
+    },
+    {
+      "codigo": 92,
+      "dataHora": "2017-03-20T00:01:00.000Z",
+      "nome": "Publicação"
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2017-04-24T11:42:00.000Z",
+      "nome": "Petição",
+      "complementosTabelados": [
+        {
+          "codigo": 19,
+          "descricao": "tipo_de_peticao",
+          "valor": 56,
+          "nome": "Parecer"
+        }
+      ]
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2017-04-24T11:43:00.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ]
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2017-05-19T17:10:00.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 40,
+          "nome": "outros motivos"
+        }
+      ]
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2017-05-19T18:11:00.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ]
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2017-06-07T16:59:00.000Z",
+      "nome": "Petição",
+      "complementosTabelados": [
+        {
+          "codigo": 19,
+          "descricao": "tipo_de_peticao",
+          "valor": 57,
+          "nome": "Petição (outras)"
+        }
+      ]
+    },
+    {
+      "codigo": 92,
+      "dataHora": "2017-06-20T00:00:00.000Z",
+      "nome": "Publicação"
+    },
+    {
+      "codigo": 238,
+      "dataHora": "2017-06-27T13:00:00.000Z",
+      "nome": "Provimento em Parte"
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2017-06-27T13:02:00.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 36,
+          "nome": "para julgamento"
+        }
+      ]
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2017-06-29T14:04:00.000Z",
+      "nome": "Documento",
+      "complementosTabelados": [
+        {
+          "codigo": 4,
+          "descricao": "tipo_de_documento",
+          "valor": 117,
+          "nome": "Acórdão"
+        }
+      ]
+    },
+    {
+      "codigo": 92,
+      "dataHora": "2017-06-30T00:00:00.000Z",
+      "nome": "Publicação"
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2017-07-05T16:14:00.000Z",
+      "nome": "Petição",
+      "complementosTabelados": [
+        {
+          "codigo": 19,
+          "descricao": "tipo_de_peticao",
+          "valor": 57,
+          "nome": "Petição (outras)"
+        }
+      ]
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2017-10-06T18:39:00.000Z",
+      "nome": "Documento",
+      "complementosTabelados": [
+        {
+          "codigo": 4,
+          "descricao": "tipo_de_documento",
+          "valor": 107,
+          "nome": "Certidão"
+        }
+      ]
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2017-04-17T16:04:00.000Z",
+      "nome": "Mero expediente"
+    },
+    {
+      "codigo": 12266,
+      "dataHora": "2017-04-17T16:28:00.000Z",
+      "nome": "Confirmada"
+    },
+    {
+      "codigo": 12311,
+      "dataHora": "2017-05-29T18:44:00.000Z",
+      "nome": "Pedido de inclusão"
+    },
+    {
+      "codigo": 12104,
+      "dataHora": "2017-06-07T17:00:00.000Z",
+      "nome": "Inclusão em pauta"
+    },
+    {
+      "codigo": 12266,
+      "dataHora": "2017-07-03T11:50:00.000Z",
+      "nome": "Confirmada"
+    },
+    {
+      "codigo": 22,
+      "dataHora": "2017-10-09T12:32:00.000Z",
+      "nome": "Baixa Definitiva"
+    }
+  ],
+  "assuntos": [
+    {
+      "codigo": 3608,
+      "nome": "Tráfico de Drogas e Condutas Afins"
+    }
+  ]
+}

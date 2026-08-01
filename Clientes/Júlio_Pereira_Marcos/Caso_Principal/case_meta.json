@@ -1,19 +1,44 @@
 {
   "nome": "Júlio Pereira Marcos",
-  "numero_processo": "0029845-67.2026.8.19.0002",
-  "rg": "",
-  "cpf": "",
+  "numero_processo_1a_instancia": "0023013-51.2021.8.19.0078",
+  "numero_processo_hc": "0029845-67.2026.8.19.0000",
+  "numero_processo_principal": "0022975-39.2021.8.19.0078",
+  "comarca": "Armação dos Búzios - 2ª Vara Criminal",
+  "tribunal": "TJRJ - 7ª Câmara Criminal",
+  "relator_hc": "Des. Sidney Rosa da Silva",
+  "juiz_1a_instancia": "Dr. Danilo Marques Borges",
   "artigo": "Art. 33 e 35, Lei 11.343/06",
-  "status": "Preso - Preventiva",
+  "status": "Preso Preventivo (Mandado cumprido em 12/05/2026)",
+  "data_prisao": "2026-05-12",
+  "status_hc": "Denegado por Unanimidade (11/06/2026) - Acórdão publicado em 16/06/2026",
+  "ultima_movimentacao_1a_instancia": "30/07/2026 - Conclusão Minutada (Minuta da Decisão Elaborada)",
+  "recurso_cabivel": "Recurso Ordinário em Habeas Corpus (RHC) para o STJ",
   "processos_relacionados": [
-    "0029845-67.2026",
-    "0023013-51.2021",
-    "0022975-39.2021",
-    "0012801-74.2022",
-    "0001140-87.2024"
+    "0023013-51.2021.8.19.0078",
+    "0029845-67.2026.8.19.0000",
+    "0022975-39.2021.8.19.0078",
+    "0001140-87.2024.8.19.0078",
+    "0001492-25.2016.8.19.0046"
   ],
-  "crime": "Tráfico e Associação (Operação Delivery)",
-  "prisao_data": "2022-01-27",
-  "cumprimento_data": "2026-05-12",
-  "hc_impetrado": "2026-05-05"
+  "localizacao_atual": "Conclusão Minutada",
+  "data_ultima_atualizacao": "2026-07-29",
+  "ultima_decisao_conhecida": "24/07/2026 - Indeferimento da Revogação da Prisão Preventiva (Fls. 1297 - Juiz Danilo Marques Borges)",
+  "status_liberdade": "Prisão Preventiva Mantida em 1ª Instância (Decisão de 24/07/2026 na fl. 1297)",
+  "estrategia_aprovada": "30/07/2026 - Estratégia Definitiva em 3 Fases (HC + Mérito + Dosimetria)",
+  "proxima_acao": "Redigir e protocolar Habeas Corpus no TJRJ com pedido liminar",
+  "teses_principais": [
+    "Falta de contemporaneidade (Art. 312, par.2, CPP)",
+    "Extensao da soltura dos correus (Art. 580, CPP)",
+    "Nulidade da decisao per relationem (Art. 315, par.2, V, CPP)",
+    "Desproporcionalidade - crime sem violencia, pequena escala",
+    "Absolvicao do Art. 35 (Associacao) - ausencia de organizacao criminosa",
+    "Trafico Privilegiado Art. 33, par.4 - reducao de 2/3"
+  ],
+  "alerta_tatico": "NAO contestar autoria das interceptacoes. Linha cadastrada no nome de Julio, mae confirmou, delegado detalhou.",
+  "habeas_corpus_stj": {
+    "numero_hc": "HC 1.116.750 / RJ (2026/0311210-7)",
+    "relator": "Ministro Og Fernandes (Sexta Turma STJ)",
+    "presidente_stj_despacho": "29/07/2026 (Publicado DJEN 31/07/2026) - Liminar indeferida sumariamente; requisitadas informações urgentes ao TJRJ e vista ao MPF",
+    "oficio_tjrj_resposta": "31/07/2026 (12:11) - Ofício SEI 2026-06236234 prestado pela 2ª Vice-Presidência do TJRJ ao Ministro Og Fernandes"
+  }
 }

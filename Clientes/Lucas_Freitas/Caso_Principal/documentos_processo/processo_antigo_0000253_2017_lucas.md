@@ -1,0 +1,76 @@
+# RELATÓRIO DO PROCESSO ANTERIOR DA COMARCA DE SÃO GONÇALO
+**Processo Nº:** `0000253-78.2017.8.19.0004`
+**Réu:** Lucas de Souza Freitas
+**Data da Consulta:** 24/07/2026
+
+**Registros no Datajud:** 0
+
+## Espelho Oficial Extraído ao Vivo do TJRJ
+```text
+
+ Voltar
+ Imprimir
+Todos Os Movimentos
+
+As informações aqui contidas não produzem efeitos legais. Somente a publicação no DJERJ oficializa despachos e decisões e estabelece prazos.
+
+Processo Nº 0000253-78.2017.8.19.0004
+TJ/RJ - 24/07/2026 - 23:35:45 - 1ª Instância - Distribuído em 05/01/2017
+
+
+Caso deseje acessar gravação audiovisual de audiências clique aqui.
+
+Dados da Serventia
+Comarca
+Comarca de Niterói
+Vara
+2ª Vara Criminal
+Serventia
+Cartório da 2ª Vara Criminal
+Endereço da Serventia
+Coronel Gomes Machado, s/n ,
+Bairro
+Centro
+Cidade
+Niterói
+Dados do Processo
+Ofício de Registro
+1º Ofício de Distribuição de Niterói
+Ação
+Roubo (Art. 157 - Cp), §, II do CP.
+Competência
+Criminal
+Assunto
+Roubo (Art. 157 - Cp), §, II do CP.
+Classe
+Ação Penal - Procedimento Ordinário
+Histórico dos Mandados
+Visualização dos Históricos dos Mandados
+Processo(s) no Tribunal de Justiça
+0046418-98.2017.8.19.0000
+Protocolo(s) no Tribunal de Justiça
+201700454631 - 18/08/2017
+Dados dos Personagens
+Autor
+MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO e outro(s)...
+Advogado(s)
+RJ111872 - JOSE GUILHERME RODER SALIBA
+Personagens
+Listar todos os personagens
+Histórico de personagens
+Listar alterações / exclusões de personagens
+Última Movimentação
+Tipo do Movimento: Arquivamento
+Data de arquivamento:
+08/11/2017
+Tipo de arquivamento:
+definitivo
+Maço:
+1310262
+Maço recebido pelo arquivo em:
+01/12/2017
+Local de arquivamento:
+Arquivo Geral - Rio de Janeiro
+Para visualizar Petições Pendentes de Análise ou Juntada Clique Aqui
+
+```

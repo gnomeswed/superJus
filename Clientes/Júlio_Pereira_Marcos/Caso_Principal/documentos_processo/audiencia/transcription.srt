@@ -1,0 +1,7828 @@
+1
+00:00:00,000 --> 00:00:08,160
+Porque, afinal de contas, tem testemunhas aguardando aqui há muito tempo.
+
+2
+00:00:08,160 --> 00:00:12,800
+Boa noite a todos, desculpem o atraso, mas a primeira atrasou demais, mais de uma hora,
+
+3
+00:00:12,800 --> 00:00:13,800
+quase duas horas.
+
+4
+00:00:13,800 --> 00:00:19,679
+Doutor Vinícius está aqui de prova, porque estavam participando da primeira audiência.
+
+5
+00:00:19,679 --> 00:00:25,440
+A segunda tivemos ato prejudicado e aí passamos para essa terceira, mas está
+
+6
+00:00:25,440 --> 00:00:29,560
+com esse impasse aí de apresentação dos acusados.
+
+7
+00:00:29,560 --> 00:00:36,960
+Não sei por que motivo, está presente apenas o acusado Paulo Henrique, mas como já houve
+
+8
+00:00:36,960 --> 00:00:43,800
+declaração por todas as defesas, que eu já anotei aqui, para as defesas técnicas
+
+9
+00:00:43,800 --> 00:00:49,640
+da condução da audiência, essa é a presença dos acusados, então nós vamos colher
+
+10
+00:00:49,640 --> 00:00:54,200
+a prova, primeiramente, ouvindo o doutor Rodrigo Moreira, o delegado.
+
+11
+00:00:54,200 --> 00:00:58,719
+Doutor Rodrigo, o senhor está sob compromisso de dizer a verdade, sob pena de responder
+
+12
+00:00:58,719 --> 00:01:00,519
+criminalmente para o falso-testemunho.
+
+13
+00:01:00,519 --> 00:01:08,120
+A doutora Renata, não sei se é promotora com atribuição, mas de qualquer forma,
+
+14
+00:01:08,120 --> 00:01:14,960
+não sendo eventualmente ela remete peças, se for o caso, o senhor é agente público
+
+15
+00:01:14,960 --> 00:01:16,799
+e eu tenho dever de adverti-lo.
+
+16
+00:01:16,799 --> 00:01:22,560
+Eu pergunto, embora não estejam presentes, está presente apenas o senhor Paulo Henrique,
+
+17
+00:01:23,159 --> 00:01:29,760
+eu pergunto se tem algum problema pessoal com as pessoas que foram denunciadas, que
+
+18
+00:01:29,760 --> 00:01:35,159
+são essas pessoas que eu li os nomes, mas vou reiterar.
+
+19
+00:01:35,159 --> 00:01:41,840
+É Júlio Pereira Marcos, supostamente vulgo Julião, José Guilherme da Costa Freire,
+
+20
+00:01:41,840 --> 00:01:46,840
+sem vulgo indicado, o senhor Cristiano Pereira Marcos, o senhor Paulo Henrique
+
+21
+00:01:46,840 --> 00:01:52,359
+Bento, supostamente vulgo Paulinho, que seria o senhor presente aqui, de blusa branca,
+
+22
+00:01:52,359 --> 00:01:59,040
+o senhor é Merson Fernandes Ananias, o senhor Rodrigo Duarte Souza, que também
+
+23
+00:01:59,040 --> 00:02:03,480
+não está mais nesse processo, está desmembrado também, como a doutora Renata falou,
+
+24
+00:02:03,480 --> 00:02:07,920
+e o senhor Juliano Lucas, supostamente vulgo Lucas.
+
+25
+00:02:07,920 --> 00:02:10,199
+Tem algum problema pessoal com eles, doutor?
+
+26
+00:02:10,199 --> 00:02:11,520
+Boa tarde, silêncio.
+
+27
+00:02:11,520 --> 00:02:13,480
+Nenhum problema, nem os conhecia.
+
+28
+00:02:13,480 --> 00:02:14,480
+Ok.
+
+29
+00:02:14,479 --> 00:02:20,159
+Então veja bem, quem vai indagar primeiramente do senhor, será a doutora Renata, e depois
+
+30
+00:02:20,159 --> 00:02:25,519
+eu vou seguindo os advogados pela ordem da denúncia, e se for o caso farei alguma
+
+31
+00:02:25,519 --> 00:02:27,120
+pergunta complementar ao final.
+
+32
+00:02:27,120 --> 00:02:31,159
+A doutora Renata querendo pode indagar do doutor Rodrigo.
+
+33
+00:02:31,159 --> 00:02:33,159
+Obrigada, silêncio.
+
+34
+00:02:33,159 --> 00:02:35,159
+Boa tarde, doutor Rodrigo, tudo bom?
+
+35
+00:02:35,159 --> 00:02:37,159
+Tudo bem, silêncio.
+
+36
+00:02:37,159 --> 00:02:42,639
+O senhor pode explicar para a gente, por favor, como que começou a operação
+
+37
+00:02:42,640 --> 00:02:46,640
+Delivery, como que começaram as investigações relacionadas a essa operação?
+
+38
+00:02:46,640 --> 00:02:55,160
+Sim, a investigação começou em março de 2021, como eu me recordo ao certo a data,
+
+39
+00:02:55,160 --> 00:02:59,680
+em razão de uma ocorrência apresentada por policiais militares, dando conta de
+
+40
+00:02:59,680 --> 00:03:07,120
+que o José Guilherme, ele foi encontrado com um tablet de substâncias supostamente
+
+41
+00:03:07,599 --> 00:03:12,599
+maconha, só depois do lado que foi confirmado, e alegava que era para seu consumo próprio.
+
+42
+00:03:12,599 --> 00:03:19,599
+Ele informou que havia comprado aquele tablet de maconha por uma quantia de cerca de
+
+43
+00:03:19,599 --> 00:03:26,599
+R$600,00 e comprou aquela quantidade porque ele era usuário e tinha medo de frequentar,
+
+44
+00:03:26,599 --> 00:03:31,599
+entre aspas, as bocas de fumo, e por isso ele tinha comprado aquela quantidade.
+
+45
+00:03:32,079 --> 00:03:38,079
+Tenho em vista a apresentação dessa ocorrência e as declarações do José Guilherme,
+
+46
+00:03:38,079 --> 00:03:43,079
+que não tinha nenhum material para indolação, não tinha mais nada em sua posse,
+
+47
+00:03:43,079 --> 00:03:47,079
+em vez de tomar uma decisão naquele momento precipitada de fazer uma prisão
+
+48
+00:03:47,079 --> 00:03:54,079
+em flagrante por tráfego, e também para não fazer uma decisão de menos gravidade
+
+49
+00:03:54,079 --> 00:03:59,079
+de Sórtigo 28, eu optei por aprender o material, encaminhar a perícia e realizar
+
+50
+00:03:59,560 --> 00:04:02,560
+uma investigação para saber do que se tratava realmente.
+
+51
+00:04:02,560 --> 00:04:08,560
+A primeira surpresa foi que ele informou que comprou o tablet de maconha de uma pessoa
+
+52
+00:04:08,560 --> 00:04:13,560
+que ele não sabia o nome, mas sabia o telefone. Após obter a informação da operadora,
+
+53
+00:04:13,560 --> 00:04:18,560
+esse telefone estava cadastrado em nome de Júlio Pereira Marcos, mas com endereço
+
+54
+00:04:18,560 --> 00:04:22,560
+em São Paulo. O endereço que foi fornecido para a operadora era de São Paulo,
+
+55
+00:04:23,040 --> 00:04:29,040
+e os bancos de dados acessíveis pela polícia, tal portal de segurança,
+
+56
+00:04:29,040 --> 00:04:34,040
+apontavam que o Júlio Pereira Marcos residia em Buzos, na Rua Manuel Turiba de Farias.
+
+57
+00:04:34,040 --> 00:04:39,040
+Daí nós começamos a investigar e houve a representação,
+
+58
+00:04:39,040 --> 00:04:43,040
+por medida cautelar, de interceptação telefônica.
+
+59
+00:04:43,040 --> 00:04:48,040
+O Ministério Público se manifestou de forma favorável e o juízo da Segunda Vara
+
+60
+00:04:48,520 --> 00:04:55,520
+também decretou a interceptação, que se desenrolou salvo engano por quatro rodadas.
+
+61
+00:04:55,520 --> 00:05:00,520
+Eu participei das duas primeiras rodadas, em seguida entrei em férias,
+
+62
+00:05:00,520 --> 00:05:05,520
+e o delegado Nelson Esquiba, que à época era meu assistente na delegacia de Buzos,
+
+63
+00:05:05,520 --> 00:05:08,520
+continuou tocando a investigação.
+
+64
+00:05:08,520 --> 00:05:13,520
+Tretanto, posso dizer que nas duas primeiras rodadas,
+
+65
+00:05:14,000 --> 00:05:19,000
+foi bastante evidenciada a transação ilícita de drogas
+
+66
+00:05:19,000 --> 00:05:24,000
+no centro de Buzos e com entregas nas proximidades.
+
+67
+00:05:24,000 --> 00:05:31,000
+As pessoas interceptadas falavam sobre drogas, mas de forma velada.
+
+68
+00:05:33,000 --> 00:05:38,000
+Inclusive, o Paulo Henrique e o José Guilherme
+
+69
+00:05:38,000 --> 00:05:41,000
+chegavam a repreender os interlocutores
+
+70
+00:05:41,480 --> 00:05:44,480
+quando eles se referiam expressamente à droga.
+
+71
+00:05:44,480 --> 00:05:47,480
+Não fala esse negócio no telefone, não.
+
+72
+00:05:47,480 --> 00:05:49,480
+Porra, me desculpe a expressão.
+
+73
+00:05:49,480 --> 00:05:53,480
+Vamos falar pelo WhatsApp, para usar um outro mecanismo
+
+74
+00:05:53,480 --> 00:05:56,480
+para, provavelmente, ou com medo,
+
+75
+00:05:56,480 --> 00:06:00,480
+de uma suposta interceptação telefônica que estava em andamento.
+
+76
+00:06:00,480 --> 00:06:06,480
+Chamou a atenção também que eles se referirem ao entorpecente com outros nomes.
+
+77
+00:06:06,960 --> 00:06:08,960
+Por exemplo, eles se referiam a agulhoba,
+
+78
+00:06:08,960 --> 00:06:10,960
+para trocar as palavras de bagulho.
+
+79
+00:06:10,960 --> 00:06:14,960
+Se referiam a lacoste, para falar da verdinha,
+
+80
+00:06:14,960 --> 00:06:17,960
+em alusão ao jacaré da marca, que é verdinha.
+
+81
+00:06:17,960 --> 00:06:19,960
+Se referia à maconha.
+
+82
+00:06:19,960 --> 00:06:25,960
+Usavam o arroba, para se referir à êxtase.
+
+83
+00:06:25,960 --> 00:06:28,960
+Falavam sobre Colômbia, falavam sobre ameta,
+
+84
+00:06:28,960 --> 00:06:33,960
+quando se referiam a, provavelmente, pedras de êxtase.
+
+85
+00:06:34,440 --> 00:06:41,440
+E os diálogos, eles referiam explicitamente à compra e venda de drogas.
+
+86
+00:06:42,440 --> 00:06:45,440
+Então, eles, pelo que o senhor está falando,
+
+87
+00:06:45,440 --> 00:06:48,440
+era um grupo de pessoas que traficavam,
+
+88
+00:06:48,440 --> 00:06:51,440
+essencialmente, no centro de Búzios.
+
+89
+00:06:51,440 --> 00:06:53,440
+No centro, chegavam a combinar a entrega,
+
+90
+00:06:53,440 --> 00:06:55,440
+em frente ao barro do Botafogo,
+
+91
+00:06:55,440 --> 00:06:58,440
+que é um bar que funciona ali na esquina,
+
+92
+00:06:58,440 --> 00:07:00,440
+numa esquina da Rua Manuel Turiba de Faris,
+
+93
+00:07:00,920 --> 00:07:03,920
+diretamente em frente à casa dos irmãos cristianos.
+
+94
+00:07:03,920 --> 00:07:08,920
+E Júlio Pereira entregavam no Porto da Barra,
+
+95
+00:07:08,920 --> 00:07:12,920
+em locais próximos, em pontos turísticos da região,
+
+96
+00:07:12,920 --> 00:07:14,920
+a quem quisesse fazer contato com eles.
+
+97
+00:07:14,920 --> 00:07:18,920
+Inclusive, eu me recordo que em uma das ligações,
+
+98
+00:07:18,920 --> 00:07:20,920
+um dos alvos pediu ao outro,
+
+99
+00:07:20,920 --> 00:07:22,920
+me dá uma quantidade de 100 gramas de cocaína
+
+100
+00:07:22,920 --> 00:07:24,920
+que eu vou vender com a madame.
+
+101
+00:07:24,920 --> 00:07:27,920
+Então, eles falavam sobre drogas bastantes vezes.
+
+102
+00:07:28,400 --> 00:07:33,400
+Então, não era uma dinâmica típica de facção criminosa,
+
+103
+00:07:33,400 --> 00:07:36,400
+tipo um comando vermelho e um terceiro comando,
+
+104
+00:07:36,400 --> 00:07:40,400
+com bocas de fumo que eles se organizavam nas bocas para vender.
+
+105
+00:07:40,400 --> 00:07:43,400
+Era uma dinâmica de entrega de drogas, efetivamente.
+
+106
+00:07:43,400 --> 00:07:46,400
+As pessoas entravam em contato com eles pelo telefone,
+
+107
+00:07:46,400 --> 00:07:48,400
+e eles iam entregar a droga ao usuário, era isso?
+
+108
+00:07:48,400 --> 00:07:52,400
+Sim, não havia uma venda explícita nas ruas.
+
+109
+00:07:52,400 --> 00:07:54,400
+Era uma coisa escamoteada,
+
+110
+00:07:54,400 --> 00:07:56,400
+por isso até que a gente deu o nome de Delivery,
+
+111
+00:07:56,880 --> 00:07:58,880
+que fazia um contato via telefone,
+
+112
+00:07:58,880 --> 00:08:02,880
+e entre eles também um tentava adiantar o outro.
+
+113
+00:08:02,880 --> 00:08:04,880
+Fala, tem um cliente para você.
+
+114
+00:08:04,880 --> 00:08:06,880
+Quando provavelmente um deles não tinha droga,
+
+115
+00:08:06,880 --> 00:08:08,880
+adiantava o colega de trabalho.
+
+116
+00:08:08,880 --> 00:08:10,880
+Entendi.
+
+117
+00:08:10,880 --> 00:08:13,880
+E ao longo das fases da interceptação telefônica,
+
+118
+00:08:13,880 --> 00:08:16,880
+como que vocês faziam para identificar
+
+119
+00:08:16,880 --> 00:08:19,880
+a qualificação da pessoa que estava usando aquele terminal
+
+120
+00:08:19,880 --> 00:08:21,880
+que entrava em contato com um com o outro
+
+121
+00:08:21,880 --> 00:08:24,880
+para fazer essa qualificação dos interlocutores?
+
+122
+00:08:25,360 --> 00:08:30,360
+Essa identificação ficou na terceira e quarta rodada,
+
+123
+00:08:30,360 --> 00:08:33,360
+especificamente, que foram conduzidas pelo Doutor Nelson Esquiva.
+
+124
+00:08:33,360 --> 00:08:36,360
+Mas eu me recordo que ele chegou a chamar
+
+125
+00:08:36,360 --> 00:08:39,360
+duas pessoas que tinham telefones em seu nome,
+
+126
+00:08:39,360 --> 00:08:41,360
+e uma delas, uma moça,
+
+127
+00:08:41,360 --> 00:08:43,360
+me esqueci o nome agora,
+
+128
+00:08:43,360 --> 00:08:46,360
+falou que autorizou uma das pessoas,
+
+129
+00:08:46,360 --> 00:08:48,360
+agora não vou lembrar como investigado,
+
+130
+00:08:48,360 --> 00:08:50,360
+talvez Doutor Nelson tenha essa lembrança,
+
+131
+00:08:50,360 --> 00:08:52,360
+mas com certeza ele colocou isso no relatório,
+
+132
+00:08:52,840 --> 00:08:54,840
+que aquele alvo usasse o telefone,
+
+133
+00:08:54,840 --> 00:08:56,840
+e eles se falavam,
+
+134
+00:08:56,840 --> 00:08:58,840
+e o nosso analista de inteligência,
+
+135
+00:08:58,840 --> 00:09:00,840
+o Rodrigo Pinheiro,
+
+136
+00:09:00,840 --> 00:09:02,840
+ele conseguiu fazer essa correlação
+
+137
+00:09:02,840 --> 00:09:05,840
+entre os investigados e os interceptados,
+
+138
+00:09:05,840 --> 00:09:08,840
+para saber que aquela pessoa era aquele alvo.
+
+139
+00:09:12,840 --> 00:09:13,840
+Entendi.
+
+140
+00:09:13,840 --> 00:09:18,840
+A participação pessoal de cada um dos denunciados
+
+141
+00:09:19,320 --> 00:09:23,320
+ficou mais com o Doutor Esquiva e o Rodrigo,
+
+142
+00:09:23,320 --> 00:09:25,320
+que fizeram a parte final das investigações.
+
+143
+00:09:25,320 --> 00:09:29,320
+E que terminaram a terceira e quarta rodadas,
+
+144
+00:09:29,320 --> 00:09:32,320
+mas desde o início já ficou evidenciado
+
+145
+00:09:32,320 --> 00:09:35,320
+que o Júlio Pereira e o Paulo Henrique
+
+146
+00:09:35,320 --> 00:09:38,320
+forneciam drogas para o José Guilherme,
+
+147
+00:09:38,320 --> 00:09:42,320
+e o José Guilherme capitaneava usuários,
+
+148
+00:09:42,320 --> 00:09:44,320
+o Paulo Henrique também,
+
+149
+00:09:44,320 --> 00:09:46,320
+o Rodrigo também,
+
+150
+00:09:46,800 --> 00:09:48,800
+eles foram pegos fazendo essa intermediação
+
+151
+00:09:48,800 --> 00:09:50,800
+para o fulano que era droga,
+
+152
+00:09:50,800 --> 00:09:52,800
+então a própria pessoa já ligava para ele
+
+153
+00:09:52,800 --> 00:09:54,800
+e perguntava se tinha droga.
+
+154
+00:09:54,800 --> 00:09:56,800
+Entendi.
+
+155
+00:09:56,800 --> 00:10:00,800
+Quando aconteceu a deflagração da operação,
+
+156
+00:10:00,800 --> 00:10:02,800
+o senhor chegou a acompanhar também?
+
+157
+00:10:02,800 --> 00:10:04,800
+Acompanhei,
+
+158
+00:10:04,800 --> 00:10:07,800
+a operação foi deflagrar no dia 2 de fevereiro,
+
+159
+00:10:07,800 --> 00:10:11,800
+desse ano de 2022,
+
+160
+00:10:11,800 --> 00:10:15,800
+e eu fui à casa inclusive dos irmãos Júlio Pereira
+
+161
+00:10:16,280 --> 00:10:18,280
+e Cristiano Pereira.
+
+162
+00:10:18,280 --> 00:10:20,280
+O Júlio estava foragido,
+
+163
+00:10:20,280 --> 00:10:22,280
+a família não soube explicar o paradeiro dele,
+
+164
+00:10:22,280 --> 00:10:25,280
+e me parece que até hoje ele está foragido.
+
+165
+00:10:25,280 --> 00:10:27,280
+Eu falo me parece porque em abril
+
+166
+00:10:27,280 --> 00:10:29,280
+eu saio da delegacia de buses
+
+167
+00:10:29,280 --> 00:10:31,280
+e eu não tenho mais noção do que está acontecendo.
+
+168
+00:10:31,280 --> 00:10:33,280
+O Cristiano,
+
+169
+00:10:33,280 --> 00:10:35,280
+ele teve mandado cumprido nesse dia,
+
+170
+00:10:35,280 --> 00:10:37,280
+ele foi preso nesse dia.
+
+171
+00:10:37,280 --> 00:10:40,280
+Ele chegou a falar alguma coisa
+
+172
+00:10:40,280 --> 00:10:42,280
+sobre essa suposta participação
+
+173
+00:10:42,280 --> 00:10:44,280
+do irmão, do Júlio,
+
+174
+00:10:44,759 --> 00:10:46,759
+nesses crimes?
+
+175
+00:10:46,759 --> 00:10:48,759
+Ele, como os outros que foram presos
+
+176
+00:10:48,759 --> 00:10:50,759
+no dia da operação,
+
+177
+00:10:50,759 --> 00:10:52,759
+o Paulo Henrique,
+
+178
+00:10:52,759 --> 00:10:54,759
+se mostraram surpresos
+
+179
+00:10:54,759 --> 00:10:56,759
+porque talvez não imaginasse
+
+180
+00:10:56,759 --> 00:10:58,759
+que aquele esquema seria desbaratado.
+
+181
+00:10:58,759 --> 00:11:00,759
+O Cristiano se mostrou muito surpreso,
+
+182
+00:11:00,759 --> 00:11:02,759
+falou que o irmão já tinha se envolvido
+
+183
+00:11:02,759 --> 00:11:04,759
+com drogas de maneira informática,
+
+184
+00:11:04,759 --> 00:11:06,759
+comentou com a gente,
+
+185
+00:11:06,759 --> 00:11:08,759
+mas não deu nenhum sinal do paradeiro dele
+
+186
+00:11:08,759 --> 00:11:10,759
+onde ele poderia ser encontrado.
+
+187
+00:11:10,759 --> 00:11:12,759
+Mas falou que o irmão já teve relação
+
+188
+00:11:13,240 --> 00:11:15,240
+e ele foi flagrado nas interceptações.
+
+189
+00:11:17,240 --> 00:11:19,240
+Entendi.
+
+190
+00:11:19,240 --> 00:11:21,240
+Obrigada, doutor Rodrigo.
+
+191
+00:11:21,240 --> 00:11:23,240
+Eu não tenho mais perguntas excelentes.
+
+192
+00:11:25,240 --> 00:11:27,240
+Doutora Mayra, não está saindo o áudio da senhora.
+
+193
+00:11:29,240 --> 00:11:31,240
+É porque eu tiro para não atrapalhar
+
+194
+00:11:31,240 --> 00:11:33,240
+e às vezes...
+
+195
+00:11:33,240 --> 00:11:35,240
+Bom, agora a defesa técnica
+
+196
+00:11:35,240 --> 00:11:37,240
+do senhor José Guilherme.
+
+197
+00:11:37,240 --> 00:11:39,240
+Tem alguma pergunta?
+
+198
+00:11:39,240 --> 00:11:41,240
+Eu tenho perguntas sim, senhora.
+
+199
+00:11:41,720 --> 00:11:43,720
+Então pode formular diretamente, doutor.
+
+200
+00:11:43,720 --> 00:11:45,720
+Como que o senhor José Guilherme...
+
+201
+00:11:47,720 --> 00:11:49,720
+Como correu a prisão dele?
+
+202
+00:11:49,720 --> 00:11:51,720
+Como correu a prisão o senhor José Guilherme?
+
+203
+00:11:53,720 --> 00:11:55,720
+A prisão dele eu não participei efetivamente,
+
+204
+00:11:55,720 --> 00:11:57,720
+excelência, que no dia da operação
+
+205
+00:11:57,720 --> 00:11:59,720
+foram algumas equipes.
+
+206
+00:11:59,720 --> 00:12:01,720
+Então eu não lembro nem de cabeça
+
+207
+00:12:01,720 --> 00:12:03,720
+qual foi a equipe que foi
+
+208
+00:12:03,720 --> 00:12:05,720
+responsável pela prisão do José Guilherme,
+
+209
+00:12:05,720 --> 00:12:07,720
+mas com certeza no registro de ocorrência
+
+210
+00:12:07,720 --> 00:12:09,720
+do cumprimento do mandado,
+
+211
+00:12:09,720 --> 00:12:11,720
+dos policiais que participaram.
+
+212
+00:12:11,720 --> 00:12:13,720
+Porque o senhor José Guilherme se apresentou
+
+213
+00:12:13,720 --> 00:12:15,720
+na delegacia
+
+214
+00:12:15,720 --> 00:12:17,720
+assim que soube que tinha um dado de prisão
+
+215
+00:12:17,720 --> 00:12:19,720
+em seu desfavor.
+
+216
+00:12:19,720 --> 00:12:21,720
+O senhor sabe disso?
+
+217
+00:12:21,720 --> 00:12:23,720
+Eu não me recordava exatamente
+
+218
+00:12:23,720 --> 00:12:25,720
+porque a operação foi no dia 2,
+
+219
+00:12:25,720 --> 00:12:27,720
+no dia anterior eu fui responsável pela central
+
+220
+00:12:27,720 --> 00:12:29,720
+de flagrantes, depois emendei o dinheiro da operação.
+
+221
+00:12:29,720 --> 00:12:31,720
+Mas, doutor,
+
+222
+00:12:31,720 --> 00:12:33,720
+qual a pergunta que o senhor está a fazer
+
+223
+00:12:33,720 --> 00:12:35,720
+eu não participei.
+
+224
+00:12:35,720 --> 00:12:37,720
+Ele disse, ele afirma um suposto fato.
+
+225
+00:12:37,720 --> 00:12:39,720
+E aí eu pergunto ao senhor
+
+226
+00:12:39,720 --> 00:12:41,720
+se esse suposto fato afirmado
+
+227
+00:12:41,720 --> 00:12:43,720
+é verdade, edico. Ele disse que o José
+
+228
+00:12:43,720 --> 00:12:45,720
+Guilherme se apresentou
+
+229
+00:12:45,720 --> 00:12:47,720
+a delegacia. O senhor tem
+
+230
+00:12:47,720 --> 00:12:49,720
+notícia sobre isso? O senhor sabe
+
+231
+00:12:49,720 --> 00:12:51,720
+alguma coisa sobre isso? Porque ele disse que
+
+232
+00:12:51,720 --> 00:12:53,720
+o senhor José Guilherme
+
+233
+00:12:53,720 --> 00:12:55,720
+se apresentou assim que soube
+
+234
+00:12:55,720 --> 00:12:57,720
+da situação. Houve essa situação?
+
+235
+00:12:57,720 --> 00:12:59,720
+Algum acusado que se apresentou?
+
+236
+00:12:59,720 --> 00:13:01,720
+O senhor sabe alguma coisa a respeito?
+
+237
+00:13:01,720 --> 00:13:03,720
+Eu não me recordo de excelência, mas
+
+238
+00:13:03,720 --> 00:13:05,720
+é possível que tenha sim, mas a gente pode conferir
+
+239
+00:13:05,720 --> 00:13:07,720
+de cumprimento de mandato de prisão, se ele tivesse
+
+240
+00:13:07,720 --> 00:13:09,720
+apresentado, vai estar lá com um signado.
+
+241
+00:13:09,720 --> 00:13:11,720
+Porque no dia nós saímos várias vezes à rua
+
+242
+00:13:11,720 --> 00:13:13,720
+para tentar cumprir os mandados. Então eu não me recordo
+
+243
+00:13:13,720 --> 00:13:15,720
+especificamente desse caso.
+
+244
+00:13:15,720 --> 00:13:17,720
+O senhor se reporta e inquieta. Doutor,
+
+245
+00:13:17,720 --> 00:13:19,720
+pode prosseguir indagando.
+
+246
+00:13:19,720 --> 00:13:21,720
+Nobre delegado
+
+247
+00:13:21,720 --> 00:13:23,720
+que tinha conhecimento de tudo,
+
+248
+00:13:23,720 --> 00:13:25,720
+é até estranho saber que uma pessoa
+
+249
+00:13:25,720 --> 00:13:27,720
+Não, isso é opinião do senhor, doutor.
+
+250
+00:13:27,720 --> 00:13:29,720
+Nós não vamos nos sentir as indagações.
+
+251
+00:13:29,720 --> 00:13:31,720
+Se não, a gente não acaba saltir
+
+252
+00:13:31,720 --> 00:13:33,720
+essa hoje. Por favor, tem mais alguma pergunta?
+
+253
+00:13:33,720 --> 00:13:35,720
+A materialidade do senhor, da incursão
+
+254
+00:13:35,720 --> 00:13:37,720
+que fizeram na casa do senhor José Guilherme.
+
+255
+00:13:37,720 --> 00:13:39,720
+O senhor pode formular a pergunta
+
+256
+00:13:39,720 --> 00:13:41,720
+objetivamente, que nem eu entendi.
+
+257
+00:13:41,720 --> 00:13:43,720
+Por que foi na casa do senhor
+
+258
+00:13:43,720 --> 00:13:45,720
+José Guilherme?
+
+259
+00:13:45,720 --> 00:13:47,720
+Eles encontraram uma droga
+
+260
+00:13:47,720 --> 00:13:49,720
+na casa do senhor José Guilherme?
+
+261
+00:13:49,720 --> 00:13:51,720
+É isso aí. O senhor encontraram
+
+262
+00:13:51,720 --> 00:13:53,720
+alguma coisa na casa do senhor José
+
+263
+00:13:53,720 --> 00:13:55,720
+Guilherme?
+
+264
+00:13:55,720 --> 00:13:57,720
+Não foi cumprido, não foi a casa
+
+265
+00:13:57,720 --> 00:13:59,720
+do José Guilherme. O senhor, doutor,
+
+266
+00:13:59,720 --> 00:14:01,720
+o senhor está se referindo. Quando
+
+267
+00:14:01,720 --> 00:14:03,720
+da apresentação dele, segundo o senhor na
+
+268
+00:14:03,720 --> 00:14:05,720
+delegacia, se alguém foi à casa dele,
+
+269
+00:14:05,720 --> 00:14:07,720
+se essa foi a pergunta, eu desconheço.
+
+270
+00:14:07,720 --> 00:14:09,720
+Pode ser.
+
+271
+00:14:09,720 --> 00:14:11,720
+Alguém foi na casa do senhor José Guilherme?
+
+272
+00:14:11,720 --> 00:14:13,720
+Ele desconhece, doutor.
+
+273
+00:14:13,720 --> 00:14:15,720
+Ele acabou de dizer que ele não sabe.
+
+274
+00:14:15,720 --> 00:14:17,720
+Mais alguma indagação pertinente?
+
+275
+00:14:17,720 --> 00:14:19,720
+Eu quero fazer uma pergunta também,
+
+276
+00:14:19,720 --> 00:14:21,720
+senhora. Daniel Teres, advogado do
+
+277
+00:14:21,720 --> 00:14:23,720
+José Guilherme. O senhor também é advogado
+
+278
+00:14:23,720 --> 00:14:25,720
+do José Guilherme? Sim.
+
+279
+00:14:25,720 --> 00:14:27,720
+Ah, o senhor já me conhece, doutor.
+
+280
+00:14:27,720 --> 00:14:29,720
+Então o senhor já sabe como é que eu trabalho.
+
+281
+00:14:29,720 --> 00:14:31,720
+Seu colega é um pouco confuso.
+
+282
+00:14:31,720 --> 00:14:33,720
+O senhor pode indagar diretamente
+
+283
+00:14:33,720 --> 00:14:35,720
+então.
+
+284
+00:14:35,720 --> 00:14:37,720
+Na primeira, o senhor falou que ficou
+
+285
+00:14:37,720 --> 00:14:39,720
+provada a venda de droga na primeira operação
+
+286
+00:14:39,720 --> 00:14:41,720
+que o senhor participou. Eu gostaria de
+
+287
+00:14:41,720 --> 00:14:43,720
+perguntar se ele consegue distinguir
+
+288
+00:14:43,720 --> 00:14:45,720
+cada conduta que cada gente
+
+289
+00:14:45,720 --> 00:14:47,720
+praticou, ou seja,
+
+290
+00:14:47,720 --> 00:14:49,720
+o que cada acusado praticou?
+
+291
+00:14:49,720 --> 00:14:51,720
+Quem que vendeu a cocaína, igual ele falou?
+
+292
+00:14:51,720 --> 00:14:53,720
+Quem que comprou a maconha de quem?
+
+293
+00:14:53,720 --> 00:14:55,720
+Se ele consegue distinguir isso no processo.
+
+294
+00:14:55,720 --> 00:14:57,720
+Ok.
+
+295
+00:14:57,720 --> 00:14:59,720
+Sim, senhora excelência.
+
+296
+00:14:59,720 --> 00:15:01,720
+Doutor, talvez eu não tenha
+
+297
+00:15:01,720 --> 00:15:03,720
+talvez eu não tenha
+
+298
+00:15:03,720 --> 00:15:05,720
+talvez eu não tenha
+
+299
+00:15:05,720 --> 00:15:07,720
+me expressado corretamente
+
+300
+00:15:07,720 --> 00:15:09,720
+ou talvez o doutor não tenha entendido. Não houve duas operações.
+
+301
+00:15:09,720 --> 00:15:11,720
+Houve só uma operação
+
+302
+00:15:11,720 --> 00:15:13,720
+ao final, no dia 2,
+
+303
+00:15:13,720 --> 00:15:15,720
+para deflagrar o cumprimento dos mandados de prisão.
+
+304
+00:15:15,720 --> 00:15:17,720
+Eu entendi sim,
+
+305
+00:15:17,720 --> 00:15:19,720
+pela ordem. Desculpa até interromper.
+
+306
+00:15:19,720 --> 00:15:21,720
+Mas o senhor falou que num primeiro e segundo
+
+307
+00:15:21,720 --> 00:15:23,720
+momento, foi o senhor que participou.
+
+308
+00:15:23,720 --> 00:15:25,720
+E num terceiro, quarto momento,
+
+309
+00:15:25,720 --> 00:15:27,720
+quem participou foi o outro delegado.
+
+310
+00:15:27,720 --> 00:15:29,720
+Sim, para ver o momento que eu me refiro.
+
+311
+00:15:29,720 --> 00:15:31,720
+No momento que o senhor participou,
+
+312
+00:15:31,720 --> 00:15:33,720
+o senhor consegue distinguir
+
+313
+00:15:33,720 --> 00:15:35,720
+cada conduta que cada acusado cometeu?
+
+314
+00:15:35,720 --> 00:15:37,720
+Quem foi que vendeu a cocaína?
+
+315
+00:15:37,720 --> 00:15:39,720
+Quem foi que comprou maconha de quem?
+
+316
+00:15:39,720 --> 00:15:41,720
+Eu quero saber se o senhor consegue
+
+317
+00:15:41,720 --> 00:15:43,720
+distinguir cada conduta
+
+318
+00:15:43,720 --> 00:15:45,720
+de cada gente. Quem fez o quê?
+
+319
+00:15:45,720 --> 00:15:47,720
+Sim, o José
+
+320
+00:15:47,720 --> 00:15:49,720
+Guilherme, ele foi
+
+321
+00:15:49,720 --> 00:15:51,720
+encontrado
+
+322
+00:15:51,720 --> 00:15:53,720
+na posta de um tablet de cerca
+
+323
+00:15:53,720 --> 00:15:55,720
+de 200 gramas de maconha
+
+324
+00:15:55,720 --> 00:15:57,720
+e falou que comprou de uma pessoa
+
+325
+00:15:57,720 --> 00:15:59,720
+que não se recordava o nome, mas apenas
+
+326
+00:15:59,720 --> 00:16:01,720
+o telefone.
+
+327
+00:16:01,720 --> 00:16:03,720
+Esse telefone estava
+
+328
+00:16:03,720 --> 00:16:05,720
+cadastrado em nome de Júlio Pereira Marcos
+
+329
+00:16:05,720 --> 00:16:07,720
+com um endereço em São Paulo.
+
+330
+00:16:07,720 --> 00:16:09,720
+Um endereço esse,
+
+331
+00:16:09,720 --> 00:16:11,720
+fictício, que ele informou
+
+332
+00:16:11,720 --> 00:16:13,720
+operadora, provavelmente
+
+333
+00:16:13,720 --> 00:16:15,720
+com o intuito de esconder o local
+
+334
+00:16:15,720 --> 00:16:17,720
+exato onde ele residia.
+
+335
+00:16:17,720 --> 00:16:19,720
+Porque o endereço dele é Buses.
+
+336
+00:16:19,720 --> 00:16:21,720
+A partir daí,
+
+337
+00:16:21,720 --> 00:16:23,720
+iniciaram-se as rodadas
+
+338
+00:16:23,720 --> 00:16:25,720
+de interceptação telefônica.
+
+339
+00:16:25,720 --> 00:16:27,720
+Quando eu me reportei,
+
+340
+00:16:27,720 --> 00:16:29,720
+as etapas são as etapas
+
+341
+00:16:29,720 --> 00:16:31,720
+das interceptações telefônicas
+
+342
+00:16:31,720 --> 00:16:33,720
+que foram conduzidas a cada 15 dias.
+
+343
+00:16:33,720 --> 00:16:35,720
+Nessas rodadas,
+
+344
+00:16:35,720 --> 00:16:37,720
+das quais eu participei,
+
+345
+00:16:37,720 --> 00:16:39,720
+ficou ali evidenciado
+
+346
+00:16:39,720 --> 00:16:41,720
+que o Júlio
+
+347
+00:16:41,720 --> 00:16:43,720
+negociava drogas
+
+348
+00:16:43,720 --> 00:16:45,720
+com o José Guilherme.
+
+349
+00:16:45,720 --> 00:16:47,720
+Não foram apreendidas drogas
+
+350
+00:16:47,720 --> 00:16:49,720
+com eles, mas ficou ali
+
+351
+00:16:49,720 --> 00:16:51,720
+evidenciado que um pedia para o outro
+
+352
+00:16:51,720 --> 00:16:53,720
+negociação de compra e venda
+
+353
+00:16:53,720 --> 00:16:55,720
+de drogas. Inclusive, o Júlio
+
+354
+00:16:55,720 --> 00:16:57,720
+Pereira, ele cobrou uma quantia
+
+355
+00:16:57,720 --> 00:16:59,720
+que o Paulo Henrique estaria devendo a ele
+
+356
+00:16:59,720 --> 00:17:01,720
+por meio quilo de maconha, que ele
+
+357
+00:17:01,720 --> 00:17:03,720
+teria pego para vender e não teria
+
+358
+00:17:03,720 --> 00:17:05,720
+pago. Depois de uma outra interceptação,
+
+359
+00:17:05,720 --> 00:17:07,720
+um deles também cobrou
+
+360
+00:17:07,720 --> 00:17:09,720
+uma quantidade de drogas
+
+361
+00:17:09,720 --> 00:17:11,720
+que havia sido pega e não havia sido
+
+362
+00:17:11,720 --> 00:17:13,720
+entregue. Por esse motivo,
+
+363
+00:17:13,720 --> 00:17:15,720
+imagino eu, que não fui o
+
+364
+00:17:15,720 --> 00:17:17,720
+filho do relatório, não foram todos
+
+365
+00:17:17,720 --> 00:17:19,720
+denunciados por tráfico.
+
+366
+00:17:21,720 --> 00:17:23,720
+O Ministério Público também não ofereceu denúncia
+
+367
+00:17:23,720 --> 00:17:25,720
+de todos por tráfico, e sim
+
+368
+00:17:25,720 --> 00:17:27,720
+por associação ao tráfico.
+
+369
+00:17:27,720 --> 00:17:29,720
+Porque materialidade de tráfico,
+
+370
+00:17:29,720 --> 00:17:31,720
+evidentemente, a gente só
+
+371
+00:17:31,720 --> 00:17:33,720
+pôde ver aquela que estava com
+
+372
+00:17:33,720 --> 00:17:35,720
+o José Guilherme e que ele imputou a
+
+373
+00:17:35,720 --> 00:17:37,720
+venda ao Júlio.
+
+374
+00:17:37,720 --> 00:17:39,720
+Mais uma pergunta
+
+375
+00:17:39,720 --> 00:17:41,720
+que o senhor falou que
+
+376
+00:17:41,720 --> 00:17:43,720
+você conseguiu provar que o Júlio
+
+377
+00:17:43,720 --> 00:17:45,720
+vendeu para o Guilherme e que um outro
+
+378
+00:17:45,720 --> 00:17:47,720
+comprou uma quantidade de maconha.
+
+379
+00:17:47,720 --> 00:17:49,720
+Gostaria de saber se o senhor conseguiu provar nesse fato
+
+380
+00:17:49,720 --> 00:17:51,720
+todo que o Guilherme venderia
+
+381
+00:17:51,720 --> 00:17:53,720
+droga para alguém ou se ele só
+
+382
+00:17:53,720 --> 00:17:55,720
+comprou do Júlio, porque ele pode ter comprado
+
+383
+00:17:55,720 --> 00:17:57,720
+por consumo próprio, como ele alega
+
+384
+00:17:57,720 --> 00:17:59,720
+desde o início. O senhor consegue distinguir
+
+385
+00:17:59,720 --> 00:18:01,720
+isso?
+
+386
+00:18:01,720 --> 00:18:03,720
+Nas rodadas de interceptação,
+
+387
+00:18:03,720 --> 00:18:05,720
+eles tratam, inclusive
+
+388
+00:18:05,720 --> 00:18:07,720
+o José Guilherme trata sobre
+
+389
+00:18:07,720 --> 00:18:09,720
+venda de drogas.
+
+390
+00:18:09,720 --> 00:18:11,720
+E detalhando que
+
+391
+00:18:11,720 --> 00:18:13,720
+ele explica onde a droga
+
+392
+00:18:13,720 --> 00:18:15,720
+estava escondida, fica escondida
+
+393
+00:18:15,720 --> 00:18:17,720
+salvingando no forro do telhado da casa dele,
+
+394
+00:18:17,720 --> 00:18:19,720
+ele conversa com o Pé de
+
+395
+00:18:19,720 --> 00:18:21,720
+Macaroni em troca de droga,
+
+396
+00:18:21,720 --> 00:18:23,720
+que mostra que ele
+
+397
+00:18:23,720 --> 00:18:25,720
+repreende o cliente quando eles usam
+
+398
+00:18:25,720 --> 00:18:27,720
+a expressão droga.
+
+399
+00:18:27,720 --> 00:18:29,720
+Então essas rodadas
+
+400
+00:18:29,720 --> 00:18:31,720
+de interceptação permitiram a conclusão
+
+401
+00:18:31,720 --> 00:18:33,720
+de que eles estavam atuando nessa atividade
+
+402
+00:18:33,720 --> 00:18:35,720
+de tráfico de drogas.
+
+403
+00:18:35,720 --> 00:18:37,720
+Mas o senhor consegue distinguir
+
+404
+00:18:37,720 --> 00:18:39,720
+cada conduta que cada gente cometeu
+
+405
+00:18:39,720 --> 00:18:41,720
+porque para ter associação
+
+406
+00:18:41,720 --> 00:18:43,720
+a gente precisa ter um vínculo entre esses agentes,
+
+407
+00:18:43,720 --> 00:18:45,720
+várias condutas.
+
+408
+00:18:45,720 --> 00:18:47,720
+O senhor não respondeu, doutor.
+
+409
+00:18:47,720 --> 00:18:49,720
+Ele acabou de dizer
+
+410
+00:18:49,720 --> 00:18:51,720
+que um comprava do outro,
+
+411
+00:18:51,720 --> 00:18:53,720
+isso também indagado
+
+412
+00:18:53,720 --> 00:18:55,720
+pelo Ministério Público,
+
+413
+00:18:55,720 --> 00:18:57,720
+que um facilitava a vida do outro,
+
+414
+00:18:57,720 --> 00:18:59,720
+tem um cliente para você,
+
+415
+00:18:59,720 --> 00:19:01,720
+eu não tenho determinada droga,
+
+416
+00:19:01,720 --> 00:19:03,720
+mas pode ser para você. Isso ele já
+
+417
+00:19:03,720 --> 00:19:05,720
+respondeu quando das indagações
+
+418
+00:19:05,720 --> 00:19:07,720
+do Ministério Público, doutor.
+
+419
+00:19:07,720 --> 00:19:09,720
+Excellência pela ordem.
+
+420
+00:19:09,720 --> 00:19:11,720
+Ele fez algum exame, alguma
+
+421
+00:19:11,720 --> 00:19:13,720
+prova, prova técnica
+
+422
+00:19:13,720 --> 00:19:15,720
+para provar que era a voz
+
+423
+00:19:15,720 --> 00:19:17,720
+dessa conversa,
+
+424
+00:19:17,720 --> 00:19:19,720
+que era a voz de José Guilherme,
+
+425
+00:19:19,720 --> 00:19:21,720
+porque ele falava que tinha um favor.
+
+426
+00:19:21,720 --> 00:19:23,720
+É só o estado, a pergunta já está formulada, doutor.
+
+427
+00:19:23,720 --> 00:19:25,720
+Ele quer saber se houve
+
+428
+00:19:25,720 --> 00:19:27,720
+perícia para se verificar
+
+429
+00:19:27,720 --> 00:19:29,720
+se a voz era do
+
+430
+00:19:29,720 --> 00:19:31,720
+Guilherme mesmo. Negativo, não houve.
+
+431
+00:19:31,720 --> 00:19:33,720
+Ok. Mais alguma pergunta,
+
+432
+00:19:33,720 --> 00:19:35,720
+doutor?
+
+433
+00:19:35,720 --> 00:19:37,720
+Não, calma, doutor.
+
+434
+00:19:37,720 --> 00:19:39,720
+O processo sai de uma ordem.
+
+435
+00:19:39,720 --> 00:19:41,720
+Os senhores gostam muito da expressão
+
+436
+00:19:41,720 --> 00:19:43,720
+pela ordem. E agora o juiz
+
+437
+00:19:43,720 --> 00:19:45,720
+vai usar. Pela ordem.
+
+438
+00:19:45,720 --> 00:19:47,720
+Pela ordem o juiz que preside a audiência,
+
+439
+00:19:47,720 --> 00:19:49,720
+então ele que dirige, pela ordem.
+
+440
+00:19:49,720 --> 00:19:51,720
+Segundo, eu expliquei
+
+441
+00:19:51,720 --> 00:19:53,720
+antes de dar a palavra que ia ser
+
+442
+00:19:53,720 --> 00:19:55,720
+pela ordem da
+
+443
+00:19:55,720 --> 00:19:57,720
+denúncia, portanto os senhores aguardem
+
+444
+00:19:57,720 --> 00:19:59,720
+a sua vez. Todo mundo vai ter a sua vez,
+
+445
+00:19:59,720 --> 00:20:01,720
+eu não violo direito ninguém. Ok?
+
+446
+00:20:01,720 --> 00:20:03,720
+Então primeiro foi
+
+447
+00:20:03,720 --> 00:20:05,720
+o doutor José Guilherme. Vamos ver se já
+
+448
+00:20:05,720 --> 00:20:07,720
+terminou. Doutor José Guilherme.
+
+449
+00:20:07,720 --> 00:20:09,720
+Advogado doutor José Guilherme. Já terminou?
+
+450
+00:20:09,720 --> 00:20:11,720
+Sem perguntas pela defesa
+
+451
+00:20:11,720 --> 00:20:13,720
+de José Guilherme. Agora
+
+452
+00:20:13,720 --> 00:20:15,720
+o advogado do senhor Cristiano
+
+453
+00:20:15,720 --> 00:20:17,720
+Pereira Marcos. Querendo, pode indagar.
+
+454
+00:20:19,720 --> 00:20:21,720
+Boa tarde, senhor Rodrigo.
+
+455
+00:20:21,720 --> 00:20:23,720
+Poderia falar um pouquinho, mas o próximo
+
+456
+00:20:23,720 --> 00:20:25,720
+microfone está muito baixo.
+
+457
+00:20:27,720 --> 00:20:29,720
+Doutor Rodrigo,
+
+458
+00:20:29,720 --> 00:20:31,720
+nessa
+
+459
+00:20:31,720 --> 00:20:33,720
+nessa
+
+460
+00:20:33,720 --> 00:20:35,720
+processo, o senhor conseguiu, como o senhor
+
+461
+00:20:35,720 --> 00:20:37,720
+conseguiu ser, conseguiu
+
+462
+00:20:37,720 --> 00:20:39,720
+identificar que era uma facção
+
+463
+00:20:39,720 --> 00:20:41,720
+criminosa?
+
+464
+00:20:41,720 --> 00:20:43,720
+Não foi identificada facção criminosa, doutora.
+
+465
+00:20:43,720 --> 00:20:45,720
+O que foi identificado foi uma venda
+
+466
+00:20:45,720 --> 00:20:47,720
+de drogas de forma escamoteada,
+
+467
+00:20:47,720 --> 00:20:49,720
+de forma bem
+
+468
+00:20:49,720 --> 00:20:51,720
+organizada,
+
+469
+00:20:51,720 --> 00:20:53,720
+para não se expor. Exatamente o contrário.
+
+470
+00:20:53,720 --> 00:20:55,720
+Eles não ostentavam armas,
+
+471
+00:20:55,720 --> 00:20:57,720
+não tinham um local fixo, uma boca de
+
+472
+00:20:57,720 --> 00:20:59,720
+fumo, não era assim que funcionava.
+
+473
+00:20:59,720 --> 00:21:01,720
+O senhor já tinha
+
+474
+00:21:01,720 --> 00:21:03,720
+ciência, teve ciência no decorrer
+
+475
+00:21:03,720 --> 00:21:05,720
+da investigação que o Júlio
+
+476
+00:21:05,720 --> 00:21:07,720
+e o Cristiano eram irmãos?
+
+477
+00:21:07,720 --> 00:21:09,720
+O Júlio Pereira Marcos
+
+478
+00:21:09,720 --> 00:21:11,720
+e o Cristiano. Depois que nós juntamos
+
+479
+00:21:11,720 --> 00:21:13,720
+os nomes, verificamos que eram irmãos.
+
+480
+00:21:13,720 --> 00:21:15,720
+Como ele
+
+481
+00:21:15,720 --> 00:21:17,720
+chegou à confusão,
+
+482
+00:21:17,720 --> 00:21:19,720
+doutor, que eles residiam no mesmo
+
+483
+00:21:19,720 --> 00:21:21,720
+local?
+
+484
+00:21:21,720 --> 00:21:23,720
+As informações, endereços
+
+485
+00:21:23,720 --> 00:21:25,720
+constam nos nossos bancos de dados.
+
+486
+00:21:25,720 --> 00:21:27,720
+Já tinha ciência
+
+487
+00:21:27,720 --> 00:21:29,720
+que o Júlio
+
+488
+00:21:29,720 --> 00:21:31,720
+atuava de forma
+
+489
+00:21:31,720 --> 00:21:33,720
+criminosa em búzios?
+
+490
+00:21:33,720 --> 00:21:35,720
+Foi verificado
+
+491
+00:21:35,720 --> 00:21:37,720
+pelos antecedentes criminais dele
+
+492
+00:21:37,720 --> 00:21:39,720
+que ele já tinha uma participação
+
+493
+00:21:39,720 --> 00:21:41,720
+no tráfego. Mas parte da investigação
+
+494
+00:21:41,720 --> 00:21:43,720
+a gente conhecer quem são os personagens.
+
+495
+00:21:43,720 --> 00:21:45,720
+E quanto ao
+
+496
+00:21:45,720 --> 00:21:47,720
+Cristiano, doutor?
+
+497
+00:21:47,720 --> 00:21:49,720
+Cristiano, salvo engano, não tinha
+
+498
+00:21:49,720 --> 00:21:51,720
+antecedentes criminais, não me recordo.
+
+499
+00:21:51,720 --> 00:21:53,720
+Na prisão do Cristiano ele
+
+500
+00:21:53,720 --> 00:21:55,720
+apresentou alguma resistência?
+
+501
+00:21:55,720 --> 00:21:57,720
+Não, ele desceu muito nervoso
+
+502
+00:21:57,720 --> 00:21:59,720
+da escada, mas
+
+503
+00:21:59,720 --> 00:22:01,720
+pode ser por causa do horário.
+
+504
+00:22:01,720 --> 00:22:03,720
+Foi muito cedo, mas não resistiu à prisão
+
+505
+00:22:03,720 --> 00:22:05,720
+não. Ele ficou se debatendo um bocado
+
+506
+00:22:05,720 --> 00:22:07,720
+e tudo, não acreditava, mas não houve
+
+507
+00:22:07,720 --> 00:22:09,720
+uma resistência digna de registro
+
+508
+00:22:09,720 --> 00:22:11,720
+policial.
+
+509
+00:22:11,720 --> 00:22:13,720
+Ok, muito obrigado, sem mais perguntas.
+
+510
+00:22:13,720 --> 00:22:15,720
+Ok, agora o advogado
+
+511
+00:22:15,720 --> 00:22:17,720
+do senhor Paulo Henrique.
+
+512
+00:22:19,720 --> 00:22:21,720
+Boa tarde, doutor.
+
+513
+00:22:21,720 --> 00:22:23,720
+Boa tarde, doutor.
+
+514
+00:22:25,720 --> 00:22:27,720
+Por relação ao Paulo Henrique,
+
+515
+00:22:27,720 --> 00:22:29,720
+você sabe de onde ele foi preso?
+
+516
+00:22:31,720 --> 00:22:33,720
+Paulo Henrique...
+
+517
+00:22:33,720 --> 00:22:35,720
+Paulo Henrique é o senhor que está preso.
+
+518
+00:22:35,720 --> 00:22:37,720
+Onde está preso?
+
+519
+00:22:37,720 --> 00:22:39,720
+Teve duas prisões que foram diferentes.
+
+520
+00:22:39,720 --> 00:22:41,720
+Paulo Henrique, eu não sei se era um motorista de bubre.
+
+521
+00:22:41,720 --> 00:22:43,720
+Não, não.
+
+522
+00:22:43,720 --> 00:22:45,720
+O da praia? Foi preso na praia.
+
+523
+00:22:45,720 --> 00:22:47,720
+Eu participei da prisão dele.
+
+524
+00:22:47,720 --> 00:22:49,720
+Foi preso na praia.
+
+525
+00:22:49,720 --> 00:22:51,720
+Se informasse que ele estava trabalhando na praia?
+
+526
+00:22:51,720 --> 00:22:53,720
+Estava aparentemente
+
+527
+00:22:53,720 --> 00:22:55,720
+vendendo alguma coisa na praia.
+
+528
+00:22:55,720 --> 00:22:57,720
+Só para constar.
+
+529
+00:22:57,720 --> 00:22:59,720
+Seu senhor sabe informar se
+
+530
+00:22:59,720 --> 00:23:01,720
+ele foi chamado em algum momento
+
+531
+00:23:01,720 --> 00:23:03,720
+no curso do inquérito para prestar depoimento na delegacia?
+
+532
+00:23:03,720 --> 00:23:05,720
+Eu não me recordo que
+
+533
+00:23:05,720 --> 00:23:07,720
+depois da segunda rodada de interceptação, quem assumiu
+
+534
+00:23:07,720 --> 00:23:09,720
+a presidência foi o doutor Nelson Esquiva.
+
+535
+00:23:09,720 --> 00:23:11,720
+Então eu não me recordo, definitivamente.
+
+536
+00:23:11,720 --> 00:23:13,720
+Ok, então.
+
+537
+00:23:13,720 --> 00:23:15,720
+Para consignar que ele foi chamado, mas eu pergunto
+
+538
+00:23:15,720 --> 00:23:17,720
+o doutor Nelson.
+
+539
+00:23:17,720 --> 00:23:19,720
+O doutor Nelson que está aguardando
+
+540
+00:23:19,720 --> 00:23:21,720
+no lobby para ser ouvido.
+
+541
+00:23:21,720 --> 00:23:23,720
+A última excelência.
+
+542
+00:23:23,720 --> 00:23:25,720
+Se informasse
+
+543
+00:23:25,720 --> 00:23:27,720
+sabe se ele confessou a
+
+544
+00:23:27,720 --> 00:23:29,720
+prática deletiva em algum momento?
+
+545
+00:23:29,720 --> 00:23:31,720
+O Paulo Henrique
+
+546
+00:23:31,720 --> 00:23:33,720
+se mostrou surpreso também.
+
+547
+00:23:33,720 --> 00:23:35,720
+E não sabia o que estava acontecendo.
+
+548
+00:23:35,720 --> 00:23:37,720
+Ele falou que não era envolvido
+
+549
+00:23:37,720 --> 00:23:39,720
+com tráfico de droga, nada disso.
+
+550
+00:23:39,720 --> 00:23:41,720
+Não admitiu a participação.
+
+551
+00:23:41,720 --> 00:23:43,720
+Sem mais perguntas, excelência.
+
+552
+00:23:43,720 --> 00:23:45,720
+Ok, agora o advogado
+
+553
+00:23:45,720 --> 00:23:47,720
+de Emerson Fernandes Aranis.
+
+554
+00:23:47,720 --> 00:23:49,720
+Boa tarde, excelência.
+
+555
+00:23:49,720 --> 00:23:51,720
+Boa tarde, senhor Rodrigo. Tudo bem?
+
+556
+00:23:51,720 --> 00:23:53,720
+Boa tarde, doutora.
+
+557
+00:23:53,720 --> 00:23:55,720
+O senhor sabe me dizer como cedeu a prisão do Emerson?
+
+558
+00:23:57,720 --> 00:23:59,720
+Não me recordo efetivamente
+
+559
+00:23:59,720 --> 00:24:01,720
+também, porque eu não participei da
+
+560
+00:24:01,720 --> 00:24:03,720
+prisão do Emerson.
+
+561
+00:24:03,720 --> 00:24:05,720
+O senhor sabe me dizer se ele
+
+562
+00:24:05,720 --> 00:24:07,720
+compareceu à delegacia para prestar
+
+563
+00:24:07,720 --> 00:24:09,720
+esclarecimentos?
+
+564
+00:24:09,720 --> 00:24:11,720
+Também como eu falei para o doutor Vinícius,
+
+565
+00:24:11,720 --> 00:24:13,720
+eu não me recordo porque
+
+566
+00:24:13,720 --> 00:24:15,720
+eu só participei do início da investigação.
+
+567
+00:24:15,720 --> 00:24:17,720
+Depois quem conduziu foi o doutor Nelson Esquiva.
+
+568
+00:24:17,720 --> 00:24:19,720
+O senhor consegue me
+
+569
+00:24:19,720 --> 00:24:21,720
+dizer em qual parte
+
+570
+00:24:21,720 --> 00:24:23,720
+dessas investigações apareceu
+
+571
+00:24:23,720 --> 00:24:25,720
+o nome dele?
+
+572
+00:24:25,720 --> 00:24:27,720
+Só vingando, o Emerson só apareceu para o final.
+
+573
+00:24:27,720 --> 00:24:29,720
+Embora não tivesse mais preso na investigação,
+
+574
+00:24:29,720 --> 00:24:31,720
+acabávamos trocando algumas
+
+575
+00:24:31,720 --> 00:24:33,720
+figurinhas sobre o trabalho.
+
+576
+00:24:33,720 --> 00:24:35,720
+Mas só vingando, o Emerson só apareceu
+
+577
+00:24:35,720 --> 00:24:37,720
+no final da investigação,
+
+578
+00:24:37,720 --> 00:24:39,720
+porque ele teria tido
+
+579
+00:24:39,720 --> 00:24:41,720
+um contato.
+
+580
+00:24:41,720 --> 00:24:43,720
+Um alvo ligou para ele ou ele ligou para um alvo
+
+581
+00:24:43,720 --> 00:24:45,720
+e ele admitiu que já tinha revidido a droga do Paulo Henrique,
+
+582
+00:24:45,720 --> 00:24:47,720
+salvo o engano, em outras oportunidades.
+
+583
+00:24:47,720 --> 00:24:49,720
+Ele admitiu que já teria.
+
+584
+00:24:49,720 --> 00:24:51,720
+Mas isso está bem materializado
+
+585
+00:24:51,720 --> 00:24:53,720
+no relatório do inquérito policial.
+
+586
+00:24:53,720 --> 00:24:55,720
+O senhor sabe me informar
+
+587
+00:24:55,720 --> 00:24:57,720
+se o telefone dele foi alvo
+
+588
+00:24:59,720 --> 00:25:01,720
+de intervenção?
+
+589
+00:25:01,720 --> 00:25:03,720
+Ele foi o último
+
+590
+00:25:03,720 --> 00:25:05,720
+pela conversa que eu tive,
+
+591
+00:25:05,720 --> 00:25:07,720
+pela troca de ideias que eu tive antes
+
+592
+00:25:07,720 --> 00:25:09,720
+com o Dr. Nelson Esquiva
+
+593
+00:25:09,720 --> 00:25:11,720
+antes de deflagrar a operação.
+
+594
+00:25:11,720 --> 00:25:13,720
+Só vingando, ele não foi o telefone dele,
+
+595
+00:25:13,720 --> 00:25:15,720
+não foi alvo da interceptação,
+
+596
+00:25:15,720 --> 00:25:17,720
+mas ele fez contato com alguém
+
+597
+00:25:17,720 --> 00:25:19,720
+ou alguém fez contato com ele
+
+598
+00:25:19,720 --> 00:25:21,720
+e nesse contato ficou provado
+
+599
+00:25:21,720 --> 00:25:23,720
+que eles tinham essa ligação
+
+600
+00:25:23,720 --> 00:25:25,720
+do tráfego de drogas.
+
+601
+00:25:25,720 --> 00:25:27,720
+Se ele foi o último realmente, eu gostaria de ressalvar.
+
+602
+00:25:27,720 --> 00:25:29,720
+O senhor sabe me dizer se ele ofereceu algum tipo
+
+603
+00:25:29,720 --> 00:25:31,720
+de resistência?
+
+604
+00:25:31,720 --> 00:25:33,720
+Como eu falei, eu não participei da prisão dele.
+
+605
+00:25:33,720 --> 00:25:35,720
+Mas pelo que nós vimos na delegacia,
+
+606
+00:25:35,720 --> 00:25:37,720
+nenhum dos alvos apresenta...
+
+607
+00:25:37,720 --> 00:25:39,720
+nenhum dos que foram presos naquele dia,
+
+608
+00:25:39,720 --> 00:25:41,720
+que nem todos foram presos no mesmo dia,
+
+609
+00:25:41,720 --> 00:25:43,720
+apresentou resistência digna de registro de ocorrência.
+
+610
+00:25:43,720 --> 00:25:45,720
+Sem mais excelência.
+
+611
+00:25:45,720 --> 00:25:47,720
+Finalmente, é o Dr.
+
+612
+00:25:47,720 --> 00:25:49,720
+César.
+
+613
+00:25:49,720 --> 00:25:51,720
+Dr. César, o senhor é bem paciente.
+
+614
+00:25:51,720 --> 00:25:53,720
+O senhor foi o único que não ficou nervoso.
+
+615
+00:25:53,720 --> 00:25:55,720
+Pode indagar e é o último.
+
+616
+00:25:57,720 --> 00:25:59,720
+Boa tarde, doutor, tudo bem?
+
+617
+00:25:59,720 --> 00:26:01,720
+Boa tarde, doutor.
+
+618
+00:26:01,720 --> 00:26:03,720
+Doutor,
+
+619
+00:26:03,720 --> 00:26:05,720
+eu poderia identificar qual a participação
+
+620
+00:26:05,720 --> 00:26:07,720
+do acusado Juliano Lucas Nunes?
+
+621
+00:26:09,720 --> 00:26:11,720
+Juliano,
+
+622
+00:26:11,720 --> 00:26:13,720
+me parece que a participação dele ele falava
+
+623
+00:26:13,720 --> 00:26:15,720
+com as pessoas para captar
+
+624
+00:26:15,720 --> 00:26:17,720
+clientes.
+
+625
+00:26:17,720 --> 00:26:19,720
+Perguntavam quem queria o quê.
+
+626
+00:26:19,720 --> 00:26:21,720
+E ele,
+
+627
+00:26:21,720 --> 00:26:23,720
+salvo enganos, Juliano era que usava
+
+628
+00:26:23,720 --> 00:26:25,720
+o telefone em nome de terceiro.
+
+629
+00:26:25,720 --> 00:26:27,720
+Em nome de uma moça
+
+630
+00:26:27,720 --> 00:26:29,720
+que vem a ser o parente, a amiga deles.
+
+631
+00:26:29,720 --> 00:26:31,720
+E ele captava
+
+632
+00:26:31,720 --> 00:26:33,720
+cliente.
+
+633
+00:26:33,720 --> 00:26:35,720
+Aí deu uma dificuldade porque a voz era de homem.
+
+634
+00:26:35,720 --> 00:26:37,720
+Isso foi no final da recepção.
+
+635
+00:26:37,720 --> 00:26:39,720
+Eu estou falando que foi
+
+636
+00:26:39,720 --> 00:26:41,720
+trocado figurinha
+
+637
+00:26:41,720 --> 00:26:43,720
+com os participantes.
+
+638
+00:26:43,720 --> 00:26:45,720
+Porque na época eu era o deputado da delegacia.
+
+639
+00:26:45,720 --> 00:26:47,720
+Tinha que saber o que estava acontecendo na delegacia.
+
+640
+00:26:47,720 --> 00:26:49,720
+Era meu dever.
+
+641
+00:26:49,720 --> 00:26:51,720
+Então, a informação que eu tenho
+
+642
+00:26:51,720 --> 00:26:53,720
+era essa.
+
+643
+00:26:53,720 --> 00:26:55,720
+Que ele captava cliente e uma ligação.
+
+644
+00:26:55,720 --> 00:26:57,720
+Um cliente pediu a ele uma droga.
+
+645
+00:26:57,720 --> 00:26:59,720
+Essa foi a participação dele.
+
+646
+00:26:59,720 --> 00:27:01,720
+Então, a intervenção
+
+647
+00:27:01,720 --> 00:27:03,720
+do telefone que o Juliano
+
+648
+00:27:03,720 --> 00:27:05,720
+utilizava foi só na
+
+649
+00:27:05,720 --> 00:27:07,720
+última rodada? Seria isso?
+
+650
+00:27:07,720 --> 00:27:09,720
+Foi a partir da segunda.
+
+651
+00:27:09,720 --> 00:27:11,720
+A partir da segunda rodada.
+
+652
+00:27:11,720 --> 00:27:13,720
+Sem mais perguntas, senhora.
+
+653
+00:27:13,720 --> 00:27:15,720
+Ok. Deixa-me ver se
+
+654
+00:27:15,720 --> 00:27:17,720
+eu tenho alguma, doutor.
+
+655
+00:27:29,720 --> 00:27:31,720
+Doutor, muito obrigada.
+
+656
+00:27:31,720 --> 00:27:33,720
+Não tenho, não.
+
+657
+00:27:33,720 --> 00:27:35,720
+Agradeço. Desculpe a demora
+
+658
+00:27:35,720 --> 00:27:37,720
+mais uma vez, mas a primeira demorou
+
+659
+00:27:37,720 --> 00:27:39,720
+muitíssimo, tá?
+
+660
+00:27:39,720 --> 00:27:41,720
+Para começarmos.
+
+661
+00:27:41,720 --> 00:27:43,720
+Inclusive,
+
+662
+00:27:43,720 --> 00:27:45,720
+a primeira demorou muito.
+
+663
+00:27:45,720 --> 00:27:47,720
+A primeira demorou muito.
+
+664
+00:27:47,720 --> 00:27:49,720
+A primeira demorou muito.
+
+665
+00:27:49,720 --> 00:27:51,720
+A primeira demorou muito.
+
+666
+00:27:51,720 --> 00:27:53,720
+A primeira demorou muito.
+
+667
+00:27:53,720 --> 00:27:55,720
+A primeira demorou muito.
+
+668
+00:27:55,720 --> 00:27:57,720
+A primeira demorou muito.
+
+669
+00:27:57,720 --> 00:27:59,720
+Para começarmos, inclusive.
+
+670
+00:27:59,720 --> 00:28:01,720
+O pessoal não está acostumado
+
+671
+00:28:01,720 --> 00:28:03,720
+com esse método e aí é tão
+
+672
+00:28:03,720 --> 00:28:05,720
+prático, mas as pessoas ainda não estão acostumadas.
+
+673
+00:28:05,720 --> 00:28:07,720
+Então eu agradeço.
+
+674
+00:28:07,720 --> 00:28:09,720
+Eu só precisava que o senhor me desse
+
+675
+00:28:09,720 --> 00:28:11,720
+a sua matrícula,
+
+676
+00:28:11,720 --> 00:28:13,720
+por favor. O senhor é delegado de polícia,
+
+677
+00:28:13,720 --> 00:28:15,720
+né? O senhor é da 119?
+
+678
+00:28:15,720 --> 00:28:17,720
+Hoje eu estou titulado a 119DP, Rio Bonito.
+
+679
+00:28:17,720 --> 00:28:19,720
+Sou delegado de polícia.
+
+680
+00:28:19,720 --> 00:28:21,720
+O ID funcional 5023
+
+681
+00:28:21,720 --> 00:28:23,720
+1251.
+
+682
+00:28:23,720 --> 00:28:25,720
+Recapitulando.
+
+683
+00:28:25,720 --> 00:28:27,720
+Recapitulando. 5023
+
+684
+00:28:27,720 --> 00:28:29,720
+1251. Essa é a sua matrícula,
+
+685
+00:28:29,720 --> 00:28:31,720
+não é isso? Isso, é o ID funcional.
+
+686
+00:28:31,720 --> 00:28:33,720
+Agora mudou, não tem matrícula.
+
+687
+00:28:33,720 --> 00:28:35,720
+Ah, é o ID funcional agora?
+
+688
+00:28:35,720 --> 00:28:37,720
+Ah, mas eu estou do tempo do ONSA mesmo.
+
+689
+00:28:37,720 --> 00:28:39,720
+Mas só usa o ID funcional agora.
+
+690
+00:28:39,720 --> 00:28:41,720
+Existe até uma matrícula, mas
+
+691
+00:28:41,720 --> 00:28:43,720
+dificilmente as pessoas lembram,
+
+692
+00:28:43,720 --> 00:28:45,720
+porque todas as publicações se referem agora ao ID funcional.
+
+693
+00:28:45,720 --> 00:28:47,720
+Ah, tá.
+
+694
+00:28:47,720 --> 00:28:49,720
+Muito obrigada pela atualização, inclusive.
+
+695
+00:28:49,720 --> 00:28:51,720
+Eu estou do tempo do ONSA.
+
+696
+00:28:51,720 --> 00:28:53,720
+Também já sou bem
+
+697
+00:28:53,720 --> 00:28:55,720
+reconhecida, né?
+
+698
+00:28:55,720 --> 00:28:57,720
+Eu vou fazer 21 anos de magistratura.
+
+699
+00:28:57,720 --> 00:28:59,720
+Eu sou da matrícula.
+
+700
+00:28:59,720 --> 00:29:01,720
+Não sei nem como é que eu realizo a audiência virtual.
+
+701
+00:29:01,720 --> 00:29:03,720
+Muito obrigada.
+
+702
+00:29:03,720 --> 00:29:05,720
+Muito obrigado. Boa tarde, doutora Renata.
+
+703
+00:29:05,720 --> 00:29:07,720
+Boa tarde, doutores.
+
+704
+00:29:07,720 --> 00:29:09,720
+Bom trabalho a todos.
+
+705
+00:29:09,720 --> 00:29:11,720
+Tudo de bom.
+
+706
+00:29:11,720 --> 00:29:13,720
+Agora o senhor Nelson esquiva e depois
+
+707
+00:29:13,720 --> 00:29:15,720
+vamos ter que captar de novo
+
+708
+00:29:15,720 --> 00:29:17,720
+o senhor Rodrigo, porque ele sumiu.
+
+709
+00:29:17,720 --> 00:29:19,720
+O outro Rodrigo.
+
+710
+00:29:19,720 --> 00:29:21,720
+Doutor Nelson, por favor,
+
+711
+00:29:21,720 --> 00:29:23,720
+se você puder disponibilizar a imagem
+
+712
+00:29:23,720 --> 00:29:25,720
+e o som pra nós,
+
+713
+00:29:25,720 --> 00:29:27,720
+agradeço.
+
+714
+00:29:31,720 --> 00:29:33,720
+Oi.
+
+715
+00:29:33,720 --> 00:29:35,720
+Vai na banheira aqui ou tem que ir lá fora?
+
+716
+00:29:35,720 --> 00:29:37,720
+Aqui.
+
+717
+00:29:43,720 --> 00:29:45,720
+Doutor Nelson.
+
+718
+00:29:45,720 --> 00:29:47,720
+Doutor Nelson.
+
+719
+00:29:47,720 --> 00:29:49,720
+Ai, o senhor está bem atrás de mim.
+
+720
+00:29:49,720 --> 00:29:51,720
+Eu vou ter que sair
+
+721
+00:29:51,720 --> 00:29:53,720
+e entrar de novo, porque o senhor está
+
+722
+00:29:53,720 --> 00:29:55,720
+atrás do meu quadradinho e eu preciso
+
+723
+00:29:55,720 --> 00:29:57,720
+ver o senhor declarando.
+
+724
+00:29:57,720 --> 00:29:59,720
+Só um minuto, vou sair, vou entrar imediatamente
+
+725
+00:29:59,720 --> 00:30:01,720
+só pra dar uma... Ah não, já sei.
+
+726
+00:30:01,720 --> 00:30:03,720
+Eu vou fixar o senhor que aí eu não
+
+727
+00:30:03,720 --> 00:30:05,720
+preciso fazer isso.
+
+728
+00:30:05,720 --> 00:30:07,720
+Pronto, agora eu estou vendo o senhor
+
+729
+00:30:07,720 --> 00:30:09,720
+bem. O senhor está é sem
+
+730
+00:30:09,720 --> 00:30:11,720
+sol. O senhor está sem
+
+731
+00:30:11,720 --> 00:30:13,720
+som.
+
+732
+00:30:13,720 --> 00:30:15,720
+O senhor tem que clicar
+
+733
+00:30:15,720 --> 00:30:17,720
+no microfonezinho pra tirar
+
+734
+00:30:17,720 --> 00:30:19,720
+o tracinho. Se tiver tido algum problema,
+
+735
+00:30:19,720 --> 00:30:21,720
+o senhor sai e entra
+
+736
+00:30:21,720 --> 00:30:23,720
+outra vez.
+
+737
+00:30:23,720 --> 00:30:25,720
+O microfone fica
+
+738
+00:30:25,720 --> 00:30:27,720
+em cima assim, naquela barra em
+
+739
+00:30:27,720 --> 00:30:29,720
+cima. Tem a câmera e tem
+
+740
+00:30:29,720 --> 00:30:31,720
+o microfonezinho. Então se ele tiver
+
+741
+00:30:31,720 --> 00:30:33,720
+com o tracinho...
+
+742
+00:30:35,720 --> 00:30:37,720
+Está sem som
+
+743
+00:30:37,720 --> 00:30:39,720
+ainda.
+
+744
+00:30:43,720 --> 00:30:45,720
+Se o senhor
+
+745
+00:30:45,720 --> 00:30:47,720
+tiver dificuldade, o senhor
+
+746
+00:30:47,720 --> 00:30:49,720
+sai e entra outra vez no link.
+
+747
+00:30:49,720 --> 00:30:51,720
+Sai lá no vermelhinho,
+
+748
+00:30:51,720 --> 00:30:53,720
+sai e volta.
+
+749
+00:30:55,720 --> 00:30:57,720
+Não está me ouvindo? Não está?
+
+750
+00:30:59,720 --> 00:31:01,720
+Não consegue falar.
+
+751
+00:31:01,720 --> 00:31:03,720
+Então, o senhor sai
+
+752
+00:31:03,720 --> 00:31:05,720
+e entra outra vez.
+
+753
+00:31:05,720 --> 00:31:07,720
+Às vezes dá um defeitinho e
+
+754
+00:31:07,720 --> 00:31:09,720
+corrige na saída.
+
+755
+00:31:13,720 --> 00:31:15,720
+É isso aí.
+
+756
+00:31:29,720 --> 00:31:31,720
+Obrigado!
+
+757
+00:31:35,720 --> 00:31:37,720
+Onde ele não está indo?
+
+758
+00:31:37,720 --> 00:31:39,720
+Ele está indo saindo.
+
+759
+00:31:39,720 --> 00:31:41,720
+E aí, quando ele entrar
+
+760
+00:32:11,720 --> 00:32:19,720
+Eu vou excluí-lo, então, que é para poder entrar de novo, tá?
+
+761
+00:32:19,720 --> 00:32:20,720
+Ok.
+
+762
+00:32:21,720 --> 00:32:26,720
+Eu vou excluí-lo, então, que é para poder entrar de novo, tá?
+
+763
+00:32:26,720 --> 00:32:27,720
+Ok.
+
+764
+00:32:50,720 --> 00:33:12,720
+Boa tarde, doutor Nelson, agora está me ouvindo e está conseguindo falar?
+
+765
+00:33:12,720 --> 00:33:14,720
+Eu estou ouvindo, está me ouvindo?
+
+766
+00:33:14,720 --> 00:33:17,720
+Estamos, viu como é que é só sair e entrar de novo?
+
+767
+00:33:17,720 --> 00:33:19,720
+É assim, está vendo?
+
+768
+00:33:19,720 --> 00:33:29,720
+Doutor Nelson, agora que eu fui atualizada pelo seu colega, que os senhores não têm mais matrícula, agora o senhor tem ID, o senhor pode me fornecer o seu ID?
+
+769
+00:33:29,720 --> 00:33:32,720
+Eu não sei o meu ID, doutora, eu só uso a minha matrícula.
+
+770
+00:33:32,720 --> 00:33:37,720
+Ah, então o senhor é do meu tempo, então o senhor pode me dar sua matrícula.
+
+771
+00:33:37,720 --> 00:33:40,720
+O problema é esse, doutor Rodrigo não tem matrícula, eu tenho.
+
+772
+00:33:40,720 --> 00:33:41,720
+Ah, tá bom.
+
+773
+00:33:41,720 --> 00:33:47,720
+Eu tenho matrícula, é 860-955-4.
+
+774
+00:33:47,720 --> 00:33:49,720
+4, ok.
+
+775
+00:33:49,720 --> 00:33:58,720
+Doutor, o senhor está sobre compromissos e a verdade, o senhor apenas responde criminalmente por falsos testemunhos, esclareça ao senhor que os acusados não estão presentes salvo o senhor Paulo Henrique.
+
+776
+00:33:58,720 --> 00:34:08,720
+Porque a SEAP não conseguiu apresentá-los, fez uma confusão danada e as defesas técnicas não se opuseram que colhesse a prova sem a presença deles.
+
+777
+00:34:08,720 --> 00:34:13,720
+Então só o senhor Paulo Henrique se encontra presente que está escrito ali José Henrique, inclusive.
+
+778
+00:34:13,720 --> 00:34:23,720
+Eu pergunto, mas eu vou ler os nomes dos acusados e eu pergunto ao senhor se sopia algum problema pessoal com quaisquer dessas pessoas, tá?
+
+779
+00:34:23,720 --> 00:34:29,720
+Bom, seria o nome dela.
+
+780
+00:34:29,720 --> 00:34:33,720
+O senhor Julio Pereira Marcos, supostamente vulgo Julião.
+
+781
+00:34:33,720 --> 00:34:35,720
+O senhor José Guilherme da Costa Freire.
+
+782
+00:34:35,720 --> 00:34:37,720
+O senhor Cristiano Pereira Marcos.
+
+783
+00:34:37,720 --> 00:34:44,720
+O senhor Paulo Henrique da Silva Bento, supostamente vulgo Paulinho, que é justamente a única pessoa presente.
+
+784
+00:34:44,720 --> 00:34:47,720
+O senhor Emerson Fernandes Anamias.
+
+785
+00:34:47,720 --> 00:34:49,720
+O senhor Rodrigo Duarte de Sousa.
+
+786
+00:34:49,720 --> 00:34:52,720
+O senhor Juliano Nunes, supostamente vulgo Lucas.
+
+787
+00:34:52,720 --> 00:34:54,720
+O senhor tem algum problema pessoal com algum desses?
+
+788
+00:34:54,720 --> 00:34:58,720
+Não, não. Eu não conhecia antes da investigação.
+
+789
+00:34:58,720 --> 00:35:11,720
+Ok, então o que vai indagar diretamente o senhor vai ser primeiramente a doutora Renata e depois na ordem que eu li, salvo que Rodrigo não se encontra nesse processo foi desmembrado.
+
+790
+00:35:11,720 --> 00:35:14,720
+E também Julio Pereira também foi desmembrado.
+
+791
+00:35:14,720 --> 00:35:20,720
+Então a partir do advogado de José Guilherme é que vão sendo as pessoas a indagar o senhor.
+
+792
+00:35:20,720 --> 00:35:23,720
+E se for o caso eu farei alguma pergunta complementar ao final.
+
+793
+00:35:23,720 --> 00:35:27,720
+Doutora Renata querendo pode indagar o doutor Nelson.
+
+794
+00:35:28,720 --> 00:35:30,720
+Boa tarde doutor Nelson, tudo bom?
+
+795
+00:35:30,720 --> 00:35:32,720
+Boa tarde.
+
+796
+00:35:32,720 --> 00:35:38,720
+O senhor participou das investigações relacionadas à Operação Delivery a partir de que momento?
+
+797
+00:35:38,720 --> 00:35:42,720
+Foi desde o início ou foi já durante as rodadas da intercepção telefônica?
+
+798
+00:35:42,720 --> 00:35:55,720
+Bom, eu conheci o assunto da delegacia por conversas com o doutor Rodrigo, mas a presidência do inquérito passou pra mim, se não me engano, a partir da quarta rodada de
+
+799
+00:35:56,720 --> 00:36:05,720
+Na verdade eu já sumi na terceira rodada, mas eu fiz a representação da quarta rodada por causa das férias do doutor Rodrigo.
+
+800
+00:36:05,720 --> 00:36:17,720
+Entendi. Então o senhor pode primeiro esclarecer pra gente mais ou menos como que funcionava a atuação dos réus nessa associação deles pro tráfico de drogas?
+
+801
+00:36:17,720 --> 00:36:21,720
+Como que eles agiam de uma forma geral, como grupo?
+
+802
+00:36:21,720 --> 00:36:34,720
+Sim doutora, é o seguinte, inicialmente os policiais militares aqui do município, acho que com alguma denúncia, alguma suspeita sobre uma motocicleta que estava estacionada numa residência,
+
+803
+00:36:34,720 --> 00:36:47,720
+eles chamaram o proprietário da motocicleta e em conversa esse proprietário da motocicleta admitiu que tinha drogas dentro de casa, algo em torno de 280 gramas de maconha.
+
+804
+00:36:47,720 --> 00:37:04,720
+Aí os policiais conduziram a delegacia, quem apreciou o fato foi o doutor Rodrigo e ele entendeu na ocasião que a alegação do conduzido seria de que era pra uso próprio, fazia sentido e demandava maiores investigações.
+
+805
+00:37:04,720 --> 00:37:20,720
+Aí ele acho que só ficou no artigo 28 e deu início a uma inquieto pra investigar o fato como um todo porque o conduzido que possuía essa quantidade de maconha indicou o telefone do suposto traficante que teria fornecido pra ele.
+
+806
+00:37:20,720 --> 00:37:35,720
+Aí o telefone desse suposto traficante e do conduzido foram interceptados, houve representação daquele afastamento do sigilo do fluxo das comunicações e aí passaram a serem ouvidos.
+
+807
+00:37:35,720 --> 00:37:59,720
+E na sequência foram se estabelecendo de maneira bem clara, esse conduzido espiritual e esse suposto vendedor de drogas pra ele tinham várias conexões em Búzios, praticamente limitado ao centro de Búzios, o ponto de venda deles era o foco maior no centro de Búzios.
+
+808
+00:37:59,720 --> 00:38:08,720
+Sempre usando, ficou claro que eles usavam prioritariamente o WhatsApp e que a linha telefônica era de uso secundário.
+
+809
+00:38:08,720 --> 00:38:25,720
+Então assim, desses dois telefones iniciais começaram as conversas com outras pessoas, a operação foi sendo expandida, as interceptações foram sendo prorrogadas, as que já tinham o número definido e os novos números foram sendo expandidos.
+
+810
+00:38:25,720 --> 00:38:40,720
+Até o ponto que chegou no final que não mais progredia essa expansão de pessoas envolvidas, mas a cada rodada de interceptação todos eles, todas as conversas deles, quem produziu o relatório final foi eu.
+
+811
+00:38:40,720 --> 00:38:58,720
+Então a cada rodada ficou muito claro que todos eles de alguma forma tinham vínculo entre si, até no meu relatório, no final do relatório eu faço uma menção, quem era vinculado a quem, porque embora todos se conheciam, porque Búzios é pequeno, o centro de Búzios é pequeno,
+
+812
+00:38:58,720 --> 00:39:06,720
+para todos se conhecessem era mais fácil de perceber quem era mais ligado a quem, quem pegava droga de quem, quem repassava droga para quem.
+
+813
+00:39:06,720 --> 00:39:21,720
+E assim, ficou muito claro na investigação a forma que eles vendiam, a forma velada que eles falavam sobre drogas, quando os compradores entravam em contato via telefonema,
+
+814
+00:39:21,720 --> 00:39:32,720
+eles automaticamente pediam para que a conversa fosse transferida pelo WhatsApp, sabedores da dificuldade técnica que a polícia tem com relação a conseguir essas informações.
+
+815
+00:39:32,720 --> 00:39:49,720
+Então assim, esse foi o andar da investigação, foi muito claro. Todos eles claramente conversavam entre si, alguns mais próximos ao outro, porque tinha o Cristiano, o Juliano Irmãos, outros eram amigos mais próximos.
+
+816
+00:39:49,720 --> 00:40:01,720
+Então assim, ficou muito claro, só que eu tenho como método de trabalho, quando eu vou relatar um método de tráfico desse, desse tipo, dessa forma de investigação, de interceptação,
+
+817
+00:40:01,720 --> 00:40:16,720
+eu faço questão de intimar os alvos para que eles saibam da investigação. Eu intimei todos os alvos da investigação, dois faltaram, os irmãos, os irmãos Cristiano e Julio faltaram,
+
+818
+00:40:16,720 --> 00:40:24,720
+mas foram intimados, inclusive eu falei pessoalmente com a mãe deles, eles estavam do lado, sabiam que estavam sendo intimados, e os outros foram para a delegacia,
+
+819
+00:40:24,720 --> 00:40:38,720
+e eles tomaram conhecimento de que estavam sendo investigados pelo tráfico de drogas, e eu perguntei se conhecia um, conhecia outro, com um pouco de reticências, um ou outro dos indiciados e agora réus,
+
+820
+00:40:38,720 --> 00:40:49,720
+todos admitiram que se conheciam, todos admitiram, só um que admitiu que realmente traficava, os demais admitiram que consumiam drogas, e na verdade, pela investigação,
+
+821
+00:40:49,720 --> 00:41:02,720
+a gente percebe que são consumidores de drogas, todos eles são consumidores de drogas e vendem também, e percebe-se na investigação que às vezes um deles está sem droga,
+
+822
+00:41:02,720 --> 00:41:14,720
+procura outro para conseguir um pouco de drogas, aquele outro que está aqui num primeiro momento e forneceu pode vir a comprar do primeiro, porque tudo depende de quem possuía droga no momento,
+
+823
+00:41:14,720 --> 00:41:27,720
+o que fica mais claro é que o Julio era uma peça central, o Julio tinha conexões fora de Búzios, então ele tinha conexões mais estabilizadas com traficantes de outras localidades,
+
+824
+00:41:28,720 --> 00:41:41,720
+então em linhas gerais é isso, claro que a conduta hormenalizada de cada um deles é bem longa, no meu relatório eu faço o relatório final,
+
+825
+00:41:41,720 --> 00:41:52,720
+eu faço menção a cada um, a cada uma das condutas de cada um deles que visivelmente se trata de comercialização de mercancias de drogas.
+
+826
+00:41:53,720 --> 00:42:07,720
+Ao longo das investigações, como que vocês fizeram para qualificar os interlocutores, quem eram as pessoas que estavam se comunicando ali para poder qualificar quem era a pessoa que efetivamente estava se comunicando em atos de tráfico?
+
+827
+00:42:08,720 --> 00:42:21,720
+Adiantando um pouco a resposta, como todos foram convocados a comparecer na delegacia para serem ouvidos, com exceção do Cristiano e do Juliano que foram chamados e não vieram,
+
+828
+00:42:21,720 --> 00:42:31,720
+eles admitiram pessoalmente durante a oitiva que eu fiz de todos eles, eu que fiz as oitivas, eles admitiram que aquelas linhas telefônicas que estavam interceptadas,
+
+829
+00:42:31,720 --> 00:42:38,720
+eles já tinham até uma noção de que era interceptação, porque como eles estavam sendo ouvidos e como a investigação já estava pronta,
+
+830
+00:42:38,720 --> 00:42:42,720
+eu não me preocupei em omitir deles que eu sabia de algumas coisas,
+
+831
+00:42:42,720 --> 00:42:50,720
+então quem era um pouco mais apto a entender a situação já percebeu que estava interceptado,
+
+832
+00:42:50,720 --> 00:42:58,720
+então com exceção dos que faltaram nas oitivas, os demais admitiram que a linha interceptada era de um judeu,
+
+833
+00:42:58,720 --> 00:43:08,720
+então assim não havia qualquer dúvida, quanto aos dois que não foram, que não foram, não compareceram a delegacia produtiva nos dois irmãos,
+
+834
+00:43:08,720 --> 00:43:14,720
+um deles foi preso na operação, o outro irmão na época ficou foragido,
+
+835
+00:43:14,720 --> 00:43:21,720
+Cristiano e o Julio que você está mencionando, o senhor está falando do Cristiano e do Julio que não foram na delegacia,
+
+836
+00:43:21,720 --> 00:43:30,720
+só os dois, os demais foram na delegacia e admitiram que eram os usuários daquelas linhas, então zero dúvida com relação a isso,
+
+837
+00:43:30,720 --> 00:43:41,720
+embora também já houvesse pesquisas que a gente fez através do Banco de Dados Credlink e através de quebra de sigilo das operadoras,
+
+838
+00:43:41,720 --> 00:43:53,720
+então assim, salvo engano, mas eu tenho praticamente certeza, o tanto o Cristiano quanto o Julio, o telefone se encontrava no nome deles no Credlink,
+
+839
+00:43:53,720 --> 00:44:02,720
+nesse Banco de Dados Credlink que é um banco de proteção ao crédito, então ele se serve de informações não só policiais,
+
+840
+00:44:02,720 --> 00:44:08,720
+informações de empresas, de comércio e das próprias operadoras de telefonia, então com essas informações,
+
+841
+00:44:08,720 --> 00:44:14,720
+tanto que inicialmente eu sabia que era um Cristiano e eu sabia que era um Julio, eu não sabia que eles eram irmãos,
+
+842
+00:44:14,720 --> 00:44:23,720
+eu fui descobrir que eles eram irmãos porque eu liguei para a mãe de um deles, o que acontece, eu mandei inicialmente um WhatsApp para o Cristiano,
+
+843
+00:44:23,720 --> 00:44:32,720
+ele leu o WhatsApp e me bloqueou, aí eu mandei um WhatsApp para o Julio, ele leu e me bloqueou, o Julio salvo engano continuou com a linha,
+
+844
+00:44:32,720 --> 00:44:40,720
+o Cristiano continuou com a linha, o Julio extinguiu aquela linha, parou de usar aquela linha, porque eu falei que era da polícia,
+
+845
+00:44:40,720 --> 00:44:49,720
+que eu queria confirmar se ele era ele, aí eu pesquisei a mãe do Cristiano, eu encontrei o telefone dela, quando eu liguei e falei com a mãe do Cristiano,
+
+846
+00:44:49,720 --> 00:44:58,720
+ela estava com o Cristiano do lado, eu falei então avisa seu filho, ele já foi intimado, ele já me bloqueou o WhatsApp, é importante que ele vá à delegacia,
+
+847
+00:44:58,720 --> 00:45:05,720
+eu ouvia ela falando Cristiano, tem que ir ao delegado Nelson para falar para você ver, beleza, aí quando eu fui ligar para a mãe do Julio,
+
+848
+00:45:05,720 --> 00:45:12,720
+eu vi que era a mesma pessoa, ali que eu percebi que era um irmão, até então a gente não sabia, dá para perceber pelos nomes,
+
+849
+00:45:12,720 --> 00:45:19,720
+mas eu estava focado no primeiro nome, não sobre o nome deles, que era o nome que eles falavam pelas interceptações, Julio, Julião, Cristiano,
+
+850
+00:45:19,720 --> 00:45:27,720
+então assim, ficou muito claro, tinha, existia a consulta do Confino Online já indicando que o telefone do Julio e do Cristiano
+
+851
+00:45:27,720 --> 00:45:35,720
+estava cadastrado no nome deles, não quer dizer que eles usassem, mas estava cadastrado, assim que eu entrei em contato,
+
+852
+00:45:35,720 --> 00:45:45,720
+ambos me bloquearam e um deles destruiu o chip, não deu mais contato, e quando eu falei com a mãe, a mãe confirmou que aqueles dois telefones eram dos dois,
+
+853
+00:45:45,720 --> 00:45:52,720
+então assim, a exceção desses dois os demais admitiram pessoalmente, com esses dois a própria mãe deles admitiu
+
+854
+00:45:52,720 --> 00:46:00,720
+e eu consegui contato com eles pela mãe, então assim, não havia dúvida alguma durante a investigação de que todos os intelectores
+
+855
+00:46:00,720 --> 00:46:09,720
+estavam identificados e além da identificação devidamente vinculados a cada uma das linhas que estavam sendo interceptadas.
+
+856
+00:46:10,720 --> 00:46:22,720
+O senhor mencionou sobre a conduta de cada um deles, eu sei que está no relatório, mas o senhor se recorda em linhas gerais da conduta individualizada de cada um deles,
+
+857
+00:46:22,720 --> 00:46:31,720
+assim, hoje essa audiência não é relacionada nem ao Julio nem ao Rodrigo que foi desmembrado, mas aos demais, com relação aos demais, o senhor se recorda?
+
+858
+00:46:31,720 --> 00:46:35,720
+Sim, eu até tenho aqui aberto o meu relatório final.
+
+859
+00:46:35,720 --> 00:46:45,720
+Eu posso ir passando aqui e aí eu vou perguntando para o senhor em linhas gerais individualmente de cada um e aí o senhor me fala o que o senhor se recorda da forma de atuação de cada um, pode ser?
+
+860
+00:46:45,720 --> 00:46:46,720
+Sim.
+
+861
+00:46:46,720 --> 00:47:02,720
+Primeiro eu vou seguir a ordem da denúncia até para os advogados para facilitar para acompanhar, primeiro é o José Guilherme da Costa Freire, como se dava a atuação dele?
+
+862
+00:47:02,720 --> 00:47:08,720
+O José Guilherme foi o primeiro, se não me engano, foi o que foi encontrado com 280 gramas de macon.
+
+863
+00:47:08,720 --> 00:47:26,720
+Ele na primeira rodada, ele a partir da segunda rodada ficou mais incisivo o comportamento dele, mas mesmo no começo ele fala, ele fala que ele escondia a droga no pelado da casa dele,
+
+864
+00:47:26,720 --> 00:47:44,720
+ele interage com outras pessoas dizendo que as pessoas ligam pedindo bulioba e o Guilherme, ele é de todos os indiciados agora réus, ele era o que tinha maior preocupação em estar sendo gravado, em estar interceptado,
+
+865
+00:47:44,720 --> 00:48:01,720
+ele a todo momento, qualquer pessoa que ligava para ele falava de bulioba, porque os termos que eles usavam eram bulioba, teve um dos interruptores que usou várias vezes o termo que queria comprar uma camiseta lacoste verdinha,
+
+866
+00:48:01,720 --> 00:48:11,720
+então assim, ele não vende, a gente sabe que ele não vende camiseta lacoste, então ele tem na verdade a camiseta lacoste verdinha era um indicativo do que a pessoa queria,
+
+867
+00:48:11,720 --> 00:48:31,720
+bulioba é, eles falam muitas palavras ao contrário, bulioba é bagulho, então eles falam bulioba ao contrário, dinheiro ao contrário, telefone ao contrário, celular ao contrário, então assim, o Guilherme desde a primeira rodada já se indicava, mas faltava alguma coisa incisiva,
+
+868
+00:48:32,720 --> 00:48:47,720
+surgiram diversas conversas dele, pessoas pedindo bulioba, ele dizendo que ia entregar e ele sempre preocupado, não fala pelo telefone, esse tipo de coisa, e aí a conversa parava e provavelmente continuava pelo whatsapp, então saia do nosso radar,
+
+869
+00:48:47,720 --> 00:49:02,720
+e mais a frente fica bem caracterizada o vínculo do Guilherme com o Júlio, ele disse principalmente que o Júlio era o traficante que vendia para ele usar, mas na verdade o Júlio era o traficante que vendia para ele vender,
+
+870
+00:49:02,720 --> 00:49:10,720
+então assim, então o Júlio era o fornecedor do José Guilherme?
+
+871
+00:49:10,720 --> 00:49:39,720
+Sim, sim, isso foi a primeira declaração do José Guilherme, ele já começa a declaração dele, quando ele foi convidado da delegacia, dizendo que quem fornecia para ele era o proprietário do telefone Tau, agora eu me recordo de cabeça o número, mas esse número já era vinculado ao Júlio, então desde o primeiro momento quando ele fala, eu comprei essa droga de um traficante, o telefone dele é Tau, quando ele fala esse telefone e a gente quebra o sigilo é o Júlio,
+
+872
+00:49:40,720 --> 00:49:46,720
+entendi, entendi, então ele tinha um contato bem direto com o Júlio mesmo, né, o José Guilherme?
+
+873
+00:49:46,720 --> 00:50:13,720
+Sim, sim, encontraram o próximo e evidente que o Júlio era fornecedor dele, mas fornecedor em quantidade, é porque assim a gente não pode perder de vista que aqui em Búzio o tráfico de drogas, esses traficantes são usuários, eles usam a droga, então eles compram a droga em quantidade maior, usam uma parte, revende uma parte,
+
+874
+00:50:13,720 --> 00:50:32,720
+um deles pede para o outro fornecedor entregar para ele, mas ele ia repassar para uma senhora e ia cobrar 100 reais de lucro, então assim, é uma relação de usuários que também vendem drogas.
+
+875
+00:50:32,720 --> 00:50:57,720
+Eu acho que tem algum sinal, doutor, eu acho que tem algum sinal que estava interferindo aqui, acho que voltou, tá, com relação ao Cristiano agora, o senhor já mencionou que o irmão do Júlio, que essa questão que ele nos apresentou na delegacia,
+
+876
+00:50:57,720 --> 00:51:05,720
+mas a atuação dele ao longo das interceptações, como que ela foi verificada? Como que ele atuava?
+
+877
+00:51:05,720 --> 00:51:06,720
+O Júlio.
+
+878
+00:51:06,720 --> 00:51:07,720
+O Cristiano.
+
+879
+00:51:07,720 --> 00:51:24,720
+Cristiano, eu vou só pedir licença para abrir aqui o meu relatório, só para me recordar de algumas coisas com relação a cada um deles, e aí eu posso, além de me recordar, aprofundar sobre cada um.
+
+880
+00:51:24,720 --> 00:51:35,720
+Bom, o Júlio, ele... desculpa, era o Cristiano, não é?
+
+881
+00:51:35,720 --> 00:51:36,720
+É o Cristiano.
+
+882
+00:51:36,720 --> 00:51:39,720
+É o Cristiano, mentira, mentira.
+
+883
+00:51:39,720 --> 00:51:47,720
+Não tinha uma vinculação do Júlio ao irmão, tanto que eu fui descobrir mais tarde quem era o irmão.
+
+884
+00:51:47,720 --> 00:51:53,720
+O Júlio estava conversando com outras pessoas.
+
+885
+00:51:53,720 --> 00:52:07,720
+O Júlio, ele conversava com outras pessoas, ele fornecia para várias... eu não me recordo agora, só vou abrir aqui que eu fiz a separação de cada um deles, com quem ele interagia.
+
+886
+00:52:07,720 --> 00:52:13,720
+O José Guilherme, ele interagia com os únicos...
+
+887
+00:52:13,720 --> 00:52:27,720
+Pabllo, eu acho que é o de vocês que está dando interferência aqui, a gente não está conseguindo... tá.
+
+888
+00:52:27,720 --> 00:52:33,720
+Ele era vinculado ao Emerson, ao José e ao Júlio.
+
+889
+00:52:33,720 --> 00:52:38,720
+Ele repetia a conduta de cada um, porque não saiu aqui para a gente desde o GZN Lab?
+
+890
+00:52:38,720 --> 00:52:42,720
+Desculpa, de quem está falando?
+
+891
+00:52:43,720 --> 00:52:45,720
+Bom, o José Guilherme.
+
+892
+00:52:45,720 --> 00:52:49,720
+Doutora Mayra, acho que a senhora está com o microfone desligado, não ouviu.
+
+893
+00:52:49,720 --> 00:52:50,720
+Eu tirei.
+
+894
+00:52:50,720 --> 00:52:59,720
+Ele está pedindo para o senhor repetir que ele não escutou sobre a participação do José Guilherme, é o advogado José Guilherme.
+
+895
+00:52:59,720 --> 00:53:04,720
+Bom, o José Guilherme, inicialmente ele foi a pessoa.
+
+896
+00:53:04,720 --> 00:53:07,720
+Ele foi o único, nesse primeiro momento, preso com a droga.
+
+897
+00:53:07,720 --> 00:53:17,720
+Ele foi preso com a droga, disse que era para uso pessoal e indicou o traficante e passou a ser interceptado junto com o suposto traficante dele, o Júlio.
+
+898
+00:53:17,720 --> 00:53:23,720
+Aí, durante a interceptação, ele usava o telefone no final 9417.
+
+899
+00:53:23,720 --> 00:53:37,720
+E ele, em diversos trechos de conversas, isso que eu relato com o livro da conversa, ele fala para um cliente que a droga ficava escondida na parte que tirou a casa dele.
+
+900
+00:53:37,720 --> 00:53:41,720
+Ele oferece droga a um cliente em troca de uma carona.
+
+901
+00:53:41,720 --> 00:53:47,720
+O cara fala assim, me leva lá em Rio das Ostras que eu te dou o culhopa, que eu te dou maconha.
+
+902
+00:53:48,720 --> 00:53:55,720
+Ele marca e compra num posto de casina na Rasa para entregar maconha.
+
+903
+00:53:55,720 --> 00:53:59,720
+Eu sou abertamente, eu sou através do telefone, me encontra lá que eu vou te levar.
+
+904
+00:54:08,720 --> 00:54:11,720
+Tem algum som entrando, eu vou continuar, se vocês querem me entenderem.
+
+905
+00:54:11,720 --> 00:54:23,720
+Aí ele fala com o cliente dele de drogas e marca para entregar essa droga próxima à clínica da família no bairro Vila Verde.
+
+906
+00:54:23,720 --> 00:54:33,720
+Ele oferece uma maconha de 50 reais dizendo que é uma camisa lacoste verdinha.
+
+907
+00:54:33,720 --> 00:54:36,720
+Uma camisa lacoste verdinha não custa 50 reais.
+
+908
+00:54:36,720 --> 00:54:38,720
+É óbvio que ele estava falando de droga.
+
+909
+00:54:38,720 --> 00:54:52,720
+O José Guilherme tem sedimentado a conversa dele nos autos, nas gravações, falando de droga e dizendo que entregaria drogas.
+
+910
+00:54:52,720 --> 00:55:00,720
+É impossível, e ele não pode dizer que o telefone era dele porque eu inquiri ele, ele admitiu que o telefone era dele.
+
+911
+00:55:00,720 --> 00:55:11,720
+Então assim, com relação ao real José Guilherme, tem pelo menos, nesses períodos de testemunha, pelo menos umas 5 ou 6 passagens
+
+912
+00:55:11,720 --> 00:55:18,720
+onde ele é gravado oferecendo ou dizendo que entrega droga para alguém, ou sendo solicitado.
+
+913
+00:55:18,720 --> 00:55:29,720
+E é sempre bom precisar que o José Guilherme, ele era o investigado, a época, com maior preocupação de não ser gravado.
+
+914
+00:55:29,720 --> 00:55:34,720
+Então, e mesmo assim, ainda tinha esses deslizes e falava.
+
+915
+00:55:34,720 --> 00:55:40,720
+Mas geralmente ele interrompia a conversa e pedia para migrar a conversa para o WhatsApp.
+
+916
+00:55:40,720 --> 00:55:45,720
+O outro que a doutora me perguntou era sobre o Cristiano.
+
+917
+00:55:45,720 --> 00:55:57,720
+Bom, o Cristiano, como eu falei, eu fui descobrir mais à frente da investigação que ele era irmão do Júlio.
+
+918
+00:55:57,720 --> 00:56:06,720
+Mas assim, o telefone dele era 5849. Eu não tive a confirmação pessoal dele, porque ele não teve a delegacia para estar declarações,
+
+919
+00:56:06,720 --> 00:56:16,720
+mas o telefone dele, o do irmão dele, a própria, o do Júlio, a própria operadora de telefonia, fez essa correlação.
+
+920
+00:56:16,720 --> 00:56:22,720
+E o do Cristiano eu consegui através desse banco de dados, credlink.
+
+921
+00:56:22,720 --> 00:56:27,720
+E aí, com o nome da mãe de ambos, eu consegui encontrar a mãe e eu cheguei a falar com a mãe de ambos.
+
+922
+00:56:27,720 --> 00:56:38,720
+Em termos de conduta, o Cristiano, talvez pela proximidade com o irmão dele e com essas pessoas que traficam junto com o irmão dele, ele tem essa facilidade.
+
+923
+00:56:38,720 --> 00:56:45,720
+Ficou muito claro na investigação que o Júlio é mais entranhado no tráfico de drogas do que o Cristiano.
+
+924
+00:56:46,720 --> 00:56:55,720
+O Júlio ele era a peça central, mas assim, talvez pela facilidade com relação ao irmão,
+
+925
+00:56:55,720 --> 00:57:02,720
+ocorreram várias conversas do Cristiano durante a investigação que indicavam o tráfico.
+
+926
+00:57:02,720 --> 00:57:10,720
+Por exemplo, o Cristiano, numa das gravações, ele combina o irmão dele, o Júlio,
+
+927
+00:57:10,720 --> 00:57:15,720
+para a venda de 25 gramas de maconha para uma cliente chamada Ana Clara.
+
+928
+00:57:15,720 --> 00:57:22,720
+E as pessoas conversam abertamente sobre isso, olha, vamos vender 25 gramas para Ana Clara.
+
+929
+00:57:22,720 --> 00:57:25,720
+Isso ao Cristiano conversando com o irmão dele, Júlio.
+
+930
+00:57:25,720 --> 00:57:35,720
+Então, sem menor sombra de dúvidas, que o Cristiano conhecia a interação do irmão Júlio com o tráfico de drogas, anuía e também participava.
+
+931
+00:57:35,720 --> 00:57:45,720
+Mas a atuação do Cristiano então era mais vinculada ao do Júlio, ele atuava mais auxiliando o próprio Júlio.
+
+932
+00:57:45,720 --> 00:57:53,720
+Eu acho que, sim, fica claro que o Júlio é principal e o Cristiano é uma peça acessória do irmão.
+
+933
+00:57:53,720 --> 00:58:00,720
+O que aconteceu, talvez, que dentro do inquérito tenha menos informações sobre o Cristiano,
+
+934
+00:58:00,720 --> 00:58:05,720
+é que o tempo que o Cristiano ficou interceptado foi menor.
+
+935
+00:58:05,720 --> 00:58:09,720
+O Cristiano apareceu na investigação num momento mais adiantado.
+
+936
+00:58:09,720 --> 00:58:14,720
+Então o Cristiano teve menos tempo de conversas interceptadas.
+
+937
+00:58:14,720 --> 00:58:18,720
+E a gente sempre tem que ter em vista, isso eu cito no meu relatório,
+
+938
+00:58:18,720 --> 00:58:27,720
+que as conversas telefônicas gravadas, transcritas e colocadas no meu relatório são apenas subsidiárias.
+
+939
+00:58:27,720 --> 00:58:33,720
+Porque o meio de contato primário desse grupo era o WhatsApp.
+
+940
+00:58:33,720 --> 00:58:40,720
+Então se a gente pega duas, três conversas de um dos indiciados nas ligações telefônicas,
+
+941
+00:58:40,720 --> 00:58:46,720
+é factível que houvesse diversas outras através do WhatsApp.
+
+942
+00:58:46,720 --> 00:58:56,720
+Então o Cristiano, tem que se admitir isso, que a interceptação dele foi mais curta, foi por menos tempo do que os demais,
+
+943
+00:58:56,720 --> 00:59:05,720
+não foram identificadas tantas conversas criminosas quanto foram encontradas com Juliano ou com José Guilherme,
+
+944
+00:59:05,720 --> 00:59:14,720
+mas ainda assim houve conversa entre Julio e Cristiano sobre a venda de drogas para uma senhora chamada Ana Clara.
+
+945
+00:59:14,720 --> 00:59:20,720
+Agora seguindo aqui na ordem da denúncia, o próximo seria o Paulo Henrique.
+
+946
+00:59:20,720 --> 00:59:27,720
+O senhor se recorda como era a atuação do Paulo Henrique, principalmente com quem ele mais falava, como que ele atuava?
+
+947
+00:59:27,720 --> 00:59:35,720
+Sim, o Paulo Henrique foi até, de todos os indiciados, todos os investigados,
+
+948
+00:59:35,720 --> 00:59:40,720
+foi o que inicialmente me trouxe mais dúvidas sobre a participação dele ou não.
+
+949
+00:59:40,720 --> 00:59:47,720
+Porque ele havia sido citado como Paulinho, ele havia sido citado como Paulinho e eu não tinha vinculado.
+
+950
+00:59:47,720 --> 00:59:56,720
+Inicialmente é muita informação chegando, a gente vai decupando essa informação até o momento que a gente vai estruturando um organograma.
+
+951
+00:59:56,720 --> 01:00:09,720
+Mas assim, depois que se identificou que alguns dos investigados na época citavam Paulinho como um possível fornecedor de drogas mais baratas,
+
+952
+01:00:09,720 --> 01:00:19,720
+eu comecei a focar a atenção nele, aí eu identifiquei o telefone dele, ele foi à delegacia prestar declarações,
+
+953
+01:00:19,720 --> 01:00:28,720
+por exemplo, tem um diálogo dele com o Julio em que ele é cobrado pelo Julio seiscentos reais,
+
+954
+01:00:28,720 --> 01:00:38,720
+de meio quilo de maconha que ele havia comprado, e aí você percebe que ele havia comprado essa maconha para revender.
+
+955
+01:00:38,720 --> 01:00:46,720
+Então assim, existia essa, o Paulo ele recebia maconha e surgiam uns autos de prova de que ele repassava.
+
+956
+01:00:46,720 --> 01:00:54,720
+Então assim, por exemplo, condutas dele delimitadas de maneira sucinta, óbvio, mas delimitadas dentro das interceptações.
+
+957
+01:00:54,720 --> 01:01:04,720
+Ele liga, ele conversa com o cliente e pergunta se o negócio poderia ser entregue para o filho dela.
+
+958
+01:01:04,720 --> 01:01:12,720
+Sempre assim, é negócio, bulhoba, que é normal, é o padrão dos traficantes falarem por telefone, que eles têm a noção do risco da interceptação.
+
+959
+01:01:12,720 --> 01:01:20,720
+E aí ele admite que aceitaria como pagamento PIX, porque a outra coisa que ficou muito patente nessa investigação
+
+960
+01:01:20,720 --> 01:01:27,720
+é que os investigados, agora réus, eles usavam PIX, então eles usavam WhatsApp e PIX,
+
+961
+01:01:27,720 --> 01:01:33,720
+tentando com isso dificultar qualquer ação estatal que levasse a identificação ou prisão deles.
+
+962
+01:01:33,720 --> 01:01:41,720
+Numa outra situação, o Paulo Henrique, o cliente liga para ele e pergunta se ele tinha um do bom.
+
+963
+01:01:41,720 --> 01:01:49,720
+Na hora o Paulo chega e diz, repreende o cliente dele e fala, não fale sobre isso no telefone, muda para o WhatsApp.
+
+964
+01:01:49,720 --> 01:01:59,720
+E automaticamente a ligação se encerra e a gente não tem mais a conversa, mas o Paulo orientou o cliente dele de drogas
+
+965
+01:01:59,720 --> 01:02:01,720
+para que a conversa continuasse no WhatsApp.
+
+966
+01:02:01,720 --> 01:02:10,720
+Paulo prestou depoimentos também na delegacia?
+
+967
+01:02:10,720 --> 01:02:11,720
+Eu respondo declarações.
+
+968
+01:02:11,720 --> 01:02:17,720
+O senhor se recorda se ele chegou a confessar ou se ele negou ou o que ele falou?
+
+969
+01:02:17,720 --> 01:02:25,720
+Eu me recordo, doutora, que um deles confessou, eu não me recordo se é o Paulo, eu posso ver que está no meu relatório isso, eu posso até dar uma olhada.
+
+970
+01:02:25,720 --> 01:02:29,720
+Mas não tem problema porque está no relatório, o senhor não se recorda quem foi.
+
+971
+01:02:29,720 --> 01:02:38,720
+O que acontece, de todos os investigados identificados, dois não compareceram na delegacia e os demais compareceram.
+
+972
+01:02:38,720 --> 01:02:45,720
+Os que compareceram, todos negaram, todos admitiram que usavam drogas, mas negaram que vendia.
+
+973
+01:02:45,720 --> 01:02:50,720
+A exceção de um, que eu não me recordo se foi o Paulo, mas teve um deles que admitiu que vendia.
+
+974
+01:02:50,720 --> 01:02:56,720
+Era inclusive o investigado que vendia canga na praia, que eu me recordo.
+
+975
+01:02:56,720 --> 01:03:04,720
+Eu entrei em contato com ele e ele disse que estava vendendo canga na praia, se não me engano foi o indicado que vendia canga na praia que admitiu.
+
+976
+01:03:04,720 --> 01:03:08,720
+Salvo engano, seria bom confirmar dentro do meu relatório.
+
+977
+01:03:10,720 --> 01:03:18,720
+Com relação ao Emerson, o senhor se recorda como foi que foi descoberto o envolvimento dele, como que ele atuava?
+
+978
+01:03:19,720 --> 01:03:23,720
+O Emerson, salvo engano, foi o último a ser identificado.
+
+979
+01:03:23,720 --> 01:03:28,720
+Ele foi o último identificado em conversa com o Paulo, com o Paulo Henrique, com o Paulinho.
+
+980
+01:03:28,720 --> 01:03:38,720
+Os dois conversaram, inclusive quando eu fiz a oitiva do Emerson e do Paulo na delegacia, eu perguntei, eu não me recordo qual dos dois que eu inquiri primeiro,
+
+981
+01:03:38,720 --> 01:03:43,720
+mas eu perguntei ou para o Paulo ou para o Emerson, que eu ouvi primeiro, se ele conhecia o outro.
+
+982
+01:03:44,720 --> 01:03:48,720
+Salvo engano foi o Emerson. O Emerson disse que não conhecia o Paulo.
+
+983
+01:03:48,720 --> 01:03:50,720
+Aí eu pedi que o Paulo entrasse na sala.
+
+984
+01:03:50,720 --> 01:03:54,720
+Aí o Emerson disse, eu não conheço o Paulo e ele falou, eu conheço.
+
+985
+01:03:54,720 --> 01:04:05,720
+Então assim, o Emerson, quando foi identificado, tentou se desincular da figura do Paulo porque ele sabia que o que linkava ele ao tráfico de drogas era o Paulo.
+
+986
+01:04:05,720 --> 01:04:13,720
+Então nós chegamos ao Emerson salvo engano na última rodada de interceptação através de uma conversa dele com o Paulo Henrique.
+
+987
+01:04:13,720 --> 01:04:26,720
+A conversa, eu não me recordo, acho que eu tenho aqui, o Emerson admite na conversa com o Paulo que revende drogas
+
+988
+01:04:26,720 --> 01:04:34,720
+e que alguma questão dele ter comprado drogas e se ele revendesse por aquele preço que ele comprou ele não teria lucro.
+
+989
+01:04:34,720 --> 01:04:45,720
+Então fica dentro da conversa do Emerson, fica claro que ele estava recebendo drogas do Paulo, ou seja, a conversa do Emerson já vincula o Paulo como traficante
+
+990
+01:04:45,720 --> 01:04:55,720
+e ao mesmo tempo o Emerson fala que ele iria repassar essa droga, mas que pelo preço que o Paulo estava entregando para ele, ele não conseguiria ter lucro.
+
+991
+01:04:55,720 --> 01:05:10,720
+E aí ele faz menção de que em outras situações ele teria oferecido lucro e por isso estaria bem para ele nessa situação que foi gravada ele não obter vantagem nessa revenda da droga.
+
+992
+01:05:10,720 --> 01:05:19,720
+Entendi. Só para finalizar agora quanto ao acusado Juliano Lucas, você se recorda do envolvimento dele?
+
+993
+01:05:19,720 --> 01:05:37,720
+Sim, sim. Juliano Lucas, se não me engano, ele estava preso um pouco antes, havia sido solto um pouco antes da operação e eu tentei localizá-lo, todos eles eu mandei o WhatsApp
+
+994
+01:05:37,720 --> 01:05:47,720
+me identificando como delegado da cidade e pedindo que eles entrassem em contato, fosse a delegacia para esclarecer. O Lucas foi um dos que eu também não conseguia contato.
+
+995
+01:05:47,720 --> 01:06:02,720
+Só que o que acontece, quando eu, quando a gente quebrou o sigilo, afastou o sigilo da, pegamos o cadastro dele junto do telefone que ele usava final 0924, a gente pegou o cadastro desse telefone na operadora
+
+996
+01:06:02,720 --> 01:06:19,720
+e apareceu o nome de uma mulher, apareceu o nome de uma mulher, se eu não me recordo, ela se chamava Débora, não estou sabendo o nome dela, que era irmã ou cunhada, eu acho que era cunhada dele, ela era casada com o irmão dele
+
+997
+01:06:19,720 --> 01:06:42,720
+Aí eu intimei ela e o marido, e os dois foram a delegacia no dia marcado e ela explicou que ela tinha autorizado o Lucas a comprar um telefone ou habilitar uma linha no nome dela e ela desconhecia a finalidade criminosa que o Lucas daria para essa linha
+
+998
+01:06:42,720 --> 01:07:11,720
+E aí ela explica com detalhes qual era o comportamento dele, que ele já tinha praticado vários crimes, já tinha sido preso, salvo engano, acho que o irmão dele também foi inquilino no dia, no mesmo sentido, dizendo que desconheciam os crimes especificamente praticados pelo Lucas, mas tinham conhecimento de que ele possuía envolvimento com a criminalidade, mas desconheciam que o telefone habilitado no nome da Débora era usado para a venda de drogas.
+
+999
+01:07:11,720 --> 01:07:13,720
+Ah, entendi.
+
+1000
+01:07:13,720 --> 01:07:42,720
+O Lucas também foi, o Lucas foi inserido no afastamento do sigilo do fluxo das ligações dele no final da investigação, então houve pouco fluxo interceptado, mas nenhuma das conversas ele negocia com uma cliente
+
+1001
+01:07:42,720 --> 01:07:46,720
+com um primeiro de êxtase, com um primeiro de IMD.
+
+1002
+01:07:46,720 --> 01:07:48,720
+Entendi.
+
+1003
+01:07:48,720 --> 01:07:54,720
+Tá bom. Obrigada, doutor Nelson, não tenho mais perguntas, excelência.
+
+1004
+01:07:54,720 --> 01:08:07,720
+Agora, doutor, são os advogados respectivos. Primeiramente, doutor José Guilherme, doutor Querendo, pode indagar o doutor delegado.
+
+1005
+01:08:08,720 --> 01:08:19,720
+Desculpa, doutora, só para saber, eu gostaria que, se for possível, como advogado, para me perguntar, eu saber quem é o real que ele defende, só para me localizar.
+
+1006
+01:08:19,720 --> 01:08:24,720
+Não, então, advogado, então, justificamente, agora eu vou seguindo pela ordem da denúncia.
+
+1007
+01:08:24,720 --> 01:08:34,720
+É o advogado do José Guilherme agora. Doutor, pode indagar, ele já levantou a mão, o senhor viu? Ele está na sala de audiência.
+
+1008
+01:08:34,720 --> 01:08:36,720
+Sim, sim.
+
+1009
+01:08:36,720 --> 01:08:40,720
+Pronto, doutor, pode indagar o doutor Nelson.
+
+1010
+01:08:40,720 --> 01:08:41,720
+Boa noite, doutor.
+
+1011
+01:08:41,720 --> 01:08:42,720
+Boa noite.
+
+1012
+01:08:42,720 --> 01:09:03,720
+Eu sou o advogado Albert Pessanha. Um caso, como que o senhor sabe informar se o senhor José Guilherme, ele se apresentou na delegacia, na ocasião da sua prisão?
+
+1013
+01:09:04,720 --> 01:09:08,720
+O caso é desequilibrado durante toda a investigação.
+
+1014
+01:09:10,720 --> 01:09:27,720
+Eu sou advogado do José Guilherme também, doutor Daniel. Doutor Nelson, eu gostaria assim de, se o senhor se recorda, no dia da operação, quando vocês foram na casa do real José Guilherme, se ele foi localizado ou não em casa?
+
+1015
+01:09:27,720 --> 01:09:44,720
+Não, justamente, no dia da operação, por alguma questão, José Guilherme não estava na casa dele, ele não foi localizado, ele tomou conhecimento de que a polícia tinha ido à casa dele e ele se apresentou pessoalmente a mim. Ele foi à delegacia e me procurou.
+
+1016
+01:09:44,720 --> 01:09:51,720
+No caso, o senhor se recorda de mim também, que eu que apresentei ele na delegacia? Eu estou olhando aí para a câmera para ver se o senhor se recorda.
+
+1017
+01:09:53,720 --> 01:09:56,720
+Ih, agora ficou sem som, doutor.
+
+1018
+01:09:56,720 --> 01:09:57,720
+Eu?
+
+1019
+01:09:57,720 --> 01:10:01,720
+É, agora a gente não escutou nenhuma falhada.
+
+1020
+01:10:03,720 --> 01:10:14,720
+Eu acho que é por causa do som. Doutor, eu vou cortar o som da sala de audiência, porque eu acho que está dando uma interferência.
+
+1021
+01:10:14,720 --> 01:10:20,720
+Ah, essa foi boa. Tanto interceptação que eu acabei usando o termo é equivocado.
+
+1022
+01:10:21,720 --> 01:10:28,720
+Deixa eu cortar aqui a dúvida, coisa para poder o doutor falar, porque eu não consegui escutar.
+
+1023
+01:10:28,720 --> 01:10:31,720
+Eu repito no caso, silêncio?
+
+1024
+01:10:31,720 --> 01:10:38,720
+Não, o senhor indagou. Eu só não escutei a resposta do doutor Nelson.
+
+1025
+01:10:38,720 --> 01:10:49,720
+Doutor Nelson, pode repetir? Ele perguntou se o senhor lembra dele como advogado apresentante de José Guilherme na delegacia.
+
+1026
+01:10:49,720 --> 01:10:59,720
+Infelizmente eu não me recordo, mas até pela imagem pequena que eu não me recordo, mas sim, o José Guilherme todas as vezes que ele foi convocado,
+
+1027
+01:10:59,720 --> 01:11:08,720
+ele foi à delegacia e no dia da prisão dele, ele não se encontrava em casa quando os policiais foram cumprir o malado de prisão,
+
+1028
+01:11:08,720 --> 01:11:14,720
+ele tomou conhecimento por alguém que viu ou algum parente e se apresentou espontaneamente à delegacia para mim.
+
+1029
+01:11:14,720 --> 01:11:21,720
+Ele sim, se encontrava acompanhado com advogado, eu só peço perdão porque eu realmente não me recordo do seu rosto, doutor, mas sim,
+
+1030
+01:11:21,720 --> 01:11:26,720
+ele estava acompanhado com advogado e ele se apresentou espontaneamente para o cumprimento do mandado.
+
+1031
+01:11:26,720 --> 01:11:37,720
+Eu tenho mais uma pergunta, o senhor quando passou a presidência da operação do doutor Rodrigo, o senhor não chegou a comunicar como foi o fato da prisão do José Guilherme?
+
+1032
+01:11:37,720 --> 01:11:42,720
+A prisão do José Guilherme foi ao contrário. Então, certo, doutor Nelson.
+
+1033
+01:11:42,720 --> 01:11:50,720
+Foi ao contrário, o doutor Rodrigo presidiu o inquérito até um certo ponto, aí durante as férias dele eu assumi a presidência
+
+1034
+01:11:50,720 --> 01:12:03,720
+e como com o retorno dele muitas coisas tinham acontecido, eu já estava ciente de tudo, eu permaneci na presidência até o final, o relatório final do inquérito foi formulado por mim.
+
+1035
+01:12:03,720 --> 01:12:09,720
+E no relatório final o senhor não comunicou o doutor Rodrigo como foi a prisão do José Guilherme?
+
+1036
+01:12:09,720 --> 01:12:19,720
+Eu não me recordo exatamente, mas acho que salvo engano, ou o doutor Rodrigo se encontrava na delegacia, ou soube, eu não me recordo se eu diretamente,
+
+1037
+01:12:19,720 --> 01:12:29,720
+porque acontece no momento em que ele deixou a presidência, ele tinha outras investigações em andamento, então, e como estava sob a minha presidência eu passava algumas informações
+
+1038
+01:12:29,720 --> 01:12:41,720
+e essa questão de como o José Guilherme foi, como foi cumprido o mandado dele não era tão relevante, eu não me recordo se eu comentei ou não, mas sem sombra de dúvidas,
+
+1039
+01:12:41,720 --> 01:12:51,720
+no registro de ocorrência do cumprimento de mandado deve constar esse fato de que ele se apresentou, se eventualmente não consta isso...
+
+1040
+01:12:52,720 --> 01:13:02,720
+Não consta porque no dia foi localizado uma droga na casa dele e vocês lavaram na delegacia só o fragante da droga que foi localizado lá, que foi um baseado eu acho,
+
+1041
+01:13:02,720 --> 01:13:07,720
+aí a forma que ele se entregou depois não ficou constando no relatório.
+
+1042
+01:13:07,720 --> 01:13:20,720
+Agora, sem a menor sombra de dúvidas, o réu José Guilherme se apresentou espontaneamente, o mandado dele não foi cumprido no local onde nós imaginávamos,
+
+1043
+01:13:20,720 --> 01:13:31,720
+onde havia o mandado de busca e apreensão, foi cumprido a busca e apreensão, foi encontrada a droga em quantidade pertinente ao artigo 28, ao uso próprio,
+
+1044
+01:13:31,720 --> 01:13:41,720
+mas ele não foi localizado e ele foi apresentado por um advogado, imagino que seja o senhor algumas horas depois, no transcorrer da operação ainda ele foi apresentado.
+
+1045
+01:13:41,720 --> 01:13:48,720
+Perfeito. O senhor sabe dizer se o José Guilherme é integrante em alguma facção perigosa na cidade?
+
+1046
+01:13:48,720 --> 01:14:03,720
+Olha, a grande verdade é, todo esse grupo, tanto que eu não, no relatório final, na minha tipificação, eu faço uma ressalva o porquê eu não indiciei eles no crime de organização criminosa.
+
+1047
+01:14:03,720 --> 01:14:16,720
+Porquê? Todos eles, eles sim, eles têm aquela estabilidade prevista no artigo 35 e isso fica muito claro, mas não aquela divisão hierarquizada,
+
+1048
+01:14:16,720 --> 01:14:26,720
+com subdivisões, com posição dentro de uma organização que pudesse gerar a tipificação de crime.
+
+1049
+01:14:26,720 --> 01:14:32,720
+Então assim, existe algum vínculo desse grupo com alguma facção criminosa?
+
+1050
+01:14:32,720 --> 01:14:40,720
+Certamente, porque quem fornece drogas para eles deve ser alguém, ou do comando vermelho, ou do terceiro comando.
+
+1051
+01:14:40,720 --> 01:14:51,720
+Alguns deles citam nas conversas com o comando vermelho, mas eles não são traficantes do que se vê no normal das prisões flagrantes,
+
+1052
+01:14:51,720 --> 01:14:58,720
+aquele que a PM entra numa comunidade carente e encontra uma pessoa na esquina com saquinho de drogas, eles não trabalham assim.
+
+1053
+01:14:58,720 --> 01:15:08,720
+Eles trabalham fora de comunidades carentes, eles trabalham através de telefonemas, WhatsApp, entregando na casa das pessoas ou em local previamente definido.
+
+1054
+01:15:08,720 --> 01:15:17,720
+Então me parece claro que em algum nível eles têm interação com as facções criminosas porque eles servem da droga deles,
+
+1055
+01:15:17,720 --> 01:15:25,720
+facção criminosa, comando vermelho, ao que parece, mas se eles integram essa facção de forma enraizada,
+
+1056
+01:15:25,720 --> 01:15:35,720
+eu imagino que não, tanto que no meu relatório eu só considerei o 35 pela comunicação que existia entre eles,
+
+1057
+01:15:35,720 --> 01:15:43,720
+mas não uma organização criminosa vinculada ao comando vermelho, ou ao terceiro comando, ou qualquer outro.
+
+1058
+01:15:43,720 --> 01:15:45,720
+Tem mais perguntas?
+
+1059
+01:15:45,720 --> 01:15:55,720
+Doutor, o senhor sabe especificar qual foi a droga que foi encontrado, Tarsul e Begler, a droga no dia?
+
+1060
+01:15:55,720 --> 01:15:57,720
+No dia que ele foi...
+
+1061
+01:15:57,720 --> 01:16:02,720
+Não, no dia que ele foi na casa dele. O senhor encontrou qual a quantidade de drogas?
+
+1062
+01:16:02,720 --> 01:16:07,720
+Desculpa, doutor, na primeira vez que ele foi conduzido à delegacia...
+
+1063
+01:16:07,720 --> 01:16:12,720
+O senhor esteve na casa dele quantas vezes?
+
+1064
+01:16:12,720 --> 01:16:15,720
+Não, eu não fui à casa dele nenhuma vez.
+
+1065
+01:16:15,720 --> 01:16:20,720
+E quantas expressões foi na casa dele?
+
+1066
+01:16:20,720 --> 01:16:31,720
+Houve duas situações, a primeira que policiais militares desconfiados da motocicleta dele que estava estacionada na casa
+
+1067
+01:16:31,720 --> 01:16:36,720
+pediram para falar com o morador, e aí ele entregou a droga para os policiais.
+
+1068
+01:16:36,720 --> 01:16:40,720
+Nesse momento a droga era 280 gramas de maconha.
+
+1069
+01:16:40,720 --> 01:16:42,720
+218 no laudo?
+
+1070
+01:16:42,720 --> 01:16:45,720
+218.
+
+1071
+01:16:45,720 --> 01:16:49,720
+Eu que estou confundindo, acho que é 218 mesmo, pode ser.
+
+1072
+01:16:49,720 --> 01:16:53,720
+Está na folha 32 de excelência.
+
+1073
+01:16:54,720 --> 01:16:58,720
+Ok, ok. Pode prosseguir que isso também está relatado por escrito.
+
+1074
+01:16:58,720 --> 01:17:04,720
+Isso aí ele não precisa saber exata e precisamente o quanto que está escrito.
+
+1075
+01:17:04,720 --> 01:17:13,720
+Vamos nos ater às perguntas que ele possa responder e que sejam situações que não estejam por escrito, por gentileza.
+
+1076
+01:17:13,720 --> 01:17:20,720
+Senão a gente não vai conseguindo até muitos advogados aguardando para indagarem.
+
+1077
+01:17:21,720 --> 01:17:23,720
+Tem mais alguma pergunta?
+
+1078
+01:17:23,720 --> 01:17:29,720
+Na segunda diligência foi encontrado qual a quantidade? Na primeira ele falou que foi, acho que é 280, mas...
+
+1079
+01:17:29,720 --> 01:17:32,720
+218, sim, mais de 200.
+
+1080
+01:17:32,720 --> 01:17:34,720
+Na segunda, quanto que foi?
+
+1081
+01:17:34,720 --> 01:17:40,720
+Na primeira diligência, estou vendo aqui no meu relatório, são 218, eu me equivoquei ao falar.
+
+1082
+01:17:40,720 --> 01:17:46,720
+Na segunda diligência eu não me recordo, mas uma quantidade muito pequena,
+
+1083
+01:17:46,720 --> 01:17:54,720
+tanto que a minha avaliação foi identificar no artigo 28 e não no artigo 33.
+
+1084
+01:17:54,720 --> 01:18:00,720
+Então a segunda, a primeira, porque o doutor Rodrigo quando fez a primeira identificação,
+
+1085
+01:18:00,720 --> 01:18:05,720
+no artigo 28, em razão desses 218 gramas de maconha,
+
+1086
+01:18:05,720 --> 01:18:10,720
+porque é uma quantidade limítrofe, é possível que um usuário quanto mais de maconha use.
+
+1087
+01:18:11,720 --> 01:18:20,720
+O que vai levar a autoridade policial a definir se 218 gramas de maconha é para uso próprio ou para mercancía,
+
+1088
+01:18:20,720 --> 01:18:27,720
+são as condições colaterais, as condições paralelas à quantidade de maconha.
+
+1089
+01:18:27,720 --> 01:18:34,720
+E essas condições foram plenamente estabelecidas durante a interceptação telefônica.
+
+1090
+01:18:34,720 --> 01:18:40,720
+Então, a quantidade de maconha inicialmente apreendida, sim, poderia ser para o usuário,
+
+1091
+01:18:40,720 --> 01:18:47,720
+mas os fatos paralelos a essa quantidade de maconha indicavam que a finalidade dela não era para uso, era para tráfego.
+
+1092
+01:18:47,720 --> 01:18:53,720
+Na segunda maconha apreendida na casa dele, durante a busca e apreensão,
+
+1093
+01:18:53,720 --> 01:18:58,720
+já na deflagração da operação, eu não me recordo, mas era uma quantidade pequena,
+
+1094
+01:18:58,720 --> 01:19:03,720
+tanto que eu tipifiquei como artigo 28 em caminha do processo oficial criminal.
+
+1095
+01:19:07,720 --> 01:19:19,720
+O senhor fala em identificar as vozes dados e interlocutores sobre a escuta telefônica.
+
+1096
+01:19:19,720 --> 01:19:25,720
+Eu gostaria de saber se o senhor teve, se fez alguma prova técnica para saber quem estava falando,
+
+1097
+01:19:25,720 --> 01:19:33,720
+que nessas gravações, o senhor se fundamentou em alguma prova técnica para saber a voz de cada um?
+
+1098
+01:19:33,720 --> 01:19:40,720
+Doutor, seguinte, a linha telefônica do seu cliente, do José Guilherme, estava no nome dele.
+
+1099
+01:19:40,720 --> 01:19:45,720
+Então, ele já tinha uma presunção de que quem usava a linha era o José Guilherme.
+
+1100
+01:19:45,720 --> 01:19:50,720
+E quando eu o impuri, ele disse que era o José Guilherme.
+
+1101
+01:19:50,720 --> 01:20:01,720
+Então não havia qualquer dúvida, não parava qualquer dúvida sobre o uso da linha do réu José Guilherme.
+
+1102
+01:20:01,720 --> 01:20:05,720
+E se houvesse, tanto que no meu despacho, no meu relatório final,
+
+1103
+01:20:05,720 --> 01:20:11,720
+eu determino que seja disponibilizada a mídia do sistema guardião da Polícia Civil
+
+1104
+01:20:11,720 --> 01:20:17,720
+para que os advogados, caso quisessem pedir confronto vocalico, que o fizessem.
+
+1105
+01:20:17,720 --> 01:20:21,720
+Porque nos autos não existe qualquer dúvida sobre isso.
+
+1106
+01:20:21,720 --> 01:20:26,720
+Se houvesse alguma dúvida por parte da Defesa Técnica dos réus,
+
+1107
+01:20:26,720 --> 01:20:36,720
+caderia a Defesa Técnica de posse desse CD da mídia do guardião requerer o confronto vocalico,
+
+1108
+01:20:36,720 --> 01:20:39,720
+que eu de fato não sei se o senhor requeriu isso.
+
+1109
+01:20:39,720 --> 01:20:41,720
+Eu imagino que talvez tenha requerido.
+
+1110
+01:20:41,720 --> 01:20:47,720
+Mas eu sou... essa fundamentação dessa audição que o senhor ouviu,
+
+1111
+01:20:47,720 --> 01:20:49,720
+o senhor ouviu, tá?
+
+1112
+01:20:49,720 --> 01:20:53,720
+O senhor não teve nenhum...
+
+1113
+01:20:53,720 --> 01:20:57,720
+como fazer, nenhum tipo de prova técnica.
+
+1114
+01:20:57,720 --> 01:20:59,720
+O senhor...
+
+1115
+01:20:59,720 --> 01:21:01,720
+Desculpe, olha só.
+
+1116
+01:21:01,720 --> 01:21:05,720
+Ele disse que isso aí seria porque como não havia dúvida,
+
+1117
+01:21:05,720 --> 01:21:07,720
+porque se houvesse dúvida,
+
+1118
+01:21:07,720 --> 01:21:09,720
+deixa-se me corrigir, Doutor Nelson, deixa eu te enganar.
+
+1119
+01:21:09,720 --> 01:21:13,720
+Como não havia dúvida para a Polícia Civil
+
+1120
+01:21:13,720 --> 01:21:18,720
+de que as ligações e as pessoas que falavam eram exatamente os acusados,
+
+1121
+01:21:18,720 --> 01:21:26,720
+ele não fez esta prova técnica, mas disponibilizou os CDs para tanto.
+
+1122
+01:21:26,720 --> 01:21:31,720
+Então as defesas que julgam, não, não é o meu cliente que está falando,
+
+1123
+01:21:31,720 --> 01:21:36,720
+é que podiam ter peticionado para que fizesse essa prova técnica.
+
+1124
+01:21:36,720 --> 01:21:38,720
+Seria isso, Doutor Nelson?
+
+1125
+01:21:38,720 --> 01:21:39,720
+Com certeza.
+
+1126
+01:21:39,720 --> 01:21:46,720
+Inclusive porque o conhecimento do padrão bocálico depende da vontade do réu.
+
+1127
+01:21:46,720 --> 01:21:49,720
+Então assim, como eu tinha a prova cabal,
+
+1128
+01:21:49,720 --> 01:21:51,720
+porque o telefone era registrado no nome dele
+
+1129
+01:21:51,720 --> 01:21:53,720
+e porque ele, em termos de declaração,
+
+1130
+01:21:53,720 --> 01:21:58,720
+afirmou para mim que era o interlocutor daquele telefone,
+
+1131
+01:21:58,720 --> 01:22:00,720
+não havia dúvida com relação a isso.
+
+1132
+01:22:00,720 --> 01:22:04,720
+Mas a prova técnica, ela está preservada
+
+1133
+01:22:04,720 --> 01:22:08,720
+e dentro do momento processual pertinente,
+
+1134
+01:22:08,720 --> 01:22:12,720
+a defesa podia ou pode pedir esse confronto bocálico,
+
+1135
+01:22:12,720 --> 01:22:14,720
+caso seja essa a tese de defesa.
+
+1136
+01:22:18,720 --> 01:22:19,720
+Ok, Doutor.
+
+1137
+01:22:19,720 --> 01:22:22,720
+Pela defesa de José Guilherme, sem perguntas, Excelência.
+
+1138
+01:22:22,720 --> 01:22:24,720
+Que bom. Então vamos prosseguir.
+
+1139
+01:22:24,720 --> 01:22:29,720
+Agora a defesa de Cristiano, Doutora, finalmente, conseguiu.
+
+1140
+01:22:29,720 --> 01:22:32,720
+Boa noite, Doutor Nelson.
+
+1141
+01:22:32,720 --> 01:22:34,720
+Eu preciso esclarecer um fato,
+
+1142
+01:22:34,720 --> 01:22:39,720
+que o senhor afirma que o Cristiano não compareceu à delegacia.
+
+1143
+01:22:39,720 --> 01:22:41,720
+O senhor lembra, sabe dizer...
+
+1144
+01:22:41,720 --> 01:22:45,720
+O senhor ainda trabalha na delegacia daquele bus?
+
+1145
+01:22:45,720 --> 01:22:46,720
+Sim, trabalho.
+
+1146
+01:22:48,720 --> 01:22:51,720
+Existe uma pessoa lá de nome Liza?
+
+1147
+01:22:54,720 --> 01:22:58,720
+Liza existia à época, era uma inspetora.
+
+1148
+01:22:58,720 --> 01:23:02,720
+É, porque eu mesmo compareci com o Cristiano
+
+1149
+01:23:02,720 --> 01:23:04,720
+e com a mãe dele da delegacia,
+
+1150
+01:23:04,720 --> 01:23:07,720
+de posse da mensagem que ela recebeu,
+
+1151
+01:23:07,720 --> 01:23:11,720
+inclusive eu tenho a mensagem aqui arquivada no meu celular,
+
+1152
+01:23:11,720 --> 01:23:15,720
+e tivemos contato com a inspetora Liza,
+
+1153
+01:23:15,720 --> 01:23:18,720
+mostramos a ela a mensagem que tínhamos recebido,
+
+1154
+01:23:18,720 --> 01:23:20,720
+e ela, ao verificar a mensagem,
+
+1155
+01:23:20,720 --> 01:23:22,720
+disse que não sabia do que se tratava,
+
+1156
+01:23:22,720 --> 01:23:25,720
+deixei até o meu telefone de contato,
+
+1157
+01:23:25,720 --> 01:23:27,720
+para caso ela quisesse entrar em contato,
+
+1158
+01:23:27,720 --> 01:23:30,720
+porque ela disse que iria conversar com o delegado à época,
+
+1159
+01:23:30,720 --> 01:23:33,720
+e iria nos retornar caso fosse necessário.
+
+1160
+01:23:33,720 --> 01:23:37,720
+Então eu mesmo compareci com a mãe e com o Cristiano na delegacia,
+
+1161
+01:23:37,720 --> 01:23:39,720
+fui atendida pela inspetora Liza,
+
+1162
+01:23:39,720 --> 01:23:42,720
+mostrei a mensagem de WhatsApp que foi encaminhada,
+
+1163
+01:23:42,720 --> 01:23:46,720
+e a mesma me disse que não sabia dizer do que se tratava.
+
+1164
+01:23:46,720 --> 01:23:48,720
+Esse fato para esclarecer.
+
+1165
+01:23:50,720 --> 01:23:53,720
+Doutora, eu posso fazer uma intervenção, por favor?
+
+1166
+01:23:53,720 --> 01:23:54,720
+Claro, lógico.
+
+1167
+01:23:54,720 --> 01:23:56,720
+É o senhor que está sendo indagado.
+
+1168
+01:23:57,720 --> 01:23:58,720
+Obrigado, doutora.
+
+1169
+01:23:59,720 --> 01:24:05,720
+Seguinte, essa versão que a senhora está trazendo agora
+
+1170
+01:24:05,720 --> 01:24:10,720
+foi levantada pela mãe do Cristiano, do Cristiano e do Juliano,
+
+1171
+01:24:10,720 --> 01:24:11,720
+no dia da prisão.
+
+1172
+01:24:11,720 --> 01:24:14,720
+Eu estava presente na casa dela quando o Cristiano foi preso.
+
+1173
+01:24:14,720 --> 01:24:18,720
+E ela, no dia, levantou isso para mim,
+
+1174
+01:24:18,720 --> 01:24:23,720
+dizendo que o inspetor Evandro tinha ligado para ela,
+
+1175
+01:24:23,720 --> 01:24:26,720
+que a inspetora Liza tinha ligado para ela,
+
+1176
+01:24:26,720 --> 01:24:28,720
+só que a questão que esses inspetores,
+
+1177
+01:24:28,720 --> 01:24:30,720
+tanto o Evandro, que ela disse isso,
+
+1178
+01:24:30,720 --> 01:24:32,720
+não sei de onde ela tira essa informação,
+
+1179
+01:24:32,720 --> 01:24:36,720
+ou a Liza, são policiais que não integravam essa investigação.
+
+1180
+01:24:36,720 --> 01:24:40,720
+São policiais que desconheciam o conteúdo dessa investigação.
+
+1181
+01:24:40,720 --> 01:24:42,720
+Uma investigação de tráfico de drogas,
+
+1182
+01:24:42,720 --> 01:24:44,720
+o intersepção telefônica,
+
+1183
+01:24:44,720 --> 01:24:47,720
+ela fica vinculada, ela fica restrita a poucas pessoas.
+
+1184
+01:24:47,720 --> 01:24:51,720
+As pessoas que tinham conhecimento direto do que aconteceu era eu,
+
+1185
+01:24:51,720 --> 01:24:55,720
+o doutor Rodrigo, através das informações que eu passava para ele,
+
+1186
+01:24:55,720 --> 01:24:59,720
+o inspetor que fazia a análise das interceptações,
+
+1187
+01:24:59,720 --> 01:25:02,720
+e eventualmente o chefe de serviço da delegacia
+
+1188
+01:25:02,720 --> 01:25:05,720
+com alguma diligência específica que tinha que ser feita.
+
+1189
+01:25:05,720 --> 01:25:08,720
+A Liza nunca participou dessa investigação.
+
+1190
+01:25:08,720 --> 01:25:10,720
+O comissário de polícia, Evandro,
+
+1191
+01:25:10,720 --> 01:25:12,720
+que foi citado pela mãe para mim no dia,
+
+1192
+01:25:12,720 --> 01:25:13,720
+nunca participou.
+
+1193
+01:25:13,720 --> 01:25:18,720
+Então faz o menor sentido a alegação da mãe.
+
+1194
+01:25:18,720 --> 01:25:22,720
+No dia, a mãe não falou também que tinha reto com o advogado na delegacia.
+
+1195
+01:25:22,720 --> 01:25:24,720
+Essa informação eu estou sabendo agora.
+
+1196
+01:25:24,720 --> 01:25:27,720
+Porque a mãe tinha dito que ela tinha vindo à delegacia.
+
+1197
+01:25:27,720 --> 01:25:29,720
+Ela não disse que vinha com o advogado.
+
+1198
+01:25:29,720 --> 01:25:33,720
+Então me parece que procura, se o delegado manda,
+
+1199
+01:25:33,720 --> 01:25:37,720
+se o delegado convoca o Cristiano Juliano para a delegacia,
+
+1200
+01:25:37,720 --> 01:25:39,720
+o delegado Nelson Esquiba convoca eles.
+
+1201
+01:25:39,720 --> 01:25:42,720
+E a advogada ou a mãe, ou o próprio Cristiano,
+
+1202
+01:25:42,720 --> 01:25:45,720
+se apresenta à delegacia para a inspetora Liza,
+
+1203
+01:25:45,720 --> 01:25:47,720
+e não ao delegado Nelson,
+
+1204
+01:25:47,720 --> 01:25:52,720
+é plenamente compreensível que a inspetora Liza não conheça a informação.
+
+1205
+01:25:52,720 --> 01:25:54,720
+Então o que acontece?
+
+1206
+01:25:54,720 --> 01:25:58,720
+Se o Cristiano foi apresentado para um inspetor equivocado,
+
+1207
+01:25:58,720 --> 01:26:01,720
+nem o inspetor Maicon, que era da investigação,
+
+1208
+01:26:01,720 --> 01:26:05,720
+nem o inspetor Rodrigo, que era o analista,
+
+1209
+01:26:05,720 --> 01:26:08,720
+essa apresentação é inófila.
+
+1210
+01:26:08,720 --> 01:26:11,720
+Hoje eu tenho investigações da menor delegacia,
+
+1211
+01:26:11,720 --> 01:26:13,720
+porque tem policiais que não conhecem.
+
+1212
+01:26:13,720 --> 01:26:15,720
+Então me desculpa.
+
+1213
+01:26:15,720 --> 01:26:21,720
+A apresentação, a mãe do Cristiano não citou que houve advogado.
+
+1214
+01:26:21,720 --> 01:26:23,720
+Não citou que houve advogado na delegacia.
+
+1215
+01:26:23,720 --> 01:26:27,720
+Mas vamos considerar que tenha ocorrido essa apresentação.
+
+1216
+01:26:27,720 --> 01:26:31,720
+A apresentação foi feita de maneira equivocada.
+
+1217
+01:26:31,720 --> 01:26:39,720
+Deveria ter sido apresentada a mim, como delegado do Cristiano.
+
+1218
+01:26:39,720 --> 01:26:45,720
+O telefone do Julio com o meu telefone particular com o meu nome,
+
+1219
+01:26:45,720 --> 01:26:47,720
+citando Nelson Esquiba, delegado de polícia.
+
+1220
+01:26:47,720 --> 01:26:49,720
+E quando eu falei com a mãe dele,
+
+1221
+01:26:49,720 --> 01:26:52,720
+ela também disse delegado de polícia Nelson Esquiba.
+
+1222
+01:26:52,720 --> 01:26:55,720
+Então assim, todos sabiam que a pessoa que deveria ser
+
+1223
+01:26:55,720 --> 01:26:57,720
+o direcionado da apresentação era o delegado,
+
+1224
+01:26:57,720 --> 01:26:59,720
+e não porque era o inspetor do plantão.
+
+1225
+01:26:59,720 --> 01:27:02,720
+O inspetor do plantão não é obrigado a conhecer
+
+1226
+01:27:02,720 --> 01:27:08,720
+investigações sensíveis como essa do tráfico de drogas.
+
+1227
+01:27:08,720 --> 01:27:09,720
+Entendi.
+
+1228
+01:27:09,720 --> 01:27:10,720
+Excelente.
+
+1229
+01:27:10,720 --> 01:27:14,720
+Será que me seria permitido mostrar a mensagem
+
+1230
+01:27:14,720 --> 01:27:17,720
+para que o doutor Nelson diga que se realmente
+
+1231
+01:27:17,720 --> 01:27:20,720
+essa mensagem foi encaminhada por ele ou não?
+
+1232
+01:27:20,720 --> 01:27:22,720
+Claro que pode.
+
+1233
+01:27:22,720 --> 01:27:24,720
+Mas a senhora vai ter que mostrar isso na câmera
+
+1234
+01:27:24,720 --> 01:27:26,720
+para o doutor poder ver.
+
+1235
+01:27:26,720 --> 01:27:29,720
+Mas vai ter que botar bem pertinho para poder enxergar.
+
+1236
+01:27:29,720 --> 01:27:31,720
+Se é que vai dar para enxergar.
+
+1237
+01:27:31,720 --> 01:27:34,720
+Ou então a senhora vai ter que fazer um print e juntar.
+
+1238
+01:27:34,720 --> 01:27:37,720
+Acho que eu consigo abrir a janela, não consigo?
+
+1239
+01:27:37,720 --> 01:27:41,720
+Deixa eu tentar aqui.
+
+1240
+01:27:41,720 --> 01:27:44,720
+Ela está sendo um pouquinho cortada, doutora.
+
+1241
+01:27:44,720 --> 01:27:49,720
+Eu tenho que virá-la um pouquinho mais para a sua esquerda.
+
+1242
+01:27:49,720 --> 01:27:51,720
+Mais para a sua esquerda, é isso.
+
+1243
+01:27:51,720 --> 01:27:52,720
+Doutora, eu não consigo...
+
+1244
+01:27:52,720 --> 01:27:53,720
+Está muito clara.
+
+1245
+01:27:53,720 --> 01:27:57,720
+Eu sugiro que o doutor faça complementar isso
+
+1246
+01:27:57,720 --> 01:27:59,720
+por informação por escrito.
+
+1247
+01:27:59,720 --> 01:28:02,720
+A senhora faz um print, junta no processo,
+
+1248
+01:28:02,720 --> 01:28:05,720
+e a gente então solicita por ofício
+
+1249
+01:28:05,720 --> 01:28:08,720
+para que o doutor confirme essa sua indagação.
+
+1250
+01:28:08,720 --> 01:28:09,720
+Ou não?
+
+1251
+01:28:09,720 --> 01:28:10,720
+Por quê, doutor Nelson?
+
+1252
+01:28:10,720 --> 01:28:13,720
+Doutora, se ela ler essa mensagem agora,
+
+1253
+01:28:13,720 --> 01:28:14,720
+eu já posso dizer...
+
+1254
+01:28:14,720 --> 01:28:16,720
+Ah, então a senhora faça gentileza, por favor.
+
+1255
+01:28:16,720 --> 01:28:19,720
+Então, eu vou falar o número que foi enviado,
+
+1256
+01:28:19,720 --> 01:28:22,720
+é o 997797...
+
+1257
+01:28:22,720 --> 01:28:25,720
+É o seu, esse telefone.
+
+1258
+01:28:27,720 --> 01:28:29,720
+Não ouviu, desculpa.
+
+1259
+01:28:29,720 --> 01:28:30,720
+Não faça o telefone.
+
+1260
+01:28:30,720 --> 01:28:32,720
+A senhora pode ler o conteúdo, por favor?
+
+1261
+01:28:32,720 --> 01:28:33,720
+Tá.
+
+1262
+01:28:33,720 --> 01:28:35,720
+Bom dia, senhora Cristiane Pereira da Costa,
+
+1263
+01:28:35,720 --> 01:28:38,720
+aqui da 127DP, que é a armação dos busos.
+
+1264
+01:28:38,720 --> 01:28:40,720
+Estou entrando em contato com a senhora,
+
+1265
+01:28:40,720 --> 01:28:43,720
+porque já se passaram alguns dias sem ter contato
+
+1266
+01:28:43,720 --> 01:28:44,720
+e nada foi feito.
+
+1267
+01:28:44,720 --> 01:28:47,720
+Então, dona Cristiane, vou entrar com um novo inquérito
+
+1268
+01:28:47,720 --> 01:28:51,720
+dando como seus filhos, como foragidos da justiça.
+
+1269
+01:28:53,720 --> 01:28:57,720
+Doutora, nenhum inspetor se crediria com essa redação.
+
+1270
+01:28:57,720 --> 01:28:59,720
+Eu impossível.
+
+1271
+01:28:59,720 --> 01:29:00,720
+Eu impossível.
+
+1272
+01:29:00,720 --> 01:29:03,720
+Mas nenhum inspetor se crediria com essa redação,
+
+1273
+01:29:03,720 --> 01:29:06,720
+que, alas, é formado em direito extremamente capacitado.
+
+1274
+01:29:06,720 --> 01:29:08,720
+Nenhum inspetor da delegacia
+
+1275
+01:29:08,720 --> 01:29:13,720
+encaminharia uma mensagem com essa mudação.
+
+1276
+01:29:13,720 --> 01:29:17,720
+Esse texto não foi enviado por mim, com certeza,
+
+1277
+01:29:17,720 --> 01:29:20,720
+e se foi enviado por algum policial,
+
+1278
+01:29:20,720 --> 01:29:24,720
+acho improvável que tenha sido enviado pela senhora Liza.
+
+1279
+01:29:24,720 --> 01:29:27,720
+É claro que eu posso pegar esse número e consultar bem
+
+1280
+01:29:27,720 --> 01:29:30,720
+e ver quem é o proprietário da linha,
+
+1281
+01:29:30,720 --> 01:29:34,720
+mas para quem é do direito, como mostra,
+
+1282
+01:29:34,720 --> 01:29:38,720
+esse texto não é uma atimação.
+
+1283
+01:29:38,720 --> 01:29:44,720
+A mãe leu esse texto para mim no dia que eu estava na prisão
+
+1284
+01:29:44,720 --> 01:29:48,720
+e eu disse para ela que esse texto não foi enviado por um policial.
+
+1285
+01:29:48,720 --> 01:29:53,720
+Inclusive, onde está vinculando esse texto a esse inquérito 370?
+
+1286
+01:29:53,720 --> 01:29:54,720
+Em lugar algum.
+
+1287
+01:29:54,720 --> 01:29:58,720
+Pode ser outro inquérito, pode ser outra pessoa, pode ser uma piada.
+
+1288
+01:29:58,720 --> 01:30:01,720
+Doutora, inclusive, se a senhora quiser apresentar
+
+1289
+01:30:01,720 --> 01:30:03,720
+em termos de pedeção ou o próprio juízo,
+
+1290
+01:30:03,720 --> 01:30:05,720
+a gente pode aprofundar a investigação
+
+1291
+01:30:05,720 --> 01:30:07,720
+para saber qual é o origem dessa mensagem.
+
+1292
+01:30:07,720 --> 01:30:09,720
+Mas eu afirmo que não é minha,
+
+1293
+01:30:09,720 --> 01:30:12,720
+eu não escreveria com essa redação.
+
+1294
+01:30:12,720 --> 01:30:14,720
+Acho improvável.
+
+1295
+01:30:19,720 --> 01:30:22,720
+Estou falando muito quando eu não estou escutando, doutor.
+
+1296
+01:30:22,720 --> 01:30:24,720
+Eu vou ter que te ligar, vou ter que te ligar a senhora
+
+1297
+01:30:24,720 --> 01:30:25,720
+e depois a senhora religa, tá?
+
+1298
+01:30:25,720 --> 01:30:27,720
+Porque está andando e eu não estou conseguindo escutar
+
+1299
+01:30:27,720 --> 01:30:29,720
+o que o doutor está falando.
+
+1300
+01:30:29,720 --> 01:30:31,720
+Agora parou o som, acho que está me ouvindo?
+
+1301
+01:30:31,720 --> 01:30:32,720
+Agora sim, doutor.
+
+1302
+01:30:32,720 --> 01:30:39,720
+É importante dizer que essa mensagem não tem a forma
+
+1303
+01:30:39,720 --> 01:30:44,720
+que deveria ter, ela parece muito mais uma piada que alguém fez.
+
+1304
+01:30:44,720 --> 01:30:47,720
+E veja que nessa informação não consta o número do inquérito.
+
+1305
+01:30:47,720 --> 01:30:49,720
+Então, se alguém chegou na delegacia e disse
+
+1306
+01:30:49,720 --> 01:30:52,720
+eu vim aqui porque eu tenho essa mensagem,
+
+1307
+01:30:52,720 --> 01:30:55,720
+se não tem o número do inquérito, ninguém vai encontrar.
+
+1308
+01:30:55,720 --> 01:30:59,720
+E esse inquérito do Cristiano estava como sigiloso no nosso sistema.
+
+1309
+01:30:59,720 --> 01:31:03,720
+Então, se a Liza digitasse o nome dele, não apareceria esse procedimento.
+
+1310
+01:31:03,720 --> 01:31:11,720
+Então assim, eu tenho sinceras dúvidas sobre a autenticidade dessa mensagem.
+
+1311
+01:31:11,720 --> 01:31:14,720
+Obviamente, doutor, é que eu não estou desconfiando da senhora,
+
+1312
+01:31:14,720 --> 01:31:19,720
+porque a própria mãe do Cristiano me mostrou isso no dia da prisão dele.
+
+1313
+01:31:19,720 --> 01:31:23,720
+Então, foi antes dessa audiência, não estou questionando a senhora.
+
+1314
+01:31:23,720 --> 01:31:27,720
+Eu estou questionando a redação desse texto, que não é padrão.
+
+1315
+01:31:31,720 --> 01:31:32,720
+Mais alguma pergunta, doutora?
+
+1316
+01:31:34,720 --> 01:31:40,720
+Aí eu preciso que a senhora volte a se desmutar,
+
+1317
+01:31:40,720 --> 01:31:44,720
+porque eu muto mas não tenho como desmutar e tenho que clicar para...
+
+1318
+01:31:44,720 --> 01:31:46,720
+Está me ouvindo a voz?
+
+1319
+01:31:46,720 --> 01:31:47,720
+Agora sim.
+
+1320
+01:31:47,720 --> 01:31:53,720
+No decorrer da investigação, o senhor conseguiu apurar
+
+1321
+01:31:53,720 --> 01:31:57,720
+se o Júlio e o Cristiano moravam no mesmo local?
+
+1322
+01:32:04,720 --> 01:32:06,720
+Eu vou ter que desmutar de novo,
+
+1323
+01:32:06,720 --> 01:32:10,720
+porque quando ele fala e está o barulho aí a gente não escuta.
+
+1324
+01:32:10,720 --> 01:32:11,720
+Doutor, desculpe.
+
+1325
+01:32:11,720 --> 01:32:13,720
+Pode repetir, por favor.
+
+1326
+01:32:13,720 --> 01:32:16,720
+Com relação ao endereço dos dois irmãos,
+
+1327
+01:32:16,720 --> 01:32:22,720
+as fontes que nós usamos, tanto as operadoras quanto o Infoseg,
+
+1328
+01:32:22,720 --> 01:32:25,720
+porque um deles já tinha sido preso, já existia o Júlio,
+
+1329
+01:32:25,720 --> 01:32:28,720
+que já tinha sido preso, já constava o endereço dele no Infoseg
+
+1330
+01:32:28,720 --> 01:32:30,720
+e no portal de segurança.
+
+1331
+01:32:30,720 --> 01:32:37,720
+O cotejo de todas essas informações indicava que ambos moravam no Triângulo de Búzios,
+
+1332
+01:32:37,720 --> 01:32:41,720
+que é aqui no centro e é onde foi decretada a busca e apreensão
+
+1333
+01:32:41,720 --> 01:32:43,720
+e onde foi executada a prisão do Cristiano.
+
+1334
+01:32:43,720 --> 01:32:49,720
+Então, do Júlio não apareceu para nós outro local de possível moradia
+
+1335
+01:32:49,720 --> 01:32:56,720
+que fosse relevante a ponto de nós representarmos pela busca e apreensão.
+
+1336
+01:32:59,720 --> 01:33:04,720
+Mais uma vez, a senhora se desmuta e aí depois eu mudo quando ele for responder.
+
+1337
+01:33:04,720 --> 01:33:07,720
+Se for o caso, a senhora faz mais alguma indagação, tá? Por favor.
+
+1338
+01:33:07,720 --> 01:33:09,720
+Tenho sim, excelência.
+
+1339
+01:33:09,720 --> 01:33:12,720
+Espera aí, eu tenho que me confundir.
+
+1340
+01:33:14,720 --> 01:33:21,720
+O doutor sabe dizer, por exemplo, teria necessidade se eles morassem no mesmo local,
+
+1341
+01:33:21,720 --> 01:33:23,720
+deles trocarem mensagens?
+
+1342
+01:33:25,720 --> 01:33:29,720
+Doutora, a senhora tá querendo opinião dele e testemunha não tem opinião,
+
+1343
+01:33:29,720 --> 01:33:33,720
+vai definir a pergunta, a senhora reformula e vai definir.
+
+1344
+01:33:33,720 --> 01:33:36,720
+A senhora tá querendo saber opinião do delegado,
+
+1345
+01:33:36,720 --> 01:33:39,720
+o delegado nem testemunha alguma tem opinião.
+
+1346
+01:33:40,720 --> 01:33:45,720
+Qual quantidade de drogas, sabe, foi uma lembra que foi encontrada com o Cristiano?
+
+1347
+01:33:45,720 --> 01:33:47,720
+A prisão dele?
+
+1348
+01:33:47,720 --> 01:33:48,720
+Isso.
+
+1349
+01:33:48,720 --> 01:33:50,720
+Também uma quantidade pequena.
+
+1350
+01:33:50,720 --> 01:33:54,720
+Eu não me recordo quantos gramas de maconha,
+
+1351
+01:33:54,720 --> 01:33:59,720
+mas uma quantidade pequena também, tanto que a tipificação que eu usei no dia
+
+1352
+01:33:59,720 --> 01:34:05,720
+foi o 28 também em razão da quantidade, em razão não só da quantidade,
+
+1353
+01:34:05,720 --> 01:34:09,720
+mas também das circunstâncias de fato da apreensão.
+
+1354
+01:34:09,720 --> 01:34:13,720
+Mas no dia da prisão dele foi uma quantidade pequena.
+
+1355
+01:34:13,720 --> 01:34:16,720
+No que foi apurado na investigação?
+
+1356
+01:34:16,720 --> 01:34:19,720
+O Cristiano exercia um papel importante?
+
+1357
+01:34:22,720 --> 01:34:25,720
+Em princípio, na minha visão, não.
+
+1358
+01:34:25,720 --> 01:34:30,720
+Na minha visão, o papel de maior importância era do irmão dele, do Júlio,
+
+1359
+01:34:30,720 --> 01:34:34,720
+e a posição do Cristiano era acessória à do Júlio,
+
+1360
+01:34:34,720 --> 01:34:40,720
+talvez como o braço direito dele, talvez como o apoiador dele,
+
+1361
+01:34:40,720 --> 01:34:48,720
+mas sim, nos irmãos, o Júlio tinha uma prevalência dentro do tráfico de drogas.
+
+1362
+01:34:48,720 --> 01:34:55,720
+Parecia que o Cristiano era auxiliar dele, braço direito, alguma coisa,
+
+1363
+01:34:55,720 --> 01:34:58,720
+mas a prevalência era do Júlio.
+
+1364
+01:34:59,720 --> 01:35:06,720
+Em alguma parte da investigação, doutor, foi constatado que agiam de forma violenta?
+
+1365
+01:35:06,720 --> 01:35:10,720
+Não, não, não. Não houve nenhum indicativo.
+
+1366
+01:35:10,720 --> 01:35:13,720
+Como eu já falei até anteriormente em relação ao vínculo deles
+
+1367
+01:35:13,720 --> 01:35:17,720
+com organizações criminosas estabelecidas na região,
+
+1368
+01:35:17,720 --> 01:35:23,720
+não surgiu indicativo de que eles usassem armas, de que eles ameaçassem as pessoas.
+
+1369
+01:35:23,720 --> 01:35:28,720
+O tipo de venda de droga deles era um nome de operação, era um delivery.
+
+1370
+01:35:28,720 --> 01:35:34,720
+Eles evitavam pelo que se percebeu até aquele momento da investigação.
+
+1371
+01:35:34,720 --> 01:35:38,720
+É óbvio que os fornecedores maiores devem ser de padições criminosas,
+
+1372
+01:35:38,720 --> 01:35:44,720
+mas o que ficou documentado na investigação é que eles optaram pela venda de drogas
+
+1373
+01:35:44,720 --> 01:35:48,720
+não dentro de uma comunidade competindo com outros traficantes
+
+1374
+01:35:48,720 --> 01:35:50,720
+e tentando dominar o espaço.
+
+1375
+01:35:50,720 --> 01:35:57,720
+Eles usavam um espaço que não oferecia risco para eles, que era a cidade, que era o centro da cidade.
+
+1376
+01:35:57,720 --> 01:36:02,720
+Basta ver que a maioria das entregas de drogas que foram identificadas
+
+1377
+01:36:02,720 --> 01:36:07,720
+ou eram aqui no centro, ou eram em Manguinhos, no centro gastro-colonômico de Manguinhos.
+
+1378
+01:36:07,720 --> 01:36:12,720
+Houve até uma entrega na Vila Verde que já é próximo de comunidades
+
+1379
+01:36:12,720 --> 01:36:14,720
+onde tem prato de droga estruturado.
+
+1380
+01:36:14,720 --> 01:36:22,720
+Mas me parece que o interesse deles era ficar longe de uma disputa armada por cliente ou espaço.
+
+1381
+01:36:22,720 --> 01:36:25,720
+Ok, muito obrigada. Sem mais, excelente.
+
+1382
+01:36:25,720 --> 01:36:31,720
+Bom, agora seria o advogado do senhor Paulo Henrique.
+
+1383
+01:36:34,720 --> 01:36:36,720
+Boa noite, doutor delegado.
+
+1384
+01:36:36,720 --> 01:36:38,720
+Boa noite.
+
+1385
+01:36:38,720 --> 01:36:45,720
+Eu vou me limitar a poucas perguntas. O senhor já falou sobre o Paulo Henrique.
+
+1386
+01:36:45,720 --> 01:36:50,720
+Ele foi o que confessou na delegacia, que vem de canga.
+
+1387
+01:36:50,720 --> 01:36:55,720
+No seu relatório o senhor pede a prisão de todos eles.
+
+1388
+01:36:55,720 --> 01:36:58,720
+Relatório final de inquérito.
+
+1389
+01:36:58,720 --> 01:37:05,720
+Sendo ele um réu confessa, o senhor entendeu ainda assim a necessidade de prisão dele?
+
+1390
+01:37:05,720 --> 01:37:15,720
+Bom, doutor, as consoes, objetivas e subjetivas da prisão preventiva são pequenas, são poucas.
+
+1391
+01:37:15,720 --> 01:37:22,720
+E quando eu relatei o relatório final de inquérito policial, ainda havia risco.
+
+1392
+01:37:22,720 --> 01:37:29,720
+Não o risco de violência, não o risco de ordem pública, como a doutora tinha perguntado sobre violência.
+
+1393
+01:37:29,720 --> 01:37:32,720
+Mas o risco de fuga do distrito da culpa.
+
+1394
+01:37:32,720 --> 01:37:42,720
+Era factível, naquele momento, que os investigados tomaram conhecimento da investigação como um todo,
+
+1395
+01:37:42,720 --> 01:37:48,720
+em especial sabendo que as interceptações eram provas cabais do que eles faziam,
+
+1396
+01:37:48,720 --> 01:37:56,720
+eu entendi que havia risco, sim, de prejuízo à aplicação da lei penal pela fuga do distrito da culpa.
+
+1397
+01:37:56,720 --> 01:38:03,720
+Uma vez comprovado isso, caberia ao juiz decidir com relação à manutenção ou não.
+
+1398
+01:38:03,720 --> 01:38:08,720
+Mas como eu não conheço o processo, eu não tenho certeza sobre o que aconteceu.
+
+1399
+01:38:08,720 --> 01:38:17,720
+Mas naquele momento, no meu relatório final, sem sombra de dúvidas, a prisão de todos eles garantiria a aplicação da lei penal.
+
+1400
+01:38:17,720 --> 01:38:35,720
+Mas a oitiva do Sr. Paulo se deu em setembro de 2021, onde ele confessou que de fato a traficava, comprava ou vendia.
+
+1401
+01:38:35,720 --> 01:38:44,720
+Ele até confessou com quem ele conhecia, no caso, e o seu relatório foi em dezembro do mesmo ano, três meses após.
+
+1402
+01:38:45,720 --> 01:38:48,720
+Foi que dia a oitiva dele?
+
+1403
+01:38:48,720 --> 01:38:49,720
+6 de setembro.
+
+1404
+01:38:49,720 --> 01:38:50,720
+O relatório?
+
+1405
+01:38:50,720 --> 01:38:52,720
+22 de dezembro.
+
+1406
+01:38:54,720 --> 01:38:58,720
+Eu acho que essa questão de possibilidade de fuga não haveria mais.
+
+1407
+01:38:58,720 --> 01:39:06,720
+Doutor, desculpa interromper, ele não sabia exatamente, não sabia do conteúdo da investigação.
+
+1408
+01:39:06,720 --> 01:39:15,720
+Quando eu fizer uma análise apurada dos autos, o senhor vai perceber que a oitiva dele foi tomada em autos apartados.
+
+1409
+01:39:15,720 --> 01:39:22,720
+Eu gerei um registro de ocorrência novo, porque a investigação tinha cautelares, interceptação.
+
+1410
+01:39:22,720 --> 01:39:31,720
+Se eu chego, chamo ele para ser ouvido nessa oitiva, provavelmente as cautelares vazariam.
+
+1411
+01:39:31,720 --> 01:39:37,720
+Então eu fiz um registro de ocorrência em apartado, que depois foi juntado, foi apensado ao inquérito principal,
+
+1412
+01:39:37,720 --> 01:39:39,720
+que foi onde eu ouvi o seu cliente.
+
+1413
+01:39:39,720 --> 01:39:46,720
+Ou seja, o seu cliente naquele momento não detinha o conhecimento das provas que eu tinha no processo.
+
+1414
+01:39:46,720 --> 01:39:59,720
+Então, também seria da minha parte uma ação relapsa, presumir que ele manteria aquela postura inicial sabendo de todo o conteúdo da investigação.
+
+1415
+01:39:59,720 --> 01:40:02,720
+Ele falou aquilo antes de conhecer a investigação.
+
+1416
+01:40:02,720 --> 01:40:08,720
+Se ele conhece a investigação solta, haveria sim um risco para a aplicação da ureternal.
+
+1417
+01:40:08,720 --> 01:40:12,720
+Essa foi a minha convicção no momento.
+
+1418
+01:40:12,720 --> 01:40:19,720
+E esse tempo entre a oitiva e o relatório é porque as interceptações ainda estavam em andamento.
+
+1419
+01:40:19,720 --> 01:40:23,720
+Ou seja, ele foi ouvido com algumas interceptações ainda em andamento,
+
+1420
+01:40:23,720 --> 01:40:32,720
+e ainda havia a necessidade de identificação de alguns réus, de alguns investigados, identificação de endereço para buscar apreensão.
+
+1421
+01:40:32,720 --> 01:40:41,720
+Então, se você olhar a cronologia do inquérito policial, o senhor vai ver que não houve um hiato entre a oitiva dele e o relatório final.
+
+1422
+01:40:41,720 --> 01:40:45,720
+Não houve um hiato. Continuaram existindo vigências.
+
+1423
+01:40:45,720 --> 01:40:51,720
+Eu não quis dizer que houve um hiato, como se não tivesse acontecido nada nesse instante.
+
+1424
+01:40:51,720 --> 01:41:01,720
+Só falando do momento em que houve a oitiva, que se fosse o caso haveria fuga por ali e até onde ocorreu o PG de prisão.
+
+1425
+01:41:01,720 --> 01:41:09,720
+Eu até parabenizo, mas é pouco usual essa questão de chamar os investigados para serem ouvidos antes.
+
+1426
+01:41:09,720 --> 01:41:13,720
+Eu faço isso para preservar direitos.
+
+1427
+01:41:13,720 --> 01:41:17,720
+Exatamente. Para que tenham uma espécie de contraditório ainda no inquérito.
+
+1428
+01:41:17,720 --> 01:41:21,720
+É porque acontece, doutor. Eu sou delegado há 22 anos.
+
+1429
+01:41:21,720 --> 01:41:28,720
+Já tivem investigações que a gente representa pela prisão de um investigado sem ouvi-lo.
+
+1430
+01:41:28,720 --> 01:41:30,720
+E quando a gente aprende, a gente descobre que não é ele.
+
+1431
+01:41:30,720 --> 01:41:37,720
+Então, para evitar esse risco, eu faço questão de ouvir, correndo o risco, inclusive, de fuga.
+
+1432
+01:41:37,720 --> 01:41:46,720
+Quando eu chamei todos eles para serem ouvidos, eu corri um risco de fuga, mas garantia a todos eles que conseguissem rebater
+
+1433
+01:41:46,720 --> 01:41:53,720
+inicialmente a suspeita que eu tinha sobre o tráfego de drogas. Essa foi a minha forma de trabalhar.
+
+1434
+01:41:53,720 --> 01:41:56,720
+Perfeito. Sem mais perguntas, excelência. Obrigado, doutor.
+
+1435
+01:41:56,720 --> 01:42:00,720
+Ok. Agora é o advogado de Emerson.
+
+1436
+01:42:03,720 --> 01:42:05,720
+Boa noite, doutor. Tudo bem?
+
+1437
+01:42:05,720 --> 01:42:07,720
+Boa noite, doutor.
+
+1438
+01:42:08,720 --> 01:42:27,720
+Eu gostaria de saber se o senhor teve a intenção ou sentiu a necessidade de colocar o celular do Emerson como objeto de uma apreensão, como é que se fala?
+
+1439
+01:42:27,720 --> 01:42:28,720
+Interceptação.
+
+1440
+01:42:28,720 --> 01:42:30,720
+Interceptação. Obrigada.
+
+1441
+01:42:31,720 --> 01:42:40,720
+Eu vou até, com licença para o doutor, dar uma olhadinha aqui no meu relatório que eu falo sobre o Emerson, é que ele foi o último, não é?
+
+1442
+01:42:40,720 --> 01:42:42,720
+O Emerson na Mia, não é isso?
+
+1443
+01:42:42,720 --> 01:42:44,720
+Sim, é ele mesmo.
+
+1444
+01:42:44,720 --> 01:42:50,720
+Sim, o Emerson foi o último a ser...
+
+1445
+01:42:50,720 --> 01:42:57,720
+Sim, ele foi identificado, não sei se foi o último, mas ele foi identificado na última fase de monitoramento do desvio de fluxo
+
+1446
+01:42:58,720 --> 01:43:01,720
+em razão da interação dele com o Paulo Henrique.
+
+1447
+01:43:01,720 --> 01:43:14,720
+O que aconteceu? O Emerson até então era desconhecido da investigação, durante a última fase de interceptação ele entra numa conversa com o Paulo Henrique,
+
+1448
+01:43:14,720 --> 01:43:22,720
+esse sim nós já tínhamos definido uma impressão sobre a participação dele no tráfico de drogas até aquele momento,
+
+1449
+01:43:22,720 --> 01:43:34,720
+e dessa conversa dele, do Emerson com o Paulo, surge a desconfiança da participação dele com o tráfico,
+
+1450
+01:43:34,720 --> 01:43:43,720
+porque na conversa dos dois, eu não estou com a conversa aqui aberta agora, mas eu cito isso no relatório e eu cito o número da chamada telefônica,
+
+1451
+01:43:43,720 --> 01:43:56,720
+do guardião, há uma conversa onde o Ananias fala com o Paulo sobre pegar drogas, repassar drogas e reclama que pelo preço cobrado pelo Paulo ele não teria lucro,
+
+1452
+01:43:56,720 --> 01:44:08,720
+mas deixa entendido que em outras situações parecidas ou iguais, ele obteve lucro pegando droga do Paulo Henrique e repassando para alguém, isso foi gravado.
+
+1453
+01:44:08,720 --> 01:44:18,720
+Aí quando eu ultimei o Emerson e o Paulo para que eles viessem à delegacia, e até já complementando a resposta que eu dei para o outro doutor,
+
+1454
+01:44:18,720 --> 01:44:27,720
+quando eles vieram à delegacia, a minha pergunta foi direta, o senhor está traficando drogas? Ele disse não, não estou, aí eu falei, o senhor conhece o Paulo Henrique?
+
+1455
+01:44:27,720 --> 01:44:35,720
+Ele disse não, não conheço, só que o Paulo Henrique estava por lá de fora, aí eu pedi para o Paulo Henrique entrar, o Paulo Henrique disse, eu conheço ele, então assim,
+
+1456
+01:44:35,720 --> 01:44:45,720
+o Emerson, o Emerson se não me engano, eu não me recordo, ele que era o motorista de bulgar, não sei se é ele, então o que acontece,
+
+1457
+01:44:45,720 --> 01:44:57,720
+na investigação, provavelmente o Emerson pela facilidade de se deslocar pela cidade, ele usava isso como meio das entregas de drogas dele,
+
+1458
+01:44:57,720 --> 01:45:11,720
+então assim, o Emerson, ele era um traficante de facção criminosa? Não, ele pegava droga do Paulo, tinha alguns contatos de alguns clientes, entregava essa droga e tinha uma margem de lucro,
+
+1459
+01:45:11,720 --> 01:45:21,720
+eu não me recordo, inclusive, eu acho que a margem de lucro que ele tentava, se não me engano, era R$ 100, entendeu, então assim, mas ficou devidamente comprovado,
+
+1460
+01:45:21,720 --> 01:45:38,720
+nos autos, nas conversas transcritas, inclusive, quando foi finalizadas as conversas, eu pedi que o analista reiterasse a análise com relação ao Emerson,
+
+1461
+01:45:38,720 --> 01:45:55,720
+porque como eu não tinha outras ligações, eu falei, faz com atenção, vê se o Emerson é o Emerson, vê se o Paulo é o Paulo, vê se a conversa realmente é essa, porque era a única conversa que eu tinha respondido sobre o tráfico de drogas do Emerson,
+
+1462
+01:45:55,720 --> 01:46:07,720
+mas conversa essa, em conteste, com relação à participação dele no tráfico, com certeza, se ele fosse mantido, a operação já estava madura para ser encerrada,
+
+1463
+01:46:07,720 --> 01:46:26,720
+mas se mantirem a participação, por mais alguma forma, nós teríamos conceitos, outras provas, mas assim, eu no meu relatório, teve até um telefone que foi interceptado que foi arquivamento,
+
+1464
+01:46:26,720 --> 01:46:44,720
+todo mundo tem o menor problema pessoal que chegar ao plano de investigação e dizer, com relação a essa pessoa, não há provas, mas eu tenho convicção plena de que com relação ao Emerson, esse diálogo que ele tem com o Paulo, é em conteste da participação dele no tráfico de drogas.
+
+1465
+01:46:45,720 --> 01:47:10,720
+Só mais uma pergunta, excelência, quando o senhor coloca ambos frente a frente e que há o reconhecimento do denunciado Paulo Henrique, ele afirma que já vendeu drogas ao denunciado Emerson, mas ele, em algum momento, diz na qualidade de quê, se foi para revendo, se foi para uso próprio?
+
+1466
+01:47:10,720 --> 01:47:33,720
+Eu não me recordo os detalhes da declaração do denúncio do real Paulo Henrique, até tenho aqui, posso tentar para ver, mas ela tomaria tempo, mas a minha, esse reconhecimento de um pelo outro, não foi um reconhecimento formal,
+
+1467
+01:47:33,720 --> 01:47:48,720
+foi uma opção minha só para saber se o Emerson estava falando a verdade ou não, e quando foi demonstrado que ele estava mentindo, aí ele perdeu muito da credibilidade e inclusive perdeu espaço para mais mentiras.
+
+1468
+01:47:48,720 --> 01:48:05,720
+Com relação, se o senhor perguntou o que ele faria com a droga do Paulo, isso não é, acho que salvo engano, não é baseado na declaração do Paulo, é baseado na conversa dos dois pela ligação que o fluxo foi interceptado.
+
+1469
+01:48:05,720 --> 01:48:28,720
+Então, na interceptação, o Emerson fala ao Paulo que pegaria a droga e revenderia, e aí na declaração do Paulo, o Paulo confirma que realmente vendia drogas de forma reiterada ao Emerson, e o Emerson, na ligação que teve o fluxo desviado, o Emerson deixa claro que ele já tinha feito os três vezes e tinha obtido lucro,
+
+1470
+01:48:28,720 --> 01:48:36,720
+mas que naquela vez, em razão do preço que o Paulo estava fazendo pela droga, ele não obteria lucro, mas mesmo assim faria, não obteria o lucro.
+
+1471
+01:48:38,720 --> 01:48:39,720
+Sem mais excelência.
+
+1472
+01:48:40,720 --> 01:48:48,720
+Ok, e agora o doutor, que é advogado do Juliano Lucas Nunes. Doutor César até desistiu, sumiu.
+
+1473
+01:48:49,720 --> 01:48:58,720
+Eu não estou aqui. Boa tarde, doutor. Eu não vou distender muito, não, que já foi bastante esclarecedor o depoimento do doutor.
+
+1474
+01:48:59,720 --> 01:49:16,720
+Eu só tenho uma dúvida. Nessas interceptações, o senhor fala o nome de uma pessoa, Ana Clara, em algum momento nessas investigações foi chamado ou foi ouvido algum viciado ou alguma pessoa que comprou drogas desse grupo?
+
+1475
+01:49:17,720 --> 01:49:33,720
+Doutor, nós identificamos, se não me engano, no final da operação, ao próximo a 30 pessoas que foram contratadas por esse grupo, supostamente viciadas, porque nós filtravamos a conversa nesse sentido.
+
+1476
+01:49:33,720 --> 01:49:45,720
+Quando a pessoa que interagia com os nossos autos não falava de revenda, não falava de ter lucro com a droga, nós não aprofundávamos a investigação nesse sentido.
+
+1477
+01:49:45,720 --> 01:50:08,720
+Então, por opção de não aprofundar a investigação para identificar 30 usuários, ouvir 30 usuários, e aí é toda a dificuldade de se ter, inclusive, esses telefones que estão nos autos, todos os telefones que foram contatados com os réus para a compra de droga estão nos autos.
+
+1478
+01:50:09,720 --> 01:50:21,720
+Então, também poderia, qualquer defesa, poderia tranquilamente, com base naqueles dados, requerer que fosse ouvido como testemunha, entendeu? Os supostos usuários.
+
+1479
+01:50:21,720 --> 01:50:27,720
+Eu, como opção de investigação, eu preferi não aprofundar, porque senão a nossa investigação não acabaria.
+
+1480
+01:50:27,720 --> 01:50:38,720
+Eu teria que localizar, identificar e ouvir pelo menos 30 usuários de droga na cidade. Isso demanda tempo, demanda um desgaste absurdo.
+
+1481
+01:50:38,720 --> 01:50:51,720
+Mas todos aqueles telefones que foram identificados pelo sistema guardião, eu não sei se o senhor teve acesso às telas do sistema guardião, às transcrições, tem o telefone chamador e o chamado.
+
+1482
+01:50:51,720 --> 01:51:07,720
+Nos autos os advogados têm acesso a todos os telefones. E se eventualmente aproveitar a defesa de qualquer um dos réus, a localização noitiva dessas pessoas, eu desde já me coloco à disposição para localizar e ouvir.
+
+1483
+01:51:07,720 --> 01:51:18,720
+Só que a gente já tem a conversa dessa pessoa gravada. Então, se eu chamar essa pessoa para ser ouvido, esse viciado, esse usuário de drogas para ser ouvido, ele tem duas opções.
+
+1484
+01:51:18,720 --> 01:51:32,720
+Ele pode reiterar o que está gravado com a voz dele, ou ele pode dizer que não se lembra, outra coisa ele não pode dizer. Então eu considero que essa prova era irrelevante no momento.
+
+1485
+01:51:32,720 --> 01:51:46,720
+Mas as defesas podem considerar relevante nessas provas e indicar, olha, meu cliente falou com o telefone e tal, eu quero ouvir essa pessoa, eu não sei se agora a fase processual permite esse tipo de pedido.
+
+1486
+01:51:46,720 --> 01:52:06,720
+Mas era algo viável desde o relatório final da investigação. Eu, no meu relatório, eu cito que essa linha investigativa de ouvir todos os compradores de drogas geraria um custo para o Estado, um custo para a delegacia em termos de recursos humanos e recursos materiais que não compensavam.
+
+1487
+01:52:06,720 --> 01:52:16,720
+Porque essas pessoas tinham conversado, tem conversas gravadas, sem dúvida de que o padrão vocalico é dos termos.
+
+1488
+01:52:16,720 --> 01:52:19,720
+Tá bom, cês são obrigados. Tem mais perguntas?
+
+1489
+01:52:19,720 --> 01:52:25,720
+Doutor, eu também não tenho perguntas aqui, eu já fiz, você me respondeu que você tem matrícula e eu já anotei.
+
+1490
+01:52:25,720 --> 01:52:40,720
+Doutor, muito obrigada, muito obrigada por sua paciência de repetir várias vezes, inclusive após já ter falado com o Ministério Público, repetir detidamente com cada indagação dos advogados.
+
+1491
+01:52:40,720 --> 01:53:00,720
+Muito obrigada e parabenizo o senhor pelo seu trabalho, especialmente por esse cuidado que o senhor tem de identificar as pessoas e de intimá-las para que evite realmente da gente colocar alguém que não é efetivamente envolvido dentro de uma situação dessa.
+
+1492
+01:53:00,720 --> 01:53:12,720
+Muito obrigada, o senhor está de parabéns, eu não o conhecia, acabei aqui ainda até de mandando mensagem com o meu promotor que trabalha comigo, parabenizando o seu trabalho. Fiquei muito impressionada com a sua diligência.
+
+1493
+01:53:12,720 --> 01:53:14,720
+Muito obrigada, tá doutor?
+
+1494
+01:53:14,720 --> 01:53:15,720
+Boa noite a todos.
+
+1495
+01:53:15,720 --> 01:53:27,720
+Desculpe a demora, desculpe o horário e foi um prazer conhecê-lo. Eu sou de guaba grande, me suruquinha, pequenininha, ovinha. Mas se o senhor quiser aparecer, será o prazer. Obrigada.
+
+1496
+01:53:27,720 --> 01:53:30,720
+Muito obrigada, doutora. Boa noite a todos.
+
+1497
+01:53:30,720 --> 01:53:31,720
+Obrigada, igualmente.
+
+1498
+01:53:31,720 --> 01:53:32,720
+Boa noite, doutora.
+
+1499
+01:53:32,720 --> 01:53:42,720
+Doutora Renata, agora a senhora quer ouvir. O senhor Rodrigo Pinheiro, a senhora quer ouvir, o senhor Daniel Bragança, o senhor Vanderlei Targa, que todos os três estão no lobby.
+
+1500
+01:53:42,720 --> 01:53:55,720
+Então, doutora, duas coisas. O Targa, que é policial civil, parece que ele está de licença na polícia civil. Se não me engano, licença até psiquiátrica. Eu vou dispensar a ativa dele.
+
+1501
+01:53:55,720 --> 01:53:59,720
+Tá, então eu vou admiti-lo pra dispensá-lo, tá? Só um minuto.
+
+1502
+01:53:59,720 --> 01:54:00,720
+Mas eu ia também...
+
+1503
+01:54:00,720 --> 01:54:16,720
+Agora, eu não sei se houve testemunha comum de algum, se os senhores concordam com essa desistência, porque realmente esse processo eu não consegui achar todas as testemunhas de cada um, porque eu peguei esse bom dia andando.
+
+1504
+01:54:16,720 --> 01:54:33,720
+Então, eu pergunto, há alguma das defesas que tenha rolado esse Vanderlei Targa como testemunha comum, ou seja, tenha posto as mesmas da denúncia? E aí, se houver, eu confirmo no processo aqui.
+
+1505
+01:54:33,720 --> 01:54:47,720
+E aí, obviamente, a gente tem que ver se há possibilidade de definir ou não essa dispensa, considerando que se for testemunha comum, aquele que tiver rolado também precisa concordar.
+
+1506
+01:54:47,720 --> 01:55:02,720
+Então, houve algum desses? Não. Não? Então, doutora, considerando o silêncio, é sinal de que não houve, então eu vou homologar a dispensa.
+
+1507
+01:55:02,720 --> 01:55:07,720
+E vou só admiti-lo para poder dispensar.
+
+1508
+01:55:07,720 --> 01:55:24,720
+Seu Vanderlei, você não precisa nem disponibilizar a sua imagem, eu estou só admitindo o senhor para dispensá-lo, porque o Ministério Público dispensou a sua oitiva e o senhor não foi rolado como testemunha comum de nenhuma das defesas, então o senhor está dispensado.
+
+1509
+01:55:24,720 --> 01:55:35,720
+Eu vou pedir ao senhor que se retire e vou ouvir o próximo, a próxima testemunha que o Ministério Público não dispensa. Muito obrigada, tá, seu Vanderlei? Boa noite.
+
+1510
+01:55:35,720 --> 01:55:58,720
+Ok, agora a senhora quer ouvir o Rodrigo ou o Daniel? Ah, deu uma congelada. Tenho que esperar a doutora voltar.
+
+1511
+01:55:59,720 --> 01:56:07,720
+Por isso que eu realizo audiência do escritório da minha casa, porque a minha internet eu garanto.
+
+1512
+01:56:07,720 --> 01:56:15,720
+Agora amanhã tem plantão em Búzios e eu vou fazer as minhas audiências da minha vara de lá cumprindo o plantão.
+
+1513
+01:56:15,720 --> 01:56:24,720
+Eu espero que seja um plantão e não um plantão daquele que eu vá chorar muito, porque eu não vá conseguir fazer minhas audiências, vamos ver.
+
+1514
+01:56:24,720 --> 01:56:30,720
+Mas o meu santo é tão forte que amanhã eu só tenho audiência de apresentação de menor infrator, graças a Deus.
+
+1515
+01:56:30,720 --> 01:56:37,720
+Meu hoje de guarda é tão legal que ele já sabia que eu ia estar de plantão, mesmo sem eu saber que ele está acumulando Búzios, entendeu?
+
+1516
+01:56:37,720 --> 01:56:45,720
+Então tem essas coisas assim, ele já sabe tudo. Porque essa audiência minha de apresentação, só apresentação, eu falei nossa que maravilha.
+
+1517
+01:56:46,720 --> 01:56:54,720
+Que aí eu baixo o processo até a representação não vai dar problema. Doutora, doutora deu uma congelada, porque a senhora já ouviu o rosto do Daniel.
+
+1518
+01:56:54,720 --> 01:57:05,720
+Eu caí, desculpa. Então o Rodrigo eu também vou dispensar, porque o Rodrigo foi o relator da análise da interceptação e ele sabe a mesma coisa que o doutor esquiva.
+
+1519
+01:57:05,720 --> 01:57:10,720
+Tá, então eu vou também admiti-lo e agradecer a presença e dispensá-lo.
+
+1520
+01:57:10,720 --> 01:57:13,720
+Isso, aí por mim eu posso ouvir o Daniel Bragança.
+
+1521
+01:57:14,720 --> 01:57:30,720
+Senhor Rodrigo, muito prazer mais uma vez em tê-lo conosco, mas desculpe, a doutora agora dispensou a sua oitiva, porque as declarações do doutor Nelson supriram a sua oitiva.
+
+1522
+01:57:30,720 --> 01:57:36,720
+Então eu quero agradecer a sua presença, mas eu pergunto novamente pelas defesas.
+
+1523
+01:57:37,720 --> 01:57:44,720
+Alguém que tenha rolado também, o senhor Rodrigo, como testemunha comum? Não.
+
+1524
+01:57:44,720 --> 01:57:53,720
+Então, senhor Rodrigo, eu também vou homologar a dispensa da sua oitiva. Peço desculpas por retê-lo esse tempo todo, mas eu não tenho disponibilidade sobre a prova.
+
+1525
+01:57:53,720 --> 01:57:56,720
+Eu sou destinatária, mas disponibilidade eu não tenho.
+
+1526
+01:57:56,720 --> 01:57:57,720
+Sem problema, senhora.
+
+1527
+01:57:57,720 --> 01:58:02,720
+Quem dispõe são as partes. Então, senhor, me desculpe mais uma vez e eu agradeço a sua presença.
+
+1528
+01:58:02,720 --> 01:58:05,720
+Sem problema, uma boa noite a todos e uma boa audiência.
+
+1529
+01:58:05,720 --> 01:58:08,720
+Muito bom, desculpe. Até logo.
+
+1530
+01:58:10,720 --> 01:58:14,720
+Pronto, agora sim, vamos ouvir o senhor Daniel.
+
+1531
+01:58:15,720 --> 01:58:20,720
+Por gentileza, senhor Daniel Braga, por ter disponibilizado sua imagem e som, agradeço.
+
+1532
+01:58:35,720 --> 01:58:37,720
+É bragança, na verdade.
+
+1533
+01:58:38,720 --> 01:58:41,720
+É porque eu vi ali o que estava escrito, né?
+
+1534
+01:58:45,720 --> 01:58:51,720
+Senhor Daniel, eu vou fazer o seguinte, vou fixar o senhor porque o senhor está atrás de mim, eu não estou vendo o senhor.
+
+1535
+01:58:54,720 --> 01:59:01,720
+Senhor Daniel, o senhor está sob compromisso de dizer a verdade, sob pena de responder criminalmente por falso testemunho.
+
+1536
+01:59:01,720 --> 01:59:09,720
+Os acusados, em grande maioria, não estão presentes, uma vez que o SEAP não conseguiu colocá-los no lobby nem apresentá-los.
+
+1537
+01:59:10,720 --> 01:59:18,720
+A exceção do senhor Paulo Henrique, que é aquele senhor que está de fonezinho com blusa branca.
+
+1538
+01:59:20,720 --> 01:59:29,720
+Mas eu tenho o nome de todos eles, então eu vou indagar do senhor se eu tenho algum problema pessoal com quaisquer dessas pessoas, que os nomes eu vou relatar agora.
+
+1539
+01:59:30,720 --> 01:59:39,720
+A primeira seria Júlio Pereira Marcos, imposto vulgo Julião, esse está desmembrado desse processo, mas é um dos denunciados.
+
+1540
+01:59:40,720 --> 01:59:50,720
+José Guilherme da Costa Freire, Cristiano Pereira Marcos, Paulo Henrique da Silva Bento, que é exatamente o senhor que está presente, o único.
+
+1541
+01:59:51,720 --> 01:59:58,720
+Emerson Fernandes Ananias, Rodrigo Duarte de Souza, que também está desmembrado desse processo, mas é um dos réus.
+
+1542
+01:59:59,720 --> 02:00:03,720
+E por último, Juliano Lucas Nunes, supostamente vulgo Lucas.
+
+1543
+02:00:04,720 --> 02:00:12,720
+E eu não sei se você vai ver o meu cursor, talvez, veja, mas essa pessoa é que é o senhor Paulo Henrique.
+
+1544
+02:00:13,720 --> 02:00:17,720
+Ou seja, ele está entre a doutora Renata e o advogado para mim.
+
+1545
+02:00:18,720 --> 02:00:23,720
+Ele está de blusinha branca, de fone. Você tem algum problema pessoal com essas pessoas?
+
+1546
+02:00:24,720 --> 02:00:25,720
+Não, nenhum.
+
+1547
+02:00:25,720 --> 02:00:32,720
+Então o senhor vai ser ouvido com o compromisso da verdade. Quem vai indagar do senhor primeiramente vai ser a doutora Renata, promotora.
+
+1548
+02:00:33,720 --> 02:00:37,720
+E depois, pela ordem dos denunciados, serão os respectivos advogados.
+
+1549
+02:00:38,720 --> 02:00:44,720
+Está sendo certo que a partir do José Guilherme, porque o primeiro já está desmembrado desse processo.
+
+1550
+02:00:45,720 --> 02:00:47,720
+Doutora Renata querendo pode indagar do senhor Daniel.
+
+1551
+02:00:48,720 --> 02:00:51,720
+Se for o caso eu farei alguma pergunta complementar ao final.
+
+1552
+02:00:51,720 --> 02:00:53,720
+Mas para adiantar, para evitar que eu me esqueça.
+
+1553
+02:00:54,720 --> 02:00:58,720
+O senhor tem matrícula, ID, sei lá, porque agora eu descobri que tem um tal do ID também.
+
+1554
+02:00:59,720 --> 02:01:01,720
+O senhor tem matrícula, RG, o que é que o senhor tem?
+
+1555
+02:01:02,720 --> 02:01:05,720
+Tem assim, é primeiro sargento Daniel Bragança de Souro.
+
+1556
+02:01:06,720 --> 02:01:07,720
+Ah, o senhor é DPM, ah tá.
+
+1557
+02:01:08,720 --> 02:01:13,720
+Eu pensei que se eu fosse policial civil.
+
+1558
+02:01:14,720 --> 02:01:16,720
+Então por favor, primeiro sargento, RG, o quê?
+
+1559
+02:01:17,720 --> 02:01:19,720
+71820.
+
+1560
+02:01:20,720 --> 02:01:22,720
+Ah tá, muito obrigada.
+
+1561
+02:01:23,720 --> 02:01:25,720
+Então senhor Daniel, o senhor vai ser indagado agora pela doutora Renata.
+
+1562
+02:01:26,720 --> 02:01:30,720
+Doutora Renata querendo pode indagar do policial militar, senhor Daniel.
+
+1563
+02:01:31,720 --> 02:01:34,720
+Só um minuto, eu não sei do que se trata a audiência, eu não li a inicial.
+
+1564
+02:01:35,720 --> 02:01:37,720
+Eu não leio denúncia, eu vou explicar uma coisa para o senhor.
+
+1565
+02:01:38,720 --> 02:01:40,720
+O juiz tem que ser imparcial, sua lei denuncia para os acusados.
+
+1566
+02:01:41,720 --> 02:01:45,720
+Se o senhor não lembrar, obviamente isso não tem culpa, ninguém lembra de tudo.
+
+1567
+02:01:45,720 --> 02:01:51,720
+Mas os promotores de justiça já estão muito acostumados e eles sabem fazer aquele, sabe?
+
+1568
+02:01:52,720 --> 02:01:53,720
+Faz meio que uma mágica.
+
+1569
+02:01:54,720 --> 02:01:58,720
+Aí quando diz assim, eu não lembro, o sujeito fala a denúncia inteira, entendeu?
+
+1570
+02:01:59,720 --> 02:02:02,720
+E mais alguma coisa que não está na denúncia, como reagressa.
+
+1571
+02:02:03,720 --> 02:02:04,720
+Doutora Renata pode indagar.
+
+1572
+02:02:05,720 --> 02:02:09,720
+Você vai ficar tranquilo que se o senhor lembrar, vai fazer o senhor lembrar.
+
+1573
+02:02:10,720 --> 02:02:11,720
+Certo?
+
+1574
+02:02:12,720 --> 02:02:14,720
+Obrigada, excelente. Boa noite policial, tudo bem?
+
+1575
+02:02:15,720 --> 02:02:16,720
+Tudo bem.
+
+1576
+02:02:17,720 --> 02:02:20,720
+Na verdade, esse processo aqui é bem grande, né?
+
+1577
+02:02:21,720 --> 02:02:26,720
+A participação do senhor seria referente apenas com o Tom Hell chamado José Guilherme, não aos demais.
+
+1578
+02:02:27,720 --> 02:02:34,720
+Eu queria saber sobre uma ocorrência que o senhor participou, foi em março de 2021, já tem um tempo.
+
+1579
+02:02:35,720 --> 02:02:39,720
+A relacionada a uma moto, um patrulhamento sobre motos usados para roubo.
+
+1580
+02:02:40,720 --> 02:02:43,720
+E que durante a ocorrência foi encontrado um tablet maconha na residência.
+
+1581
+02:02:44,720 --> 02:02:49,720
+Era mais ou menos essa dinâmica inicial que foi, que consta na denúncia perto da reta da Marina.
+
+1582
+02:02:50,720 --> 02:02:51,720
+O senhor se recorda dessa ocorrência?
+
+1583
+02:02:52,720 --> 02:02:53,720
+Ah, recordo.
+
+1584
+02:02:54,720 --> 02:02:57,720
+O senhor pode contar, por favor, como foi?
+
+1585
+02:02:58,720 --> 02:03:06,720
+Nós tivemos nessa data aí, a gente estava no centro de buses e tivemos uma denúncia,
+
+1586
+02:03:06,720 --> 02:03:20,720
+vião 90, se eu não me engano, que tinham dois elementos de uma moto praticando roubos naquelas imediações ali da Marina, do cruzeiro e, se eu não me engano ali, acho que era um buraco quente, uma coisa assim.
+
+1587
+02:03:21,720 --> 02:03:31,720
+E aí nós nos deslocamos do centro para a Rasa e dentro desse deslocamento nós cruzamos com uma moto, com as características muito parecidas.
+
+1588
+02:03:31,720 --> 02:03:37,720
+E aí nós fizemos o retorno e conseguimos ver o local onde ela parou.
+
+1589
+02:03:38,720 --> 02:03:52,720
+Nesse local onde ela parou, a gente indagou algumas pessoas ali, ela tinha uma vila aberta, com várias casas, indagamos algumas pessoas ali, entre elas esse rapaz aí, que eu não lembro o nome, que a doutora falou aí.
+
+1590
+02:03:53,720 --> 02:04:05,720
+Ele morava na parte de cima da casa e falou que era dono dessa moto que estava parada em frente a ele, mas não tinha nada de regular na moto, nem com o carro dele que estava lá.
+
+1591
+02:04:06,720 --> 02:04:14,720
+Aí nós perguntamos a ele se tinha algo que regular em casa, ele falou que tinha uma quantidade de maconha e apresentou para a gente, só isso.
+
+1592
+02:04:15,720 --> 02:04:22,720
+Essa maconha que ele apresentou, ele pegou e levou para vocês ou vocês entraram na casa e procuraram e acharam?
+
+1593
+02:04:23,720 --> 02:04:32,720
+Para a gente ir num potinho, eram vários pedacinhos, não era uma coisa assim elaborada não, vários pedacinhos que ele falou que era para o uso dele.
+
+1594
+02:04:33,720 --> 02:04:38,720
+Mas era tipo um tablet ou era bucha já endolada?
+
+1595
+02:04:39,720 --> 02:04:47,720
+Não, eram pedacinhos, pedacinhos de... é solto, Zé, dentro de um potinho daquele de doce, que o pessoal costuma botar doce.
+
+1596
+02:04:48,720 --> 02:04:52,720
+E ele chegou a falar se era para o uso pessoal ou se era para vento?
+
+1597
+02:04:53,720 --> 02:04:54,720
+Ele falou que era para o uso pessoal.
+
+1598
+02:04:55,720 --> 02:05:02,720
+Tá, essa ocorrência dessa apreensão no Samacón, vocês levaram ele para a delegacia e fizeram esse registro?
+
+1599
+02:05:03,720 --> 02:05:04,720
+Levaram para a delegacia.
+
+1600
+02:05:05,720 --> 02:05:21,720
+Depois desse dia, o senhor chegou a ver o José Guilherme, essa pessoa em alguma atividade que o senhor tem considerado suspeita de tráfico, chegou a abordar ele de novo, viu ele de novo?
+
+1601
+02:05:22,720 --> 02:05:27,720
+Na realidade, eu nem conhecia ele até o dia do ocorrência e após o dia também nunca mais vi.
+
+1602
+02:05:28,720 --> 02:05:32,720
+Nunca mais viu, né? Tá, tá bom. Obrigada, policial. Sem mais perguntas.
+
+1603
+02:05:35,720 --> 02:05:37,720
+Tá, tá mudo, doutora.
+
+1604
+02:05:38,720 --> 02:05:48,720
+Agora são os advogados. Então, agora, exatamente o advogado do senhor José Guilherme, essa pessoa que o senhor disse que tá envolvido, que a doutora lhe localizou.
+
+1605
+02:05:49,720 --> 02:05:52,720
+Doutor, pode indagar do policial militar.
+
+1606
+02:05:53,720 --> 02:05:56,720
+Sem perguntas. Outro advogado tem pergunta, silêncio?
+
+1607
+02:05:57,720 --> 02:06:00,720
+Ok. Advogado é do senhor Cristiano?
+
+1608
+02:06:01,720 --> 02:06:04,720
+Não, pela ordem, silêncio. Outro advogado do José Guilherme tem uma pergunta.
+
+1609
+02:06:05,720 --> 02:06:08,720
+Ah, então pode falar. Por isso que eu falei. O senhor falou que era sem perguntas, então pode falar.
+
+1610
+02:06:09,720 --> 02:06:15,720
+Se a doutora se entrou na casa do José Guilherme ou não? E do horário que foi essa apreensão?
+
+1611
+02:06:17,720 --> 02:06:28,720
+É, ele perguntou se o senhor chegou a adentrar na casa do seu José Guilherme e se o senhor se recorda do horário, mais ou menos, dessa diligência.
+
+1612
+02:06:28,720 --> 02:06:30,720
+O senhor teve contato com...
+
+1613
+02:06:31,720 --> 02:06:36,720
+Era bem adiantado da noite, deveria ser umas 9, 10 horas da noite, por aí.
+
+1614
+02:06:37,720 --> 02:06:40,720
+Podendo ser até um pouco mais, mas eu calculo que mais seja mais ou menos isso, umas 10 horas.
+
+1615
+02:06:41,720 --> 02:06:43,720
+E a gente não adentrou não, a gente só perguntou a ele.
+
+1616
+02:06:44,720 --> 02:06:46,720
+Ele colaborou muito com a diligência da gente.
+
+1617
+02:06:47,720 --> 02:06:54,720
+Ele não resistiu em nada, deu a redocumentação da moto, deu a documentação do carro e falou que realmente tinha a quantidade de drogas.
+
+1618
+02:06:55,720 --> 02:06:57,720
+E apresentou pra gente, só isso. Não teve nada de mais não.
+
+1619
+02:06:58,720 --> 02:06:59,720
+Mais alguma pergunta, doutor?
+
+1620
+02:07:00,720 --> 02:07:07,720
+Eu queria só constanhar que na folha 32 do processo tem uma foto da droga que foi apreendida e é um pedaço só, não é pedacinho pra mercancinha.
+
+1621
+02:07:08,720 --> 02:07:15,720
+Não, mas olha só, doutor, isso aí é uma manifestação que o senhor tem que fazer quando o senhor for manifestar no processo, aqui nós estamos inquirindo.
+
+1622
+02:07:16,720 --> 02:07:17,720
+Tem mais alguma pergunta, doutor?
+
+1623
+02:07:18,720 --> 02:07:19,720
+Sem perguntas.
+
+1624
+02:07:19,720 --> 02:07:20,720
+Eu vou consignar isso, isso aí é sua fala.
+
+1625
+02:07:21,720 --> 02:07:22,720
+Isso não é o momento.
+
+1626
+02:07:23,720 --> 02:07:26,720
+É quando o senhor tiver a manifestação técnica ser feita, não é o momento.
+
+1627
+02:07:27,720 --> 02:07:28,720
+Mais alguma indagação?
+
+1628
+02:07:29,720 --> 02:07:30,720
+Sem perguntas, mãe.
+
+1629
+02:07:31,720 --> 02:07:34,720
+Ok. Agora, defesa do senhor Cristiano.
+
+1630
+02:07:35,720 --> 02:07:36,720
+Sem perguntas.
+
+1631
+02:07:37,720 --> 02:07:39,720
+Defesa do senhor Paulo Henrique.
+
+1632
+02:07:40,720 --> 02:07:41,720
+Sem perguntas, excelência.
+
+1633
+02:07:42,720 --> 02:07:43,720
+Defesa do senhor Emerson.
+
+1634
+02:07:44,720 --> 02:07:45,720
+Sem perguntas, excelência.
+
+1635
+02:07:46,720 --> 02:07:48,720
+Defesa do senhor Juliano.
+
+1636
+02:07:49,720 --> 02:07:50,720
+Sem perguntas, excelência.
+
+1637
+02:07:50,720 --> 02:07:51,720
+Sem perguntas, excelência.
+
+1638
+02:07:52,720 --> 02:07:53,720
+Muito obrigada, senhor Daniel.
+
+1639
+02:07:54,720 --> 02:08:04,720
+Desculpe o horário, desculpe estar na sua folga, mas eu espero que o senhor tenha ficado em casa, sei lá, em algum lugar confortável, considerando que a nossa audiência atrasou pra caramba.
+
+1640
+02:08:05,720 --> 02:08:06,720
+Então, muito obrigada.
+
+1641
+02:08:07,720 --> 02:08:11,720
+Eu já peguei os dados do senhor e agradeço a sua participação.
+
+1642
+02:08:12,720 --> 02:08:13,720
+Obrigado, o senhor está dispensado.
+
+1643
+02:08:14,720 --> 02:08:21,720
+Não há mais ninguém no lobby e há ainda testemunhas arroladas na denúncia.
+
+1644
+02:08:23,720 --> 02:08:24,720
+Deixa-me ver aqui.
+
+1645
+02:08:26,720 --> 02:08:28,720
+Vanderlei ouve dispensa.
+
+1646
+02:08:32,720 --> 02:08:34,720
+O outro Rodrigo também.
+
+1647
+02:08:35,720 --> 02:08:37,720
+Ouviu o doutor Rodrigo e o doutor Nelson.
+
+1648
+02:08:38,720 --> 02:08:42,720
+Ainda há Débora Santana da Silva, que não se encontra presente,
+
+1649
+02:08:43,720 --> 02:08:46,720
+Peter Nunes, que não se encontra presente também.
+
+1650
+02:08:48,720 --> 02:08:49,720
+E aí, doutora?
+
+1651
+02:08:50,720 --> 02:08:57,720
+Tem outro policial militar também de nome Anderson dos Santos da Rocha, que também não se encontra presente.
+
+1652
+02:08:58,720 --> 02:08:59,720
+A Rocha está entrando.
+
+1653
+02:09:00,720 --> 02:09:01,720
+Oi, quem?
+
+1654
+02:09:02,720 --> 02:09:03,720
+O Rocha, o policial.
+
+1655
+02:09:04,720 --> 02:09:05,720
+Anderson.
+
+1656
+02:09:06,720 --> 02:09:07,720
+É o Anderson?
+
+1657
+02:09:08,720 --> 02:09:10,720
+Ah, então tá bom, então o Anderson.
+
+1658
+02:09:11,720 --> 02:09:14,720
+A Débora e o Peter, doutora, eu vou desistir, eu não vou insistir neles, não.
+
+1659
+02:09:33,720 --> 02:09:34,720
+Ele está no meu lobby, não.
+
+1660
+02:09:36,720 --> 02:09:37,720
+Ele está conectando.
+
+1661
+02:09:38,720 --> 02:09:39,720
+Tá bom.
+
+1662
+02:09:41,720 --> 02:09:46,720
+Bom, então ele vai ser o último arrolado pela denúncia.
+
+1663
+02:09:47,720 --> 02:09:50,720
+E aí eu quero saber se...
+
+1664
+02:09:51,720 --> 02:09:54,720
+Vou ter que descobrir aqui onde estão as respostas de cada um.
+
+1665
+02:09:55,720 --> 02:09:59,720
+Ah, sim, senhor Anderson, para ver aqueles que...
+
+1666
+02:10:06,720 --> 02:10:07,720
+Boa noite.
+
+1667
+02:10:08,720 --> 02:10:10,720
+Boa noite, o senhor está atrás de mim de novo.
+
+1668
+02:10:11,720 --> 02:10:14,720
+Espera aí, deixa eu me fixar aqui o senhor, que é para poder vê-lo de perto.
+
+1669
+02:10:15,720 --> 02:10:17,720
+Policial, o senhor está de folga? Não, né?
+
+1670
+02:10:18,720 --> 02:10:19,720
+Tá nada, né?
+
+1671
+02:10:20,720 --> 02:10:23,720
+Tá trabalhando. Ai, graças a Deus, porque a sua horário ninguém merece, né?
+
+1672
+02:10:24,720 --> 02:10:26,720
+O senhor já é subtenente?
+
+1673
+02:10:27,720 --> 02:10:28,720
+O senhor é o quê?
+
+1674
+02:10:29,720 --> 02:10:30,720
+Primeiro sargento.
+
+1675
+02:10:31,720 --> 02:10:33,720
+Primeiro sargento? Tá quase, daqui a pouco é rapidinho.
+
+1676
+02:10:34,720 --> 02:10:36,720
+O senhor pode me dar o seu RG?
+
+1677
+02:10:37,720 --> 02:10:39,720
+620.
+
+1678
+02:10:40,720 --> 02:10:41,720
+620.
+
+1679
+02:10:42,720 --> 02:10:44,720
+Anderson dos Santos da Rocha, não é isso?
+
+1680
+02:10:45,720 --> 02:10:46,720
+Senhor Anderson.
+
+1681
+02:10:47,720 --> 02:10:55,720
+Senhor Anderson, quem vai indagar do senhor, primeiramente vai ser a doutora Renata, promotora de justiça,
+
+1682
+02:10:56,720 --> 02:11:00,720
+depois as defesas de cada acusado, que são vários, tá?
+
+1683
+02:11:00,720 --> 02:11:03,720
+Se for o caso, eu farei alguma pergunta complementar ao final.
+
+1684
+02:11:04,720 --> 02:11:10,720
+Eu não leio denúncia, como o meu colega parece que faz, eu não leio, mas não tem problema,
+
+1685
+02:11:11,720 --> 02:11:16,720
+porque a doutora tem o jeitinho, os promotores estão acostumados a fazê-los lembrar de alguma coisa,
+
+1686
+02:11:17,720 --> 02:11:20,720
+então só pode ficar tranquilo que, só mesmo se realmente eu não lembrar mesmo,
+
+1687
+02:11:21,720 --> 02:11:23,720
+mas fora isso, ela vai dar o jeitinho dela.
+
+1688
+02:11:24,720 --> 02:11:27,720
+E aí depois eu passo a palavra para os advogados das defesas,
+
+1689
+02:11:27,720 --> 02:11:31,720
+se for o caso, eu farei alguma pergunta complementar ao final.
+
+1690
+02:11:32,720 --> 02:11:33,720
+Podemos começar então?
+
+1691
+02:11:34,720 --> 02:11:39,720
+Mas antes disso, deixa eu ver onde é que está ele que eu não estou vendo.
+
+1692
+02:11:40,720 --> 02:11:41,720
+Cadê o acusado?
+
+1693
+02:11:42,720 --> 02:11:43,720
+Não está aqui.
+
+1694
+02:11:44,720 --> 02:11:45,720
+Sumiu.
+
+1695
+02:11:46,720 --> 02:11:52,720
+Os acusados, na verdade, eles não foram apresentados, apenas um deles, Paulo Henrique,
+
+1696
+02:11:52,720 --> 02:11:57,720
+que foi apresentado e eu não estou vendo mais ele aqui, porque não sei.
+
+1697
+02:11:58,720 --> 02:12:00,720
+Não sei se eles estão vendo o Paulo Henrique?
+
+1698
+02:12:01,720 --> 02:12:02,720
+Sim, excelente.
+
+1699
+02:12:03,720 --> 02:12:04,720
+É eu que não estou.
+
+1700
+02:12:05,720 --> 02:12:08,720
+Bom, é um que está de camisa branca, não sei se o senhor está conseguindo ver,
+
+1701
+02:12:09,720 --> 02:12:13,720
+porque eu também aumentei a sua imagem, aí pode ser que eu tenha perdido a imagem dele.
+
+1702
+02:12:14,720 --> 02:12:18,720
+Ele é um dos acusados e eu vou dizer os nomes das pessoas
+
+1703
+02:12:19,720 --> 02:12:21,720
+e pergunto se o senhor tem algum problema pessoal com essas pessoas.
+
+1704
+02:12:22,720 --> 02:12:27,720
+Elas não foram apresentadas, mas as defesas não se opuseram de colher a prova sem a presença deles.
+
+1705
+02:12:28,720 --> 02:12:33,720
+Então, o primeiro acusado chama-se Júlio Pereira Marcos, supostamente vulgo, Julião.
+
+1706
+02:12:34,720 --> 02:12:39,720
+A segunda pessoa seria José Guilherme da Costa Freire, o terceiro, Cristiano Pereira Marcos,
+
+1707
+02:12:40,720 --> 02:12:46,720
+o quarto é o tal do Paulo Henrique, que se encontra presente, único acusado, supostamente vulgo, Paulinho,
+
+1708
+02:12:46,720 --> 02:12:53,720
+Emerson Fernandes Ananias, Rodrigo Duarte de Souza, que embora esteja denunciado esse processo,
+
+1709
+02:12:54,720 --> 02:12:56,720
+ele não está neste processo agora porque foi desmembrado,
+
+1710
+02:12:57,720 --> 02:12:59,720
+para não prejudicar os demais que estão presos,
+
+1711
+02:13:00,720 --> 02:13:04,720
+e o último, Juliano Lucas Nunes, que supostamente teria o vulgo de Lucas.
+
+1712
+02:13:05,720 --> 02:13:06,720
+O senhor tem algum problema pessoal com essas pessoas?
+
+1713
+02:13:07,720 --> 02:13:08,720
+Não.
+
+1714
+02:13:09,720 --> 02:13:11,720
+Então está bem, então podemos ouvi-lo sobre o compromisso de verdade.
+
+1715
+02:13:12,720 --> 02:13:16,720
+Doutora Renata, querendo, pode indagar do policial senhor Anderson.
+
+1716
+02:13:17,720 --> 02:13:20,720
+Obrigada, silêncio. Boa noite, policial, tudo bom?
+
+1717
+02:13:21,720 --> 02:13:22,720
+Boa noite, senhora.
+
+1718
+02:13:23,720 --> 02:13:26,720
+Esse processo aqui, na verdade, se refere a vários réus,
+
+1719
+02:13:27,720 --> 02:13:32,720
+mas a participação do senhor seria só relacionada ao réu chamado José Guilherme,
+
+1720
+02:13:33,720 --> 02:13:39,720
+sobre uma ocorrência em março de 2021 relacionada a uma denúncia de roubos de moto lá perto da reta da Marina,
+
+1721
+02:13:39,720 --> 02:13:44,720
+onde foi apreendido uma quantidade de maconha numa das casinhas, o senhor se recorda?
+
+1722
+02:13:45,720 --> 02:13:46,720
+Lembro-se, senhora.
+
+1723
+02:13:47,720 --> 02:13:48,720
+O senhor pode contar, por favor, como foi a sua ocorrência?
+
+1724
+02:13:49,720 --> 02:13:55,720
+Bom, a gente recebeu uma denúncia que estava tendo assalto de moto na Rasa,
+
+1725
+02:13:56,720 --> 02:14:00,720
+está na Marina, eu lembro que a gente ficou patrulhando ali no local,
+
+1726
+02:14:01,720 --> 02:14:07,720
+e o moto viu a gente, voltou, e a gente foi atrás.
+
+1727
+02:14:08,720 --> 02:14:10,720
+Aí eu lembro que a gente se abordou.
+
+1728
+02:14:12,720 --> 02:14:15,720
+Aí eu não lembro como foi o senhor José, eu não lembro o que foi.
+
+1729
+02:14:16,720 --> 02:14:19,720
+É o senhor que chegou lá na casa, a gente contou a pessoa,
+
+1730
+02:14:20,720 --> 02:14:23,720
+aí perguntaram se tinha arma, se tinha droga,
+
+1731
+02:14:24,720 --> 02:14:26,720
+ele foi muito educado com a gente,
+
+1732
+02:14:27,720 --> 02:14:30,720
+e depois ele disse que tinha droga e a gente pediu pra pegar lá o que era,
+
+1733
+02:14:31,720 --> 02:14:33,720
+e ele e todo mundo pediu.
+
+1734
+02:14:37,720 --> 02:14:42,720
+Para a gente, só um finalzinho, que eu acho que teve alguma interrupção aí no seu áudio,
+
+1735
+02:14:43,720 --> 02:14:45,720
+aí vocês pediram para ele buscar a droga dentro de casa e ele saiu com o quê?
+
+1736
+02:14:46,720 --> 02:14:49,720
+Ele saiu dentro de um vidro, um pote tipo aqueles potes de vidro de bispoito,
+
+1737
+02:14:50,720 --> 02:14:54,720
+aí ele trouxe, aí a gente levou para a delegacia, mas...
+
+1738
+02:14:57,720 --> 02:15:01,720
+Eu acho que ele não estava envolvido com o negócio de moto lá de local.
+
+1739
+02:15:02,720 --> 02:15:03,720
+Não sei.
+
+1740
+02:15:04,720 --> 02:15:07,720
+Então ele que pegou dentro de casa, vocês não chegaram a entrar na casa dele,
+
+1741
+02:15:08,720 --> 02:15:11,720
+fizeram buscas e pegaram, ele que levou para vocês a maconha que ele tinha?
+
+1742
+02:15:12,720 --> 02:15:16,720
+Não, é porque ele tratou a gente de má educação ali no portão e tal, falando,
+
+1743
+02:15:17,720 --> 02:15:21,720
+aí a gente foi conversando e ele... aí eu perguntei, olha, tem arma dentro de casa?
+
+1744
+02:15:22,720 --> 02:15:23,720
+Droga, alguma coisa?
+
+1745
+02:15:24,720 --> 02:15:25,720
+Ele disse, não tem aqui.
+
+1746
+02:15:26,720 --> 02:15:28,720
+Aí foi lá que a gente pegou.
+
+1747
+02:15:29,720 --> 02:15:32,720
+Era tipo um tablet assim de maconha ou estava fracionado?
+
+1748
+02:15:33,720 --> 02:15:34,720
+Não lembra?
+
+1749
+02:15:35,720 --> 02:15:38,720
+Não lembro, acho que estava quebrado, quebrado dentro de um pote de bispoito.
+
+1750
+02:15:39,720 --> 02:15:44,720
+Mas não estava assim, tipo o bus, endolado, com inscrição, tipo aquela fracionada?
+
+1751
+02:15:45,720 --> 02:15:46,720
+Não.
+
+1752
+02:15:49,720 --> 02:15:54,720
+Depois desse dia, lembra se o senhor chegou a ver o Zé Guilherme de novo,
+
+1753
+02:15:55,720 --> 02:15:56,720
+chegou a abordar ele de novo?
+
+1754
+02:15:57,720 --> 02:15:58,720
+Não, não.
+
+1755
+02:15:58,720 --> 02:16:03,720
+Depois dessa semana eu saí da rua e vim trabalhar interno, já.
+
+1756
+02:16:04,720 --> 02:16:08,720
+Ah, tá, tá. Então tá bom. Obrigada, Priscila. Sem mais perguntas.
+
+1757
+02:16:09,720 --> 02:16:12,720
+Ok, agora eu vou indagar dos advogados de cada cruzado, tá?
+
+1758
+02:16:13,720 --> 02:16:14,720
+Só um minutinho se tem perguntas para o senhor.
+
+1759
+02:16:15,720 --> 02:16:17,720
+Priscila, eu tenho uma pergunta...
+
+1760
+02:16:18,720 --> 02:16:21,720
+É só um minutinho, vamos para a gente respeitar a ordem, né?
+
+1761
+02:16:22,720 --> 02:16:23,720
+Os senhores gostam tanto de usar a expressão, né?
+
+1762
+02:16:23,720 --> 02:16:25,720
+Pela ordem, então, eu estou a...
+
+1763
+02:16:26,720 --> 02:16:27,720
+Está na onda, Priscila.
+
+1764
+02:16:28,720 --> 02:16:29,720
+Vamos lá.
+
+1765
+02:16:30,720 --> 02:16:34,720
+Advogado do Zé Guilherme, pode formular a pergunta se tiver.
+
+1766
+02:16:35,720 --> 02:16:37,720
+O policial, boa noite.
+
+1767
+02:16:38,720 --> 02:16:43,720
+O senhor falou que a droga estava na casa dele,
+
+1768
+02:16:44,720 --> 02:16:46,720
+e que ele trouxe com o senhor espontaneamente.
+
+1769
+02:16:47,720 --> 02:16:50,720
+Então a droga, conforme o delegado falou, não estava na porta,
+
+1770
+02:16:50,719 --> 02:16:52,719
+ela estava na porta, ela estava dentro da casa dele.
+
+1771
+02:16:53,719 --> 02:17:00,719
+Ela estava dentro da casa dele, que ele trouxe para lhe entregar.
+
+1772
+02:17:01,719 --> 02:17:02,719
+Foi isso que o senhor falou?
+
+1773
+02:17:03,719 --> 02:17:06,719
+Sim, ele disse que sim, doutor. Mais alguma indagação?
+
+1774
+02:17:07,719 --> 02:17:12,719
+Tá. Então, essa droga a senhora não sabe como foi encontrada, não, né?
+
+1775
+02:17:13,719 --> 02:17:14,719
+Que foi pressionada...
+
+1776
+02:17:15,719 --> 02:17:18,719
+Ele respondeu que estava pressionada dentro de um pontinho de biscoito.
+
+1777
+02:17:18,719 --> 02:17:20,719
+Mais alguma indagação?
+
+1778
+02:17:21,719 --> 02:17:22,719
+Sem perguntas em silêncio.
+
+1779
+02:17:23,719 --> 02:17:27,719
+Ok, obrigada. Agora, defesa do senhor Cristiano.
+
+1780
+02:17:28,719 --> 02:17:29,719
+Sem perguntas.
+
+1781
+02:17:30,719 --> 02:17:32,719
+Defesa do senhor Paulo Henrique.
+
+1782
+02:17:33,719 --> 02:17:34,719
+Sem perguntas em silêncio.
+
+1783
+02:17:35,719 --> 02:17:37,719
+Defesa do senhor Emerson Fernandes Ananias.
+
+1784
+02:17:38,719 --> 02:17:39,719
+Sem perguntas em silêncio.
+
+1785
+02:17:40,719 --> 02:17:43,719
+Defesa do senhor Juliano Lucas Nunes.
+
+1786
+02:17:44,719 --> 02:17:45,719
+Sem perguntas em silêncio.
+
+1787
+02:17:45,719 --> 02:17:47,719
+Ok. Muito obrigada, senhoranda.
+
+1788
+02:17:48,719 --> 02:17:52,719
+Eu sou um desculpe do horário, mas é que atrasou muito a primeira e essa também é bem longa.
+
+1789
+02:17:53,719 --> 02:17:54,719
+Tenho outra ainda, tenho outra ainda.
+
+1790
+02:17:55,719 --> 02:17:59,719
+Pois é, eu tenho também. Se servir de consola, nós nos encontraremos.
+
+1791
+02:18:00,719 --> 02:18:02,719
+Mas o senhor tem que saber que o senhor está trabalhando hoje, o senhor deu sorte.
+
+1792
+02:18:03,719 --> 02:18:04,719
+Deu sorte mesmo.
+
+1793
+02:18:05,719 --> 02:18:06,719
+Isso aí. Muito obrigada, então.
+
+1794
+02:18:07,719 --> 02:18:08,719
+Eu que agradeço.
+
+1795
+02:18:09,719 --> 02:18:10,719
+Boa noite até daqui a pouco, então.
+
+1796
+02:18:11,719 --> 02:18:12,719
+Boa noite.
+
+1797
+02:18:13,719 --> 02:18:14,719
+Obrigada.
+
+1798
+02:18:16,719 --> 02:18:17,719
+É.
+
+1799
+02:18:18,719 --> 02:18:25,719
+Doutores, eu creio que não estão presentes as testemunhas arroladas pela defesa.
+
+1800
+02:18:26,719 --> 02:18:28,719
+Não me apareceu ninguém no lobby aqui.
+
+1801
+02:18:29,719 --> 02:18:31,719
+Eu tenho que saber com o pessoal lá do...
+
+1802
+02:18:32,719 --> 02:18:33,719
+Se tem alguém.
+
+1803
+02:18:34,719 --> 02:18:35,719
+É.
+
+1804
+02:18:36,719 --> 02:18:37,719
+Se tem alguém aguardando.
+
+1805
+02:18:38,719 --> 02:18:40,719
+Estão todas aqui presentes aqui no ato, silêncio.
+
+1806
+02:18:41,719 --> 02:18:45,719
+Sim, só que nós vamos ter um problema porque nós não vamos poder colher o interrogatório.
+
+1807
+02:18:46,719 --> 02:18:51,719
+Então, eu vou encerrando a prova do Ministério Público.
+
+1808
+02:18:52,719 --> 02:18:56,719
+Eu vou deixar para que seja colhida a prova da defesa junto com a possibilidade do interrogatório.
+
+1809
+02:18:57,719 --> 02:18:59,719
+Porque senão a gente não vai terminar isso hoje.
+
+1810
+02:19:00,719 --> 02:19:03,719
+E não vai adiantar porque nós não vamos conseguir ultimar a audiência hoje.
+
+1811
+02:19:04,719 --> 02:19:06,719
+Porque não poderemos colher o interrogatório.
+
+1812
+02:19:07,719 --> 02:19:10,719
+Então, eu vou determinar a continuação.
+
+1813
+02:19:11,719 --> 02:19:15,719
+Vou determinar na sentada que seja o marcado com urgência.
+
+1814
+02:19:16,719 --> 02:19:18,719
+Considerando que se tratam de réus presos.
+
+1815
+02:19:19,719 --> 02:19:23,719
+E vamos prosseguir com essa continuação da audiência.
+
+1816
+02:19:24,719 --> 02:19:27,719
+No momento em que se possa colher a prova da defesa.
+
+1817
+02:19:28,719 --> 02:19:33,719
+E se fazer o interrogatório.
+
+1818
+02:19:33,719 --> 02:19:35,719
+Então, eu já vou mandar mensagem aqui.
+
+1819
+02:19:36,719 --> 02:19:37,719
+Não sei se o Pablo está me ouvindo.
+
+1820
+02:19:38,719 --> 02:19:39,719
+Para eles já marcarem uma data.
+
+1821
+02:19:40,719 --> 02:19:45,719
+E colherem as intimações das testemunhas presenciais.
+
+1822
+02:19:46,719 --> 02:19:48,719
+Para que não haja nenhum tipo de prejuízo.
+
+1823
+02:19:49,719 --> 02:19:50,719
+Em termos de não serem intimados.
+
+1824
+02:19:51,719 --> 02:19:52,719
+Eu vou falar aqui com o pessoal.
+
+1825
+02:19:53,719 --> 02:19:54,719
+Que eu não sei se ele está me escutando.
+
+1826
+02:19:55,719 --> 02:19:56,719
+Está me escutando, doutora.
+
+1827
+02:19:57,719 --> 02:19:58,719
+Então, beleza.
+
+1828
+02:19:59,719 --> 02:20:01,719
+Eu ia mandar por WhatsApp porque às vezes não escutam.
+
+1829
+02:20:01,719 --> 02:20:03,719
+Então, eu gostaria de pedir a vocês já.
+
+1830
+02:20:04,719 --> 02:20:05,719
+Para designar a continuação.
+
+1831
+02:20:06,719 --> 02:20:07,719
+E eu fixo isso na sentada.
+
+1832
+02:20:08,719 --> 02:20:09,719
+Pela ordem, silêncio.
+
+1833
+02:20:10,719 --> 02:20:11,719
+Sim.
+
+1834
+02:20:12,719 --> 02:20:13,719
+Eu tenho requerimento.
+
+1835
+02:20:14,719 --> 02:20:15,719
+Não, doutor.
+
+1836
+02:20:16,719 --> 02:20:17,719
+Calma aí que eu ainda não encerrei a audiência.
+
+1837
+02:20:18,719 --> 02:20:19,719
+Calma.
+
+1838
+02:20:20,719 --> 02:20:21,719
+O senhor é muito apoio, doutor.
+
+1839
+02:20:22,719 --> 02:20:23,719
+O senhor tem que ficar mais calmo.
+
+1840
+02:20:24,719 --> 02:20:25,719
+A gente quando vai ficando assim de mais idade.
+
+1841
+02:20:26,719 --> 02:20:27,719
+A gente vai ficando mais calmo.
+
+1842
+02:20:28,719 --> 02:20:29,719
+O senhor parece que ficou mais agitado.
+
+1843
+02:20:30,719 --> 02:20:31,719
+Calma.
+
+1844
+02:20:32,719 --> 02:20:33,719
+Já fui muito mais agitado.
+
+1845
+02:20:34,719 --> 02:20:35,719
+O senhor é muito agitado.
+
+1846
+02:20:36,719 --> 02:20:38,719
+Daqui a pouco eu vou permitir a manifestação de todo mundo.
+
+1847
+02:20:39,719 --> 02:20:40,719
+Eu agora estou falando com a secretaria.
+
+1848
+02:20:41,719 --> 02:20:42,719
+Para nós marcarmos a continuação.
+
+1849
+02:20:43,719 --> 02:20:44,719
+Ok?
+
+1850
+02:20:45,719 --> 02:20:46,719
+Doutora.
+
+1851
+02:20:47,719 --> 02:20:48,719
+Sim.
+
+1852
+02:20:49,719 --> 02:20:50,719
+Posso colocar para segunda semana de agosto?
+
+1853
+02:20:51,719 --> 02:20:52,719
+Você acha perto?
+
+1854
+02:20:53,719 --> 02:20:54,719
+Tem que ver.
+
+1855
+02:20:55,719 --> 02:20:56,719
+Olha só.
+
+1856
+02:20:57,719 --> 02:20:58,719
+Os réus estão presos.
+
+1857
+02:20:59,719 --> 02:21:00,719
+Não tem que ser tão alto.
+
+1858
+02:21:01,719 --> 02:21:02,719
+O mais rápido possível.
+
+1859
+02:21:03,719 --> 02:21:04,719
+Se for a única data, entendeu?
+
+1860
+02:21:05,719 --> 02:21:06,719
+Mas se tiver alguma possibilidade
+
+1861
+02:21:07,719 --> 02:21:08,719
+porque vão ser ouvidas as testemunhas
+
+1862
+02:21:09,719 --> 02:21:10,719
+agoladas pela defesa.
+
+1863
+02:21:11,719 --> 02:21:14,719
+Tem que ser um dia que esteja tranquilo a situação.
+
+1864
+02:21:15,719 --> 02:21:16,719
+E eu não sei como que o colega vai fazer.
+
+1865
+02:21:17,719 --> 02:21:18,719
+Vai fazer presencial.
+
+1866
+02:21:19,719 --> 02:21:20,719
+Vai fazer via virtual.
+
+1867
+02:21:21,719 --> 02:21:22,719
+Eu não sei.
+
+1868
+02:21:23,719 --> 02:21:24,719
+Tem que ver.
+
+1869
+02:21:25,719 --> 02:21:26,719
+Tem que ver a data que vocês possam marcar.
+
+1870
+02:21:26,719 --> 02:21:33,479
+Eu só preciso consignar isso em ata para poder saber a continuação, por favor.
+
+1871
+02:21:33,479 --> 02:21:56,519
+E aí eu peço eles que colhem as intimações por certidão e depois integrem
+
+1872
+02:21:57,079 --> 02:22:03,120
+digitalizando a certidão com a assinatura das testemunhas intimadas, tá? Para data e horário.
+
+1873
+02:22:03,120 --> 02:22:08,520
+Doutor, o Pabllo tá te enviando pelo WhatsApp.
+
+1874
+02:22:08,520 --> 02:22:11,079
+Ah, que ótimo, então tá bom.
+
+1875
+02:22:11,079 --> 02:22:13,280
+As testemunhas estão em defesa, estão dispensadas, Celense?
+
+1876
+02:22:13,280 --> 02:22:17,239
+Não, não estão dispensadas, porque elas vão ser intimadas da data, doutor.
+
+1877
+02:22:17,239 --> 02:22:24,399
+Exatamente. Enquanto elas não se forem intimadas por certidão da continuação da audiência,
+
+1878
+02:22:24,440 --> 02:22:28,799
+elas não estão dispensadas, só não vão ser ouvidas hoje, somente.
+
+1879
+02:22:28,799 --> 02:22:35,000
+Mas eles vão providenciar isso aí, a certidãozinha com a continuação e vão colher as
+
+1880
+02:22:35,000 --> 02:22:40,600
+intimações das testemunhas, ok? Então eu agradeço a presença de todos, teremos ainda,
+
+1881
+02:22:40,600 --> 02:22:46,719
+doutora Renata, para a tristeza nossa e alegria talvez de, sei lá, dos acusados,
+
+1882
+02:22:47,319 --> 02:22:53,519
+teremos a última audiência, 21, 25, 18, de índice 28.
+
+1883
+02:22:53,519 --> 02:23:00,519
+Passe tudo, disto 28. Só agradeço a presença de todos, peço desculpa por alguma coisa,
+
+1884
+02:23:00,519 --> 02:23:02,519
+alguma brincadeirinha, sei lá.
+
+1885
+02:23:02,519 --> 02:23:05,920
+Celense, pela ordem, Celense. Antes de encerrar a audiência,
+
+1886
+02:23:05,920 --> 02:23:08,319
+é, os senhores querem fazer os requerimentos, né?
+
+1887
+02:23:08,319 --> 02:23:11,519
+Eu já presumo quais sejam. Posso adivinhar?
+
+1888
+02:23:11,720 --> 02:23:16,720
+Liberdade, infelizmente, não vou poder. Porque nós estamos no meio da instrução.
+
+1889
+02:23:16,720 --> 02:23:22,720
+Então, se os senhores quiserem, eu vou indeferir, na assentada eu vou indeferir, tá?
+
+1890
+02:23:22,720 --> 02:23:29,120
+Porque nós estamos colhendo, colhemos hoje a prova arrolada na denúncia,
+
+1891
+02:23:29,120 --> 02:23:32,520
+nós estamos no meio da instrução, né?
+
+1892
+02:23:32,520 --> 02:23:38,720
+O status do processo continua com o que consta da inquisa,
+
+1893
+02:23:38,920 --> 02:23:43,319
+porque até agora nós só produzimos a prova da denúncia.
+
+1894
+02:23:43,319 --> 02:23:47,319
+Portanto, não alterou o estado dos fatos aqui até agora.
+
+1895
+02:23:47,319 --> 02:23:52,920
+Então, por isso, eu vou indeferir o requerimento libertário que vou atribuir a todos, né?
+
+1896
+02:23:52,920 --> 02:23:56,719
+Consigo que todos os advogados requeriram a liberdade,
+
+1897
+02:23:56,719 --> 02:23:59,319
+mas já estou declarando que eu vou indeferi-la,
+
+1898
+02:23:59,319 --> 02:24:02,319
+porque não alterou o estado do processo.
+
+1899
+02:24:02,319 --> 02:24:06,719
+Nós até agora colhemos a prova do Ministério Público,
+
+1900
+02:24:06,719 --> 02:24:14,119
+e como os senhores viram, um delegado que eu fiquei bem pressionada com o trabalho diligente dele.
+
+1901
+02:24:14,119 --> 02:24:18,319
+Então, podemos encerrar a nossa audiência,
+
+1902
+02:24:18,319 --> 02:24:22,119
+sendo certo que as testemunhas dos senhores já irão intimadas,
+
+1903
+02:24:22,119 --> 02:24:24,920
+acho que estão presentes hoje, ok?
+
+1904
+02:24:24,920 --> 02:24:29,119
+Muito obrigada, uma boa noite a todos, tudo de bom.
+
+1905
+02:24:29,119 --> 02:24:32,319
+Pela ordem, a senhora quer falar, a senhora?
+
+1906
+02:24:32,319 --> 02:24:33,719
+Pode falar, doutor.
+
+1907
+02:24:33,719 --> 02:24:38,319
+A excelência, considerando que o réu se apresentou espontaneamente na...
+
+1908
+02:24:38,319 --> 02:24:39,920
+Vou indeferir, doutor.
+
+1909
+02:24:39,920 --> 02:24:43,519
+Vou indeferir, já está indeferida a defesa, sabe por quê?
+
+1910
+02:24:43,519 --> 02:24:45,920
+Vou repetir a fundamentação.
+
+1911
+02:24:45,920 --> 02:24:49,519
+Até agora, nós só temos o que consta da inquisa.
+
+1912
+02:24:49,519 --> 02:24:56,119
+A instrução está mantida, porque ainda estamos com o que consta da inquisa.
+
+1913
+02:24:56,119 --> 02:24:59,119
+A inquisa que foi decretada a prisão,
+
+1914
+02:24:59,120 --> 02:25:03,120
+porque não foi decretada a prisão apenas por uma...
+
+1915
+02:25:03,120 --> 02:25:06,120
+No primeiro, nós não precisamos da concomitância
+
+1916
+02:25:06,120 --> 02:25:09,120
+de todos os requisitos do artigo 312.
+
+1917
+02:25:09,120 --> 02:25:11,320
+Basta a presença de um.
+
+1918
+02:25:11,320 --> 02:25:14,920
+Nós já estamos ainda com o relatório da inquisa,
+
+1919
+02:25:14,920 --> 02:25:18,320
+ou seja, o que fundamentou a denúncia.
+
+1920
+02:25:18,320 --> 02:25:21,320
+Até agora, só temos essa prova produzida.
+
+1921
+02:25:21,320 --> 02:25:25,520
+Por outro lado, nós ainda não terminamos a instrução,
+
+1922
+02:25:25,520 --> 02:25:28,320
+começa por aí, não terminamos.
+
+1923
+02:25:28,319 --> 02:25:33,119
+E, por outro lado, ainda tem a possibilidade da aplicação da lei penal.
+
+1924
+02:25:33,119 --> 02:25:37,719
+Então, diante disso, são todos os requisitos do artigo 312,
+
+1925
+02:25:37,719 --> 02:25:40,119
+que não são concomitantes.
+
+1926
+02:25:40,119 --> 02:25:42,520
+Basta a presença de um.
+
+1927
+02:25:42,520 --> 02:25:47,520
+E eu entendo que as medidas cautelares substitutivas
+
+1928
+02:25:47,520 --> 02:25:56,319
+da cautelar corporal não atendem à garantia da aplicação da lei penal
+
+1929
+02:25:56,319 --> 02:26:00,319
+e nem à conveniência da instrução criminal,
+
+1930
+02:26:00,319 --> 02:26:06,520
+porque já foi encerrado apenas o que constou da inquisa.
+
+1931
+02:26:06,520 --> 02:26:08,719
+Nós estamos ainda em instrução.
+
+1932
+02:26:08,719 --> 02:26:10,719
+Então, está indefinida.
+
+1933
+02:26:10,719 --> 02:26:13,719
+O senhor pode ficar à vontade para empetrar o habeas corpus,
+
+1934
+02:26:13,719 --> 02:26:15,119
+não tem problema.
+
+1935
+02:26:15,119 --> 02:26:19,119
+Eu não ligo com habeas corpus de verdade, só ligo de verdade.
+
+1936
+02:26:19,119 --> 02:26:21,319
+Sabe qual é o habeas corpus que eu acho que eu ligo?
+
+1937
+02:26:21,319 --> 02:26:25,319
+É certo de fato, a minha vara não tem.
+
+1938
+02:26:25,319 --> 02:26:28,119
+Agora, habeas corpus, por outras fundamentações,
+
+1939
+02:26:28,119 --> 02:26:30,520
+podem ingressar com vários, porque eu informo em uma...
+
+1940
+02:26:30,520 --> 02:26:32,119
+Excelente.
+
+1941
+02:26:32,119 --> 02:26:35,520
+Tem que definir como está a defesa, mas é um recurso.
+
+1942
+02:26:35,520 --> 02:26:37,520
+Isso, isso mesmo.
+
+1943
+02:26:37,520 --> 02:26:40,319
+Mas aí, os senhores ganham mais dinheiro, pô.
+
+1944
+02:26:40,319 --> 02:26:42,520
+Os senhores estão reclamando, os senhores trabalham por peça,
+
+1945
+02:26:42,520 --> 02:26:43,719
+pelo amor de Deus.
+
+1946
+02:26:43,719 --> 02:26:46,920
+Quanto mais recurso, quanto mais defesa,
+
+1947
+02:26:46,920 --> 02:26:49,520
+mais os senhores têm que falar ao cliente, olha só,
+
+1948
+02:26:49,520 --> 02:26:51,119
+que você me dá trabalho.
+
+1949
+02:26:51,119 --> 02:26:52,520
+É isso, doutor.
+
+1950
+02:26:52,520 --> 02:26:54,920
+Mas beleza, estou até ajudando o trabalho do senhor,
+
+1951
+02:26:54,920 --> 02:26:56,319
+pelo amor de Deus.
+
+1952
+02:26:56,319 --> 02:26:57,920
+Né? Então, só isso.
+
+1953
+02:26:57,920 --> 02:27:01,319
+Muito obrigada, uma boa noite a todos,
+
+1954
+02:27:01,319 --> 02:27:03,520
+é prazer em conhecê-los.
+
+1955
+02:27:03,520 --> 02:27:07,520
+E vamos, doutora, para a nossa última lei,
+
+1956
+02:27:07,520 --> 02:27:11,319
+horário 15h30, 15h30.
+
+1957
+02:27:11,319 --> 02:27:12,319
+Ok?
+

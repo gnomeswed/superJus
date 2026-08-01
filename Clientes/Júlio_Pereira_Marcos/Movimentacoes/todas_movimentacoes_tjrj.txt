@@ -1,0 +1,10 @@
+Processo: 00230135120218190078
+
+--- Movimento 1 ---
+Data: 17/05/2022
+Tipo: Desmembramento do feito principal.
+
+--- Movimento 2 ---
+Data: 12/05/2026
+Tipo: Mandado de prisão cumprido em desfavor do réu.
+

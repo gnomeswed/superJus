@@ -10,3 +10,8 @@ ENV/
 env.bak/
 venv.bak/
 .vscode/
+
+*.mp4
+*.mkv
+*.avi
+*.zip

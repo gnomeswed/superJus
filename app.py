@@ -761,21 +761,64 @@ with tab_docs:
     """, unsafe_allow_html=True)
 
     process_number_tjrj = st.text_input("Número do Processo TJRJ", value=default_process_number, placeholder="Ex: 0011857-95.2021.8.19.0002", key="tjrj_process_number")
-    if st.button("Abrir Extrator TJRJ", key="btn_open_tjrj"):
+    if st.button("Executar Atualização TJRJ", key="btn_open_tjrj"):
         if not process_number_tjrj.strip():
-            st.warning("Informe o número do processo para abrir o extrator.")
+            st.warning("Informe o número do processo para executar a atualização.")
         else:
-            from scripts.tjrj_extractor import extract_tjrj
+            import re
+            from scripts.tjrj_scraper_auto import scrape_process_documents
+            from scripts.process_and_timeline import generate_timeline_and_summary
             try:
                 save_dir = os.path.join(case_path, "documentos_processo")
-                with st.spinner("Abrindo extrator TJRJ..."):
-                    result = extract_tjrj(process_number_tjrj.strip(), save_dir)
-                st.success("Extração finalizada.")
-                st.text(result)
-            except RuntimeError as e:
-                st.error(str(e))
+                out_path = os.path.join(case_path, "analises", "Relatorio_Processo.json")
+                
+                with st.spinner("Buscando e baixando documentos do processo no TJRJ..."):
+                    scraped_files = scrape_process_documents(process_number_tjrj.strip(), save_dir)
+                
+                if not scraped_files:
+                    st.warning("Nenhum documento novo foi encontrado ou extraído.")
+                else:
+                    st.info(f"Sucesso: {len(scraped_files)} documentos obtidos.")
+                    
+                with st.spinner("Processando documentos e gerando linha do tempo/resumo..."):
+                    result = generate_timeline_and_summary(save_dir, out_path)
+                
+                # Transform and save timeline
+                raw_timeline = result.get("timeline", [])
+                transformed_timeline = []
+                for entry in raw_timeline:
+                    raw_date = entry.get("date", "")
+                    # Convert DD/MM/YYYY to YYYY-MM-DD
+                    if re.match(r'^\d{2}/\d{2}/\d{4}$', raw_date):
+                        parts = raw_date.split('/')
+                        formatted_date = f"{parts[2]}-{parts[1]}-{parts[0]}"
+                    else:
+                        formatted_date = raw_date
+                    
+                    event_text = entry.get("description", "") or entry.get("event", "")
+                    event_text = " ".join(event_text.split())
+                    transformed_timeline.append({
+                        "date": formatted_date,
+                        "event": event_text
+                    })
+                
+                # Sort the timeline by date
+                transformed_timeline.sort(key=lambda x: x["date"])
+                
+                # Save using the helper
+                save_timeline(case_path, transformed_timeline)
+                
+                st.success("Atualização TJRJ e processamento concluídos com sucesso! A linha do tempo foi atualizada.")
+                # We can also display a quick summary
+                st.markdown(f"**Juiz do caso:** {result.get('judge', 'Não identificado')}")
+                st.markdown(f"**Resumo do processo:** {result.get('summary', 'Não disponível')}")
+                
+            except ValueError as e:
+                st.error(f"Erro de formato: {e}")
+            except PermissionError as e:
+                st.error(f"Erro de permissão no diretório: {e}")
             except Exception as e:
-                st.error(f"Erro ao abrir extrator: {e}")
+                st.error(f"Erro durante a atualização: {e}")
 
 # ── TAB 6: PRAZOS PROCESSUAIS ────────────────────────────────
 with tab_prazos:
