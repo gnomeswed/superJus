@@ -1,4 +1,5 @@
 .venv/
+**/.venv/
 __pycache__/
 *.pyc
 *.pyo
@@ -6,6 +7,7 @@ __pycache__/
 .Python
 env/
 venv/
+**/venv/
 ENV/
 env.bak/
 venv.bak/
@@ -15,3 +17,28 @@ venv.bak/
 *.mkv
 *.avi
 *.zip
+*.exe
+*.dll
+*.bin
+*.tar.gz
+
+.env
+.memu/
+.memu.local/
+scripts/telegram_config.json
+scripts/discord_config.json
+.agents/telegram_last_state.json
+.agents/telegram_bridge_offset.txt
+.agents/discord_last_state.json
+clients_state.json
+# Arquivos temporários de raspagem e capturas voláteis
+temp_*
+tmp_*
+stj_*.png
+stj_live_captured.*
+stj_resultado_*
+stj_snapshot_*
+tjrj_portal_snap.png
+tjrj_portal_captura_sucesso.txt
+# Júlio — junction sem acento para compatibilidade (pasta canônica é Júlio_Pereira_Marcos)
+Clientes/Julio_Pereira_Marcos/
