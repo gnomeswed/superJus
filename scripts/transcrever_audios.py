@@ -11,8 +11,8 @@ if not api_key:
 
 genai.configure(api_key=api_key)
 
-audio_dir = r"c:\Projetos\Super Analista Jurídico\Clientes\Júlio_Pereira_Marcos\Caso_Principal\documentos_processo\áudios advogado"
-output_file = r"c:\Projetos\Super Analista Jurídico\Clientes\Júlio_Pereira_Marcos\Caso_Principal\analises\Transcricao_Audios.md"
+audio_dir = r"C:\Projetos\superJus\Clientes\Júlio_Pereira_Marcos\Caso_Principal\documentos_processo\áudios advogado"
+output_file = r"C:\Projetos\superJus\Clientes\Júlio_Pereira_Marcos\Caso_Principal\analises\Transcricao_Audios.md"
 
 mp3_files = glob.glob(os.path.join(audio_dir, "*.mp3"))
 

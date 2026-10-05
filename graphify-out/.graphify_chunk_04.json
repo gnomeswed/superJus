@@ -1,0 +1,160 @@
+{
+  "nodes": [
+    {
+      "id": "peticao_razoes_finais_stj_1025001_2026",
+      "label": "Petição de Razões Finais nº 1025001/2026 no STJ (Protocolada em 28/09/2026 às 16:01)",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": "STJ HC 1.116.750/RJ",
+      "source_url": null,
+      "captured_at": "2026-09-28T16:01:00",
+      "author": "Dr. Gabriel Alves Guimarães (OAB/RJ 203902)",
+      "contributor": "STJ Gabinete Og Fernandes"
+    },
+    {
+      "id": "certidao_oficial_objeto_pe_stj_5208904",
+      "label": "Certidão Oficial de Objeto e Pé STJ nº 5208904 (Emitida em 28/09/2026 às 19:50:21)",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": "Segurança: 68DD.2EFA.2A9E.9D7",
+      "source_url": null,
+      "captured_at": "2026-09-28T19:50:21",
+      "author": "Superior Tribunal de Justiça",
+      "contributor": "STJ SJD"
+    },
+    {
+      "id": "certidao_absolvicao_desclassificacao_rio_bonito",
+      "label": "Certidão de Absolvição/Desclassificação para Art. 28 e Arquivamento em Rio Bonito (Primariedade)",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": "Comarca de Rio Bonito",
+      "source_url": null,
+      "captured_at": "2026-09-28",
+      "author": "Juízo da Comarca de Rio Bonito",
+      "contributor": "Defesa Técnica"
+    },
+    {
+      "id": "desmascaramento_falsa_reincidencia_mp",
+      "label": "Desconstituição da Falsa Alegação de Reincidência Ministerial Induzida a Erro",
+      "file_type": "rationale",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-09-28",
+      "author": "Dr. Gabriel Alves Guimarães",
+      "contributor": null
+    },
+    {
+      "id": "resposta_acusacao_buzios_tempestiva_voluntaria",
+      "label": "Resposta à Acusação com Rol de Testemunhas e Requerimento de Mídias em Búzios",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\andamento_julio_20_09_2026.md",
+      "source_location": "2ª Vara Criminal de Búzios",
+      "source_url": null,
+      "captured_at": "2026-09-28",
+      "author": "Dr. Gabriel Alves Guimarães",
+      "contributor": "2ª Vara de Búzios"
+    },
+    {
+      "id": "minuta_decisao_pronta_gabinete_og_fernandes",
+      "label": "Decisão Minutada no Gabinete do Min. Og Fernandes com Publicação Prevista pós-Eleições",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": "STJ 6ª Turma",
+      "source_url": null,
+      "captured_at": "2026-09-28",
+      "author": "Gabinete Min. Og Fernandes",
+      "contributor": "STJ"
+    },
+    {
+      "id": "indeferimento_liminar_presidencia_herman_benjamin",
+      "label": "Indeferimento Liminar no Plantão de Julho pelo Presidente Herman Benjamin (Sem Apreciação pelo Relator)",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\01_Decisoes\\2026-07-31_Decisao_Liminar_Min_Herman_Benjamin.pdf",
+      "source_location": "Decisão de 29/07/2026",
+      "source_url": null,
+      "captured_at": "2026-07-29",
+      "author": "Min. Herman Benjamin (Presidente)",
+      "contributor": "STJ"
+    }
+  ],
+  "edges": [
+    {
+      "source": "peticao_razoes_finais_stj_1025001_2026",
+      "target": "certidao_absolvicao_desclassificacao_rio_bonito",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "certidao_absolvicao_desclassificacao_rio_bonito",
+      "target": "desmascaramento_falsa_reincidencia_mp",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "certidao_oficial_objeto_pe_stj_5208904",
+      "target": "peticao_razoes_finais_stj_1025001_2026",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "certidao_oficial_objeto_pe_stj_5208904",
+      "target": "indeferimento_liminar_presidencia_herman_benjamin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "peticao_razoes_finais_stj_1025001_2026",
+      "target": "minuta_decisao_pronta_gabinete_og_fernandes",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "peticao_razoes_finais_stj_1025001_2026",
+      "target": "resposta_acusacao_buzios_tempestiva_voluntaria",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "virada_processual_stj_28_setembro_2026",
+      "label": "Virada Processual no STJ em 28/09/2026 (Petição 1025001 + Certidão Primariedade + Decisão Minutada)",
+      "nodes": [
+        "peticao_razoes_finais_stj_1025001_2026",
+        "certidao_absolvicao_desclassificacao_rio_bonito",
+        "minuta_decisao_pronta_gabinete_og_fernandes"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\2026-08-13_Manifestacao_Ministerial_68200_2026_MPF_STJ_HC_1116750.pdf"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -8,8 +8,12 @@ Quando acionado para usar a skill **Revisão Anti-Alucinação** ou **Auditoria 
 
 Você deve seguir este rigoroso checklist de validação:
 
-### 1. Auditoria de Jurisprudência (Prevenção de "Fake Cases")
+### 1. Auditoria de Jurisprudência (Prevenção de "Fake Cases" e "Enxerto de Ementas")
 *   **Checagem de Existência:** Verifique se os números de Habeas Corpus, Recursos Especiais (REsp) e Súmulas citados no texto realmente existem e tratam do tema alegado. Se a IA citou um número genérico (ex: HC 123.456), levante um alerta crítico.
+*   **Detecção de Enxerto de Ementa Falsa em Processo Real:**
+    - **Cuidado Crítico:** Modelos de IA frequentemente aproveitam um número de processo que realmente existe (ex: STJ HC 798.690 ou HC 568.211) e enxertam uma ementa ou tese forjada que atende à necessidade da peça (ex: dizer que tratava de Art. 580 do CPP ou materialidade de drogas, quando o processo real tratava de 4g de crack ou prisão domiciliar por câncer no roubo de ouro).
+    - **Validação Obrigatória de Conteúdo:** É expressamente obrigatório confrontar o teor da ementa e o paciente nos portais oficiais ou através do servidor MCP `superjus-jurisprudencia` (STF live / base curada).
+    - **Rejeição Imediata:** Constatada qualquer discrepância entre o processo real e a tese alegada, descarte imediatamente a citação e substitua pelos precedentes oficiais certificados do STF (HC 130.193 Extn, HC 110.132 Extn, HC 93.056 Extn e HC 187.672 AgR).
 *   **Verificação de Súmulas:** Confirme se o texto da Súmula e seu número (STF/STJ) batem com a realidade. (Ex: A IA citou a Súmula 444 do STJ para falar de dosimetria? Está correto. Citou a Súmula 231 para permitir pena abaixo do mínimo? Está errado, a Súmula veda isso).
 *   **Atualização do Entendimento:** Verifique se a tese citada não foi superada por decisões mais recentes (ex: mudança de entendimento do STF/STJ em recursos repetitivos ou repercussão geral).
 

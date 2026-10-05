@@ -1,3 +1,6 @@
+import sys, pathlib
+ROOT=pathlib.Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path: sys.path.insert(0,str(ROOT))
 import urllib.request
 import json
 import ssl
@@ -6,7 +9,7 @@ import os
 clean_num = "00118579520248190002"
 url = 'https://api-publica.datajud.cnj.jus.br/api_publica_tjrj/_search'
 headers = {
-    'Authorization': 'APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw==',
+    'Authorization': __import__('core.config', fromlist=['datajud_headers']).datajud_headers()['Authorization'],
     'Content-Type': 'application/json'
 }
 req_data = json.dumps({"query": {"match": {"numeroProcesso": clean_num}}}).encode('utf-8')

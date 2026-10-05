@@ -1,0 +1,182 @@
+{
+  "07_RELATORIOS_ESTRATEGICOS_E_ANALISES/Relatorio_Debate_Estrategico_Multiagente.md": {
+    "mtime": 1787974147.8694246,
+    "seen": 1790315217.8451538,
+    "ast_hash": "735f468083d8500aea279450893878f2",
+    "semantic_hash": ""
+  },
+  "01_Dados_do_Cliente/case_meta.json": {
+    "mtime": 1788826098.2001586,
+    "seen": 1790537022.49431,
+    "ast_hash": "0fb948184f18968d93ebef4d439e287f",
+    "semantic_hash": "0fb948184f18968d93ebef4d439e287f"
+  },
+  "03_Documentos_do_Processo/_datajud_completo_2026/datajud_tjrj_lucas_completo.json": {
+    "mtime": 1787354046.9193857,
+    "seen": 1790537022.49431,
+    "ast_hash": "7555743fd1420e85888d6893e60c9106",
+    "semantic_hash": "7555743fd1420e85888d6893e60c9106"
+  },
+  "03_Documentos_do_Processo/_datajud_completo_2026/resumo_processos_datajud.json": {
+    "mtime": 1787354048.4059794,
+    "seen": 1790537022.49431,
+    "ast_hash": "2a5a543d432f367150666e64277b4067",
+    "semantic_hash": "2a5a543d432f367150666e64277b4067"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/integrais_lucas_2026-08-10_112217.json": {
+    "mtime": 1786371737.7680702,
+    "seen": 1790537022.49431,
+    "ast_hash": "e702ed9a1aea382e3ad11d88ed9d9bd6",
+    "semantic_hash": "e702ed9a1aea382e3ad11d88ed9d9bd6"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/integrais_lucas_2026-08-10_113358.json": {
+    "mtime": 1786372438.0073018,
+    "seen": 1790537022.49431,
+    "ast_hash": "5cb88fdd6fef8b99dd0e608da67866b3",
+    "semantic_hash": "5cb88fdd6fef8b99dd0e608da67866b3"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/integrais_lucas_2026-08-10_113628.json": {
+    "mtime": 1786372588.9339764,
+    "seen": 1790537022.49431,
+    "ast_hash": "638b3da4250f859fbe8b68801882f6e4",
+    "semantic_hash": "638b3da4250f859fbe8b68801882f6e4"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/integrais_lucas_2026-08-10_113922.json": {
+    "mtime": 1786372762.0359273,
+    "seen": 1790537022.49431,
+    "ast_hash": "4a6491aed6bd797fc442d8072c377df4",
+    "semantic_hash": "4a6491aed6bd797fc442d8072c377df4"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/integrais_lucas_2026-08-10_114124.json": {
+    "mtime": 1786372884.1760676,
+    "seen": 1790537022.49431,
+    "ast_hash": "0fb5be12ae97e0a544ab6bb4a1bd05ce",
+    "semantic_hash": "0fb5be12ae97e0a544ab6bb4a1bd05ce"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/integrais_lucas_2026-08-10_134335.json": {
+    "mtime": 1786380215.4615426,
+    "seen": 1790537022.49431,
+    "ast_hash": "ee8876d8710d4c1da8a80f2e97924d1f",
+    "semantic_hash": "ee8876d8710d4c1da8a80f2e97924d1f"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/integrais_lucas_2026-08-17_215956.json": {
+    "mtime": 1787014796.119769,
+    "seen": 1790537022.49431,
+    "ast_hash": "d751713988987e9331980363e24189ce",
+    "semantic_hash": "d751713988987e9331980363e24189ce"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/manifest_fase3b_2026-08-10_143330.json": {
+    "mtime": 1786383210.0450864,
+    "seen": 1790537022.49431,
+    "ast_hash": "37420d520dcc6ee61b7584bb58ad81e6",
+    "semantic_hash": "37420d520dcc6ee61b7584bb58ad81e6"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/manifest_raspagem_completa_2026-08-10_142017.json": {
+    "mtime": 1786382500.785439,
+    "seen": 1790537022.49431,
+    "ast_hash": "c90c994b3cd4b8ff49cf190f57532753",
+    "semantic_hash": "c90c994b3cd4b8ff49cf190f57532753"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/manifest_raspagem_completa_2026-08-10_142215.json": {
+    "mtime": 1786382616.6861174,
+    "seen": 1790537022.49431,
+    "ast_hash": "0114629d524b58d0ea4877fa100105ec",
+    "semantic_hash": "0114629d524b58d0ea4877fa100105ec"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/manifest_raspagem_completa_2026-08-10_142426.json": {
+    "mtime": 1786382757.8897767,
+    "seen": 1790537022.49431,
+    "ast_hash": "3f56d23ef83785f7e837236239ccad5d",
+    "semantic_hash": "3f56d23ef83785f7e837236239ccad5d"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/manifest_raspagem_completa_2026-08-17_215743.json": {
+    "mtime": 1787014706.429051,
+    "seen": 1790537022.49431,
+    "ast_hash": "6a3676f83e2ee5e70f4089d616e66e83",
+    "semantic_hash": "6a3676f83e2ee5e70f4089d616e66e83"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/raspagem_lucas_2026-08-10_111224.json": {
+    "mtime": 1786371189.5673034,
+    "seen": 1790537022.49431,
+    "ast_hash": "afc8f415e2088eb39019e5381d780d6d",
+    "semantic_hash": "afc8f415e2088eb39019e5381d780d6d"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/raspagem_lucas_2026-08-10_111346.json": {
+    "mtime": 1786371276.417483,
+    "seen": 1790537022.49431,
+    "ast_hash": "3de6f77af1b54fafd9ebd73773ce229a",
+    "semantic_hash": "3de6f77af1b54fafd9ebd73773ce229a"
+  },
+  "03_Documentos_do_Processo/_raspagem_10_08_2026/raspagem_lucas_2026-08-10_111732.json": {
+    "mtime": 1786371615.9288983,
+    "seen": 1790537022.49431,
+    "ast_hash": "2a60e632b1984ae5e53df9eff7a68ec3",
+    "semantic_hash": "2a60e632b1984ae5e53df9eff7a68ec3"
+  },
+  "03_Documentos_do_Processo/_varredura_01_09_2026/datajud_G1_00118579520248190002.json": {
+    "mtime": 1788313816.2623165,
+    "seen": 1790537022.4953094,
+    "ast_hash": "883621bca1f6ef6401a281aae0e99df5",
+    "semantic_hash": "883621bca1f6ef6401a281aae0e99df5"
+  },
+  "03_Documentos_do_Processo/_varredura_11_09_2026/resultado_lucas_11_09_2026.json": {
+    "mtime": 1789096236.6144989,
+    "seen": 1790537022.4953094,
+    "ast_hash": "5c077cb1c1ec7057d6c0a4181646ec0e",
+    "semantic_hash": "5c077cb1c1ec7057d6c0a4181646ec0e"
+  },
+  "03_Documentos_do_Processo/_varredura_16_09_2026/consulta_ao_vivo_16_09_2026.json": {
+    "mtime": 1789605074.1463513,
+    "seen": 1790537022.4953094,
+    "ast_hash": "82f404e1d6bfa79b2d881cf2b5f9e3fd",
+    "semantic_hash": "82f404e1d6bfa79b2d881cf2b5f9e3fd"
+  },
+  "03_Documentos_do_Processo/_varredura_21_08_2026/resultado_lucas_21_08_2026.json": {
+    "mtime": 1787352144.030847,
+    "seen": 1790537022.4953094,
+    "ast_hash": "82d8c239e40bf4ac90309f5873e5a272",
+    "semantic_hash": "82d8c239e40bf4ac90309f5873e5a272"
+  },
+  "03_Documentos_do_Processo/_varredura_26_09_2026/resumo_raspagem.json": {
+    "mtime": 1790468716.9735217,
+    "seen": 1790537022.4953094,
+    "ast_hash": "22844f92e27d534152608c478ea2e11d",
+    "semantic_hash": "22844f92e27d534152608c478ea2e11d"
+  },
+  "03_Documentos_do_Processo/datajud_raw_lucas.json": {
+    "mtime": 1786370015.4153676,
+    "seen": 1790537022.4953094,
+    "ast_hash": "d45ef3f610d9bbe3decfca04caf8216d",
+    "semantic_hash": "d45ef3f610d9bbe3decfca04caf8216d"
+  },
+  "05_Processos_Anteriores/Processos_2019/datajud_Proc_0024951_2019.json": {
+    "mtime": 1787354381.973487,
+    "seen": 1790537022.4953094,
+    "ast_hash": "cc34ad2a56fd380e8e051681cf830478",
+    "semantic_hash": "cc34ad2a56fd380e8e051681cf830478"
+  },
+  "05_Processos_Anteriores/Processos_2019/datajud_Proc_0034340_2019.json": {
+    "mtime": 1787354382.8145962,
+    "seen": 1790537022.4953094,
+    "ast_hash": "0439cc89ecc7115a16b93239b656ccf0",
+    "semantic_hash": "0439cc89ecc7115a16b93239b656ccf0"
+  },
+  "05_Processos_Anteriores/Processos_2019/resultado_consolidado_ambos.json": {
+    "mtime": 1787354432.3463576,
+    "seen": 1790537022.4953094,
+    "ast_hash": "2644704b0f710e66f269f0fb00d723b2",
+    "semantic_hash": "2644704b0f710e66f269f0fb00d723b2"
+  },
+  "04_Analises_e_Estrategias/DOSSI\u00ca_COMPLETO_LUCAS_MOTOBOY_17_08_2026.md": {
+    "mtime": 1787015392.9016519,
+    "seen": 1790537022.4953094,
+    "ast_hash": "74b81a1bcc41221ae3b828740d78a35c",
+    "semantic_hash": "74b81a1bcc41221ae3b828740d78a35c"
+  },
+  "04_Analises_e_Estrategias/atualizacao_26_09_2026.md": {
+    "mtime": 1790468730.1145792,
+    "seen": 1790537022.4953094,
+    "ast_hash": "58494141ad329e4cef23558e30678ab7",
+    "semantic_hash": "58494141ad329e4cef23558e30678ab7"
+  }
+}

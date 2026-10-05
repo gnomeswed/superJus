@@ -9,14 +9,10 @@ import urllib.error
 import time
 from unittest.mock import patch, MagicMock
 
-# Ensure playwright modules are mockable even if not installed
 import sys
-if 'playwright' not in sys.modules:
-    sys.modules['playwright'] = MagicMock()
-if 'playwright.sync_api' not in sys.modules:
-    playwright_mock = MagicMock()
-    playwright_mock.sync_playwright = MagicMock()
-    sys.modules['playwright.sync_api'] = playwright_mock
+# use importlib to force module re-import with clean state
+import importlib
+# we'll patch at the module level inside setUpClass / per-test
 
 # ══════════════════════════════════════════════════════════════
 # CONTRACT IMPORTS
@@ -145,6 +141,7 @@ class TestE2EScrapingAnalysis(unittest.TestCase):
         self.test_dir = tempfile.mkdtemp()
         self.original_env = os.environ.copy()
         os.environ["DEEPSEEK_API_KEY"] = "mock-key"
+        os.environ["DATAJUD_API_KEY"] = "APIKey test123"
         os.environ["DEMO_MODE"] = "False"
         os.environ["INTEGRITY_MODE"] = "production"
 

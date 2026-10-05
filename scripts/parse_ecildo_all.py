@@ -5,7 +5,7 @@ import urllib.request
 import re
 
 # 1. Query DataJud for TJMT with exact CPF 08073097290 and name Ecildo
-DATAJUD_API_KEY = "APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+DATAJUD_API_KEY = __import__('os').getenv('DATAJUD_API_KEY','')
 
 def search_tjmt():
     url = "https://api-publica.datajud.cnj.jus.br/api_publica_tjmt/_search"

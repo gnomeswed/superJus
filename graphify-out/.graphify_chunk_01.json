@@ -1,0 +1,223 @@
+{
+  "nodes": [
+    {
+      "id": "proc_originario_buzios_0022975_2021",
+      "label": "Ação Penal Originária nº 0022975-39.2021.8.19.0078 (Operação Delivery Búzios)",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-09-05",
+      "author": "2ª Vara de Búzios",
+      "contributor": "TJRJ"
+    },
+    {
+      "id": "proc_desmembrado_julio_0023013_2021",
+      "label": "Ação Penal Desmembrada nº 0023013-51.2021.8.19.0078 (Exclusiva Júlio Pereira Marcos)",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0023013-51.2021.8.19.0078_Desmembrado_Julio\\Espelho_Processual_Buzios_Completo.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-09-22",
+      "author": "Dr. Danilo Marques Borges",
+      "contributor": "TJRJ"
+    },
+    {
+      "id": "apenso_rese_ministerial_0001140_2024",
+      "label": "Apenso de Recurso em Sentido Estrito nº 0001140-87.2024.8.19.0078 (RESE do MP)",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\02_APENSOS_E_MEDIDAS_CAUTELARES\\0001140-87.2024.8.19.0078_Apenso_RSE\\Espelho_Apenso_RSE_Completo.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-09-05",
+      "author": "Ministério Público RJ",
+      "contributor": "TJRJ"
+    },
+    {
+      "id": "hc_tjrj_7a_camara_0029845_2026",
+      "label": "Habeas Corpus TJRJ nº 0029845-67.2026.8.19.0000 (7ª Câmara Criminal - Des. Sidney Rosa)",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\03_HABEAS_CORPUS_2A_INSTANCIA_TJRJ\\Acordao_e_Andamento_HC_0029845_TJRJ.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-08-20",
+      "author": "Des. Sidney Rosa da Silva",
+      "contributor": "TJRJ"
+    },
+    {
+      "id": "decisao_soltura_correus_02_08_2022",
+      "label": "Decisão de Relaxamento de Prisão por Excesso de Prazo aos 5 Corréus (02/08/2022)",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt",
+      "source_location": "fls. 1396 / DJERJ 10/08/2022",
+      "source_url": null,
+      "captured_at": "2022-08-02",
+      "author": "Dr. Raphael Baddini de Queiroz Campos",
+      "contributor": "2ª Vara de Búzios"
+    },
+    {
+      "id": "correu_jose_guilherme_costa_freire",
+      "label": "Corréu José Guilherme da Costa Freire (Zezé - único flagrado com drogas, solto em 2022)",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2022-08-03",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "correu_christiano_pereira_marcos",
+      "label": "Corréu Christiano Pereira Marcos (Irmão de Júlio, solto em 03/08/2022)",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2022-08-03",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "falha_cadastral_bnmp_mandado",
+      "label": "Erro de Cadastro e Inexistência de Mandado no BNMP (Descaracterização da Fuga)",
+      "file_type": "rationale",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0023013-51.2021.8.19.0078_Desmembrado_Julio\\Espelho_Processual_Buzios_Completo.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-12",
+      "author": "Defesa Técnica",
+      "contributor": null
+    },
+    {
+      "id": "juiz_danilo_marques_borges",
+      "label": "Dr. Danilo Marques Borges (Juiz Titular da 2ª Vara Criminal de Búzios)",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0023013-51.2021.8.19.0078_Desmembrado_Julio\\Espelho_Processual_Buzios_Completo.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-07-23",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paralisia_cartoraria_buzios_55_dias",
+      "label": "Inércia Cartorária de 55+ Dias sem Impulso Oficial na Ação Desmembrada",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0023013-51.2021.8.19.0078_Desmembrado_Julio\\Espelho_Processual_Buzios_Completo.txt",
+      "source_location": "Última juntada em 04/08/2026",
+      "source_url": null,
+      "captured_at": "2026-09-28",
+      "author": "Serventia da 2ª Vara",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "proc_originario_buzios_0022975_2021",
+      "target": "proc_desmembrado_julio_0023013_2021",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proc_originario_buzios_0022975_2021",
+      "target": "decisao_soltura_correus_02_08_2022",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt",
+      "source_location": "fls. 1396",
+      "weight": 1.0
+    },
+    {
+      "source": "decisao_soltura_correus_02_08_2022",
+      "target": "correu_jose_guilherme_costa_freire",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "decisao_soltura_correus_02_08_2022",
+      "target": "correu_christiano_pereira_marcos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "apenso_rese_ministerial_0001140_2024",
+      "target": "decisao_soltura_correus_02_08_2022",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\02_APENSOS_E_MEDIDAS_CAUTELARES\\0001140-87.2024.8.19.0078_Apenso_RSE\\Espelho_Apenso_RSE_Completo.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proc_desmembrado_julio_0023013_2021",
+      "target": "paralisia_cartoraria_buzios_55_dias",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0023013-51.2021.8.19.0078_Desmembrado_Julio\\Espelho_Processual_Buzios_Completo.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proc_desmembrado_julio_0023013_2021",
+      "target": "juiz_danilo_marques_borges",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0023013-51.2021.8.19.0078_Desmembrado_Julio\\Espelho_Processual_Buzios_Completo.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "falha_cadastral_bnmp_mandado",
+      "target": "proc_desmembrado_julio_0023013_2021",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0023013-51.2021.8.19.0078_Desmembrado_Julio\\Espelho_Processual_Buzios_Completo.txt",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hc_tjrj_7a_camara_0029845_2026",
+      "target": "proc_desmembrado_julio_0023013_2021",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\03_HABEAS_CORPUS_2A_INSTANCIA_TJRJ\\Acordao_e_Andamento_HC_0029845_TJRJ.html",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "nucleo_processual_buzios_1a_instancia",
+      "label": "Núcleo Processual de 1ª Instância de Búzios (Feito Originário + Desmembrado + RESE)",
+      "nodes": [
+        "proc_originario_buzios_0022975_2021",
+        "proc_desmembrado_julio_0023013_2021",
+        "apenso_rese_ministerial_0001140_2024"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\01_PROCESSO_PRINCIPAL_1A_INSTANCIA_BUZIOS\\0022975-39.2021.8.19.0078_Originario_Correus_Soltos\\Espelho_Processo_Originario_Correus.txt"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

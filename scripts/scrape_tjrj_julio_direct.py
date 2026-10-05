@@ -4,7 +4,7 @@ import os
 from playwright.sync_api import sync_playwright
 
 proc_num = "0023013-51.2021.8.19.0078"
-target_file = r"C:\Projetos\Super Analista Jurídico\Clientes\Júlio_Pereira_Marcos\Caso_Principal\documentos_processo\julio_tjrj_live_direct.txt"
+target_file = r"C:\Projetos\superJus\Clientes\Júlio_Pereira_Marcos\Caso_Principal\documentos_processo\julio_tjrj_live_direct.txt"
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)

@@ -1,0 +1,46 @@
+{
+  "timestamp": "20260902_180705",
+  "mode": "LIVE_EXECUTION",
+  "system_environment": {
+    "tesseract_found": true,
+    "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "tessdata_path": "C:\\Program Files\\Tesseract-OCR\\tessdata",
+    "languages": [
+      "eng",
+      "osd",
+      "por"
+    ],
+    "has_por": true,
+    "ocrmypdf_available": true,
+    "pytesseract_available": true,
+    "ocrmypdf_version": "17.11.0",
+    "pytesseract_version": "0.3.13"
+  },
+  "summary": {
+    "total_files_audited": 1,
+    "pure_scans_detected": 0,
+    "partial_scans_detected": 0,
+    "already_searchable": 1,
+    "successfully_ocred": 0,
+    "pending_ocr_dryrun": 0,
+    "errors": 0,
+    "total_characters_added": 0,
+    "total_duration_seconds": 0.13
+  },
+  "details": [
+    {
+      "file_path": "c:\\Projetos\\superJus\\Clientes\\Julio_Pereira_Marcos\\02_APENSOS_E_MEDIDAS_CAUTELARES\\Inquerito_Policial_127_2021_Buzios_Digitalizado.pdf",
+      "file_name": "Inquerito_Policial_127_2021_Buzios_Digitalizado.pdf",
+      "status": "ALREADY_SEARCHABLE",
+      "dry_run": false,
+      "classification": "ALREADY_SEARCHABLE",
+      "chars_before": 926,
+      "chars_after": 926,
+      "chars_added": 0,
+      "total_pages": 2,
+      "duration_seconds": 0.13,
+      "backup_path": null,
+      "error_message": null
+    }
+  ]
+}

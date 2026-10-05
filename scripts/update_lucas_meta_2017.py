@@ -2,7 +2,7 @@
 import json
 import os
 
-meta_file = r"C:\Projetos\Super Analista Jurídico\Clientes\Lucas_Freitas\Caso_Principal\case_meta.json"
+meta_file = r"C:\Projetos\superJus\Clientes\Lucas_Freitas\Caso_Principal\case_meta.json"
 
 with open(meta_file, "r", encoding="utf-8") as f:
     meta = json.load(f)

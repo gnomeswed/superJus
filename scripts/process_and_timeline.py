@@ -40,9 +40,12 @@ def generate_timeline_and_summary(doc_path: str, output_path: str) -> dict:
             docs.append(doc_path)
             
     text_content = ""
-    
+    processed = []
+    ocr_required = []
+    ignored = []
     for fpath in docs:
         if os.path.getsize(fpath) == 0:
+            ignored.append({"file": os.path.basename(fpath), "reason": "empty"})
             continue
         ext = os.path.splitext(fpath)[1].lower()
         if ext == '.pdf':
@@ -54,11 +57,14 @@ def generate_timeline_and_summary(doc_path: str, output_path: str) -> dict:
                     if txt:
                         pdf_text += txt + "\n"
                 if not pdf_text.strip():
-                    logging.warning(f"Empty or unreadable PDF: {fpath}")
+                    logging.warning(f"PDF sem camada de texto (OCR necessário): {fpath}")
+                    ocr_required.append({"file": os.path.basename(fpath), "reason": "ocr_required"})
                     continue
                 text_content += "\n" + pdf_text
+                processed.append(os.path.basename(fpath))
             except Exception as e:
                 logging.error(f"Error reading PDF {fpath}: {e}")
+                ignored.append({"file": os.path.basename(fpath), "reason": str(e)[:200]})
                 continue
         elif ext in ('.html', '.htm'):
             try:
@@ -66,15 +72,19 @@ def generate_timeline_and_summary(doc_path: str, output_path: str) -> dict:
                 soup = BeautifulSoup(html, 'html.parser')
                 text = soup.get_text()
                 text_content += "\n" + text.strip()
+                processed.append(os.path.basename(fpath))
             except Exception as e:
                 logging.error(f"Error reading HTML {fpath}: {e}")
+                ignored.append({"file": os.path.basename(fpath), "reason": str(e)[:200]})
                 continue
         elif ext in ('.txt', '.md'):
             try:
                 txt = _read_file_content(fpath)
                 text_content += "\n" + txt
+                processed.append(os.path.basename(fpath))
             except Exception as e:
                 logging.error(f"Error reading text {fpath}: {e}")
+                ignored.append({"file": os.path.basename(fpath), "reason": str(e)[:200]})
                 continue
 
     text_content = text_content.strip()
@@ -169,10 +179,15 @@ def generate_timeline_and_summary(doc_path: str, output_path: str) -> dict:
         summary = "Heuristic Resumo dos Fatos: " + text_content[:200].strip()
         
     result = {
+        "version": "1.0",
         "summary": summary,
         "timeline": timeline,
         "contradictions": contradictions,
-        "judge": judge_name
+        "judge": judge_name,
+        "analysis_source": "deepseek" if api_success else "heuristic",
+        "source": "real" if (processed or timeline) else "empty",
+        "documents": {"processed": processed, "ocr_required": ocr_required, "ignored": ignored},
+        "ocr_hint": "Docs em ocr_required precisam de OCR (instale Tesseract+Poppler) ou forneca TXT extraído." if ocr_required else ""
     }
     
     # Save Report
@@ -191,7 +206,18 @@ def generate_timeline_and_summary(doc_path: str, output_path: str) -> dict:
             if output_path.endswith(".json"):
                 json.dump(result, f, indent=2, ensure_ascii=False)
             else:
-                f.write(f"# Relatório de Análise\n\nResumo: {result['summary']}\n\nJuiz: {result['judge']}\n")
+                f.write(f"# Relatório de Análise\n\nResumo: {result['summary']}\n\nJuiz: {result['judge']}\n\nFonte: {result['analysis_source']}\n\n## Linha do tempo\n")
+                for t in result['timeline']:
+                    f.write(f"- {t.get('date','')}: {t.get('description','')} ({t.get('event','')})\n")
+                if result.get('contradictions'):
+                    f.write("\n## Contradições\n")
+                    for c in result['contradictions']:
+                        f.write(f"- {c.get('description','')}\n")
+                f.write("\n## Documentos\n")
+                for k in ("processed","ocr_required","ignored"):
+                    f.write(f"- {k}: {', '.join(x.get('file','') if isinstance(x,dict) else str(x) for x in result['documents'].get(k,[])) or '—'}\n")
+                if result.get('ocr_hint'):
+                    f.write(f"\n> {result['ocr_hint']}\n")
     except Exception as e:
         raise OSError(f"Write failure: {e}")
         

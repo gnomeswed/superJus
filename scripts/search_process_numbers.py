@@ -2,7 +2,7 @@
 import os
 import re
 
-root_dir = r"C:\Projetos\Super Analista Jurídico\Clientes"
+root_dir = r"C:\Projetos\superJus\Clientes"
 
 found = set()
 

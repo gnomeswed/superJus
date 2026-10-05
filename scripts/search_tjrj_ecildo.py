@@ -2,7 +2,7 @@
 import json
 import urllib.request
 
-DATAJUD_API_KEY = "APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+DATAJUD_API_KEY = __import__('os').getenv('DATAJUD_API_KEY','')
 
 def search_tjrj():
     url = "https://api-publica.datajud.cnj.jus.br/api_publica_tjrj/_search"

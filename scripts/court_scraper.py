@@ -3,7 +3,7 @@ import json
 import urllib.request
 import re
 
-DATAJUD_API_KEY = "APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+DATAJUD_API_KEY = __import__('os').getenv('DATAJUD_API_KEY','')
 
 def get_tribunal_endpoint(process_number_clean):
     if len(process_number_clean) != 20:

@@ -1,0 +1,256 @@
+{
+  "communities": {
+    "0": [
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_20260908_tese_art_580_cpp_isonomia",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_peticao_drgabriel_desconstituicao_tese_foragido_bnmp",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_peticao_drgabriel_doc",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_peticao_drgabriel_dr_gabriel_alves_guimaraes",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_peticao_drgabriel_erro_genero_minuta_mpf",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_peticao_drgabriel_subprocurador_mario_ferreira_leite",
+      "04_analises_e_estrategias_subsidios_estrategicos_advocacia_julio_stj_alerta_aposentadoria_og_fernandes",
+      "04_analises_e_estrategias_subsidios_estrategicos_advocacia_julio_stj_doc",
+      "04_analises_e_estrategias_subsidios_estrategicos_advocacia_julio_stj_flancos_vulneraveis_mpf",
+      "04_recursos_superiores_stj_03_peticoes_e_pareceres_2026_08_13_manifestacao_ministerial_68200_2026_mpf_stj_hc_1116750_doc",
+      "04_recursos_superiores_stj_03_peticoes_e_pareceres_2026_08_13_manifestacao_ministerial_68200_2026_mpf_stj_hc_1116750_imputacao_estado_fuga_4_anos",
+      "04_recursos_superiores_stj_03_peticoes_e_pareceres_2026_08_13_manifestacao_ministerial_68200_2026_mpf_stj_hc_1116750_inaplicabilidade_art_580_mpf",
+      "04_recursos_superiores_stj_03_peticoes_e_pareceres_2026_08_13_manifestacao_ministerial_68200_2026_mpf_stj_hc_1116750_preliminar_concomitancia_hc_roc",
+      "04_recursos_superiores_stj_03_peticoes_e_pareceres_relatorio_comparativo_docling_doc",
+      "04_recursos_superiores_stj_03_peticoes_e_pareceres_relatorio_comparativo_docling_matriz_vulnerabilidades_acusacao",
+      "04_recursos_superiores_stj_03_peticoes_e_pareceres_relatorio_comparativo_docling_tabela_confronto_teses",
+      "04_recursos_superiores_stj_aditamento_fato_novo_excesso_prazo_dr_gabriel_doc",
+      "04_recursos_superiores_stj_aditamento_fato_novo_excesso_prazo_dr_gabriel_paralisacao_2_vara_buzios",
+      "04_recursos_superiores_stj_aditamento_fato_novo_excesso_prazo_dr_gabriel_stj_hc_798690_sc",
+      "04_recursos_superiores_stj_aditamento_fato_novo_excesso_prazo_dr_gabriel_stj_hc_840122_sp"
+    ],
+    "1": [
+      "04_recursos_superiores_stj_02_fases_e_andamentos_consulta_direta_stj_05_09_2026_bloqueio_csid_stj_05_09",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_consulta_direta_stj_05_09_2026_doc",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_consulta_direta_stj_15_09_2026_doc",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_consulta_direta_stj_22_08_2026_autuacao_hc_1116750",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_consulta_direta_stj_22_08_2026_conclusao_gabinete_og_fernandes",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_consulta_direta_stj_22_08_2026_doc",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_espelho_stj_hc_1116750_05_09_2026_doc",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_stj_hc_1116750_fases_consolidadas_doc",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_stj_hc_1116750_fases_consolidadas_sequencia_24_fases_stj",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_stj_hc_1116750_fases_consolidadas_superacao_antideteccao_playwright",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_ultima_fase_registrada_stj_doc",
+      "04_recursos_superiores_stj_02_fases_e_andamentos_verificacao_stj_roc_03_08_2026_doc"
+    ],
+    "2": [
+      "03_habeas_corpus_2a_instancia_tjrj_consulta_direta_tjrj_15_09_2026_hc_tjrj_0029845",
+      "03_habeas_corpus_2a_instancia_tjrj_detalhes_hc_e_roc_tjrj_13_08_2026_doc",
+      "03_habeas_corpus_2a_instancia_tjrj_detalhes_hc_e_roc_tjrj_13_08_2026_remessa_2vp_recurso_ordinario",
+      "03_habeas_corpus_2a_instancia_tjrj_espelho_hc_tjrj_0029845_completo_doc",
+      "03_habeas_corpus_2a_instancia_tjrj_espelho_hc_tjrj_0029845_completo_duplicidade_registral_tjrj",
+      "04_recursos_superiores_stj_01_decisoes_2026_07_31_decisao_liminar_min_herman_benjamin_doc",
+      "04_recursos_superiores_stj_01_decisoes_2026_07_31_decisao_liminar_min_herman_benjamin_texto_doc",
+      "04_recursos_superiores_stj_01_decisoes_2026_07_31_decisao_liminar_min_herman_benjamin_texto_indeferimento_liminar_stj",
+      "04_recursos_superiores_stj_01_decisoes_2026_07_31_decisao_liminar_min_herman_benjamin_texto_remessa_ao_mpf",
+      "04_recursos_superiores_stj_01_decisoes_2026_07_31_decisao_liminar_min_herman_benjamin_texto_requisicao_informacoes_tjrj_buzios",
+      "04_recursos_superiores_stj_01_decisoes_decisao_hermanbenjamin_raw_doc"
+    ],
+    "3": [
+      "apenso_rese_ministerial_0001140_2024",
+      "correu_christiano_pereira_marcos",
+      "correu_jose_guilherme_costa_freire",
+      "decisao_soltura_correus_02_08_2022",
+      "falha_cadastral_bnmp_mandado",
+      "hc_tjrj_7a_camara_0029845_2026",
+      "juiz_danilo_marques_borges",
+      "paralisia_cartoraria_buzios_55_dias",
+      "proc_desmembrado_julio_0023013_2021",
+      "proc_originario_buzios_0022975_2021"
+    ],
+    "4": [
+      "03_habeas_corpus_2a_instancia_tjrj_consulta_direta_tjrj_15_09_2026_arquivamento_definitivo",
+      "03_habeas_corpus_2a_instancia_tjrj_consulta_direta_tjrj_15_09_2026_des_sidney_rosa_da_silva",
+      "03_habeas_corpus_2a_instancia_tjrj_consulta_direta_tjrj_15_09_2026_doc",
+      "03_habeas_corpus_2a_instancia_tjrj_consulta_direta_tjrj_15_09_2026_setima_camara_criminal",
+      "03_habeas_corpus_2a_instancia_tjrj_espelho_hc_tjrj_0029845_completo_05_09_2026_doc",
+      "03_habeas_corpus_2a_instancia_tjrj_espelho_hc_tjrj_0029845_completo_05_09_2026_indisponibilidade_portal_tjrj",
+      "03_habeas_corpus_2a_instancia_tjrj_recurso_ordinario_roc_00580_tjrj_baixa_definitiva_2vp",
+      "03_habeas_corpus_2a_instancia_tjrj_recurso_ordinario_roc_00580_tjrj_html_doc",
+      "03_habeas_corpus_2a_instancia_tjrj_recurso_ordinario_roc_00580_tjrj_txt_doc"
+    ],
+    "5": [
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_20260908_doc",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_20260908_filtro_realismo_minuta_blindada",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_20260908_tese_confronto_vocalico",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_20260908_tese_descaracterizacao_art_35_delegado",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_20260908_tese_excesso_prazo_art_400",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_20260908_tese_gravidade_abstrata_contemporaneidade",
+      "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_peticao_drgabriel_nulidade_decisao_duas_linhas",
+      "04_recursos_superiores_stj_aditamento_fato_novo_excesso_prazo_dr_gabriel_fato_novo_117_dias_sem_aij",
+      "04_recursos_superiores_stj_aditamento_fato_novo_excesso_prazo_dr_gabriel_stj_hc_457303_to"
+    ],
+    "6": [
+      "07_relatorios_estrategicos_e_analises_dossie_neutro_analise_hc_julio_stj",
+      "admissao_delegado_rodrigo_moreira_pericia_voz",
+      "confissao_delegado_nelson_esquiba_art35",
+      "declaracao_pre_julgamento_juiza_maira",
+      "intimacao_informal_whatsapp_delegado",
+      "tese_ausencia_materialidade_sem_drogas",
+      "transcricao_integral_aij_policiais"
+    ],
+    "7": [
+      "certidao_absolvicao_desclassificacao_rio_bonito",
+      "certidao_oficial_objeto_pe_stj_5208904",
+      "desmascaramento_falsa_reincidencia_mp",
+      "indeferimento_liminar_presidencia_herman_benjamin",
+      "minuta_decisao_pronta_gabinete_og_fernandes",
+      "peticao_razoes_finais_stj_1025001_2026",
+      "resposta_acusacao_buzios_tempestiva_voluntaria"
+    ]
+  },
+  "cohesion": {
+    "0": 0.12631578947368421,
+    "1": 0.16666666666666666,
+    "2": 0.2,
+    "3": 0.2,
+    "4": 0.2222222222222222,
+    "5": 0.2222222222222222,
+    "6": 0.2857142857142857,
+    "7": 0.2857142857142857
+  },
+  "gods": [
+    {
+      "id": "03_habeas_corpus_2a_instancia_tjrj_consulta_direta_tjrj_15_09_2026_hc_tjrj_0029845",
+      "label": "Habeas Corpus TJRJ nº 0029845-67.2026.8.19.0000",
+      "degree": 8
+    },
+    {
+      "id": "04_recursos_superiores_stj_aditamento_fato_novo_excesso_prazo_dr_gabriel_doc",
+      "label": "Petição de Aditamento por Fato Novo - Excesso de Prazo de 117 Dias (Dr. Gabriel)",
+      "degree": 7
+    },
+    {
+      "id": "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_20260908_doc",
+      "label": "Relatório do Comitê Jurídico Adversarial (08/09/2026)",
+      "degree": 6
+    },
+    {
+      "id": "04_recursos_superiores_stj_03_peticoes_e_pareceres_2026_08_13_manifestacao_ministerial_68200_2026_mpf_stj_hc_1116750_doc",
+      "label": "Manifestação Ministerial MPF nº 68200-2026 (Subprocurador Mário Ferreira Leite)",
+      "degree": 6
+    },
+    {
+      "id": "proc_desmembrado_julio_0023013_2021",
+      "label": "Ação Penal Desmembrada nº 0023013-51.2021.8.19.0078 (Exclusiva Júlio Pereira Marcos)",
+      "degree": 5
+    },
+    {
+      "id": "03_habeas_corpus_2a_instancia_tjrj_consulta_direta_tjrj_15_09_2026_doc",
+      "label": "Consulta Direta TJRJ (15/09/2026) - HC 0029845-67.2026.8.19.0000",
+      "degree": 5
+    },
+    {
+      "id": "04_analises_e_estrategias_debate_adversarial_julio_pereira_marcos_peticao_drgabriel_doc",
+      "label": "Confronto Adversarial Real: Petição Dr. Gabriel vs. Parecer MPF nº 68200-2026",
+      "degree": 5
+    },
+    {
+      "id": "04_recursos_superiores_stj_01_decisoes_2026_07_31_decisao_liminar_min_herman_benjamin_texto_doc",
+      "label": "Decisão Liminar Monocrática Min. Herman Benjamin (Texto)",
+      "degree": 5
+    },
+    {
+      "id": "04_recursos_superiores_stj_02_fases_e_andamentos_consulta_direta_stj_22_08_2026_autuacao_hc_1116750",
+      "label": "Autuação do HC 1.116.750/RJ no STJ em 27/07/2026",
+      "degree": 5
+    },
+    {
+      "id": "transcricao_integral_aij_policiais",
+      "label": "Transcrição Integral da Audiência de Instrução (1.958 Linhas - Depoimentos Policiais)",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Matriz de Vulnerabilidades e Inconsistências Fáticas da Peça Ministerial",
+      "target": "Mapeamento dos Flancos Vulneráveis do Parecer Ministerial MPF",
+      "source_files": [
+        "04_RECURSOS_SUPERIORES_STJ/03_Peticoes_e_Pareceres/Relatorio_Comparativo_Docling.md",
+        "04_Analises_e_Estrategias/Subsidios_Estrategicos_Advocacia_Julio_STJ.pdf"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (paper ↔ doc); connects across different repos/directories; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Precedente STJ HC 798.690/SC (Extensão do Art. 580 CPP por Excesso de Prazo)",
+      "target": "Tese de Extensão da Liberdade Provisória com Corréus (Art. 580 CPP)",
+      "source_files": [
+        "04_RECURSOS_SUPERIORES_STJ/Aditamento_Fato_Novo_Excesso_Prazo_Dr_Gabriel.pdf",
+        "04_Analises_e_Estrategias/Debate_Adversarial_Julio_Pereira_Marcos_20260908.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "rationale_for",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ paper); connects across different repos/directories"
+    },
+    {
+      "source": "Fato Novo Superveniente: 117 Dias Ininterruptos de Cárcere sem AIJ",
+      "target": "Tese de Relaxamento por Excesso de Prazo sem AIJ (Art. 400 CPP)",
+      "source_files": [
+        "04_RECURSOS_SUPERIORES_STJ/Aditamento_Fato_Novo_Excesso_Prazo_Dr_Gabriel.pdf",
+        "04_Analises_e_Estrategias/Debate_Adversarial_Julio_Pereira_Marcos_20260908.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ paper); connects across different repos/directories"
+    },
+    {
+      "source": "Precedente STJ HC 457.303/TO (Nulidade de Decisão de 2 Linhas per relationem)",
+      "target": "Nulidade Absoluta da Decisão de Piso (2 linhas per relationem / Art. 315 §2º CPP)",
+      "source_files": [
+        "04_RECURSOS_SUPERIORES_STJ/Aditamento_Fato_Novo_Excesso_Prazo_Dr_Gabriel.pdf",
+        "04_Analises_e_Estrategias/Debate_Adversarial_Julio_Pereira_Marcos_Peticao_DrGabriel.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "rationale_for",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc ↔ paper); connects across different repos/directories"
+    },
+    {
+      "source": "Tese de Extensão da Liberdade Provisória com Corréus (Art. 580 CPP)",
+      "target": "Habeas Corpus TJRJ nº 0029845-67.2026.8.19.0000",
+      "source_files": [
+        "04_Analises_e_Estrategias/Debate_Adversarial_Julio_Pereira_Marcos_20260908.md",
+        "03_HABEAS_CORPUS_2A_INSTANCIA_TJRJ/Consulta_Direta_TJRJ_15_09_2026.txt"
+      ],
+      "confidence": "INFERRED",
+      "relation": "rationale_for",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Habeas Corpus TJRJ nº 0029845-67.2026.8.19.0000` connect `Gabinete Og Fernandes e Recursos STJ` to `Gabinete Og Fernandes e Recursos STJ`, `Gabinete Og Fernandes e Recursos STJ`, `2ª Instância TJRJ e Habeas Corpus`?",
+      "why": "High betweenness centrality (0.288) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Autuação do HC 1.116.750/RJ no STJ em 27/07/2026` connect `Gabinete Og Fernandes e Recursos STJ` to `Gabinete Og Fernandes e Recursos STJ`, `Gabinete Og Fernandes e Recursos STJ`?",
+      "why": "High betweenness centrality (0.225) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Manifestação Ministerial MPF nº 68200-2026 (Subprocurador Mário Ferreira Leite)` connect `Gabinete Og Fernandes e Recursos STJ` to `Gabinete Og Fernandes e Recursos STJ`?",
+      "why": "High betweenness centrality (0.146) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `Habeas Corpus TJRJ nº 0029845-67.2026.8.19.0000` (e.g. with `Remessa do HC à 2ª Vice-Presidência para Recurso Ordinário (28/07/2026)` and `Tese de Extensão da Liberdade Provisória com Corréus (Art. 580 CPP)`) actually correct?",
+      "why": "`Habeas Corpus TJRJ nº 0029845-67.2026.8.19.0000` has 3 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Apenso de Recurso em Sentido Estrito nº 0001140-87.2024.8.19.0078 (RESE do MP)`, `Habeas Corpus TJRJ nº 0029845-67.2026.8.19.0000 (7ª Câmara Criminal - Des. Sidney Rosa)`, `Corréu José Guilherme da Costa Freire (Zezé - único flagrado com drogas, solto em 2022)` to the rest of the system?",
+      "why": "30 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Gabinete Og Fernandes e Recursos STJ` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.12631578947368421 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

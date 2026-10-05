@@ -1,0 +1,182 @@
+{
+  "POST www3.tjrj.jus.br/consultaprocessual/api/processos/por-numeracao-unica": {
+    "endpoint_key": "POST www3.tjrj.jus.br/consultaprocessual/api/processos/por-numeracao-unica",
+    "court": "TJRJ (Tribunal de Justiça do Rio de Janeiro)",
+    "method": "POST",
+    "host": "www3.tjrj.jus.br",
+    "path": "/consultaprocessual/api/processos/por-numeracao-unica",
+    "query_params": {},
+    "last_seen": "2026-09-02 18:04:10",
+    "status_code": 200,
+    "duration_ms": 420.5,
+    "relevant_request_headers": {
+      "Content-Type": "application/json",
+      "Origin": "https://www3.tjrj.jus.br",
+      "Referer": "https://www3.tjrj.jus.br/consultaprocessual/"
+    },
+    "request_schema": {
+      "tipoProcesso": "string",
+      "codigoProcesso": "string"
+    },
+    "request_example": {
+      "tipoProcesso": "1",
+      "codigoProcesso": "0023013-51.2021.8.19.0078"
+    },
+    "response_schema": [
+      {
+        "idProcesso": "integer",
+        "numProcesso": "string",
+        "classe": "string",
+        "descricaoServentia": "string",
+        "ultimoMovimento": "string",
+        "dtUltimoMovimento": "string"
+      }
+    ],
+    "response_sample_keys": null,
+    "reproducible_curl": "curl -X POST \"https://www3.tjrj.jus.br/consultaprocessual/api/processos/por-numeracao-unica\" \\\n  -H \"Content-Type: application/json\" \\\n  -H \"Origin: https://www3.tjrj.jus.br\" \\\n  -H \"Referer: https://www3.tjrj.jus.br/consultaprocessual/\" \\\n  -d \"{\\\"tipoProcesso\\\": \\\"1\\\", \\\"codigoProcesso\\\": \\\"0023013-51.2021.8.19.0078\\\"}\""
+  },
+  "POST www3.tjrj.jus.br/consultaprocessual/api/processos/por-numero/movimentos": {
+    "endpoint_key": "POST www3.tjrj.jus.br/consultaprocessual/api/processos/por-numero/movimentos",
+    "court": "TJRJ (Tribunal de Justiça do Rio de Janeiro)",
+    "method": "POST",
+    "host": "www3.tjrj.jus.br",
+    "path": "/consultaprocessual/api/processos/por-numero/movimentos",
+    "query_params": {},
+    "last_seen": "2026-09-02 18:04:10",
+    "status_code": 200,
+    "duration_ms": 380.2,
+    "relevant_request_headers": {
+      "Content-Type": "application/json",
+      "Origin": "https://www3.tjrj.jus.br"
+    },
+    "request_schema": {
+      "tipoProcesso": "integer",
+      "codigoProcesso": "string",
+      "indProcVolumoso": "string",
+      "ultimaOrdemExibida": "null"
+    },
+    "request_example": {
+      "tipoProcesso": 1,
+      "codigoProcesso": "2021.078.023002-1",
+      "indProcVolumoso": "N",
+      "ultimaOrdemExibida": null
+    },
+    "response_schema": [
+      {
+        "ordem": "integer",
+        "dtMovimento": "string",
+        "dtJuntada": "string",
+        "descrMov": "string",
+        "movimentosExibicao": [
+          {
+            "tipoMovimento": "string",
+            "detalhesMovimento": "string"
+          }
+        ]
+      }
+    ],
+    "response_sample_keys": null,
+    "reproducible_curl": "curl -X POST \"https://www3.tjrj.jus.br/consultaprocessual/api/processos/por-numero/movimentos\" \\\n  -H \"Content-Type: application/json\" \\\n  -H \"Origin: https://www3.tjrj.jus.br\" \\\n  -d \"{\\\"tipoProcesso\\\": 1, \\\"codigoProcesso\\\": \\\"2021.078.023002-1\\\", \\\"indProcVolumoso\\\": \\\"N\\\", \\\"ultimaOrdemExibida\\\": null}\""
+  },
+  "POST api-publica.datajud.cnj.jus.br/api_publica_stj/_search": {
+    "endpoint_key": "POST api-publica.datajud.cnj.jus.br/api_publica_stj/_search",
+    "court": "STJ (Superior Tribunal de Justiça)",
+    "method": "POST",
+    "host": "api-publica.datajud.cnj.jus.br",
+    "path": "/api_publica_stj/_search",
+    "query_params": {},
+    "last_seen": "2026-09-02 18:04:10",
+    "status_code": 200,
+    "duration_ms": 640.8,
+    "relevant_request_headers": {
+      "Authorization": "APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw==",
+      "Content-Type": "application/json"
+    },
+    "request_schema": {
+      "query": {
+        "match": {
+          "numeroProcesso": "string"
+        }
+      },
+      "size": "integer"
+    },
+    "request_example": {
+      "query": {
+        "match": {
+          "numeroProcesso": "00298456720268190000"
+        }
+      },
+      "size": 5
+    },
+    "response_schema": {
+      "hits": {
+        "total": {
+          "value": "integer"
+        },
+        "hits": [
+          {
+            "_source": {
+              "numeroProcesso": "string",
+              "classe": {
+                "codigo": "any",
+                "nome": "any"
+              },
+              "orgaoJulgador": {
+                "codigo": "any",
+                "nome": "any"
+              },
+              "nivelSigilo": "integer"
+            }
+          }
+        ]
+      }
+    },
+    "response_sample_keys": [
+      "hits"
+    ],
+    "reproducible_curl": "curl -X POST \"https://api-publica.datajud.cnj.jus.br/api_publica_stj/_search\" \\\n  -H \"Authorization: APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw==\" \\\n  -H \"Content-Type: application/json\" \\\n  -d \"{\\\"query\\\": {\\\"match\\\": {\\\"numeroProcesso\\\": \\\"00298456720268190000\\\"}}, \\\"size\\\": 5}\""
+  },
+  "POST comunica.pje.jus.br/api/v1/comunicacao": {
+    "endpoint_key": "POST comunica.pje.jus.br/api/v1/comunicacao",
+    "court": "PJe / PDPJ-Br (Processo Judicial Eletrônico)",
+    "method": "POST",
+    "host": "comunica.pje.jus.br",
+    "path": "/api/v1/comunicacao",
+    "query_params": {},
+    "last_seen": "2026-09-02 18:04:10",
+    "status_code": 200,
+    "duration_ms": 510.0,
+    "relevant_request_headers": {
+      "Content-Type": "application/json",
+      "Origin": "https://comunica.pje.jus.br"
+    },
+    "request_schema": {
+      "siglaTribunal": "string",
+      "numeroProcesso": "string",
+      "meio": "string"
+    },
+    "request_example": {
+      "siglaTribunal": "STJ",
+      "numeroProcesso": "1116750",
+      "meio": "D"
+    },
+    "response_schema": {
+      "status": "string",
+      "count": "integer",
+      "items": [
+        {
+          "id": "integer",
+          "data_disponibilizacao": "string",
+          "tipoComunicacao": "string",
+          "destinatario": "string"
+        }
+      ]
+    },
+    "response_sample_keys": [
+      "status",
+      "count",
+      "items"
+    ],
+    "reproducible_curl": "curl -X POST \"https://comunica.pje.jus.br/api/v1/comunicacao\" \\\n  -H \"Content-Type: application/json\" \\\n  -H \"Origin: https://comunica.pje.jus.br\" \\\n  -d \"{\\\"siglaTribunal\\\": \\\"STJ\\\", \\\"numeroProcesso\\\": \\\"1116750\\\", \\\"meio\\\": \\\"D\\\"}\""
+  }
+}

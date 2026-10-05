@@ -2,8 +2,8 @@
 import json
 import os
 
-meta_file = r"C:\Projetos\Super Analista Jurídico\Clientes\Júlio_Pereira_Marcos\Caso_Principal\case_meta.json"
-timeline_file = r"C:\Projetos\Super Analista Jurídico\Clientes\Júlio_Pereira_Marcos\Caso_Principal\timeline.json"
+meta_file = r"C:\Projetos\superJus\Clientes\Júlio_Pereira_Marcos\Caso_Principal\case_meta.json"
+timeline_file = r"C:\Projetos\superJus\Clientes\Júlio_Pereira_Marcos\Caso_Principal\timeline.json"
 
 # 1. Atualizar case_meta.json
 with open(meta_file, "r", encoding="utf-8") as f:

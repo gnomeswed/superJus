@@ -7,7 +7,7 @@ search_dirs = [
     r"C:\Users\Administrator\Desktop",
     r"C:\Users\Administrator\Downloads",
     r"C:\Users\Administrator\Documents",
-    r"C:\Projetos\Super Analista Jurídico"
+    r"C:\Projetos\superJus"
 ]
 
 found = []

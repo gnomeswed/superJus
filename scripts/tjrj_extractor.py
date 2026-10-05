@@ -15,7 +15,7 @@ try:
 except Exception:  # pragma: no cover
     sync_playwright = None  # type: ignore[misc,assignment]
 
-PROCESSOS_CACHE_PATH = r"C:\Projetos\Super Analista Jurídico\scripts\.process_number_cache.json"
+PROCESSOS_CACHE_PATH = r"C:\Projetos\superJus\scripts\.process_number_cache.json"
 
 
 def _load_last_process() -> Optional[str]:
@@ -69,15 +69,9 @@ def extract_tjrj(process_number: str, save_dir: str, headless: bool = False) -> 
         if os.path.isfile(filepath) and os.path.getsize(filepath) < 200:
             os.remove(filepath)
 
-    ctypes.windll.user32.MessageBoxW(
-        0,
-        "Uma NOVA JANELA do Chromium será aberta.\n\n"
-        "Por favor, procure ela na sua barra de tarefas!\n\n"
-        "Você precisa pesquisar o processo NELA, e clicar em 'Todos Os Movimentos' e '500 por página'.\n\n"
-        "O script vai esperar você fazer isso.",
-        "Extrator TJRJ",
-        0x40 | 0x10000,
-    )
+    print("[TJRJ Extractor] Iniciando navegador Chromium para extração...")
+    if not headless:
+        print("[TJRJ Extractor] Modo visível ativado. Caso necessário, pesquise o processo na janela aberta.")
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=bool(headless))

@@ -5,7 +5,7 @@ import urllib.request
 import re
 from datetime import datetime
 
-DATAJUD_API_KEY = "APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+DATAJUD_API_KEY = __import__('os').getenv('DATAJUD_API_KEY','')
 BASE_DIR = r"c:\Projetos\Super Analista Jurídico\Clientes\ecildo\processos"
 
 processes_info = [

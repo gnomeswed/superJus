@@ -53,6 +53,9 @@ def clean_md_inline(text_str):
     # Remover símbolos hash residuais do início se houver
     text_str = re.sub(r'^\#+\s*', '', text_str)
     
+    # Escape '&' if not part of valid entity
+    text_str = re.sub(r'&(?!(?:amp|lt|gt|quot|apos);)', '&amp;', text_str)
+    
     # Trata codigo/crases soltas: `texto` -> font azul sem crase
     text_str = re.sub(r'`(.*?)`', r'<b><font color="#2B6CB0">\1</font></b>', text_str)
     
@@ -64,7 +67,17 @@ def clean_md_inline(text_str):
             res += f'<b>{part}</b>'
         else:
             res += part
-    return res.strip()
+
+    # Processar *itálico* de forma limpa
+    parts_i = res.split('*')
+    res_i = ''
+    for idx, part in enumerate(parts_i):
+        if idx % 2 == 1 and len(part) > 0:
+            res_i += f'<i>{part}</i>'
+        else:
+            res_i += part
+
+    return res_i.strip()
 
 def generate_perfect_pdf(md_file_path, output_pdf_path):
     if not os.path.exists(md_file_path):
@@ -118,6 +131,12 @@ def generate_perfect_pdf(md_file_path, output_pdf_path):
         textColor=colors.HexColor('#1A202C')
     )
 
+    quote_style = ParagraphStyle(
+        'DocQuote', parent=styles['Normal'],
+        fontName='Helvetica-Oblique', fontSize=8.5, leading=12,
+        textColor=colors.HexColor('#2D3748'), leftIndent=16, rightIndent=12, spaceAfter=4, alignment=TA_JUSTIFY
+    )
+
     story = []
     lines = raw_text.splitlines()
     in_table = False
@@ -126,7 +145,17 @@ def generate_perfect_pdf(md_file_path, output_pdf_path):
     def flush_table():
         nonlocal in_table, table_data
         if in_table and len(table_data) > 0:
-            t = Table(table_data, colWidths=[100, 100, 110, 190])
+            num_cols = len(table_data[0])
+            total_w = 523
+            if num_cols == 2:
+                col_widths = [140, 383]
+            elif num_cols == 3:
+                col_widths = [110, 140, 273]
+            elif num_cols == 4:
+                col_widths = [95, 105, 110, 213]
+            else:
+                col_widths = [total_w / num_cols] * num_cols
+            t = Table(table_data, colWidths=col_widths)
             t.setStyle(TableStyle([
                 ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#2B6CB0')),
                 ('TEXTCOLOR', (0,0), (-1,0), colors.white),
@@ -187,6 +216,14 @@ def generate_perfect_pdf(md_file_path, output_pdf_path):
             story.append(Paragraph(clean_h3, h2_style))
             continue
 
+        # Citações em bloco (Blockquotes)
+        if l.startswith('>'):
+            clean_q = re.sub(r'^>\s*', '', l)
+            fmt = clean_md_inline(clean_q)
+            if fmt:
+                story.append(Paragraph(fmt, quote_style))
+            continue
+
         # Tópicos com marcadores (bullets)
         if l.startswith('* ') or l.startswith('- ') or re.match(r'^\d+\.\s', l):
             clean_b = re.sub(r'^\*\s+|^\-\s+|^\d+\.\s+', '', l)
@@ -206,14 +243,14 @@ def generate_perfect_pdf(md_file_path, output_pdf_path):
     print(f'PDF PERFEITAMENTE FORMATADO GERADO EM: {output_pdf_path}')
 
 if __name__ == '__main__':
-    md_in = r'C:\Users\Administrator\.gemini\antigravity\brain\c9774a1b-12dc-47dd-8775-bb128c496e95\relatorio_completo_ecildo.md'
-    pdf_out = r'C:\Users\Administrator\Desktop\Relatorio_Completo_Ecildo.pdf'
-    generate_perfect_pdf(md_in, pdf_out)
-    
-    script_official = r'c:\Projetos\Super Analista Jurídico\.agents\skills\gerar_pdf_profissional\scripts\gerar_pdf_profissional.py'
-    shutil.copy(__file__, script_official)
-    
-    shutil.copy(pdf_out, r'c:\Projetos\Super Analista Jurídico\Relatorio_Completo_Ecildo.pdf')
-    shutil.copy(pdf_out, r'c:\Projetos\Super Analista Jurídico\Clientes\ecildo\Relatorio_Completo_Ecildo.pdf')
-    shutil.copy(pdf_out, r'C:\Users\Administrator\.gemini\antigravity\brain\c9774a1b-12dc-47dd-8775-bb128c496e95\relatorio_completo_ecildo.pdf')
-    print('Sincronizacao de PDFs limpos concluida com SUCESSO!')
+    if len(sys.argv) >= 3:
+        md_in = sys.argv[1]
+        pdf_out = sys.argv[2]
+        generate_perfect_pdf(md_in, pdf_out)
+    elif len(sys.argv) == 2:
+        md_in = sys.argv[1]
+        pdf_out = os.path.splitext(md_in)[0] + '.pdf'
+        generate_perfect_pdf(md_in, pdf_out)
+    else:
+        print("Uso: python gerar_pdf_profissional.py <arquivo.md> [arquivo.pdf]")
+        sys.exit(1)

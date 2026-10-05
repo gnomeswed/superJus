@@ -54,7 +54,7 @@ with sync_playwright() as p:
     page.screenshot(path="tjrj_resultado_primeng.png")
     body_txt = page.inner_text("body")
     
-    out_file = r"C:\Projetos\Super Analista Jurídico\tjrj_resultado_lucas_primeng.txt"
+    out_file = r"C:\Projetos\superJus\tjrj_resultado_lucas_primeng.txt"
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(body_txt)
         

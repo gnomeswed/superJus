@@ -2,7 +2,7 @@
 import os
 import fitz
 
-root_dir = r"C:\Projetos\Super Analista Jurídico"
+root_dir = r"C:\Projetos\superJus"
 
 matches = []
 

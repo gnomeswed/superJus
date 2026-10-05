@@ -21,6 +21,7 @@ venv.bak/
 *.dll
 *.bin
 *.tar.gz
+mcp_servers/
 
 .env
 .memu/
@@ -40,5 +41,19 @@ stj_resultado_*
 stj_snapshot_*
 tjrj_portal_snap.png
 tjrj_portal_captura_sucesso.txt
+_stj_*.png
+scratch_*.png
+*.png
+*.html
+julio_*.txt
+resultado_*.txt
+consulta_ao_vivo_*.json
+andamento_julio_*.md
+1A_*.txt
+brain_artifacts/
+relatorios_debates/
+exemplos_auditoria_whisper/
+.codebase-memory/
+.commandcode/
 # Júlio — junction sem acento para compatibilidade (pasta canônica é Júlio_Pereira_Marcos)
 Clientes/Julio_Pereira_Marcos/

@@ -4,7 +4,7 @@ import re
 import fitz
 from bs4 import BeautifulSoup
 
-search_dir = r"C:\Projetos\Super Analista Jurídico\Clientes\Lucas_Freitas"
+search_dir = r"C:\Projetos\superJus\Clientes\Lucas_Freitas"
 
 for root, dirs, files in os.walk(search_dir):
     for f in files:

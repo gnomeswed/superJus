@@ -1,0 +1,25 @@
+{
+  "nodes": [],
+  "edges": [],
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "failed_sources": [],
+  "extracted_sources": [
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\02_APENSOS_E_MEDIDAS_CAUTELARES\\0001492-25.2016.8.19.0046_Rio_Bonito_Desclassificacao_Art28\\_API_chain_por-numeracao-unica.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\Relatorio_Comparativo_Docling.tables.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\04_RECURSOS_SUPERIORES_STJ\\03_Peticoes_e_Pareceres\\Relatorio_Comparativo_Parecer_MPF_vs_Defesa_STJ.tabelas_docling.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\Timelines_e_Metadados\\analise_ia.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\Timelines_e_Metadados\\analise_timeline.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\Timelines_e_Metadados\\case_meta.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\Timelines_e_Metadados\\consulta_ao_vivo_22_08_2026.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\Timelines_e_Metadados\\timeline.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\andamento_julio_05_09_2026.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\andamento_julio_15_09_2026.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\andamento_julio_19_09_2026.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\andamento_julio_20_09_2026.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\andamento_julio_29_08_2026.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\andamento_julio_31_08_2026.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\consulta_ao_vivo_23_09_2026.json",
+    "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\analise_ia.json"
+  ]
+}

@@ -3,7 +3,7 @@ import re
 import json
 import urllib.request
 
-DATAJUD_API_KEY = "APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+DATAJUD_API_KEY = __import__('os').getenv('DATAJUD_API_KEY','')
 
 with open(r"c:\Projetos\Super Analista Jurídico\scripts\pdf_dossie_text.txt", "r", encoding="utf-8") as f:
     pdf_text = f.read()

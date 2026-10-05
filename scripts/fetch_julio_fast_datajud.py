@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 import json
 import urllib.request
+import sys
 import os
+
+sys.stdout.reconfigure(encoding='utf-8')
 
 procs = [
     ("0023013-51.2021.8.19.0078", "00230135120218190078", "Ação Penal (Búzios - 2ª Vara)"),
@@ -12,7 +15,7 @@ procs = [
 
 url = 'https://api-publica.datajud.cnj.jus.br/api_publica_tjrj/_search'
 headers = {
-    'Authorization': 'APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw==',
+    'Authorization': __import__('core.config', fromlist=['datajud_headers']).datajud_headers()['Authorization'],
     'Content-Type': 'application/json'
 }
 
@@ -25,7 +28,7 @@ for formatted, clean, label in procs:
         with urllib.request.urlopen(req) as resp:
             res = json.loads(resp.read().decode('utf-8'))
             hits = res.get('hits', {}).get('hits', [])
-            print(f"\n📌 Processo: {formatted} ({label}) — {len(hits)} registros")
+            print(f"\n Processo: {formatted} ({label}) — {len(hits)} registros")
             for hit in hits:
                 src = hit['_source']
                 movs = src.get('movimentos', [])

@@ -5,7 +5,7 @@ from playwright.sync_api import sync_playwright
 
 proc_num = "0023013-51.2021.8.19.0078"
 proc_clean = "00230135120218190078"
-target_file = r"C:\Projetos\Super Analista Jurídico\Clientes\Júlio_Pereira_Marcos\Caso_Principal\documentos_processo\djerj_online_search_29_07_2026.txt"
+target_file = r"C:\Projetos\superJus\Clientes\Júlio_Pereira_Marcos\Caso_Principal\documentos_processo\djerj_online_search_29_07_2026.txt"
 
 print("=== BUSCA DIRETA NO PORTAL DO DJERJ (29/07/2026 13h24) ===")
 

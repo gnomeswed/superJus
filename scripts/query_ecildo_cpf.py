@@ -3,7 +3,7 @@ import json
 import urllib.request
 import urllib.error
 
-DATAJUD_API_KEY = "APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+DATAJUD_API_KEY = __import__('os').getenv('DATAJUD_API_KEY','')
 
 cpf = "08073097290"
 cpf_formatted = "080.730.972-90"

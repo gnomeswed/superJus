@@ -20,13 +20,18 @@ from typing import List, Optional
 # Basic logging configuration
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
-try:
-    from playwright.sync_api import sync_playwright
-except ImportError:
-    sync_playwright = None
+from pathlib import Path as _Path
 
-# Default path for mock documents in case of Lucas Freitas
-DEFAULT_LUCAS_MOCK_DIR = r"C:\Projetos\Super Analista Jurídico\Clientes\Lucas_Freitas\Caso_Principal\documentos_processo"
+_PROJECT_ROOT = _Path(__file__).resolve().parents[1]
+DEFAULT_LUCAS_MOCK_DIR = str(_PROJECT_ROOT / "Clientes" / "Lucas_Freitas" / "Caso_Principal" / "documentos_processo")
+
+
+def _get_playwright():
+    try:
+        from playwright.sync_api import sync_playwright
+        return sync_playwright
+    except ImportError:
+        return None
 
 
 def clean_process_number(process_number: str) -> str:
@@ -74,8 +79,11 @@ def query_datajud(clean_num: str, save_dir: str) -> Optional[str]:
     }
     tribunal = f"tj{uf_map.get(tr, 'rj')}" if j == '8' else "tjrj"
     url = f'https://api-publica.datajud.cnj.jus.br/api_publica_{tribunal}/_search'
+    _api = os.getenv("DATAJUD_API_KEY", "").strip()
+    if not _api:
+        raise RuntimeError("DATAJUD_API_KEY ausente — configure no .env")
     headers = {
-        'Authorization': 'APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw==',
+        'Authorization': _api if _api.lower().startswith("apikey ") else f"APIKey {_api}",
         'Content-Type': 'application/json'
     }
     
@@ -95,6 +103,7 @@ def query_datajud(clean_num: str, save_dir: str) -> Optional[str]:
 
 def run_playwright_scraping(process_number: str, save_dir: str) -> List[str]:
     """Automates process search and scraping via headless Playwright browser."""
+    sync_playwright = _get_playwright()
     if sync_playwright is None:
         raise RuntimeError("Playwright not installed")
 
@@ -500,7 +509,7 @@ def scrape_process_documents(process_number: str, save_dir: str) -> list[str]:
     playwright_success = False
     playwright_timeout_triggered = False
     try:
-        if sync_playwright is None:
+        if _get_playwright() is None:
             raise RuntimeError("Playwright not installed")
         
         extracted_paths = run_playwright_scraping(process_number, save_dir)

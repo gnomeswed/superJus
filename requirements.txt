@@ -1,18 +1,18 @@
+# Gere a partir de requirements.in com pip-tools quando possível
+# Fixe versões com: pip-compile requirements.in  (não instale PyPDF2 junto com pypdf)
 streamlit
-langchain
-langchain-google-genai
-langchain-community
-chromadb
 pypdf
 beautifulsoup4
 python-dotenv
-google-generativeai
 playwright
-openai-whisper
-networkx
-pyvis
 pandas
 plotly
 openai
-PyPDF2
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+google-generativeai
+networkx
+pyvis
 fpdf2

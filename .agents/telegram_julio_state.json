@@ -1,0 +1,36 @@
+{
+  "_last_check": "02/09/2026 às 11:51",
+  "_last_run": "05/09/2026 às 16:46",
+  "stj_hc": {
+    "hash": "stj_cache_002984567202",
+    "label": "STJ 6ª Turma (Rel. Min. Og Fernandes)",
+    "num_fmt": "HC 1.116.750/RJ (2026/0311210-7)",
+    "resumo": "Concluso para decisão ao Rel. Min. Og Fernandes (Parecer MPF acostado)",
+    "fonte": "STJ Fast Registry",
+    "updated_at": "05/09/2026 às 16:46"
+  },
+  "tjrj_buzios": {
+    "hash": "908760582c6201e7",
+    "label": "1ª Vara de Búzios (Ação Penal Desmembrado)",
+    "num_fmt": "0023013-51.2021.8.19.0078",
+    "resumo": "Processo em tramitação regular no TJRJ",
+    "fonte": "Fast Court Registry (Monitor Ativo)",
+    "updated_at": "05/09/2026 às 16:46"
+  },
+  "tjrj_hc_7cam": {
+    "hash": "b2349eea7fecd68d",
+    "label": "TJRJ 2ª Instância (7ª Câmara Criminal)",
+    "num_fmt": "0029845-67.2026.8.19.0000",
+    "resumo": "Processo em tramitação regular no TJRJ",
+    "fonte": "Fast Court Registry (Monitor Ativo)",
+    "updated_at": "05/09/2026 às 16:46"
+  },
+  "tjrj_orig": {
+    "hash": "77b2e79e47679792",
+    "label": "1ª Vara de Búzios (Processo Originário)",
+    "num_fmt": "0022975-39.2021.8.19.0078",
+    "resumo": "Processo em tramitação regular no TJRJ",
+    "fonte": "Fast Court Registry (Monitor Ativo)",
+    "updated_at": "05/09/2026 às 16:46"
+  }
+}

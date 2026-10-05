@@ -12,7 +12,7 @@ try:
 except ImportError:
     sync_playwright = None
 
-target_dir = r"C:\Projetos\Super Analista Jurídico\Clientes\Júlio_Pereira_Marcos\Caso_Principal\documentos_processo"
+target_dir = r"C:\Projetos\superJus\Clientes\Júlio_Pereira_Marcos\Caso_Principal\documentos_processo"
 os.makedirs(target_dir, exist_ok=True)
 
 processes = [

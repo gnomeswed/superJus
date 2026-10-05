@@ -19,7 +19,7 @@ print(f"=== Buscando processo {process_number} no Datajud CNJ / TJRJ ===")
 
 url = 'https://api-publica.datajud.cnj.jus.br/api_publica_tjrj/_search'
 headers = {
-    'Authorization': 'APIKey cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw==',
+    'Authorization': __import__('core.config', fromlist=['datajud_headers']).datajud_headers()['Authorization'],
     'Content-Type': 'application/json'
 }
 req_data = json.dumps({"query": {"match": {"numeroProcesso": clean_num}}}).encode('utf-8')

@@ -1,0 +1,160 @@
+{
+  "nodes": [
+    {
+      "id": "transcricao_integral_aij_policiais",
+      "label": "Transcrição Integral da Audiência de Instrução (1.958 Linhas - Depoimentos Policiais)",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "Linhas 1 a 1958",
+      "source_url": null,
+      "captured_at": "2022-07-25",
+      "author": "2ª Vara de Búzios",
+      "contributor": "Hugo Henrique Cavalcanti Matos"
+    },
+    {
+      "id": "confissao_delegado_nelson_esquiba_art35",
+      "label": "Confissão Expressa do Delegado Nelson Esquiba sobre Ausência de Hierarquia e Estrutura no Art. 35",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "Linhas 820 a 826",
+      "source_url": null,
+      "captured_at": "2022-07-25",
+      "author": "Dr. Nelson Esquiba Junior (Delegado Assistente)",
+      "contributor": "PCERJ"
+    },
+    {
+      "id": "admissao_delegado_rodrigo_moreira_pericia_voz",
+      "label": "Admissão do Delegado Rodrigo Moreira sobre Inexistência de Perícia Vocálica nas Interceptações",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "Linha 430",
+      "source_url": null,
+      "captured_at": "2022-07-25",
+      "author": "Dr. Rodrigo Bichara Moreira (Delegado Titular)",
+      "contributor": "PCERJ"
+    },
+    {
+      "id": "intimacao_informal_whatsapp_delegado",
+      "label": "Intimação Informal por WhatsApp e Declaração Forçada de Foragido sem Citação Válida",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "Linhas 710 a 730",
+      "source_url": null,
+      "captured_at": "2022-07-25",
+      "author": "127ª DP Búzios",
+      "contributor": null
+    },
+    {
+      "id": "declaracao_pre_julgamento_juiza_maira",
+      "label": "Declaração Antecipada de Indeferimento pela Magistrada Anterior ('Na assentada vou indeferir')",
+      "file_type": "concept",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "Linha 1888",
+      "source_url": null,
+      "captured_at": "2022-07-25",
+      "author": "Dra. Maíra Valéria Veiga de Oliveira",
+      "contributor": "2ª Vara de Búzios"
+    },
+    {
+      "id": "dossie_neutro_analise_hc_julio_stj",
+      "label": "Dossiê Estratégico Neutro e Análise Crítica do Caso Júlio (Poder Judiciário x Defesa)",
+      "file_type": "document",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\DOSSIE_NEUTRO_ANALISE_HC_JULIO_STJ.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-08-20",
+      "author": "Equipe de Inteligência SuperJus",
+      "contributor": "Antigravity"
+    },
+    {
+      "id": "tese_ausencia_materialidade_sem_drogas",
+      "label": "Tese: Ausência de Materialidade Direta no Tráfico (Zero Grama Apreendido com Júlio - STF RE 1558206)",
+      "file_type": "rationale",
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\ANALISE_COMPLETA_E_REALISTA_DO_CASO_JULIO.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-08-18",
+      "author": "Defesa Técnica",
+      "contributor": "Dr. Gabriel Alves Guimarães"
+    }
+  ],
+  "edges": [
+    {
+      "source": "transcricao_integral_aij_policiais",
+      "target": "confissao_delegado_nelson_esquiba_art35",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "L820-826",
+      "weight": 1.0
+    },
+    {
+      "source": "transcricao_integral_aij_policiais",
+      "target": "admissao_delegado_rodrigo_moreira_pericia_voz",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "L430",
+      "weight": 1.0
+    },
+    {
+      "source": "transcricao_integral_aij_policiais",
+      "target": "intimacao_informal_whatsapp_delegado",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "L710",
+      "weight": 1.0
+    },
+    {
+      "source": "transcricao_integral_aij_policiais",
+      "target": "declaracao_pre_julgamento_juiza_maira",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt",
+      "source_location": "L1888",
+      "weight": 1.0
+    },
+    {
+      "source": "confissao_delegado_nelson_esquiba_art35",
+      "target": "tese_ausencia_materialidade_sem_drogas",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\ANALISE_COMPLETA_E_REALISTA_DO_CASO_JULIO.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dossie_neutro_analise_hc_julio_stj",
+      "target": "transcricao_integral_aij_policiais",
+      "relation": "cites",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\07_RELATORIOS_ESTRATEGICOS_E_ANALISES\\DOSSIE_NEUTRO_ANALISE_HC_JULIO_STJ.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "vicios_e_confissoes_instrucao_policial",
+      "label": "Conjunto de Vícios e Confissões da Investigação Policial (L820 Esquiba + L430 Moreira + WhatsApp)",
+      "nodes": [
+        "confissao_delegado_nelson_esquiba_art35",
+        "admissao_delegado_rodrigo_moreira_pericia_voz",
+        "intimacao_informal_whatsapp_delegado"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\05_AUDIENCIAS_E_PROVAS\\Audiencia_Instrucao_e_Julgamento\\Transcricao_Integral_Audiencia_Instrucao.txt"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

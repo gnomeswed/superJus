@@ -2,7 +2,7 @@
 import os
 import re
 
-dir_path = r"C:\Projetos\Super Analista Jurídico\Clientes\Lucas_Freitas"
+dir_path = r"C:\Projetos\superJus\Clientes\Lucas_Freitas"
 
 rg_patterns = [
     r'\b\d{2}\.\d{3}\.\d{3}-\d{1,2}\b', # RG RJ 00.000.000-0

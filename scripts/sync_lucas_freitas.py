@@ -3,8 +3,8 @@ import os
 import shutil
 import json
 
-src_dir = r"C:\Projetos\Super Analista Jurídico\Clientes\Processo_0011857-95.2024.8.19.0002"
-dst_dir = r"C:\Projetos\Super Analista Jurídico\Clientes\Lucas_Freitas\Caso_Principal"
+src_dir = r"C:\Projetos\superJus\Clientes\Processo_0011857-95.2024.8.19.0002"
+dst_dir = r"C:\Projetos\superJus\Clientes\Lucas_Freitas\Caso_Principal"
 
 os.makedirs(os.path.join(dst_dir, "documentos_processo"), exist_ok=True)
 os.makedirs(os.path.join(dst_dir, "pecas"), exist_ok=True)

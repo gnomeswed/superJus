@@ -65,7 +65,7 @@ with sync_playwright() as p:
     time.sleep(12)
     
     body_txt = page.inner_text("body")
-    out_file = r"C:\Projetos\Super Analista Jurídico\tjrj_resultado_final_lucas.txt"
+    out_file = r"C:\Projetos\superJus\tjrj_resultado_final_lucas.txt"
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(body_txt)
         

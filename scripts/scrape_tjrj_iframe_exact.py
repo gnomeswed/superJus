@@ -57,7 +57,7 @@ with sync_playwright() as p:
     real_frame = frame_element.content_frame()
     body_txt = real_frame.inner_text("body")
     
-    out_file = r"C:\Projetos\Super Analista Jurídico\tjrj_resultado_lucas_iframe_sucesso.txt"
+    out_file = r"C:\Projetos\superJus\tjrj_resultado_lucas_iframe_sucesso.txt"
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(body_txt)
         
