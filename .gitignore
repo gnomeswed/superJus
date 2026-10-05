@@ -55,5 +55,7 @@ relatorios_debates/
 exemplos_auditoria_whisper/
 .codebase-memory/
 .commandcode/
+/*.txt
+/*.json
 # Júlio — junction sem acento para compatibilidade (pasta canônica é Júlio_Pereira_Marcos)
 Clientes/Julio_Pereira_Marcos/
