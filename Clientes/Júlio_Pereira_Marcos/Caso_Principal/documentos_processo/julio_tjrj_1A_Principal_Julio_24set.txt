@@ -1,0 +1,34 @@
+TJ/RJ - 24/09/2026 - 09:28:13 - Processo Nº 0023013-51.2021.8.19.0078
+Descrição: Ação Penal Principal Desmembrada - 2ª Vara de Búzios
+Código Interno: 2021.078.023002-1
+Comarca: Comarca de Búzios
+Serventia: Cartório da 2ª Vara
+Classe: Ação Penal - Procedimento Ordinário
+Fase Atual: Processamento Réu Preso
+Total de Movimentos: 55
+======================================================================
+ÚLTIMOS MOVIMENTOS PROCESSUAIS:
+
+[Data: 06/08/2026] - Juntada - Documento
+   - Data da juntada: 04/08/2026
+
+[Data: 01/08/2026] - Conclusão ao Juiz
+   - Data de Recebimento: 01/08/2026; Data da conclusão: 30/07/2026; Juiz: DANILO MARQUES BORGES
+
+[Data: 30/07/2026] - Juntada - Documento
+   - Data da juntada: 30/07/2026
+
+[Data: 29/07/2026] - Juntada - Petição
+   - Data da juntada: 29/07/2026; Descrição da Juntada: Documento eletrônico juntado de forma automática.
+
+[Data: 28/07/2026] - Envio de Documento Eletrônico
+   - Data da remessa: 28/07/2026
+
+[Data: 28/07/2026] - Conclusão ao Juiz
+   - Data do expediente: 29/07/2026; Data de Recebimento: 24/07/2026; Data da conclusão: 23/07/2026; Juiz: DANILO MARQUES BORGES
+
+[Data: 21/07/2026] - Juntada - Petição
+   - Data da juntada: 21/07/2026; Descrição da Juntada: Documento eletrônico juntado de forma automática.
+
+[Data: 17/07/2026] - Envio de Documento Eletrônico
+   - Data da remessa: 17/07/2026

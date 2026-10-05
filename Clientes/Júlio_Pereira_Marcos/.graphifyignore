@@ -1,0 +1,7 @@
+# Graphify ignore patterns for Julio Pereira Marcos case
+# Ignore raw scraping dumps and legacy snapshots to keep the knowledge graph focused on core legal documents
+08_HISTORICO_DE_VARREDURAS_BACKUP/
+Caso_Principal/
+*.lnk
+*.tmp
+_scanned_backups/

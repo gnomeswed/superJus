@@ -1,0 +1,99 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #36
+DATA: 17/04/2026
+TIPO: Conclusão ao Juiz
+ORDEM: 138
+DESCRIÇÃO: Trata-se de pedido apresentado pela defesa do réu RONNY BATALHA FERNANDES, conforme petição de fls. 641/643, em que informa a intenção de utilizar documentos constantes dos autos na sessão plenária, nos moldes do artigo 479 do CPP, assim como, desde logo, requer a retirada das algemas em Plenário, com fundamento na Súmula Vinculante nº 11 do STF, e, ainda, autorização para que o réu possa vestir roupas próprias durante o julgamento.
+
+Com relação ao pedido de utilização de vestimentas próprias durante a sessão de julgamento, não havendo qualquer inconveniente para a segurança, nem vedação legal, DEFIRO o requerido, determinando que a família traga as roupas e as entregue à segurança da carceragem antes da instalação da sessão.
+
+Todavia, quanto ao pedido de retirada das algemas durante a sessão, não é possível apreciá-lo a priori, devendo ser avaliado no momento da instalação da sessão, considerando o efetivo presente e a situação concreta de segurança do plenário do júri, a fim de preservar a segurança dos presentes.
+
+Portanto, aguarde-se a sessão para a devida apreciação do pedido relativo às algemas.
+
+Ciência às partes.
+
+SUB-MOVIMENTO: Enviado para publicação
+  Data do expediente:20/04/2026
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:16/04/2026
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:16/04/2026
+  Juiz:NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 138,
+  "dtAlt": "17/04/2026",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "17/04/2026",
+  "descricao": "Trata-se de pedido apresentado pela defesa do réu RONNY BATALHA FERNANDES, conforme petição de fls. 641/643, em que informa a intenção de utilizar documentos constantes dos autos na sessão plenária, nos moldes do artigo 479 do CPP, assim como, desde logo, requer a retirada das algemas em Plenário, com fundamento na Súmula Vinculante nº 11 do STF, e, ainda, autorização para que o réu possa vestir roupas próprias durante o julgamento.\r\n\r\nCom relação ao pedido de utilização de vestimentas próprias durante a sessão de julgamento, não havendo qualquer inconveniente para a segurança, nem vedação legal, DEFIRO o requerido, determinando que a família traga as roupas e as entregue à segurança da carceragem antes da instalação da sessão.\r\n\r\nTodavia, quanto ao pedido de retirada das algemas durante a sessão, não é possível apreciá-lo a priori, devendo ser avaliado no momento da instalação da sessão, considerando o efetivo presente e a situação concreta de segurança do plenário do júri, a fim de preservar a segurança dos presentes.\r\n\r\nPortanto, aguarde-se a sessão para a devida apreciação do pedido relativo às algemas.\r\n\r\nCiência às partes. ",
+  "descResumida": "...cumentos constantes dos autos na sessão plenária, nos moldes do artigo 479 do CPP, assim como, desde logo, requer a retirada das algemas em Plenário, com fundamento na Súmula Vinculante nº 11 do STF, e, ainda, autorização para que o réu possa vestir roupas próprias durante o julgamento.\r\n\r\nCom relação ao pedido de utilização de vestimentas próprias durante a sessão de julgamento, não havendo qualquer inconveniente para a segurança, nem vedação legal, DEFIRO o requerido, determinando que a família traga as roupas e as entregue à segurança da carceragem antes da instalação da sessão.\r\n\r\nTodavia, quanto ao pedido de retirada das algemas durante a sessão, não é possível apreciá-lo a priori, devendo ser avaliado no momento da instalação da sessão, considerando o efetivo presente e a situação concreta de segurança do plenário do júri, a fim de preservar a segurança dos presentes.\r\n\r\nPortanto, aguarde-se a sessão para a devida apreciação do pedido relativo às algemas.\r\n\r\nCiência às partes.",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Enviado para publicação",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data do expediente:",
+          "descricao": "20/04/2026"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    },
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "16/04/2026"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "...cumentos constantes dos autos na sessão plenária, nos moldes do artigo 479 do CPP, assim como, desde logo, requer a retirada das algemas em Plenário, com fundamento na Súmula Vinculante nº 11 do STF, e, ainda, autoriz...",
+        "descCompleta": "Trata-se de pedido apresentado pela defesa do réu RONNY BATALHA FERNANDES, conforme petição de fls. 641/643, em que informa a intenção de utilizar documentos constantes dos autos na sessão plenária, nos moldes do artigo 479 do CPP, assim como, desde logo, requer a retirada das algemas em Plenário, com fundamento na Súmula Vinculante nº 11 do STF, e, ainda, autorização para que o réu possa vestir roupas próprias durante o julgamento.\r\n\r\nCom relação ao pedido de utilização de vestimentas próprias durante a sessão de julgamento, não havendo qualquer inconveniente para a segurança, nem vedação legal, DEFIRO o requerido, determinando que a família traga as roupas e as entregue à segurança da carceragem antes da instalação da sessão.\r\n\r\nTodavia, quanto ao pedido de retirada das algemas durante a sessão, não é possível apreciá-lo a priori, devendo ser avaliado no momento da instalação da sessão, considerando o efetivo presente e a situação concreta de segurança do plenário do júri, a fim de preservar a segurança dos presentes.\r\n\r\nPortanto, aguarde-se a sessão para a devida apreciação do pedido relativo às algemas.\r\n\r\nCiência às partes. "
+      },
+      "codDocAtoAssinadoDig": null
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "16/04/2026"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS",
+  "dtConclusao": "16/04/2026",
+  "dtDevolucao": "16/04/2026",
+  "indPublicado": "sim",
+  "publicado": {
+    "dtExp": "20/04/2026",
+    "dtPubPrev": "27/04/2026"
+  }
+}

@@ -1,0 +1,91 @@
+TJ/RJ - 22/09/2026 - 09:23:07 - 1ª Instância - Processo Nº 0001140-87.2024.8.19.0078
+Descrição: Recurso em Sentido Estrito / Apenso - Búzios
+Código Interno: 2024.078.001138-0
+Total de Movimentos: 20
+======================================================================
+DADOS CADASTRAIS:
+Comarca: Comarca de Búzios
+Serventia: Cartório do Juizado Especial Adjunto Criminal
+Vara: Juizado Especial Adjunto Criminal
+Classe: Auto de Prisão em Flagrante
+Assunto: Lesão Corporal Leve (Art. 129 - Cp); Lesão Corporal Decorrente de Violência Doméstica Contra a Mulher (Art. 129, § 9º e / Ou § 11 - Cp); Lesão Cometida em Razão da Condição de Mulher (Art. 129, §13 - Cp)
+Distribuição: 02/09/2024
+Localização na Serventia / Fase: Mandado Junto Automaticamente
+Segredo de Justiça: N
+======================================================================
+HISTÓRICO DE MOVIMENTAÇÕES PROCESSUAIS (Ordem Decrescente):
+
+[Ordem: 18] Data: 11/09/2026 - Ato Ordinatório Praticado
+  • Ato Ordinatório Praticado: Data: 11/09/2026 | Descrição: Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.
+
+[Ordem: 17] Data: 11/09/2026 - Juntada de Mandado
+  • Juntada de Mandado: Data da juntada: 11/09/2026
+
+[Ordem: 0] Data: 10/09/2026 - Preliminar
+  • Audiência Preliminar: Data da audiência: 09/09/2026 | Resultado: Adiada por ausência do autor do fato / vítima
+
+[Ordem: 16] Data: 10/09/2026 - Ato Ordinatório Praticado
+  • Ato Ordinatório Praticado: Data: 04/09/2026 | Descrição: Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.
+
+[Ordem: 15] Data: 04/09/2026 - Juntada de Mandado
+  • Juntada de Mandado: Data da juntada: 04/09/2026
+
+[Ordem: 14] Data: 01/09/2026 - Envio de Documento Eletrônico
+  • Envio de Documento Eletrônico: Data da remessa: 01/09/2026 | Nome da Central Destinatária: ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL. | Data de Recebimento pelo OJA: 03/09/2026 | Data de Devolução pelo OJA: 03/09/2026
+
+[Ordem: 13] Data: 22/07/2026 - Conclusão ao Juiz
+  • Recebimento: Data de Recebimento: 22/07/2026
+  • Conclusão ao Juiz: Data de Recebimento: 22/07/2026 | Data da conclusão: 22/07/2026 | Juiz: DANILO MARQUES BORGES
+
+[Ordem: 12] Data: 27/05/2026 - Juntada - Petição
+  • Juntada - Petição: Data da juntada: 27/05/2026 | Descrição da Juntada: Documento eletrônico juntado de forma automática.
+
+[Ordem: 11] Data: 25/05/2026 - Envio de Documento Eletrônico
+  • Envio de Documento Eletrônico: Data da remessa: 25/05/2026
+
+[Ordem: 10] Data: 25/05/2026 - Ato Ordinatório Praticado
+  • Ato Ordinatório Praticado: Data: 25/05/2026 | Descrição: Certifico que, até a presente data, não foi acostada aos autos manifestação da delegacia de origem quanto à intimação retro.
+
+Pelo exposto, abro vista dos presentes autos ao Ministério Público.
+
+Marcos Monteiro Grillo
+Técnico Judiciário I - Matr. 10/80805 (GEAP-C)
+ 
+
+[Ordem: 9] Data: 04/02/2026 - Envio de Documento Eletrônico
+  • Envio de Documento Eletrônico: Data da remessa: 04/02/2026
+
+[Ordem: 8] Data: 23/10/2025 - Conclusão ao Juiz
+  • Recebimento: Data de Recebimento: 23/10/2025
+  • Conclusão ao Juiz: Data de Recebimento: 23/10/2025 | Data da conclusão: 22/10/2025 | Juiz: DANILO MARQUES BORGES
+
+[Ordem: 7] Data: 25/07/2025 - Juntada - Petição
+  • Juntada - Petição: Data da juntada: 25/07/2025 | Descrição da Juntada: Documento eletrônico juntado de forma automática.
+
+[Ordem: 6] Data: 19/07/2025 - Envio de Documento Eletrônico
+  • Envio de Documento Eletrônico: Data da remessa: 19/07/2025
+
+[Ordem: 5] Data: 19/07/2025 - Ato Ordinatório Praticado
+  • Ato Ordinatório Praticado: Data: 19/07/2025 | Descrição: Certifico que, até a presente data, não foi acostada aos autos manifestação da delegacia de origem quanto à intimação retro.
+
+Pelo exposto, abro vista dos presentes autos ao Ministério Público.
+
+Marcos Monteiro Grillo
+Técnico Judiciário I - Matr. 10/80805 (GEAP-C)
+ 
+
+[Ordem: 4] Data: 24/03/2025 - Envio de Documento Eletrônico
+  • Envio de Documento Eletrônico: Data da remessa: 24/03/2025
+
+[Ordem: 3] Data: 03/02/2025 - Conclusão ao Juiz
+  • Recebimento: Data de Recebimento: 03/02/2025
+  • Conclusão ao Juiz: Data de Recebimento: 03/02/2025 | Data da conclusão: 27/01/2025 | Juiz: DANILO MARQUES BORGES
+
+[Ordem: 2] Data: 12/09/2024 - Juntada - Petição
+  • Juntada - Petição: Data da juntada: 12/09/2024 | Descrição da Juntada: Documento eletrônico juntado de forma automática.
+
+[Ordem: 1] Data: 02/09/2024 - Envio de Documento Eletrônico
+  • Envio de Documento Eletrônico: Data da remessa: 02/09/2024
+
+[Ordem: None] Data:  - 
+  • Distribuição Dirigida: Data da Distribuição: 02/09/2024 | Serventia: Cartório do Juizado Especial Adjunto Criminal - Juizado Especial Adjunto Criminal

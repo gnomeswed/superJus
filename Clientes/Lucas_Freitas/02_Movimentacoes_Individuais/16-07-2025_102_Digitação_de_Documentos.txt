@@ -1,0 +1,34 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #102
+DATA: 16/07/2025
+TIPO: Digitação de Documentos
+ORDEM: 72
+
+SUB-MOVIMENTO: Digitação de Documentos
+  Data da digitação:16/07/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 52,
+  "ordem": 72,
+  "dtAlt": "16/07/2025",
+  "descrMov": "Digitação de Documentos",
+  "dtMovimento": "16/07/2025",
+  "descricao": " ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Digitação de Documentos",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da digitação: ",
+          "descricao": "16/07/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtDigitacao": "16/07/2025"
+}

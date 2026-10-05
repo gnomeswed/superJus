@@ -1,0 +1,42 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #35
+DATA: 18/04/2026
+TIPO: Envio de Documento Eletrônico
+ORDEM: 139
+DATA REMESSA: 17/04/2026
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:17/04/2026
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 139,
+  "dtAlt": "18/04/2026",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "18/04/2026",
+  "intimados": [
+    {
+      "nomeIntimado": "NITEROI PROMOTORIA JUST 3 VARA CRIMINAL"
+    },
+    {
+      "nomeIntimado": "NITEROI 1 DEFENSORIA PUB. 3 V CRIM/JURI"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "17/04/2026"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "17/04/2026"
+}

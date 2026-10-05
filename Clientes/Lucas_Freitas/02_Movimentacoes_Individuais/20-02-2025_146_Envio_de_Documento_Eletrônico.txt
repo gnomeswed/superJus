@@ -1,0 +1,75 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #146
+DATA: 20/02/2025
+TIPO: Envio de Documento Eletrônico
+ORDEM: 29
+DATA REMESSA: 20/02/2025
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:20/02/2025
+  Nome da Central Destinatária:CAPITAL CENTRAL CUMP MAND V CRI JVDFCM JCRIM T REC
+  Data de Recebimento pelo OJA:20/02/2025
+  Data de Devolução pelo OJA:05/03/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 29,
+  "dtAlt": "20/02/2025",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "20/02/2025",
+  "intimados": [
+    {
+      "nomeIntimado": "CAPITAL CENTRAL CUMP MAND V CRI JVDFCM JCRIM T REC"
+    }
+  ],
+  "textosVinculadosProc": [
+    {
+      "descr": "Mandado de Citação e Intimação - Art. 406 do CPP (Trib. Júri)",
+      "numDoc": "160/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "20/02/2025",
+      "dataDevolOJA": "05/03/2025",
+      "nomeDestinatario": "CAPITAL CENTRAL CUMP MAND V CRI JVDFCM JCRIM T REC"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "20/02/2025"
+        },
+        {
+          "codigo": "Nome da Central Destinatária: ",
+          "descricao": "CAPITAL CENTRAL CUMP MAND V CRI JVDFCM JCRIM T REC"
+        },
+        {
+          "codigo": "Data de Recebimento pelo OJA: ",
+          "descricao": "20/02/2025"
+        },
+        {
+          "codigo": "Data de Devolução pelo OJA: ",
+          "descricao": "05/03/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": [
+        {
+          "descr": "Mandado de Citação e Intimação - Art. 406 do CPP (Trib. Júri)",
+          "numDoc": "160/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "20/02/2025",
+          "dataDevolOJA": "05/03/2025",
+          "nomeDestinatario": "CAPITAL CENTRAL CUMP MAND V CRI JVDFCM JCRIM T REC"
+        }
+      ],
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "20/02/2025"
+}

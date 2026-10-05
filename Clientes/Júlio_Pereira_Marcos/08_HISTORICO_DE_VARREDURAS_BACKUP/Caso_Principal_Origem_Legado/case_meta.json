@@ -1,0 +1,68 @@
+{
+  "nome": "Júlio Pereira Marcos",
+  "numero_processo_1a_instancia": "0023013-51.2021.8.19.0078",
+  "numero_processo_hc": "0029845-67.2026.8.19.0000",
+  "numero_processo_principal": "0022975-39.2021.8.19.0078",
+  "comarca": "Armação dos Búzios - 2ª Vara Criminal",
+  "tribunal": "TJRJ - 7ª Câmara Criminal",
+  "relator_hc": "Des. Sidney Rosa da Silva",
+  "juiz_1a_instancia": "Dr. Danilo Marques Borges",
+  "artigo": "Art. 33 e 35, Lei 11.343/06",
+  "status": "Preso Preventivo (Mandado cumprido em 12/05/2026)",
+  "data_prisao": "2026-05-12",
+  "status_hc": "Denegado por Unanimidade (11/06/2026) - Acórdão publicado em 16/06/2026",
+  "recurso_ordinario_constitucional_roc": {
+    "autuado_em": "2026-07-29",
+    "prot": "2026.141.00580",
+    "classe": "RECURSO ORDINARIO CONST. - CRIMINAL",
+    "fase_atual": "Remessa Externa ao SUPERIOR TRIBUNAL DE JUSTICA",
+    "data_remessa_stj": "2026-07-29 12:49",
+    "localizacao": "SUPERIOR TRIBUNAL DE JUSTICA",
+    "localizacao_hc_origem": "Remessa do Escrivão para 2VP - SERVIÇO DE RECURSO ORDINÁRIO (28/07/2026 17:45)"
+  },
+  "ultima_movimentacao_1a_instancia": "04/08/2026 - Juntada de Documento; Localização na Serventia: Processamento (confirmado ao vivo 18/08/2026 09:13)",
+  "recurso_cabivel": "Recurso Ordinário em Habeas Corpus (RHC) para o STJ - ROC interposto em 29/07/2026 e remetido ao STJ",
+  "processos_relacionados": [
+    "0023013-51.2021.8.19.0078",
+    "0029845-67.2026.8.19.0000",
+    "0022975-39.2021.8.19.0078",
+    "0001140-87.2024.8.19.0078",
+    "0001492-25.2016.8.19.0046"
+  ],
+  "localizacao_atual": "1ª Instância: Processamento (Búzios); STJ HC 1116750: GABINETE DO MINISTRO OG FERNANDES — CONCLUSOS PARA DECISÃO desde 13/08/2026 17:45 (confirmado ao vivo 18/08/2026 09:14)",
+  "data_ultima_atualizacao": "2026-08-18T09:15:00",
+  "ultima_decisao_conhecida": "29/07/2026 - Decisão Monocrática do Presidente do STJ Min. Herman Benjamin (indeferiu liminar, requisitou informações e remeteu ao MPF) — DJEN 31/07/2026",
+  "status_liberdade": "Prisão Preventiva Mantida (1ª Inst. 24/07 fl.1297 + STJ liminar indeferida 29/07); mérito do HC pendente de julgamento/decisão do Relator Min. Og Fernandes",
+  "estrategia_aprovada": "30/07/2026 - Estratégia Definitiva em 3 Fases (HC + Mérito + Dosimetria)",
+  "proxima_acao": "Monitoramento diário contínuo das Decisões no STJ HC 1116750 (conclusos ao Relator) e eventuais publicações do despacho de 01/08 no DJERJ",
+  "teses_principais": [
+    "Falta de contemporaneidade (Art. 312, par.2, CPP)",
+    "Extensao da soltura dos correus (Art. 580, CPP)",
+    "Nulidade da decisao per relationem (Art. 315, par.2, V, CPP)",
+    "Desproporcionalidade - crime sem violencia, pequena escala",
+    "Absolvicao do Art. 35 (Associacao) - ausencia de organizacao criminosa",
+    "Trafico Privilegiado Art. 33, par.4 - reducao de 2/3"
+  ],
+  "alerta_tatico": "NAO contestar autoria das interceptacoes. Linha cadastrada no nome de Julio, mae confirmou, delegado detalhou.",
+  "habeas_corpus_stj": {
+    "numero_hc": "HC 1.116.750 / RJ (2026/0311210-7)",
+    "numero_unico": "0311210-10.2026.3.00.0000",
+    "relator": "Ministro Og Fernandes (Sexta Turma STJ)",
+    "presidente_stj_despacho": "29/07/2026 10:43 (DJEN 31/07/2026) - Liminar indeferida; requisitadas informações urgentes ao TJRJ/2ª Vara Búzios e vista ao MPF",
+    "oficio_tjrj_resposta": "31/07/2026 12:49 (Petição 771002/2026) + 04/08/2026 14:11 (Petição 781254/2026) — OFÍCIOS juntados",
+    "localizacao_stj_ao_vivo_18_08_2026": "13/08/2026 17:45 — CONCLUSOS PARA DECISÃO AO(À) MINISTRO(A) OG FERNANDES (Relator) — Em Gabinete",
+    "fases_capturadas_18_08_2026": [
+      "13/08/2026 17:45 Conclusos para decisão ao Min. Og Fernandes (51)",
+      "13/08/2026 17:35 Recebidos na Coordenadoria de Processamento de Feitos de Direito Penal (132)",
+      "13/08/2026 17:21 Juntada Parecer MPF 816581/2026 (85)",
+      "13/08/2026 17:08 Protocolizada Parecer MPF 816581/2026 (118)",
+      "12/08/2026 05:37/05:36 Intimações eletrônicas MPRJ/MPF",
+      "05/08/2026 16:32 Cópia digital ao MPF / 15:30 Vista ao MPF",
+      "04/08/2026 14:31/14:11 OFÍCIO 781254/2026",
+      "31/07/2026 13:01/12:49 OFÍCIO 771002/2026 + 04:12/04:05 Intimações + 03:01 Publicado DESPACHO/DECISÃO + 01:00 DJEN + 29/07 Não concedida liminar (792)"
+    ],
+    "parecer_mpf": "816581/2026 protocolado 13/08/2026 17:08, juntado 17:21",
+    "peticionarios": "GABRIEL ALVES GUIMARAES / RJ203902 — PACIENTE JULIO PEREIRA MARCOS (PRESO)",
+    "captura_metodo": "Playwright antidetecção / TJRJ Portal Direto / STJ Consulta Processual — 18/08/2026"
+  }
+}

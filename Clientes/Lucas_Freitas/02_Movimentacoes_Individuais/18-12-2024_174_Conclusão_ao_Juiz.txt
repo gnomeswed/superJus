@@ -1,0 +1,71 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #174
+DATA: 18/12/2024
+TIPO: Conclusão ao Juiz
+ORDEM: 1
+DESCRIÇÃO: Ao Ministério Público quanto à representação pela prisão preventiva dos indiciados LUCAS DE SOUZA FREITAS e RONNY BATALHA FERNANDES.
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:18/12/2024
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:17/12/2024
+  Juiz:NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=00043BC4CA278B27AE2EFA155BD4E86F8F61C518175A3951
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 1,
+  "dtAlt": "18/12/2024",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "18/12/2024",
+  "pseudoDocEletronico": "00043BC4CA278B27AE2EFA155BD4E86F8F61C518175A3951",
+  "descricao": "\tAo Ministério Público quanto à representação pela prisão preventiva dos indiciados LUCAS DE SOUZA FREITAS e RONNY BATALHA FERNANDES.  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "18/12/2024"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "\tAo Ministério Público quanto à representação pela prisão preventiva dos indiciados LUCAS DE SOUZA FREITAS e RONNY BATALHA FERNANDES.  "
+      },
+      "codDocAtoAssinadoDig": "00043BC4CA278B27AE2EFA155BD4E86F8F61C518175A3951"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "17/12/2024"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS",
+  "dtConclusao": "17/12/2024",
+  "dtDevolucao": "18/12/2024",
+  "indPublicado": "não"
+}

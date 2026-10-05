@@ -1,0 +1,4530 @@
+{
+  "datajud_Proc_0024951_2019": {
+    "took": 451,
+    "timed_out": false,
+    "_shards": {
+      "total": 10,
+      "successful": 10,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 2,
+        "relation": "eq"
+      },
+      "max_score": 14.841911,
+      "hits": [
+        {
+          "_index": "api_publica_tjrj",
+          "_id": "TJRJ_G2_00249518920198190001",
+          "_score": 14.841911,
+          "_source": {
+            "classe": {
+              "codigo": 417,
+              "nome": "Apelação Criminal"
+            },
+            "numeroProcesso": "00249518920198190001",
+            "sistema": {
+              "codigo": 8,
+              "nome": "Outros"
+            },
+            "formato": {
+              "codigo": 1,
+              "nome": "Eletrônico"
+            },
+            "tribunal": "TJRJ",
+            "dataHoraUltimaAtualizacao": "2024-08-19T19:58:28.801Z",
+            "grau": "G2",
+            "@timestamp": "2025-06-16T07:31:08.619522675Z",
+            "dataAjuizamento": "2020-08-04T21:45:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 3,
+                    "nome": "prevenção",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2020-08-06T18:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-08-06T18:02:00.000Z"
+              },
+              {
+                "codigo": 92,
+                "nome": "Publicação",
+                "dataHora": "2020-08-10T00:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 56,
+                    "nome": "Parecer",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2020-08-14T22:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-08-17T10:47:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-08-31T10:10:00.000Z"
+              },
+              {
+                "codigo": 92,
+                "nome": "Publicação",
+                "dataHora": "2020-09-04T00:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-09-14T16:07:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2020-09-15T17:24:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-09-15T17:25:00.000Z"
+              },
+              {
+                "codigo": 92,
+                "nome": "Publicação",
+                "dataHora": "2020-10-01T00:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-10-13T16:57:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2020-10-15T12:22:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-10-15T12:23:00.000Z"
+              },
+              {
+                "codigo": 238,
+                "nome": "Provimento em Parte",
+                "dataHora": "2020-10-15T13:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 36,
+                    "nome": "para julgamento",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-10-16T09:58:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 117,
+                    "nome": "Acórdão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-10-16T10:29:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 36,
+                    "nome": "para julgamento",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-10-16T10:39:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-10-19T19:10:00.000Z"
+              },
+              {
+                "codigo": 92,
+                "nome": "Publicação",
+                "dataHora": "2020-10-20T00:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2020-10-29T12:44:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 113,
+                    "nome": "Procuração/substabelecimento sem reserva de poderes",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2020-10-29T13:05:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 50,
+                    "nome": "Embargos infringentes",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2020-11-04T10:42:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-11-04T10:43:00.000Z"
+              },
+              {
+                "codigo": 92,
+                "nome": "Publicação",
+                "dataHora": "2020-11-05T00:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2020-11-05T13:21:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2021-03-05T15:37:00.000Z"
+              },
+              {
+                "codigo": 981,
+                "nome": "Recebimento",
+                "dataHora": "2020-08-06T16:03:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2020-08-06T18:57:00.000Z"
+              },
+              {
+                "codigo": 12266,
+                "nome": "Confirmada",
+                "dataHora": "2020-08-06T21:04:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2020-08-28T10:02:00.000Z"
+              },
+              {
+                "codigo": 12311,
+                "nome": "Pedido de inclusão",
+                "dataHora": "2020-08-31T18:52:00.000Z"
+              },
+              {
+                "codigo": 12104,
+                "nome": "Inclusão em pauta",
+                "dataHora": "2020-09-03T16:13:00.000Z"
+              },
+              {
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-09-04T12:29:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2020-09-15T18:24:00.000Z"
+              },
+              {
+                "codigo": 897,
+                "nome": "Retirada de pauta",
+                "dataHora": "2020-09-16T11:00:00.000Z"
+              },
+              {
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-09-17T12:05:00.000Z"
+              },
+              {
+                "codigo": 12104,
+                "nome": "Inclusão em pauta",
+                "dataHora": "2020-09-30T15:08:00.000Z"
+              },
+              {
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-10-01T15:31:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2020-10-15T19:21:00.000Z"
+              },
+              {
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-10-20T12:33:00.000Z"
+              },
+              {
+                "codigo": 12266,
+                "nome": "Confirmada",
+                "dataHora": "2020-10-20T12:38:00.000Z"
+              },
+              {
+                "codigo": 12164,
+                "nome": "Outras Decisões",
+                "dataHora": "2020-11-04T12:40:00.000Z"
+              },
+              {
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2020-11-05T13:02:00.000Z"
+              },
+              {
+                "codigo": 22,
+                "nome": "Baixa Definitiva",
+                "dataHora": "2021-03-05T16:05:00.000Z"
+              }
+            ],
+            "id": "TJRJ_G2_00249518920198190001",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 3304557,
+              "codigo": 16628,
+              "nome": "8 Cï¿½MARA CRIMINAL"
+            },
+            "assuntos": [
+              {
+                "codigo": 5897,
+                "nome": "Associação para a Produção e Tráfico e Condutas Afins"
+              },
+              {
+                "codigo": 10621,
+                "nome": "Aplicação da Pena"
+              },
+              {
+                "codigo": 3608,
+                "nome": "Tráfico de Drogas e Condutas Afins"
+              },
+              {
+                "codigo": 3566,
+                "nome": "Resistência "
+              }
+            ]
+          }
+        },
+        {
+          "_index": "api_publica_tjrj",
+          "_id": "TJRJ_G1_00249518920198190001",
+          "_score": 13.955908,
+          "_source": {
+            "id": "TJRJ_G1_00249518920198190001",
+            "tribunal": "TJRJ",
+            "grau": "G1",
+            "numeroProcesso": "00249518920198190001",
+            "dataAjuizamento": "20190202161309",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigo": 7488,
+              "nome": "NITEROI 1 VARA CRIMINAL",
+              "codigoMunicipioIBGE": 3303302
+            },
+            "classe": {
+              "codigo": 283,
+              "nome": "Ação Penal - Procedimento Ordinário"
+            },
+            "sistema": {
+              "codigo": -1,
+              "nome": "Inválido"
+            },
+            "formato": {
+              "codigo": 1,
+              "nome": "Eletrônico"
+            },
+            "dataHoraUltimaAtualizacao": "2026-07-29T18:12:01.597000Z",
+            "@timestamp": "2026-07-29T18:12:01.597000Z",
+            "movimentos": [
+              {
+                "codigo": 26,
+                "dataHora": "2019-02-02T16:13:09.000Z",
+                "nome": "Distribuição",
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "descricao": "tipo_de_distribuicao_redistribuicao",
+                    "valor": 2,
+                    "nome": "sorteio"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "72807",
+                  "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+                }
+              },
+              {
+                "codigo": 123,
+                "dataHora": "2019-02-05T18:10:06.000Z",
+                "nome": "Remessa",
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "descricao": "motivo_da_remessa",
+                    "valor": 40,
+                    "nome": "outros motivos"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 36,
+                "dataHora": "2019-02-05T18:10:06.000Z",
+                "nome": "Redistribuição",
+                "complementosTabelados": [
+                  {
+                    "codigo": 17,
+                    "descricao": "motivo_da_redistribuicao",
+                    "valor": 83,
+                    "nome": "incompetência"
+                  },
+                  {
+                    "codigo": 2,
+                    "descricao": "tipo_de_distribuicao_redistribuicao",
+                    "valor": 2,
+                    "nome": "sorteio"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-02-15T07:53:28.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2019-02-19T18:26:14.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-03-19T15:52:03.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-03-19T19:50:49.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-03-20T18:12:55.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-03-20T23:48:25.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-03-21T17:01:17.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-03-21T17:03:24.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-03-22T18:10:09.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-03-25T05:31:09.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2019-03-27T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2019-03-27T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-03-27T18:33:04.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-03-28T04:50:12.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-03-28T18:37:20.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-04-05T19:22:05.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2019-04-16T21:32:32.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 6,
+                    "nome": "para decisão"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12750,
+                "dataHora": "2019-04-24T16:51:29.000Z",
+                "nome": "de Instrução e Julgamento",
+                "complementosTabelados": [
+                  {
+                    "codigo": 36,
+                    "descricao": "dirigida_por",
+                    "valor": 185,
+                    "nome": "Juiz(a)"
+                  },
+                  {
+                    "codigo": 15,
+                    "descricao": "situacao_da_audiencia",
+                    "valor": 9,
+                    "nome": "designada"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 391,
+                "dataHora": "2019-04-26T18:10:20.000Z",
+                "nome": "Denúncia",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-04-27T08:15:01.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-05-06T19:49:35.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 60,
+                "dataHora": "2019-05-06T19:49:52.000Z",
+                "nome": "Expedição de documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-05-06T19:54:34.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-05-13T17:44:16.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-05-14T21:03:09.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-05-15T15:12:33.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-05-16T15:31:39.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12750,
+                "dataHora": "2019-05-16T17:30:00.000Z",
+                "nome": "de Instrução e Julgamento",
+                "complementosTabelados": [
+                  {
+                    "codigo": 36,
+                    "descricao": "dirigida_por",
+                    "valor": 185,
+                    "nome": "Juiz(a)"
+                  },
+                  {
+                    "codigo": 15,
+                    "descricao": "situacao_da_audiencia",
+                    "valor": 13,
+                    "nome": "realizada"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-05-20T17:52:29.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-06-06T16:10:26.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 60,
+                "dataHora": "2019-06-06T16:22:07.000Z",
+                "nome": "Expedição de documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-06-06T18:27:03.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-06-11T21:19:05.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-06-21T05:50:41.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-07-24T14:15:32.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-08-25T15:17:44.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2019-09-06T16:32:23.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2019-12-18T17:44:13.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2019-12-18T19:41:56.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 36,
+                    "nome": "para julgamento"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-01-09T17:31:08.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-01-15T18:56:52.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-01-15T19:00:11.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-01-31T10:53:04.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2020-02-07T21:35:42.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 6,
+                    "nome": "para decisão"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-02-11T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-02-11T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-02-11T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-02-18T04:55:14.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-02-18T04:55:15.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-03-30T13:53:32.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2020-07-14T16:49:44.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-07-22T07:45:46.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-07-30T22:33:33.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 123,
+                "dataHora": "2020-08-04T21:13:40.000Z",
+                "nome": "Remessa",
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "descricao": "motivo_da_remessa",
+                    "valor": 38,
+                    "nome": "em grau de recurso"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2021-03-05T22:26:06.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 60,
+                "dataHora": "2021-03-22T15:32:30.000Z",
+                "nome": "Expedição de documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2021-03-22T16:40:20.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 60,
+                "dataHora": "2021-03-22T16:42:33.000Z",
+                "nome": "Expedição de documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2024-05-23T19:03:51.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 60,
+                "dataHora": "2024-05-23T19:07:30.000Z",
+                "nome": "Expedição de documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-02-05T14:44:19.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "72807",
+                  "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-02-07T16:13:22.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-02-07T16:14:31.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-02-07T18:03:24.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-02-12T20:35:35.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-02-19T18:25:59.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2019-02-20T23:39:52.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-03-08T18:40:24.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2019-03-11T15:16:48.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2019-03-11T15:16:50.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2019-03-11T15:22:27.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2019-03-11T15:22:27.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2019-03-11T15:22:27.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2019-03-11T15:22:27.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-03-20T18:14:19.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-03-20T18:15:39.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-03-20T20:04:36.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-03-22T19:04:16.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-04-01T15:32:27.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-04-01T15:32:46.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-04-01T15:40:43.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-04-03T17:49:44.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-04-15T21:32:11.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-05-06T19:55:04.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-05-06T19:56:30.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-05-06T19:56:49.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-05-06T20:19:41.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-05-06T20:19:42.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-05-10T22:13:46.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-05-14T17:41:43.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-05-16T15:11:27.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-05-17T03:14:44.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-06-07T15:29:48.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-06-11T21:19:43.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-06-11T21:26:39.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-06-19T21:23:28.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-07-02T19:18:39.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-07-02T19:20:01.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-07-02T20:43:35.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-07-15T03:39:57.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2019-07-30T21:32:13.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-07-30T21:33:12.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-07-30T21:35:17.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-08-12T03:35:51.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2019-12-18T17:40:27.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 219,
+                "dataHora": "2020-01-07T18:48:34.000Z",
+                "nome": "Procedência",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-01-09T03:00:00.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-01-09T16:49:26.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-01-09T17:03:48.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-01-09T17:04:10.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-01-09T17:27:34.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-01-09T17:40:46.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-01-09T17:40:46.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-01-09T19:20:20.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-01-14T19:23:03.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-01-14T19:23:37.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-01-14T19:25:24.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-01-14T19:26:31.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-01-14T20:02:11.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-01-14T20:02:13.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-01-15T18:55:52.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-01-19T14:08:59.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-01-27T03:26:39.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 848,
+                "dataHora": "2020-01-27T13:35:04.000Z",
+                "nome": "Trânsito em julgado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-02-06T21:31:21.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 1059,
+                "dataHora": "2020-02-17T14:56:48.000Z",
+                "nome": "Sem efeito suspensivo",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-03-09T18:45:19.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-03-09T18:46:09.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-03-09T18:49:50.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-03-09T18:49:52.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-03-30T13:55:53.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-04-28T17:31:30.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-05-04T06:53:07.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-07-13T16:48:47.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2020-07-21T20:29:30.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-07-28T13:30:40.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-07-28T13:35:25.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-07-28T16:03:56.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-07-30T21:44:10.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 132,
+                "dataHora": "2021-03-05T22:25:12.000Z",
+                "nome": "Recebimento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-03-05T22:25:12.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 848,
+                "dataHora": "2021-03-05T22:25:46.000Z",
+                "nome": "Trânsito em julgado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2021-03-09T19:28:49.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-03-22T16:39:02.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 246,
+                "dataHora": "2021-03-22T17:28:10.000Z",
+                "nome": "Definitivo",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 849,
+                "dataHora": "2024-05-23T19:03:51.000Z",
+                "nome": "Reativação",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2024-05-24T18:36:17.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 246,
+                "dataHora": "2024-05-24T18:38:22.000Z",
+                "nome": "Definitivo",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              }
+            ],
+            "assuntos": [
+              {
+                "codigo": 5897,
+                "nome": "Associação para a Produção e Tráfico e Condutas Afins"
+              },
+              {
+                "codigo": 3608,
+                "nome": "Tráfico de Drogas e Condutas Afins"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "datajud_Proc_0034340_2019": {
+    "took": 41,
+    "timed_out": false,
+    "_shards": {
+      "total": 10,
+      "successful": 10,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 1,
+        "relation": "eq"
+      },
+      "max_score": 14.629557,
+      "hits": [
+        {
+          "_index": "api_publica_tjrj",
+          "_id": "TJRJ_G1_00343409520198190002",
+          "_score": 14.629557,
+          "_source": {
+            "id": "TJRJ_G1_00343409520198190002",
+            "tribunal": "TJRJ",
+            "grau": "G1",
+            "numeroProcesso": "00343409520198190002",
+            "dataAjuizamento": "20190813221355",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigo": 7488,
+              "nome": "NITEROI 1 VARA CRIMINAL",
+              "codigoMunicipioIBGE": 3303302
+            },
+            "classe": {
+              "codigo": 300,
+              "nome": "Procedimento Especial da Lei Antitóxicos"
+            },
+            "sistema": {
+              "codigo": -1,
+              "nome": "Inválido"
+            },
+            "formato": {
+              "codigo": 1,
+              "nome": "Eletrônico"
+            },
+            "dataHoraUltimaAtualizacao": "2026-07-19T06:16:25.741000Z",
+            "@timestamp": "2026-07-19T06:16:25.741000Z",
+            "movimentos": [
+              {
+                "codigo": 26,
+                "dataHora": "2019-08-13T22:13:55.000Z",
+                "nome": "Distribuição",
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "descricao": "tipo_de_distribuicao_redistribuicao",
+                    "valor": 2,
+                    "nome": "sorteio"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2019-08-30T18:52:05.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2019-11-29T19:18:53.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2019-12-12T16:47:18.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-01-26T15:50:43.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2020-02-20T17:38:20.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 6,
+                    "nome": "para decisão"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-03-11T17:13:42.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-03-26T22:24:37.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-03T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-03T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-07-03T17:22:02.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-06T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-06T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-07T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-07-10T09:17:31.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-07-10T09:17:32.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-07-10T09:17:34.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 14738,
+                "dataHora": "2020-07-10T19:15:19.000Z",
+                "nome": "Retificação de Classe Processual",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-13T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-07-14T06:18:05.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-07-16T19:52:10.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-07-20T19:22:24.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-07-20T20:28:39.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-23T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-07-24T06:33:41.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-29T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-07-29T06:30:52.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-31T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-07-31T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-01T06:35:22.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-01T06:35:23.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-08-03T16:34:15.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-08-04T21:19:51.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-05T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-05T16:53:17.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2020-08-06T16:55:40.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-12T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-13T06:04:00.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-17T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-17T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-17T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-18T07:07:11.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-18T07:07:12.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-18T07:07:13.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-20T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-20T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-21T06:38:50.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-21T06:38:52.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-26T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-27T06:14:08.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-08-28T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-08-29T06:21:02.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-09-22T22:29:31.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-10-21T10:34:02.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 106,
+                "dataHora": "2020-10-23T03:00:00.000Z",
+                "nome": "Mandado",
+                "complementosTabelados": [
+                  {
+                    "codigo": 6,
+                    "descricao": "resultado",
+                    "valor": 8,
+                    "nome": "não entregue ao destinatário"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-10-23T23:36:31.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2020-10-23T23:36:49.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2020-12-04T17:36:01.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-12-09T16:16:53.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2020-12-11T15:26:54.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 92,
+                "dataHora": "2021-01-13T04:25:02.000Z",
+                "nome": "Publicação",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2021-01-13T19:27:36.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2021-01-13T21:51:09.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2021-01-15T20:18:30.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 1061,
+                "dataHora": "2021-01-22T04:25:02.000Z",
+                "nome": "Disponibilização no Diário da Justiça Eletrônico",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2021-02-02T16:44:13.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2021-02-24T19:12:39.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2021-02-25T00:02:52.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 92,
+                "dataHora": "2021-03-18T21:34:37.000Z",
+                "nome": "Publicação",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 1061,
+                "dataHora": "2021-03-22T21:34:37.000Z",
+                "nome": "Disponibilização no Diário da Justiça Eletrônico",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2021-05-13T17:48:45.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2021-05-18T18:05:16.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2021-07-21T21:08:49.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2021-10-08T18:45:11.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2021-10-18T14:47:15.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2021-11-12T19:00:04.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2021-11-23T18:20:54.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 5,
+                    "nome": "para despacho"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2021-11-30T17:51:16.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 51,
+                "dataHora": "2021-12-01T16:02:24.000Z",
+                "nome": "Conclusão",
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "descricao": "tipo_de_conclusao",
+                    "valor": 6,
+                    "nome": "para decisão"
+                  }
+                ],
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2021-12-10T22:43:03.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2021-12-13T18:49:10.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 85,
+                "dataHora": "2021-12-14T15:15:11.000Z",
+                "nome": "Petição",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 581,
+                "dataHora": "2022-02-16T17:21:38.000Z",
+                "nome": "Documento",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2019-09-04T19:01:14.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-09-06T19:37:19.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2019-09-06T19:42:48.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2019-09-17T03:23:24.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2019-12-19T21:02:31.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-02-19T17:09:52.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12164,
+                "dataHora": "2020-03-03T18:29:06.000Z",
+                "nome": "Outras Decisões",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T03:00:00.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-06-30T12:31:17.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:31.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:31.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:31.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:33.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:33.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:33.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:34.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:35.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:35.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:36.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:37.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:38.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:38.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:39.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:39.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:39.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:41.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:43.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:43.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:43.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:44.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:46.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:48.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:48.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:48.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:49.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:50.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:51.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:51.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:51.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T16:28:53.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:53.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T16:28:53.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:54.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-06-30T16:28:56.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T18:34:54.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T18:34:54.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-06-30T18:35:49.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-06-30T18:35:50.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-01T00:06:11.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-01T00:06:11.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-07-01T00:06:11.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-07-01T00:06:11.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-01T00:07:30.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-01T00:07:56.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-07-01T11:29:07.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-01T14:37:35.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-07-01T14:37:36.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-01T14:41:56.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-07-01T14:41:56.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-07-01T15:57:16.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-01T15:57:18.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-07-01T15:57:18.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-07-01T15:57:18.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-01T19:20:03.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-07-01T19:20:03.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-07-10T15:50:59.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-07-10T15:51:37.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-07-10T16:09:35.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12282,
+                "dataHora": "2020-07-10T16:09:36.000Z",
+                "nome": "Expedida/Certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-10T17:10:46.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 985,
+                "dataHora": "2020-07-10T17:10:46.000Z",
+                "nome": "Mandado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-07-10T17:10:46.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12283,
+                "dataHora": "2020-07-10T17:10:46.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-07-22T18:01:27.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-07-22T18:01:44.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-07-22T18:02:30.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-07-22T18:04:34.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-07-22T18:04:55.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-07-22T18:05:45.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-07-25T18:28:55.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-07-29T06:30:53.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-08-03T04:35:40.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-05T16:54:33.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2020-08-06T19:39:38.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-13T06:04:01.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-18T07:07:12.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-18T07:07:13.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-18T07:07:13.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-21T06:38:51.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-21T06:38:52.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-27T06:14:09.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-08-29T06:21:03.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-09-22T14:49:26.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12291,
+                "dataHora": "2020-09-22T16:09:53.000Z",
+                "nome": "Movimentação processual",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-09-22T16:10:36.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-09-22T16:28:32.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-09-22T16:28:33.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-09-22T16:29:12.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-09-22T22:27:02.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-10-05T03:50:22.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2020-11-03T11:12:55.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-12-03T18:20:19.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2020-12-09T16:20:46.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-12-09T16:23:10.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2020-12-09T18:21:21.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2020-12-11T15:23:18.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12291,
+                "dataHora": "2021-01-13T17:32:32.000Z",
+                "nome": "Movimentação processual",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-01-13T19:26:09.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-01-13T19:35:26.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-01-13T19:40:31.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-01-13T20:08:04.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-01-13T20:08:06.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-01-13T21:50:29.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-01-15T20:16:41.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-02-15T00:40:48.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-02-15T00:41:07.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-02-15T18:28:35.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-02-24T19:10:24.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2021-02-25T17:03:15.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2021-05-13T17:50:15.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-05-18T18:05:06.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2021-05-20T14:39:57.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-07-14T18:15:21.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-07-14T18:17:02.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-07-14T19:06:23.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-07-14T19:06:24.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-07-14T19:06:25.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-07-21T20:58:33.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-07-26T04:15:12.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-07-26T07:32:34.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-09-28T17:45:42.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-09-28T17:46:04.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-09-28T18:05:41.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-10-08T18:39:03.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2021-10-19T18:08:50.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-10-19T18:09:27.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-10-19T18:10:56.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-10-19T18:10:57.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-11-03T05:27:33.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-11-03T05:49:45.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2021-11-23T18:20:11.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11010,
+                "dataHora": "2021-11-26T20:14:10.000Z",
+                "nome": "Mero expediente",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-11-29T20:00:41.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-11-29T20:15:58.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-11-30T17:47:38.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 402,
+                "dataHora": "2021-12-07T23:51:36.000Z",
+                "nome": "Denúncia",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-12-07T23:52:19.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-12-09T17:25:39.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-12-09T17:25:40.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-12-09T17:25:42.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12265,
+                "dataHora": "2021-12-09T17:25:43.000Z",
+                "nome": "Expedida/certificada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-12-10T22:42:45.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2021-12-13T18:48:45.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 848,
+                "dataHora": "2021-12-17T17:19:02.000Z",
+                "nome": "Trânsito em julgado",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2022-01-07T16:34:39.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 12266,
+                "dataHora": "2022-01-08T02:42:21.000Z",
+                "nome": "Confirmada",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2022-01-12T18:55:47.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 11383,
+                "dataHora": "2022-02-16T17:22:04.000Z",
+                "nome": "Ato ordinatório",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              },
+              {
+                "codigo": 246,
+                "dataHora": "2022-02-16T17:22:22.000Z",
+                "nome": "Definitivo",
+                "orgaoJulgador": {
+                  "codigo": "7488",
+                  "nome": "NITEROI 1 VARA CRIMINAL"
+                }
+              }
+            ],
+            "assuntos": [
+              {
+                "codigo": 5897,
+                "nome": "Associação para a Produção e Tráfico e Condutas Afins"
+              },
+              {
+                "codigo": 10987,
+                "nome": "Tráfico Ilícito de Drogas praticado por Funcionário Público"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "Proc_0024951_2019": "Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J.\n Voltar\n Imprimir\nTodos Os Movimentos\n Processo Eletrônico - Visualizador\n\nAs informações aqui contidas não produzem efeitos legais. Somente a publicação no DJERJ oficializa despachos e decisões e estabelece prazos.\n\nProcesso Nº 0024951-89.2019.8.19.0001\nTJ/RJ - 21/08/2026 - 20:20:11 - 1ª Instância - Distribuído em 02/02/2019\n\n\nCaso deseje acessar gravação audiovisual de audiências clique aqui.\n\nDados da Serventia\nComarca\nComarca de Niterói\nVara\n1ª Vara Criminal Niterói\nServentia\nCartório da 1ª Vara Criminal\nEndereço da Serventia\nCoronel Gomes Machado, s/n ,\nBairro\nCentro\nCidade\nNiterói\nDados do Processo\nOfício de Registro\n1º Ofício de Distribuição de Niterói\nCompetência\nCriminal\nAssunto\nTráfico de Drogas e Condutas Afins (Art. 33 - Lei 11.343/06); Associação para a Produção e Tráfico e Condutas Afins (Art. 35 - Lei 11.343/06)\nClasse\nAção Penal - Procedimento Ordinário\nHistórico dos Mandados\nVisualização dos Históricos dos Mandados\nProcesso(s) no Tribunal de Justiça\n0024951-89.2019.8.19.0001\nProtocolo(s) no Tribunal de Justiça\n202000469911 - 04/08/2020\nLocalização na Serventia\nArquivado na Serventia\nDados dos Personagens\nAutor\nMINISTERIO PUBLICO DO ESTADO DO RIO DE JANEIRO e outro(s)...\nAdvogado(s)\nRJ127014 - MARCO ANTONIO AUGUSTO DOS SANTOS\nPersonagens\nListar todos os personagens\nPara visualizar Petições Pendentes de Análise ou Juntada Clique Aqui\nMovimentação\nTipo do Movimento: Arquivamento\nData de arquivamento:\n24/05/2024\nTipo de arquivamento:\ndefinitivo\nSituação:\nEm fase de encaminhamento ao arquivo\nTipo do Movimento: Ato Ordinatório Praticado\nData:\n24/05/2024\nDescrição:\nCertifico que, em cumprimento ao despacho de folhas 629, expedi o oficio de destruição/inutilização.\nTipo do Movimento: Digitação de Documentos\nData da digitação:\n23/05/2024\nTipo do Movimento: Juntada - Documento\nData da juntada:\n23/05/2024\nTipo do Movimento: Processo Desarquivado\nData de desarquivamento:\n23/05/2024\nData de atendimento:\n23/05/2024\nTipo do Movimento: Pedido de Desarquivamento\nData do Pedido:\n23/05/2024\nTipo de arquivamento:\ndefinitivo\nSolicitante:\ncartorio\nMotivo:\nReq. judicial\nTipo do Movimento: Arquivamento\nData de arquivamento:\n22/03/2021\nTipo de arquivamento:\ndefinitivo\nSituação:\nEm fase de encaminhamento ao arquivo\nTipo do Movimento: Digitação de Documentos\nData da digitação:\n22/03/2021\nTipo do Movimento: Juntada - Documento\nData da juntada:\n22/03/2021\nTipo do Movimento: Ato Ordinatório Praticado\nData:\n22/03/2021\nDescrição:\nCertifico que, nesta data, expedi CES DEFINITIVA guia Nº 2021.750.003881-9 para o réu JONATHAN OLEGARIO DA SILVA e foi feito aditamento a CES do réu LUCAS DE SOUZA FREITAS.\n123\n10\n\nOs autos de processos findos terão como destinação final a guarda permanente ou a eliminação, depois de cumpridos os respectivos prazos de guarda definidos na Tabela de Temporalidade de Documentos do PJERJ.",
+  "Proc_0034340_2019": "Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J.\n Voltar\n Imprimir\nTodos Os Movimentos\n Processo Eletrônico - Visualizador\n\nAs informações aqui contidas não produzem efeitos legais. Somente a publicação no DJERJ oficializa despachos e decisões e estabelece prazos.\n\nProcesso Nº 0034340-95.2019.8.19.0002\nTJ/RJ - 21/08/2026 - 20:20:29 - 1ª Instância\nARQUIVADO EM DEFINITIVO, em 16/02/2022\n\nDados da Serventia\nComarca\nComarca de Niterói\nVara\n1ª Vara Criminal Niterói\nServentia\nCartório da 1ª Vara Criminal\nEndereço da Serventia\nCoronel Gomes Machado, s/n ,\nBairro\nCentro\nCidade\nNiterói\nDados do Processo\nOfício de Registro\n1º Ofício de Distribuição de Niterói\nCompetência\nCriminal\nAssunto\nAssociação para a Produção e Tráfico e Condutas Afins (Art. 35 - Lei 11.343/06) C/C Aumento de Pena Por Tráfico Ilícito de Drogas (Art. 40 - Lei 11.343/2006), IV E VI\nClasse\nProcedimento Especial da Lei Antitóxicos - Criminal (Lei 11.343/06)\nHistórico dos Mandados\nVisualização dos Históricos dos Mandados\nProcesso(s) no Tribunal de Justiça\nNão há\nLocalização na Serventia\nArquivado na Serventia\nDados dos Personagens\nAutor\nMINISTÉRIO PÚBLICO e outro(s)...\nAdvogado(s)\nRJ221878 - NILTON RIBEIRO DE ARAUJO\nRJ064950 - JORGE FERREIRA GUTIERREZ\nRJ180795 - CHRISTIAN LEITE PEREIRA GUTIERREZ\nPersonagens\nListar todos os personagens\nHistórico de personagens\nListar alterações / exclusões de personagens\nPara visualizar Petições Pendentes de Análise ou Juntada Clique Aqui\nMovimentação\nTipo do Movimento: Arquivamento\nData de arquivamento:\n16/02/2022\nTipo de arquivamento:\ndefinitivo\nSituação:\nEm fase de encaminhamento ao arquivo\nTipo do Movimento: Ato Ordinatório Praticado\nData:\n16/02/2022\nDescrição:\nCertifico que, nesta data, expedi ofício de baixa.\nTipo do Movimento: Juntada - Documento\nData da juntada:\n16/02/2022\nTipo do Movimento: Ato Ordinatório Praticado\nData:\n12/01/2022\nDescrição:\nCertifico que a r. decisão de fls. 1103 transitou em julgado.\nTipo do Movimento: Trânsito em Julgado\nData do trânsito:\n17/12/2021\nAutor:\nMINISTÉRIO PÚBLICO\nTipo do Movimento: Juntada - Petição\nData da juntada:\n14/12/2021\nDescrição da Juntada:\nDocumento eletrônico juntado de forma automática.\nTipo do Movimento: Juntada - Cota\nData da juntada:\n13/12/2021\nDescrição da Juntada:\nDocumento eletrônico juntado de forma automática.\nTipo do Movimento: Juntada - Petição\nData da juntada:\n10/12/2021\nDescrição da Juntada:\nDocumento eletrônico juntado de forma automática.\nTipo do Movimento: Envio de Documento Eletrônico\nData da remessa:\n07/12/2021\nTipo do Movimento: Recebimento\nData de Recebimento:\n07/12/2021\nDescrição\n...pera ver processados os indiciados nestes autos. Pelo exposto, entendo que a denúncia não preenche os requisitos do artigo 41, do CPP, uma vez que sequer narra as condutas em tese desenvolvidas pelos réus, limitand...\n Ver Íntegra Do(A) Decisão (Original)\n Ver íntegra do(a) Decisão (Simplificado)\nAto Assinado\nVisualizar Ato Assinado Digitalmente \n123\n10\n\nOs autos de processos findos terão como destinação final a guarda permanente ou a eliminação, depois de cumpridos os respectivos prazos de guarda definidos na Tabela de Temporalidade de Documentos do PJERJ."
+}

@@ -1,0 +1,75 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #101
+DATA: 16/07/2025
+TIPO: Envio de Documento Eletrônico
+ORDEM: 73
+DATA REMESSA: 16/07/2025
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:16/07/2025
+  Nome da Central Destinatária:NITEROI CENTRAL CUMP DE MANDADOS
+  Data de Recebimento pelo OJA:18/07/2025
+  Data de Devolução pelo OJA:17/08/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 73,
+  "dtAlt": "16/07/2025",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "16/07/2025",
+  "intimados": [
+    {
+      "nomeIntimado": "NITEROI CENTRAL CUMP DE MANDADOS"
+    }
+  ],
+  "textosVinculadosProc": [
+    {
+      "descr": "Mandado de Intimação p/ fins diversos. ",
+      "numDoc": "922/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "18/07/2025",
+      "dataDevolOJA": "17/08/2025",
+      "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "16/07/2025"
+        },
+        {
+          "codigo": "Nome da Central Destinatária: ",
+          "descricao": "NITEROI CENTRAL CUMP DE MANDADOS"
+        },
+        {
+          "codigo": "Data de Recebimento pelo OJA: ",
+          "descricao": "18/07/2025"
+        },
+        {
+          "codigo": "Data de Devolução pelo OJA: ",
+          "descricao": "17/08/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": [
+        {
+          "descr": "Mandado de Intimação p/ fins diversos. ",
+          "numDoc": "922/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "18/07/2025",
+          "dataDevolOJA": "17/08/2025",
+          "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+        }
+      ],
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "16/07/2025"
+}

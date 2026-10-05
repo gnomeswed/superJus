@@ -1,0 +1,37 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #175
+DATA: 17/12/2024
+TIPO: Sorteio
+ORDEM: N/I
+SERVENTIA: Cartório da 3ª Vara Criminal - 3ª Vara Criminal
+
+SUB-MOVIMENTO: Distribuição Sorteio
+  Data da Distribuição:17/12/2024
+  Serventia:Cartório da 3ª Vara Criminal - 3ª Vara Criminal
+
+--- JSON CRU ---
+{
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Distribuição Sorteio",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da Distribuição: ",
+          "descricao": "17/12/2024"
+        },
+        {
+          "codigo": "Serventia: ",
+          "descricao": "Cartório da 3ª Vara Criminal - 3ª Vara Criminal"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "17/12/2024",
+  "descDistribuicao": "Sorteio",
+  "dtAtualizacao": "17/12/2024",
+  "serventia": "Cartório da 3ª Vara Criminal - 3ª Vara Criminal"
+}

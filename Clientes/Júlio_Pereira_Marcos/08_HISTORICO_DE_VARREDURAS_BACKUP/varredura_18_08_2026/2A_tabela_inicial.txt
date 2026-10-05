@@ -1,0 +1,17 @@
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Tipo de numeração
+Selecione o tipo de numeração
+Antiga
+Única
+Número do processo *
+ .8.19. 
+ Pesquisar Limpar Filtros
+O campo número do processo deve ser preenchido.
+O campo número do processo deve ser preenchido.

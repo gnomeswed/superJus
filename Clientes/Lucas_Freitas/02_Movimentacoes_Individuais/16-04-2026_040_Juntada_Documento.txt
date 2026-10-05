@@ -1,0 +1,34 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #40
+DATA: 16/04/2026
+TIPO: Juntada - Documento
+ORDEM: 134
+
+SUB-MOVIMENTO: Juntada - Documento
+  Data da juntada:16/04/2026
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 134,
+  "dtAlt": "16/04/2026",
+  "descrMov": "Juntada - Documento",
+  "dtMovimento": "16/04/2026",
+  "descricao": " ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - Documento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "16/04/2026"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "16/04/2026"
+}

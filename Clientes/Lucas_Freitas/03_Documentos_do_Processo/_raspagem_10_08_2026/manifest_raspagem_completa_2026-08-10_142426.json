@@ -1,0 +1,35 @@
+{
+  "processo": "0011857-95.2024.8.19.0002",
+  "data_raspagem": "2026-08-10 14:24:26",
+  "total_movimentos": 175,
+  "total_movimentos_salvos": 175,
+  "total_integrais_capturadas": 3,
+  "pasta_movimentos": "C:\\Projetos\\superJus\\Clientes\\Lucas_Freitas\\02_Movimentacoes_Individuais",
+  "pasta_integrais": "C:\\Projetos\\superJus\\Clientes\\Lucas_Freitas\\03_Documentos_do_Processo\\Decisoes_na_Integra",
+  "integrais": [
+    {
+      "ordem": "?",
+      "data": "01/06/2026",
+      "tipo": "Decisão",
+      "botao": "Ver íntegra do(a) Decisão (Original)",
+      "arquivo": "01-06-2026_ORDSORD_001_Ver_íntegra_doa_Decisão_Original.txt",
+      "tamanho": 6160
+    },
+    {
+      "ordem": "?",
+      "data": "01/06/2026",
+      "tipo": "Decisão",
+      "botao": "Ver íntegra do(a) Decisão (Simplificado)",
+      "arquivo": "01-06-2026_ORDSORD_002_Ver_íntegra_doa_Decisão_Simplificado.txt",
+      "tamanho": 6284
+    },
+    {
+      "ordem": "?",
+      "data": "01/06/2026",
+      "tipo": "Decisão",
+      "botao": "Visualizar Ato Assinado Digitalmente",
+      "arquivo": "01-06-2026_ORDSORD_003_Visualizar_Ato_Assinado_Digitalmente.txt",
+      "tamanho": 6284
+    }
+  ]
+}

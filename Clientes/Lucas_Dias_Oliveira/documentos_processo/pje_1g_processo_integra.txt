@@ -1,0 +1,185 @@
+Identificação
+Resolução Nº 121 de 05/10/2010
+Apelido
+---
+Temas
+Transparência;
+Ementa
+
+Dispõe sobre a divulgação de dados processuais eletrônicos na rede mundial de computadores, expedição de certidões judiciais e dá outras providências.
+
+Situação
+Alterado
+Situação STF
+---
+Origem
+Presidência
+Fonte
+DJE/CNJ nº 187/2010, de 11/10/2010, p. 4-6.
+Alteração
+
+Resolução n. 143, de 30 de novembro de 2011.
+
+Resolução n. 137, de 13 de julho de 2011.
+
+ 
+
+Legislação Correlata
+
+Resolução n. 665, de 19 de dezembro de 2025
+
+Constituição Federal, art. 93, IX
+
+Lei n. 7.210, de 11 julho de 1984
+
+Lei n. 11.419, de 19 de dezembro de 2006
+
+Lei n. 11.971, de 6 de julho de 2009
+
+Portaria n. 18 de 30 de janeiro de 2025
+
+ 
+Observação / CUMPRDEC / CONSULTA
+
+CUMPRDEC 0002361-34.2011.2.00.0000
+
+Ato nº 0001776-16.2010.2.00.0000
+
+CONSULTA 0001827-17.2016.2.00.0000
+
+ 
+Texto
+Texto Original 
+Texto Compilado 
+
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA, no uso de suas atribuições conferidas pela Constituição da República, especialmente o disposto no inciso I, §4º, art. 103-B;
+
+CONSIDERANDO que o Estado Democrático de Direito sob o qual é alicerçada a República Federativa do Brasil adotou o princípio da publicidade como garantia da prestação de contas da atividade jurisdicional;
+
+CONSIDERANDO a necessidade de divulgação dos atos processuais a fim de conferir transparência e garantir o direito de acesso à informação, conforme dispõe o art. 5º, XXXIII e XXXIV, b da Constituição;
+
+CONSIDERANDO que o art. 93, IX, da Constituição garante o exercício da publicidade restrita ou especial dos atos processuais, segundo a qual a divulgação pode e deve ser restringida sempre que a defesa da intimidade ou o interesse público o exigir;
+
+CONSIDERANDO a exigência de tratamento uniforme da divulgação dos atos processuais judiciais no âmbito de toda a magistratura nacional, de molde a viabilizar o exercício da transparência sem descurar da preservação do direito à intimidade, à vida privada, à honra e à imagem das pessoas;
+
+CONSIDERANDO as dificuldades enfrentadas pela justiça brasileira em razão da estigmatização das partes pela disponibilização na rede mundial de computadores de dados concernentes aos processos judiciais que figuraram como autoras ou rés em ações criminais, cíveis ou trabalhistas;
+
+CONSIDERANDO a necessidade da definição de diretrizes para a consolidação de um padrão nacional de definição dos níveis de publicidade das informações judiciais, a fim de resguardar o exercício do devido processo legal, com todos os meios e instrumentos disponibilizados;
+
+CONSIDERANDO que o art. 11, § 6º, da Lei 11.419/2006, estabelece que os documentos eletrônicos “somente estarão disponíveis para acesso por meio da rede externa para suas respectivas partes processuais e para o Ministério Público, respeitado o disposto em lei para as situações de sigilo e de segredo de justiça”;
+
+CONSIDERANDO o que foi deliberado pelo Plenário do Conselho Nacional de Justiça na sua 114ª Sessão Ordinária, realizada em 5 de outubro de 2010, no julgamento do Ato nº 0001776-16.2010.2.00.0000.
+
+ 
+
+RESOLVE:
+
+ 
+
+Art. 1.º A consulta aos dados básicos dos processos judiciais será disponibilizada na rede mundial de computadores (internet), assegurado o direito de acesso a informações processuais a toda e qualquer pessoa, independentemente de prévio cadastramento ou de demonstração de interesse.
+
+Parágrafo único. No caso de processo em sigilo ou segredo de justiça não se aplica o disposto neste artigo.
+
+Art. 2.º Os dados básicos do processo de livre acesso são:
+
+I – número, classe e assuntos do processo;
+
+II – nome das partes e de seus advogados;
+
+III – movimentação processual;
+
+IV – inteiro teor das decisões, sentenças, votos e acórdãos.
+
+Art. 3.º O advogado cadastrado e habilitado nos autos, as partes cadastradas e o membro do Ministério Público cadastrado terão acesso a todo o conteúdo do processo eletrônico.
+
+§ 1º. Os sistemas devem possibilitar que advogados, procuradores e membros do Ministério Público cadastrados, mas não vinculados a processo previamente identificado, acessem automaticamente todos os atos e documentos processuais armazenados em meio eletrônico, desde que demonstrado interesse, para fins, apenas, de registro, salvo nos casos de processos em sigilo ou segredo de justiça.
+
+§ 2º. Deverá haver mecanismo que registre cada acesso previsto no parágrafo anterior.
+
+Art. 4.º As consultas públicas disponíveis na rede mundial de computadores devem permitir a localização e identificação dos dados básicos de processo judicial segundo os seguintes critérios:
+
+Art. 4.º As consultas públicas dos sistemas de tramitação e acompanhamento processual dos Tribunais e Conselhos, disponíveis na rede mundial de computadores, devem permitir a localização e identificação dos dados básicos de processo judicial segundo os seguintes critérios: (Redação dada pela Resolução nº 143, de 30.11.2011)
+
+I – número atual ou anteriores, inclusive em outro juízo ou instâncias;
+
+II – nomes das partes;
+
+III – número de cadastro das partes no cadastro de contribuintes do Ministério da Fazenda;
+
+IV – nomes dos advogados;
+
+V – registro junto à Ordem dos Advogados do Brasil.
+
+§ 1º A consulta ficará restrita ao previsto no inciso I da cabeça deste artigo nas seguintes situações:
+
+§ 1º.  A consulta ficará restrita às seguintes situações: (Redação dada pela Resolução nº 143, de 30.11.2011)
+
+I – nos processos criminais, após o trânsito em julgado da decisão absolutória, da extinção da punibilidade ou do cumprimento da pena;
+
+I - ao inciso I da cabeça deste artigo, nos processo criminais, após o trânsito em julgado da decisão absolutória, da extinção da punibilidade ou do cumprimento da pena; (Redação dada pela Resolução nº 143, de 30.11.2011)
+
+II – nos processos sujeitos à apreciação da Justiça do Trabalho.
+
+II - aos incisos I, IV e V da cabeça deste artigo, nos processo sujeitos à apreciação da Justiça do Trabalho. (Redação dada pela Resolução nº 143, de 30.11.2011)
+
+§ 2º. Os nomes das vítimas não se incluem nos dados básicos dos processos criminais.
+
+Art. 5.º A disponibilização de consultas às bases de decisões judiciais impedirá, quando possível, a busca pelo nome das partes.
+
+Art. 6º. A certidão judicial se destina a identificar os termos circunstanciados, inquéritos ou processos em que a pessoa a respeito da qual é expedida figura no pólo passivo da relação processual originária.
+
+Art. 7º. A certidão judicial deverá conter, em relação à pessoa a respeito da qual se certifica:
+
+I - nome completo;
+
+II – o número do cadastro de contribuinte no Ministério da Fazenda;
+
+III – se pessoa natural:
+
+a) nacionalidade;
+
+b) estado civil;
+
+c) números dos documentos de identidade e dos respectivos órgãos expedidores;
+
+d) filiação; e
+
+d) o endereço residencial ou domiciliar.
+
+IV – se pessoa jurídica ou assemelhada, endereço da sede; e
+
+V – a relação dos feitos distribuídos em tramitação contendo os números, suas classes e os juízos da tramitação originária.
+
+§ 1º. Não será incluído na relação de que trata o inciso V o processo em que houver gozo do benefício de sursis (art. 163, § 2º da Lei n. 7.210, de 1984) ou quando a pena já tiver sido extinta ou cumprida, salvo para instruir processo pela prática de nova infração penal ou outros casos expressos em lei (art. 202, da Lei 7.210, de 1984).
+
+§ 2º. A ausência de alguns dos dados não impedirá a expedição da certidão negativa se não houver dúvida quanto à identificação física da pessoa.
+
+Art. 8º. A certidão judicial, cível ou criminal, será negativa quando não houver feito em tramitação contra a pessoa a respeito da qual foi solicitada.
+
+§1º. A certidão judicial criminal também será negativa:
+
+I – quando nela constar a distribuição de termo circunstanciado, inquérito ou processo em tramitação e não houver sentença condenatória transitada em julgado.
+
+II – em caso de gozo do benefício de sursis (art. 163, § 2º. da Lei n. 7.210, de 1984) ou a pena já tiver sido extinta ou cumprida.
+
+§ 2º Também deverá ser expedida certidão negativa quando, estando suficientemente identificada a pessoa a respeito da qual se solicitou a certidão, houver registro de processo referente a homônimo e a individualização dos processos não puder ser feita por carência de dados do Poder Judiciário, caso em que deverá constar essa observação.
+
+Art. 9º. O requerente de certidão negativa sobre a sua situação poderá, na hipótese do §1º inciso I, do artigo anterior, solicitar a inclusão do resumo da sentença absolutória ou que determinou o arquivamento.
+
+Art. 10. A certidão requisitada mediante determinação judicial deverá informar todos os registros constantes em nome da pessoa.
+
+Art. 11. A certidão judicial negativa será expedida eletronicamente por meio dos portais da rede mundial de computadores.
+
+Art. 12. A certidão judicial positiva poderá ser expedida eletronicamente àqueles previamente cadastrados no sistema processual, contendo, se for o caso, o resumo da sentença criminal (Art. 2º. da Lei 11.971, de 2009).
+
+Parágrafo único. A pessoa não cadastrada solicitará a expedição de certidão conforme regulamentado pelo tribunal respectivo.
+
+Art. 13. Os órgãos jurisdicionais de que tratam os incisos I-A a VII do art. 92 da Constituição deverão observar os termos desta Resolução a partir de 180 (cento e oitenta) dias da data de sua publicação.
+
+Parágrafo único. A pessoa prejudicada pela disponibilização de informação na rede mundial de computadores em desconformidade com esta Resolução poderá solicitar a retificação ao órgão jurisdicional responsável.
+
+Art. 14. Está Resolução entra em vigor a partir de sua publicação.
+
+ 
+
+Ministro CEZAR PELUSO

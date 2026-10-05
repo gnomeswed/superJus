@@ -1,0 +1,49 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #80
+DATA: 09/10/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 94
+DESCRIÇÃO: Certifico que, conforme se verifica às fls. 377/378, as testemunhas indicadas pela defesa de Lucas não possuem qualquer menção de endereço ou número de telefone.
+
+Outrossim, as testemunhas arroladas pela defesa do réu Ronny, às fls. 384/385, constam apenas com menção a número de telefone, não havendo indicação de endereço.
+
+ Dessa forma, deixo de  expedir os atos determinados para intimação das, diante da inexistência daausência de informações necessárias à sua localização.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:09/10/2025
+  Descrição:Certifico que, conforme se verifica às fls. 377/378, as testemunhas indicadas pela defesa de Lucas não possuem qualquer menção de endereço ou número de telefone.
+
+Outrossim, as testemunhas arroladas pela defesa do réu Ronny, às fls. 384/385, constam apenas com menção a número de telefone, não havendo indicação de endereço.
+
+ Dessa forma, deixo de  expedir os atos determinados para intimação das, diante da inexistência daausência de informações necessárias à sua localização. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 94,
+  "dtAlt": "09/10/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "09/10/2025",
+  "descricao": "Certifico que, conforme se verifica às fls. 377/378, as testemunhas indicadas pela defesa de Lucas não possuem qualquer menção de endereço ou número de telefone.\r\n\r\nOutrossim, as testemunhas arroladas pela defesa do réu Ronny, às fls. 384/385, constam apenas com menção a número de telefone, não havendo indicação de endereço.\r\n\r\n Dessa forma, deixo de  expedir os atos determinados para intimação das, diante da inexistência daausência de informações necessárias à sua localização. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "09/10/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que, conforme se verifica às fls. 377/378, as testemunhas indicadas pela defesa de Lucas não possuem qualquer menção de endereço ou número de telefone.\r\n\r\nOutrossim, as testemunhas arroladas pela defesa do réu Ronny, às fls. 384/385, constam apenas com menção a número de telefone, não havendo indicação de endereço.\r\n\r\n Dessa forma, deixo de  expedir os atos determinados para intimação das, diante da inexistência daausência de informações necessárias à sua localização. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "09/10/2025",
+  "indPublicado": "não"
+}

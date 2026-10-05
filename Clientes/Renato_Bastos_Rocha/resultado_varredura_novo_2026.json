@@ -1,0 +1,1216 @@
+{
+  "08028899720268190026": {
+    "numeroProcesso": "08028899720268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "dataAjuizamento": "20260617145925",
+    "dataHoraUltimaAtualizacao": "2026-07-24T09:06:45.546000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 47,
+    "ultimos_movimentos": [
+      {
+        "codigo": 51,
+        "dataHora": "2026-07-06T13:59:59.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-07-08T16:58:13.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-07-13T19:53:26.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-07-13T20:07:42.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-07-14T14:22:06.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08019078320268190026": {
+    "numeroProcesso": "08019078320268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Sumário",
+    "dataAjuizamento": "20260413175555",
+    "dataHoraUltimaAtualizacao": "2026-07-04T23:57:54.240000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 11,
+    "ultimos_movimentos": [
+      {
+        "codigo": 85,
+        "dataHora": "2026-06-18T14:49:49.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 471,
+        "dataHora": "2026-04-13T21:40:13.000Z",
+        "nome": "Pronúncia de Decadência ou Prescrição",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-05-04T21:02:35.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-05-29T18:42:04.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-06-02T16:00:44.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08019900220268190026": {
+    "numeroProcesso": "08019900220268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Sumário",
+    "dataAjuizamento": "20260416174753",
+    "dataHoraUltimaAtualizacao": "2026-07-20T23:25:28.293000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 3,
+    "ultimos_movimentos": [
+      {
+        "codigo": 26,
+        "dataHora": "2026-04-16T17:47:53.000Z",
+        "nome": "Distribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 2,
+            "nome": "sorteio"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-04-16T18:08:13.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11878,
+        "dataHora": "2026-04-16T22:04:28.000Z",
+        "nome": "Prescrição",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08029367120268190026": {
+    "numeroProcesso": "08029367120268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "dataAjuizamento": "20260620204316",
+    "dataHoraUltimaAtualizacao": "2026-07-24T07:43:10.320000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 34,
+    "ultimos_movimentos": [
+      {
+        "codigo": 51,
+        "dataHora": "2026-07-03T17:48:28.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 391,
+        "dataHora": "2026-07-03T21:58:20.000Z",
+        "nome": "Denúncia",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 12140,
+        "dataHora": "2026-06-22T17:48:39.000Z",
+        "nome": "Prisão em Flagrante em Prisão Preventiva",
+        "orgaoJulgador": {
+          "codigo": "78168",
+          "nome": "CAMPOS DOS GOYTACAZES - CENTRAL DE AUDIEN CUSTODIA"
+        }
+      },
+      {
+        "codigo": 12265,
+        "dataHora": "2026-06-23T20:24:09.000Z",
+        "nome": "Expedida/certificada",
+        "orgaoJulgador": {
+          "codigo": "92254",
+          "nome": "CAMPOS DOS GOYTACAZES - 5 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 12265,
+        "dataHora": "2026-07-03T17:09:33.000Z",
+        "nome": "Expedida/certificada",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08019112320268190026": {
+    "numeroProcesso": "08019112320268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Sumário",
+    "dataAjuizamento": "20260413183343",
+    "dataHoraUltimaAtualizacao": "2026-07-04T06:17:29.006000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 3,
+    "ultimos_movimentos": [
+      {
+        "codigo": 26,
+        "dataHora": "2026-04-13T18:33:43.000Z",
+        "nome": "Distribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 2,
+            "nome": "sorteio"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-04-13T18:34:48.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11878,
+        "dataHora": "2026-04-13T21:40:13.000Z",
+        "nome": "Prescrição",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08001530920268190026": {
+    "numeroProcesso": "08001530920268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "dataAjuizamento": "20260114203724",
+    "dataHoraUltimaAtualizacao": "2026-07-24T03:28:08.652000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 3,
+    "ultimos_movimentos": [
+      {
+        "codigo": 26,
+        "dataHora": "2026-01-14T20:37:24.000Z",
+        "nome": "Distribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 2,
+            "nome": "sorteio"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-01-15T15:15:25.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 391,
+        "dataHora": "2026-01-15T16:44:47.000Z",
+        "nome": "Denúncia",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08004086420268190026": {
+    "numeroProcesso": "08004086420268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Carta Precatória Criminal",
+    "dataAjuizamento": "20260128160713",
+    "dataHoraUltimaAtualizacao": "2026-03-06T07:59:40.760000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 6,
+    "ultimos_movimentos": [
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 4,
+            "valor": 78,
+            "nome": "Mandado",
+            "descricao": "tipo_de_documento"
+          }
+        ],
+        "codigo": 60,
+        "nome": "Expedição de documento",
+        "dataHora": "2026-01-29T13:50:52.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 4,
+            "valor": 80,
+            "nome": "Outros documentos",
+            "descricao": "tipo_de_documento"
+          }
+        ],
+        "codigo": 581,
+        "nome": "Documento",
+        "dataHora": "2026-01-29T15:35:05.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 4,
+            "valor": 107,
+            "nome": "Certidão",
+            "descricao": "tipo_de_documento"
+          }
+        ],
+        "codigo": 60,
+        "nome": "Expedição de documento",
+        "dataHora": "2026-02-05T11:46:25.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 18,
+            "valor": 39,
+            "nome": "por devolução ao deprecante",
+            "descricao": "motivo_da_remessa"
+          }
+        ],
+        "codigo": 123,
+        "nome": "Remessa",
+        "dataHora": "2026-02-05T11:46:25.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "nome": "Ato ordinatório",
+        "dataHora": "2026-01-28T16:49:09.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08002588320268190026": {
+    "numeroProcesso": "08002588320268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Carta Precatória Criminal",
+    "dataAjuizamento": "20260120163557",
+    "dataHoraUltimaAtualizacao": "2026-03-06T07:59:53.274000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 9,
+    "ultimos_movimentos": [
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 4,
+            "valor": 80,
+            "nome": "Outros documentos",
+            "descricao": "tipo_de_documento"
+          }
+        ],
+        "codigo": 581,
+        "nome": "Documento",
+        "dataHora": "2026-02-01T12:49:17.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 4,
+            "valor": 107,
+            "nome": "Certidão",
+            "descricao": "tipo_de_documento"
+          }
+        ],
+        "codigo": 60,
+        "nome": "Expedição de documento",
+        "dataHora": "2026-02-05T11:50:42.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 18,
+            "valor": 39,
+            "nome": "por devolução ao deprecante",
+            "descricao": "motivo_da_remessa"
+          }
+        ],
+        "codigo": 123,
+        "nome": "Remessa",
+        "dataHora": "2026-02-05T11:50:42.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 1051,
+        "nome": "Decurso de Prazo",
+        "dataHora": "2026-02-27T01:18:20.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "nome": "Ato ordinatório",
+        "dataHora": "2026-01-20T16:49:07.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08024205120268190026": {
+    "numeroProcesso": "08024205120268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Sumário",
+    "dataAjuizamento": "20260514175655",
+    "dataHoraUltimaAtualizacao": "2026-07-24T06:02:01.858000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 4,
+    "ultimos_movimentos": [
+      {
+        "codigo": 26,
+        "dataHora": "2026-05-14T17:56:55.000Z",
+        "nome": "Distribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 2,
+            "nome": "sorteio"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-05-14T19:35:06.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 391,
+        "dataHora": "2026-05-15T21:28:40.000Z",
+        "nome": "Denúncia",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-06-12T18:24:41.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08019891720268190026": {
+    "numeroProcesso": "08019891720268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Sumário",
+    "dataAjuizamento": "20260416144456",
+    "dataHoraUltimaAtualizacao": "2026-05-07T20:53:28.814000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 3,
+    "ultimos_movimentos": [
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "valor": 2,
+            "nome": "sorteio",
+            "descricao": "tipo_de_distribuicao_redistribuicao"
+          }
+        ],
+        "codigo": 26,
+        "nome": "Distribuição",
+        "dataHora": "2026-04-16T14:44:56.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 3,
+            "valor": 36,
+            "nome": "para julgamento",
+            "descricao": "tipo_de_conclusao"
+          }
+        ],
+        "codigo": 51,
+        "nome": "Conclusão",
+        "dataHora": "2026-04-16T15:07:38.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11878,
+        "nome": "Prescrição",
+        "dataHora": "2026-04-16T19:04:28.000Z",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08000093520268190026": {
+    "numeroProcesso": "08000093520268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "dataAjuizamento": "20260104233438",
+    "dataHoraUltimaAtualizacao": "2026-06-23T04:10:18.568000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 84,
+    "ultimos_movimentos": [
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-12T20:59:12.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-05-14T19:58:42.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-18T12:27:58.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 246,
+        "dataHora": "2026-05-18T16:27:42.000Z",
+        "nome": "Definitivo",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 22,
+        "dataHora": "2026-05-18T16:27:42.000Z",
+        "nome": "Baixa Definitiva",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08009144020268190026": {
+    "numeroProcesso": "08009144020268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "dataAjuizamento": "20260220152625",
+    "dataHoraUltimaAtualizacao": "2026-07-24T06:28:39.066000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 86,
+    "ultimos_movimentos": [
+      {
+        "codigo": 85,
+        "dataHora": "2026-06-17T20:59:21.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-22T14:41:29.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-07-01T18:14:47.000Z",
+        "nome": "Audiência",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 12146,
+        "dataHora": "2026-07-01T21:29:51.000Z",
+        "nome": "Liberdade Provisória",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-10T12:44:58.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08000665320268190026": {
+    "numeroProcesso": "08000665320268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Sumário",
+    "dataAjuizamento": "20260109173911",
+    "dataHoraUltimaAtualizacao": "2026-07-04T02:00:12.533000Z",
+    "assuntos": [
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 3,
+    "ultimos_movimentos": [
+      {
+        "codigo": 26,
+        "dataHora": "2026-01-09T17:39:11.000Z",
+        "nome": "Distribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 2,
+            "nome": "sorteio"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-01-09T18:25:48.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 391,
+        "dataHora": "2026-01-11T14:52:51.000Z",
+        "nome": "Denúncia",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08028336420268190026": {
+    "numeroProcesso": "08028336420268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "dataAjuizamento": "20260611175319",
+    "dataHoraUltimaAtualizacao": "2026-07-23T22:57:12.271000Z",
+    "assuntos": [
+      "Furto Qualificado "
+    ],
+    "partes": [],
+    "total_movimentos": 26,
+    "ultimos_movimentos": [
+      {
+        "codigo": 11010,
+        "dataHora": "2026-06-11T21:06:34.000Z",
+        "nome": "Mero expediente",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-06-15T18:31:05.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-06-22T19:11:24.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-06-22T19:13:37.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11010,
+        "dataHora": "2026-06-22T21:10:43.000Z",
+        "nome": "Mero expediente",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08028950720268190026": {
+    "numeroProcesso": "08028950720268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "dataAjuizamento": "20260617171054",
+    "dataHoraUltimaAtualizacao": "2026-07-24T04:46:57.123000Z",
+    "assuntos": [
+      "Furto Qualificado "
+    ],
+    "partes": [],
+    "total_movimentos": 12,
+    "ultimos_movimentos": [
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-22T19:12:42.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-06-22T20:19:45.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-23T22:00:47.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-06-24T15:12:33.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-02T16:47:44.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08022906120268190026": {
+    "numeroProcesso": "08022906120268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Carta Precatória Criminal",
+    "dataAjuizamento": "20260507194239",
+    "dataHoraUltimaAtualizacao": "2026-06-14T09:31:00.355000Z",
+    "assuntos": [
+      "Furto ",
+      "Prisão em flagrante"
+    ],
+    "partes": [],
+    "total_movimentos": 5,
+    "ultimos_movimentos": [
+      {
+        "codigo": 26,
+        "nome": "Distribuição",
+        "dataHora": "2026-05-07T19:42:39.000Z",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 51,
+        "nome": "Conclusão",
+        "dataHora": "2026-05-07T19:50:58.000Z",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11010,
+        "nome": "Mero expediente",
+        "dataHora": "2026-05-08T23:14:53.000Z",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 60,
+        "nome": "Expedição de documento",
+        "dataHora": "2026-05-11T16:38:28.000Z",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 85,
+        "nome": "Petição",
+        "dataHora": "2026-06-08T20:21:38.000Z",
+        "orgaoJulgador": {
+          "codigo": "234",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "08028604720268190026": {
+    "numeroProcesso": "08028604720268190026",
+    "orgao": "ITAPERUNA 2 VARA",
+    "classe": "Carta Precatória Criminal",
+    "dataAjuizamento": "20260615145342",
+    "dataHoraUltimaAtualizacao": "2026-07-24T04:42:42.543000Z",
+    "assuntos": [
+      "Furto ",
+      "Prisão em flagrante"
+    ],
+    "partes": [],
+    "total_movimentos": 7,
+    "ultimos_movimentos": [
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-16T15:31:13.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-01T11:22:48.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-07-03T19:46:25.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 123,
+        "dataHora": "2026-07-03T19:46:25.000Z",
+        "nome": "Remessa",
+        "complementosTabelados": [
+          {
+            "codigo": 18,
+            "descricao": "motivo_da_remessa",
+            "valor": 39,
+            "nome": "por devolução ao deprecante"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      },
+      {
+        "codigo": 11010,
+        "dataHora": "2026-06-15T23:09:39.000Z",
+        "nome": "Mero expediente",
+        "orgaoJulgador": {
+          "codigo": "7388",
+          "nome": "ITAPERUNA 2 VARA"
+        }
+      }
+    ]
+  },
+  "00085490820268190026": {
+    "numeroProcesso": "00085490820268190026",
+    "orgao": "ITAPERUNA J VIO E ESP CRIM",
+    "classe": "Inquérito Policial",
+    "dataAjuizamento": "20260617203137",
+    "dataHoraUltimaAtualizacao": "2026-07-24T01:34:49.448000Z",
+    "assuntos": [
+      "Furto ",
+      "Contravenções Penais"
+    ],
+    "partes": [],
+    "total_movimentos": 5,
+    "ultimos_movimentos": [
+      {
+        "codigo": 26,
+        "dataHora": "2026-06-17T20:31:37.000Z",
+        "nome": "Distribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 2,
+            "nome": "sorteio"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-18T04:09:56.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-18T04:10:41.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-11T07:24:38.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-11T07:24:41.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      }
+    ]
+  },
+  "00053922720268190026": {
+    "numeroProcesso": "00053922720268190026",
+    "orgao": "ITAPERUNA J VIO E ESP CRIM",
+    "classe": "Inquérito Policial",
+    "dataAjuizamento": "20260309181641",
+    "dataHoraUltimaAtualizacao": "2026-07-24T02:39:13.310000Z",
+    "assuntos": [
+      "Contravenções Penais",
+      "Furto "
+    ],
+    "partes": [],
+    "total_movimentos": 9,
+    "ultimos_movimentos": [
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-18T04:09:26.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-18T04:10:11.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-11T07:22:41.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-11T07:22:44.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-15T00:15:55.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      }
+    ]
+  },
+  "00074751620268190026": {
+    "numeroProcesso": "00074751620268190026",
+    "orgao": "ITAPERUNA J VIO E ESP CRIM",
+    "classe": "Inquérito Policial",
+    "dataAjuizamento": "20260427174843",
+    "dataHoraUltimaAtualizacao": "2026-07-24T00:25:18.313000Z",
+    "assuntos": [
+      "Furto de coisa comum ",
+      "Contravenções Penais"
+    ],
+    "partes": [],
+    "total_movimentos": 6,
+    "ultimos_movimentos": [
+      {
+        "codigo": 581,
+        "dataHora": "2026-04-28T04:43:26.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-04-28T04:43:31.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-16T05:07:59.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-16T05:09:28.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-08T22:09:37.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "63576",
+          "nome": "ITAPERUNA J VIO E ESP CRIM"
+        }
+      }
+    ]
+  }
+}

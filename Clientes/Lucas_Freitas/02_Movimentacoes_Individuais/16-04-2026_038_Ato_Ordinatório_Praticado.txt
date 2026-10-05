@@ -1,0 +1,61 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #38
+DATA: 16/04/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 136
+DESCRIÇÃO: AO INTERESSADO SOBRE A CERTIDÃO DE FL.638
+
+SUB-MOVIMENTO: Enviado para publicação
+  Data do expediente:17/04/2026
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:16/04/2026
+  Descrição:AO INTERESSADO SOBRE A CERTIDÃO DE FL.638 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 136,
+  "dtAlt": "16/04/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "16/04/2026",
+  "descricao": "AO INTERESSADO SOBRE A CERTIDÃO DE FL.638 ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Enviado para publicação",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data do expediente:",
+          "descricao": "17/04/2026"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    },
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "16/04/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "AO INTERESSADO SOBRE A CERTIDÃO DE FL.638 "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "16/04/2026",
+  "indPublicado": "sim",
+  "publicado": {
+    "dtExp": "17/04/2026",
+    "dtPubPrev": "22/04/2026"
+  }
+}

@@ -1,0 +1,25 @@
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Tipo de numeração
+Selecione o tipo de numeração
+Antiga
+Única
+Número do processo *
+ .8.19. 
+ Pesquisar Limpar Filtros
+Resultado
+Código CNJ	Nome Comarca	Descrição Serventia	Classe	Assunto	último Movimento
+0001492-25.2016.8.19.0046
+(2016.046.001468-0)
+	Comarca de Rio Bonito	Cartório da 2ª Vara	Ação Penal - Procedimento Sumário	Tráfico de Drogas e Condutas Afins (Art. 33 - Lei 11.343/06);Associação para a Produção e Tráfico e Condutas Afins (Art. 35 - Lei 11.343/06)	Conclusão ao Juiz
+0001492-25.2016.8.19.0046
+(2017.050.03377)
+	Comarca da Capital	TERCEIRA CAMARA CRIMINAL	APELAÇÃO	Tráfico de Drogas e Condutas Afins / Crimes de Tráfico Ilícito e Uso Indevido de Drogas / Crimes Previstos na Legislação Extravagante / DIREITO PENAL	
+1
+10

@@ -1,0 +1,26 @@
+Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J.
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Tipo de numeração
+Selecione o tipo de numeração
+Antiga
+Única
+Número do processo *
+ .8.19. 
+ Pesquisar Limpar Filtros
+Mensagem Processo do PJe
+
+Srs. Usuários,
+
+O número 0821248-17.2025.8.19.0031 informado é um processo do PJe, para consultá-lo clique no botão Acessar PJe.
+
+
+
+ Acessar PJe
+ Fechar

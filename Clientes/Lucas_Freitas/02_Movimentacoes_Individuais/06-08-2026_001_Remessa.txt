@@ -1,0 +1,49 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #1
+DATA: 06/08/2026
+TIPO: Remessa
+ORDEM: 172
+DESTINATÁRIO: Tribunal de Justiça
+DATA REMESSA: 06/08/2026
+PRAZO: 15 dia(s)
+
+SUB-MOVIMENTO: Remessa
+  Destinatário:Tribunal de Justiça
+  Data da remessa:06/08/2026
+  Prazo:15 dia(s)
+
+--- JSON CRU ---
+{
+  "codTipAnd": 2,
+  "ordem": 172,
+  "dtAlt": "06/08/2026",
+  "descrMov": "Remessa",
+  "dtMovimento": "06/08/2026",
+  "descricao": " ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Remessa",
+      "detalhesMovimento": [
+        {
+          "codigo": "Destinatário: ",
+          "descricao": "Tribunal de Justiça"
+        },
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "06/08/2026"
+        },
+        {
+          "codigo": "Prazo: ",
+          "descricao": "15 dia(s)"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "nomeDestinatario": "Tribunal de Justiça",
+  "dtRemessa": "06/08/2026",
+  "prazo": "15"
+}

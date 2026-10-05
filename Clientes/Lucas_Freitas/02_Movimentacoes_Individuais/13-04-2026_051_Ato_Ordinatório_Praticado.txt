@@ -1,0 +1,41 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #51
+DATA: 13/04/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 123
+DESCRIÇÃO: Certifico que não foi possível acessar o laudo nº DH NSGSPC 002222024 de 10/12/2024 , no sistema Laudo Web , razão pela qual remeti e-mail à Delegacia , que junto adiante .
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:13/04/2026
+  Descrição:Certifico que não foi possível acessar o laudo nº DH NSGSPC 002222024 de 10/12/2024 , no sistema Laudo Web , razão pela qual remeti e-mail à Delegacia , que junto adiante . 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 123,
+  "dtAlt": "13/04/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "13/04/2026",
+  "descricao": "Certifico que não foi possível acessar o laudo nº DH NSGSPC 002222024 de 10/12/2024 , no sistema Laudo Web , razão pela qual remeti e-mail à Delegacia , que junto adiante . ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "13/04/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que não foi possível acessar o laudo nº DH NSGSPC 002222024 de 10/12/2024 , no sistema Laudo Web , razão pela qual remeti e-mail à Delegacia , que junto adiante . "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "13/04/2026",
+  "indPublicado": "não"
+}

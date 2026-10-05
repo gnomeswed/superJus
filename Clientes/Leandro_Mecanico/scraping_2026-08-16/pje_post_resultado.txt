@@ -1,0 +1,64 @@
+Consulta p&uacute;blica &middot; Processo Judicial Eletr&ocirc;nico
+Consulta p&uacute;blica
+Atalhos do sistema
+alt+1 Menu de navega&ccedil;&atilde;o
+alt+2 Ir para p&aacute;gina inicial
+alt+7 Auto-contraste
+alt+8 Fale conosco
+alt+9 Sair
+Processo Judicial Eletr&ocirc;nico
+Versao  2.2.0.5  - Atualizado em   05/08/2026 - 19:18
+O Pje &eacute; um sistema de tramita&ccedil;&atilde;o de processos judiciais que busca atender &agrave;s necessidades dos diversos segmentos do Poder Judici&aacute;rio brasileiro(Justi&ccedil;a Militar da Uni&atilde;o e dos Estados, Tribunais Superiores, Justi&ccedil;a do Trabalho, Justi&ccedil;a Eleitoral e Justi&ccedil;a Comum, Federal e Estadual)
+O PJe &eacute; desenvolvido pela comunidade dos tribunais brasileiros sob a coordena&ccedil;&atilde;o do
+Conselho Nacional de Justi&ccedil;a (CNJ).
+Para mais ajuda sobre o sistema acesse a
+Wiki do projeto.
+Verifique sobre as vers&otilde;es do sistema em
+Mais informa&ccedil;&otilde;es
+Fale conosco
+Informaes Fale Conosco 1 grau
+Processo
+Processo refer&ecirc;ncia
+Numera&ccedil;&atilde;o &uacute;nica
+Livre
+Nome da Parte
+Nome do advogado
+CPF
+CNPJ
+OAB (000000 A UF)
+-     -   	 UF
+AC
+AL
+AP
+AM
+BA
+CE
+DF
+ES
+GO
+MA
+MT
+MS
+MG
+PA
+PB
+PR
+PE
+PI
+RJ
+RN
+RS
+RO
+RR
+SC
+SP
+SE
+TO
+Processo
+&Uacute;ltima movimenta&ccedil;&atilde;o
+resultados encontrados
+A presente consulta n&atilde;o retornar&aacute; qualquer resultado em caso de informa&ccedil;&otilde;es prestadas incorretamente ou de processos sob segredo de justi&ccedil;a, conforme art. 1&ordm;, par&aacute;grafo &uacute;nico, da
+Resolu&ccedil;&atilde;o n&ordm; 121 do Conselho Nacional de Justi&ccedil;a  .
+PJeOffice Indispon&iacute;vel
+O aplicativo PJeOffice n&atilde;o est&aacute; dispon&iacute;vel!
+Por favor aguarde

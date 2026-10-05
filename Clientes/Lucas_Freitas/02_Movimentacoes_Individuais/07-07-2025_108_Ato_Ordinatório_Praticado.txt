@@ -1,0 +1,49 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #108
+DATA: 07/07/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 66
+DESCRIÇÃO: Certifico que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.
+
+          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP.
+
+          Certifico, por fim, que não houve manifestação da DP TABELAR, apesar de tacitamente intimada conforme fls. 375 e 381.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:03/07/2025
+  Descrição:          Certifico que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.
+
+          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP.
+
+          Certifico, por fim, que não houve manifestação da DP TABELAR, apesar de tacitamente intimada conforme fls. 375 e 381. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 66,
+  "dtAlt": "07/07/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "07/07/2025",
+  "descricao": "          Certifico que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.\r\n\r\n          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP.\r\n\r\n          Certifico, por fim, que não houve manifestação da DP TABELAR, apesar de tacitamente intimada conforme fls. 375 e 381. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "03/07/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "          Certifico que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.\r\n\r\n          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP.\r\n\r\n          Certifico, por fim, que não houve manifestação da DP TABELAR, apesar de tacitamente intimada conforme fls. 375 e 381. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "03/07/2025",
+  "indPublicado": "não"
+}

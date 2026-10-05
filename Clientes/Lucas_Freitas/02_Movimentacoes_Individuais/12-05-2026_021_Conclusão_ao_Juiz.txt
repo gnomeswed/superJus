@@ -1,0 +1,72 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #21
+DATA: 12/05/2026
+TIPO: Conclusão ao Juiz
+ORDEM: 152
+DESCRIÇÃO: Intime-se o réu RONNY acerca da renúncia de sua patrona. O acusado deverá constituir novo patrono, no prazo de cinco dias, ou manifestar, desde já, interesse em ser assistido pela Defensoria Pública, ficando ciente de que, em caso de inércia, a DP será nomeada para assisti-lo.
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:12/05/2026
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:30/04/2026
+  Juiz:NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=0004E8B388B9AB6B250769CB806861390AFAC51A51396134
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 152,
+  "dtAlt": "12/05/2026",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "12/05/2026",
+  "pseudoDocEletronico": "0004E8B388B9AB6B250769CB806861390AFAC51A51396134",
+  "descricao": "\tIntime-se o réu RONNY acerca da renúncia de sua patrona. O acusado deverá constituir novo patrono, no prazo de cinco dias, ou manifestar, desde já, interesse em ser assistido pela Defensoria Pública, ficando ciente de que, em caso de inércia, a DP será nomeada para assisti-lo.  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "12/05/2026"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "\tIntime-se o réu RONNY acerca da renúncia de sua patrona. O acusado deverá constituir novo patrono, no prazo de cinco dias, ou manifestar, desde já, interesse em ser assistido pela Defensoria Pública, ficando ciente de q...",
+        "descCompleta": "\tIntime-se o réu RONNY acerca da renúncia de sua patrona. O acusado deverá constituir novo patrono, no prazo de cinco dias, ou manifestar, desde já, interesse em ser assistido pela Defensoria Pública, ficando ciente de que, em caso de inércia, a DP será nomeada para assisti-lo.  "
+      },
+      "codDocAtoAssinadoDig": "0004E8B388B9AB6B250769CB806861390AFAC51A51396134"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "30/04/2026"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS",
+  "dtConclusao": "30/04/2026",
+  "dtDevolucao": "12/05/2026",
+  "indPublicado": "não"
+}

@@ -1,0 +1,34 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #69
+DATA: 15/12/2025
+TIPO: Juntada - FAC
+ORDEM: 105
+
+SUB-MOVIMENTO: Juntada - FAC
+  Data da juntada:15/12/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 105,
+  "dtAlt": "15/12/2025",
+  "descrMov": "Juntada - FAC",
+  "dtMovimento": "15/12/2025",
+  "descricao": " ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - FAC",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "15/12/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "15/12/2025"
+}

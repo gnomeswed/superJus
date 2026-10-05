@@ -1,0 +1,34 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #131
+DATA: 31/03/2025
+TIPO: Juntada - FAC
+ORDEM: 44
+
+SUB-MOVIMENTO: Juntada - FAC
+  Data da juntada:31/03/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 44,
+  "dtAlt": "31/03/2025",
+  "descrMov": "Juntada - FAC",
+  "dtMovimento": "31/03/2025",
+  "descricao": " ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - FAC",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "31/03/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "31/03/2025"
+}

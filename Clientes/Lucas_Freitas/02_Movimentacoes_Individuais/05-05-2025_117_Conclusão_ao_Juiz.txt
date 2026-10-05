@@ -1,0 +1,71 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #117
+DATA: 05/05/2025
+TIPO: Conclusão ao Juiz
+ORDEM: 57
+DESCRIÇÃO: Dê-se vista ao Ministério Público e ao Advogado / Defensor Público, no prazo sucessivo de 05 (cinco) dias, para que se manifestem nos termos do art. 422 do Código de Processo Penal.
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:30/04/2025
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:30/04/2025
+  Juiz:NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=0004516B3241C1176BC9E7BB4E5E226C7AFAC5185C554D3A
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 57,
+  "dtAlt": "05/05/2025",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "05/05/2025",
+  "pseudoDocEletronico": "0004516B3241C1176BC9E7BB4E5E226C7AFAC5185C554D3A",
+  "descricao": "\t\tDê-se vista ao Ministério Público e ao Advogado / Defensor Público, no prazo sucessivo de 05 (cinco) dias, para que se manifestem nos termos do art. 422 do Código de Processo Penal. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "30/04/2025"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "\t\tDê-se vista ao Ministério Público e ao Advogado / Defensor Público, no prazo sucessivo de 05 (cinco) dias, para que se manifestem nos termos do art. 422 do Código de Processo Penal. "
+      },
+      "codDocAtoAssinadoDig": "0004516B3241C1176BC9E7BB4E5E226C7AFAC5185C554D3A"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "30/04/2025"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS",
+  "dtConclusao": "30/04/2025",
+  "dtDevolucao": "30/04/2025",
+  "indPublicado": "não"
+}

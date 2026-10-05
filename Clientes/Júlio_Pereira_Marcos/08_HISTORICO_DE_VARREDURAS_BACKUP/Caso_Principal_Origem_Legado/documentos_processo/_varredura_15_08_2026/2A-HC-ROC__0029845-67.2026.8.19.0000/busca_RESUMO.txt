@@ -1,0 +1,25 @@
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Tipo de numeração
+Selecione o tipo de numeração
+Antiga
+Única
+Número do processo *
+ .8.19. 
+ Pesquisar Limpar Filtros
+Resultado
+Código CNJ	Nome Comarca	Descrição Serventia	Classe	Assunto	último Movimento
+0029845-67.2026.8.19.0000
+(2026.059.10770)
+	Comarca da Capital	SÉTIMA CAMARA CRIMINAL	HABEAS CORPUS	Tráfico de Drogas e Condutas Afins / Crimes de Tráfico Ilícito e Uso Indevido de Drogas / Crimes Previstos na Legislação Extravagante / DIREITO PENAL	
+0029845-67.2026.8.19.0000
+(2026.141.00580)
+	Comarca da Capital		RECURSO ORDINARIO CONST. - CRIMINAL	Aplicação da Pena / Parte Geral / DIREITO PENAL	
+1
+10

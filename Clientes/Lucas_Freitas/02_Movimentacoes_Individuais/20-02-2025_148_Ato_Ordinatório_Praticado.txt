@@ -1,0 +1,41 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #148
+DATA: 20/02/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 27
+DESCRIÇÃO: Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:19/02/2025
+  Descrição:Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 27,
+  "dtAlt": "20/02/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "20/02/2025",
+  "descricao": "Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "19/02/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça."
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "19/02/2025",
+  "indPublicado": "não"
+}

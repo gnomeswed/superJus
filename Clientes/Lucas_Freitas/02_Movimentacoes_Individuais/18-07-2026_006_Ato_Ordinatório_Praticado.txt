@@ -1,0 +1,41 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #6
+DATA: 18/07/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 167
+DESCRIÇÃO: Certifico que os réus apresentaram razões de Apelação às fls. 822/837, tempestivamente .
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:18/07/2026
+  Descrição:Certifico que os réus apresentaram razões de Apelação às fls. 822/837, tempestivamente . 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 167,
+  "dtAlt": "18/07/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "18/07/2026",
+  "descricao": "Certifico que os réus apresentaram razões de Apelação às fls. 822/837, tempestivamente . ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "18/07/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que os réus apresentaram razões de Apelação às fls. 822/837, tempestivamente . "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "18/07/2026",
+  "indPublicado": "não"
+}

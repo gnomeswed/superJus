@@ -1,0 +1,34 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #152
+DATA: 14/02/2025
+TIPO: Juntada - Documento
+ORDEM: 23
+
+SUB-MOVIMENTO: Juntada - Documento
+  Data da juntada:14/02/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 23,
+  "dtAlt": "14/02/2025",
+  "descrMov": "Juntada - Documento",
+  "dtMovimento": "14/02/2025",
+  "descricao": "  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - Documento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "14/02/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "14/02/2025"
+}

@@ -1,0 +1,16 @@
+STJ - Superior Tribunal de Justiça
+Data da Consulta: 23/09/2026 09:15:59
+Processo: HC 1.116.750 / RJ (Registro 2026/0311210-7)
+CNJ: 0311210-10.2026.3.00.0000
+Órgão Julgador: SEXTA TURMA / GABINETE DO MINISTRO OG FERNANDES
+Relator: MINISTRO OG FERNANDES
+Fase Atual: CONCLUSÃO AO RELATOR (Conclusos para Decisão desde 13/08/2026 17:45:57)
+Tempo Concluso: 41 dias ininterruptos
+Situação: Autos conclusos com parecer do MPF nº 816581/2026 juntado aos autos, prontos para julgamento de mérito/ordem de soltura.
+Última Atualização no Banco Nacional CNJ: 2026-08-18T09:00:47.046Z
+Últimos Movimentos no STJ:
+  - 13/08/2026 17:45:57 | Conclusão para Decisão ao Relator
+  - 13/08/2026 17:35:00 | Recebimento
+  - 13/08/2026 17:21:06 | Petição (Parecer do MPF nº 816581/2026)
+  - 13/08/2026 17:08:50 | Protocolo de Petição
+  - 04/08/2026 14:31:00 | Petição

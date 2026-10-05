@@ -1,0 +1,25 @@
+# 📋 FICHA CADASTRAL DO CLIENTE — RENAN RODRIGUES DE SOUZA
+
+- **Nome do Cliente:** Renan Rodrigues de Souza
+- **CPF:** 198.249.487-59
+- **Mãe:** Lenir Rodrigues Neto
+- **Corréu:** Irapuã Amorim Turlach (CPF: 091.108.887-30)
+- **Processo Principal (CNJ):** `0821248-17.2025.8.19.0031` (Ação Penal de Conhecimento - Maricá)
+- **Processo de Execução Penal Atual (VEP / SEEU):** `5014830-25.2026.8.19.0500` (Cartório Final RG 1 e 2)
+- **Processo de Execução Anterior (VEP / SEEU):** `5008127-54.2021.8.19.0500` (Pena extinta por cumprimento, alvará de soltura expedido e parecer favorável do MP)
+- **Órgão Julgador da Execução:** Vara de Execuções Penais da Comarca da Capital / TJRJ (Cód. 0500)
+- **Juíza da VEP:** Dra. Larissa Maria Nunes Barros Franklin Duarte
+- **Juízo / Vara de Conhecimento:** Vara Criminal da Comarca de Maricá/RJ (Cód. CNJ 16444)
+- **Magistrado Sentenciante:** Dr. Rodrigo Mello Rangel (Juiz Auxiliar)
+- **Sistemas Processuais:** PJe 1G (Conhecimento) e SEEU CNJ (Execução Penal)
+- **Classe:** Ação Penal - Procedimento Ordinário (Cód. CNJ 283)
+- **Acusação:** Furto Qualificado pelo Concurso de Pessoas (Art. 155, § 4º, IV do Código Penal)
+- **Prisão em Flagrante:** 30/11/2025 (Local: Empresa Esquadri e PVC, Av. Gilberto de Carvalho, 73, Inoã, Maricá/RJ)
+- **Conversão em Prisão Preventiva:** 02/12/2025
+- **Tempo Total em Custódia Cautelar:** Desde 30/11/2025 até 01/10/2026 = **10 meses e 1 dia (306 dias) em regime fechado**
+- **Sentença Proferida:** 03/07/2026 (Procedência da Denúncia - ID 26070311165073200000277087507)
+  - **Pena:** 02 (dois) anos de reclusão e 10 (dez) dias-multa
+  - **Regime Inicial:** Semiaberto
+  - **Detração:** Remetida à VEP
+  - **Execução Provisória (CES):** Expedida e juntada aos autos em 13/08/2026
+- **DECISÃO BOMBA NA VEP (30/09/2026):** A Juíza Dra. Larissa Maria Nunes Barros Franklin Duarte **INVALIDOU O PREJUÍZO APONTADO** (constatou que no processo de 2021 a pena foi extinta com alvará expedido) e **DETERMINOU A REAPRESENTAÇÃO IMEDIATA DO BENEFÍCIO (SOLTURA/PROGRESSÃO), INDEPENDENTEMENTE DE NOVA CONSULTA AO SARQ-POLINTER**!

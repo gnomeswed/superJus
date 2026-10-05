@@ -1,0 +1,34 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #68
+DATA: 15/12/2025
+TIPO: Juntada - Documento
+ORDEM: 106
+
+SUB-MOVIMENTO: Juntada - Documento
+  Data da juntada:15/12/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 106,
+  "dtAlt": "15/12/2025",
+  "descrMov": "Juntada - Documento",
+  "dtMovimento": "15/12/2025",
+  "descricao": " ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - Documento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "15/12/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "15/12/2025"
+}

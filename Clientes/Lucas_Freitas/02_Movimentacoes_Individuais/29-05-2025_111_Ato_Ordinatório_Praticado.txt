@@ -1,0 +1,41 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #111
+DATA: 29/05/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 63
+DESCRIÇÃO: Às Defesas  nos termos do art. 422 do CPP.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:29/05/2025
+  Descrição:Às Defesas  nos termos do art. 422 do CPP.     
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 63,
+  "dtAlt": "29/05/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "29/05/2025",
+  "descricao": "Às Defesas  nos termos do art. 422 do CPP.     ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "29/05/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Às Defesas  nos termos do art. 422 do CPP.     "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "29/05/2025",
+  "indPublicado": "não"
+}

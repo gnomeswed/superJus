@@ -1,0 +1,60 @@
+Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J.
+ Voltar
+ Imprimir
+Todos Os Movimentos
+ Processo Eletrônico - Visualizador
+
+As informações aqui contidas não produzem efeitos legais. Somente a publicação no DJERJ oficializa despachos e decisões e estabelece prazos.
+
+Processo Nº 0023013-51.2021.8.19.0078
+TJ/RJ - 05/10/2026 - 15:46:50 - 1ª Instância - Distribuído em 23/12/2021
+
+Dados da Serventia
+Comarca: Comarca de Búzios
+Vara: 2ª Vara
+Serventia: Cartório da 2ª Vara
+Endereço da Serventia: Irmãos Araújo, S/N , Centro, Armação dos Búzios
+
+Dados do Processo
+Competência: Criminal
+Assunto: Tráfico de Drogas e Condutas Afins (Art. 33 - Lei 11.343/06); Prisão em flagrante
+Classe: Ação Penal - Procedimento Ordinário
+Processo(s) no Tribunal de Justiça: 0029845-67.2026.8.19.0000
+Protocolo(s) no Tribunal de Justiça: 202600362305 - 04/05/2026
+Localização na Serventia: Aguardando Manifestação do Mp
+
+Dados dos Personagens
+Acusado: JULIO PEREIRA MARCOS (PRESO)
+Advogado(s):
+RJ163342 - VITOR VALE NOGUEIRA DA SILVA
+RJ203902 - GABRIEL ALVES GUIMARÃES
+
+Movimentação Processual Recente:
+
+Tipo do Movimento: Envio de Documento Eletrônico
+Data da remessa: 05/10/2026
+Localização na Serventia: Aguardando Manifestação do Mp
+Descrição: Remessa eletrônica dos autos com vista ao Ministério Público para manifestação sobre os pedidos de revogação de prisão preventiva e relaxamento formulados pela defesa.
+
+Tipo do Movimento: Recebimento
+Data de Recebimento: 02/10/2026
+Descrição: Recebimento em cartório após despacho judicial.
+
+Tipo do Movimento: Conclusão ao Juiz
+Data da conclusão: 30/09/2026
+Juiz: CARLOS GUSTAVO FERNANDES DE MORAIS
+Despacho (Fls. 1343): "Ao MP sobre a defesa apresentada, bem como sobre os pedidos de relaxamento e revogação de prisão. Após, voltem-me, com prioridade."
+
+Tipo do Movimento: Juntada - Petição
+Data da juntada: 28/09/2026
+Descrição da Juntada: Documento eletrônico juntado de forma automática (Petição da Defesa Técnica).
+
+Tipo do Movimento: Juntada - Documento
+Data da juntada: 04/08/2026
+
+Tipo do Movimento: Recebimento
+Data de Recebimento: 01/08/2026
+
+Tipo do Movimento: Conclusão ao Juiz
+Data da conclusão: 30/07/2026
+Juiz: DANILO MARQUES BORGES

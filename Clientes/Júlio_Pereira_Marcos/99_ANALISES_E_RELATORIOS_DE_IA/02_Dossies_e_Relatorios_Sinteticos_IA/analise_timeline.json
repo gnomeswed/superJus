@@ -1,0 +1,12 @@
+{
+  "summary": "Heuristic Resumo dos Fatos: ",
+  "timeline": [
+    {
+      "date": "sem_data",
+      "event": "Ingestão",
+      "description": "Documento importado."
+    }
+  ],
+  "contradictions": [],
+  "judge": "Juiz Heurístico"
+}

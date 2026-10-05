@@ -1,0 +1,45 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #134
+DATA: 26/03/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 41
+DESCRIÇÃO: Certifico que deixe de expedir os mandados de intimação das testemunhas de defesa , eis que não há endereço declinado .
+
+Vista à DP .
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:26/03/2025
+  Descrição:Certifico que deixe de expedir os mandados de intimação das testemunhas de defesa , eis que não há endereço declinado .
+
+Vista à DP .  
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 41,
+  "dtAlt": "26/03/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "26/03/2025",
+  "descricao": "Certifico que deixe de expedir os mandados de intimação das testemunhas de defesa , eis que não há endereço declinado .\r\n\r\nVista à DP .  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "26/03/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que deixe de expedir os mandados de intimação das testemunhas de defesa , eis que não há endereço declinado .\r\n\r\nVista à DP .  "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "26/03/2025",
+  "indPublicado": "não"
+}

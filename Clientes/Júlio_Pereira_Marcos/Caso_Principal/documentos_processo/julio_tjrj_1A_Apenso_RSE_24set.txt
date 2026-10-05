@@ -1,0 +1,31 @@
+TJ/RJ - 24/09/2026 - 09:28:13 - Processo Nº 0001140-87.2024.8.19.0078
+Descrição: Recurso em Sentido Estrito / Apenso - Búzios
+Código Interno: 2024.078.001138-0
+Comarca: Comarca de Búzios
+Serventia: Cartório do Juizado Especial Adjunto Criminal
+Classe: Auto de Prisão em Flagrante
+Fase Atual: Mandado Junto Automaticamente
+Total de Movimentos: 20
+======================================================================
+ÚLTIMOS MOVIMENTOS PROCESSUAIS:
+
+[Data: 11/09/2026] - Ato Ordinatório Praticado
+   - Data: 11/09/2026; Descrição: Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.
+
+[Data: 11/09/2026] - Juntada de Mandado
+   - Data da juntada: 11/09/2026
+
+[Data: 10/09/2026] - Preliminar
+   - Data da audiência: 09/09/2026; Resultado: Adiada por ausência do autor do fato / vítima
+
+[Data: 10/09/2026] - Ato Ordinatório Praticado
+   - Data: 04/09/2026; Descrição: Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.
+
+[Data: 04/09/2026] - Juntada de Mandado
+   - Data da juntada: 04/09/2026
+
+[Data: 01/09/2026] - Envio de Documento Eletrônico
+   - Data da remessa: 01/09/2026; Nome da Central Destinatária: ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL.; Data de Recebimento pelo OJA: 03/09/2026; Data de Devolução pelo OJA: 03/09/2026
+
+[Data: 22/07/2026] - Conclusão ao Juiz
+   - Data de Recebimento: 22/07/2026; Data da conclusão: 22/07/2026; Juiz: DANILO MARQUES BORGES

@@ -1,0 +1,316 @@
+Bem vindo ao PJe · Processo Judicial Eletrônico
+Exibir navegação
+Processo Judicial Eletrônico
+Entrar
+Formas de acesso
+Consulta processual
+Push
+Pré-requisitos
+Manuais
+Fale conosco
+Fale conosco
+Informações Fale Conosco 1º grau
+Processo Judicial Eletrônico
+Poder Judiciário do Estado do Rio de Janeiro
+P4zBKU03CADEoKjnlEJ30DnQCQ8RyOwC
+Modo de assinatura
+Java Applet
+PJeOffice
+Saiba como obter o certificado digital
+CPF | CNPJ
+Senha
+Nova Senha
+Confirmação
+Solicitar nova senha
+Versao
+2.2.0.5
+- Atualizado em
+03/09/2026 - 18:45
+Pré-requisitos
+O
+PJe
+é compatível com os principais sistemas operacionais utilizados atualmente.
+Para acessar o
+PJe
+é necessário possuir os
+						seguintes itens:
+Navegador de Internet compatível
+Seu navegador de Internet não foi homologado para o uso do PJe. Recomendamos que utilize o
+Mozilla Firefox
+Verificando se as popup's estão habilitadas
+Popup's habilitadas
+Popup's desabilitadas em seu navegador de internet. No navegador Firefox, verifique em menu opções/conteúdo
+Java e plugins instalados
+Verifique se o plugin java está habilitado em seu navegador de internet (menu complementos/plugins).
+Caso não esteja instalado,
+clique aqui e baixe a versão atualizada
+Senão o seu navegador de internet não acessa o Certificado Digital. Recomendamos utilizar o
+Mozilla Firefox
+. O seu navegador de internet acessará o PJe apenas por login e senha (há restrições ao utilizar este tipo de acesso)
+PJeOffice
+O PJeOffice está indisponível ou não instalado
+1 -
+Para instalar o PJeOffice,
+clique aqui
+.
+2 - Para utilizar o Java Applet,
+clique aqui
+.
+Verificando o aplicativo...
+Formas de acesso
+Acesso com certificado digital
+Para se cadastrar no
+PJe
+é necessário ter um
+certificado digital
+válido, do tipo A3, 
+						que pertença à cadeia ICP-Brasil, para mais informações acesse o link
+Saiba como obter o certificado digital
+.
+Procedimentos para se cadastrar no PJe
+1- Insira o seu
+certificado digital
+em seu computador.
+2- Na página de login do PJe, clique no botão
+Certificado digital
+.
+3- Insira a
+senha do seu certificado digital
+.
+4- Confirme as suas informações pessoais no
+formulário
+apresentado.
+5- Assine o
+Termo de Compromisso
+.
+Após seguir este procedimento, o seu cadastro estará concluído.
+Para acessar o sistema, clique no botão
+Certificado digital
+na tela de login do PJe.
+Acesso com login e senha para quem já possui certificado digital
+Primeiramente, é necessário realizar o cadastro utilizando o certificado digital.
+Para acessar o sistema, clique no link "Solicitar nova senha" na tela de login do PJe, informe o CPF/CNPJ (apenas números), o e-mail cadastrado no sistema e clique no botão "Solicitar".
+O sistema encaminhará para o e-mail informado as instruções de cadastro de uma nova senha.
+Acesso para quem não possui o certificado digital
+Para quem que não possui certificado digital é necessário dirigir-se pessoalmente a um posto de atendimento do Tribunal levando os seguintes documentos: uma cópia do CPF, do RG (ou da OAB no caso de advogado) e um comprovante de residência.
+Após o cadastro, o sistema encaminhará para o e-mail informado as instruções de cadastro de uma nova senha.
+Para mais informações sobre como acessar o PJe, acesse a wiki em
+Acesso ao PJe
+.
+Manuais
+Acesse os guias rápidos para utilização do PJe, de acordo com o seu perfil de usuário, pelos links abaixo
+Advogados
+http://www.pje.jus.br/wiki/index.php/Manual_do_Advogado
+Tribunais, varas e outros órgãos
+http://www.pje.jus.br/wiki/index.php/Manual_dos_Representantes
+Pessoas físicas não servidores e pessoas jurídicas
+http://www.pje.jus.br/wiki/index.php/Manual_do_Usuario_sem_representacao
+Mais informações podem ser encontradas em
+http://www.cnj.jus.br/wikipje/index.php
+Aguarde a inicialização do certificado digital.
+Versao
+2.2.0.5
+- Atualizado em
+03/09/2026 - 18:45
+Solicitar nova senha
+CPF / CNPJ
+Email
+Primeiro acesso
+O
+PJe
+permite o
+acesso
+com
+Certificado Digital
+e também através de
+login e senha
+.
+Para acessar o sistema utilizando login e senha (há restrições
+									ao utilizar este tipo de acesso), por favor veja o
+Manual de configuração da utilização do PJe sem certificado digital
+em nossa
+wiki
+.
+Certificado Digital
+O
+certificado digital
+é um dispositivo
+									criptografico que armazena suas chaves públicas e privadas, ou
+									seja, a sua
+assinatura digital
+. Esse
+									dispositivo pode ser um
+cartão inteligente (smartcard)
+ou um
+token
+criptográfico.
+Quando utilizado um
+cartão inteligente
+, é
+									necessário que o usuário disponha de uma
+leitora de smartcard devidamente instalada
+. Os aplicativos necessários
+									à utilização desses dispositivos devem ser fornecidos pela
+									entidade onde foi adquirido o certificado digital.
+Certificado ICP-Brasil
+a assinatura de
+									documentos no PJe somente pode ser feita utilizando
+									certificados digitais do tipo A3, que pertence à cadeia
+									ICP-Brasil. A cadeia de certificação deve ser instalada no
+									computador do usuário, o que pode ser feito seguindo as
+									instruções do
+repositório das cadeias de certificação
+do Instituto Nacional de
+									Tecnologia da Informação.
+Você pode utilizar o botão de
+Pré-requisitos
+,
+									que realizará um teste em seu computador, analisando os
+									requisitos mínimos para se ter acesso ao PJe, inclusive a
+									verificação de seu certificado digital.
+Outros testes podem ser feitos no sítio de atendimento do
+									contribuinte da
+Receita Federal do Brasil
+(
+e-CAC
+) ou
+									utilizando o programa responsável pela administração do
+									certificado no seu computador.
+Em caso de problemas nos testes, será necessário entrar
+									em contato com seu fornecedor de certificado digital ou
+									consultar um técnico especializado para configurar corretamente
+									seu computador.
+Eis alguns sites com dicas para instalação e configuração
+									da leitora de certificados e de tokens criptográficos:
+Certisign
+Autoridade Certificadora Brasileira de Registros
+Receita Federal do Brasil
+Instale os drivers da leitora de cartão inteligente ou do token criptográfico.
+Instale a cadeia de certificação da
+ICP-Brasil
+Instale o navegador
+Mozilla Firefox
+Instale ou atualize o
+Java
+Teste o uso de seu certificado digital no programa de
+										gerenciamento do cartão ou use a
+Verificação de pré-requisitos
+Este
+vídeo
+orienta o usuário sobre como proceder com relação à
+										advertência de segurança (site não confiável) emitida pelo
+										browser.
+Existem duas formar de acesso ao
+PJe
+, com
+									características diferentes, dependendo das suas necessidades.
+O
+Push
+, permite apenas o recebimento de email,
+									informando sobre as movimentações dos seus processos.
+O acesso ao
+PJe
+pela tela de login com
+									certificado digital é a principal forma de acesso e permite,
+									dentre outras coisas (dependendo do seu perfil de acesso),
+									criar novos processos, inserir e abrir documentos em processos,
+									responder intimações, receber e-mails informando sobre as
+									movimentações dos seus processos, etc.
+Como me cadastrar no Push?
+Para se cadastrar no
+Push
+é necessário que o
+									usuário
+não seja cadastrado no sistema
+com
+									certificado digital ou com Usuário e Senha, pois o cadastro
+									diretamente no PJe impede o cadastro no Push.
+Caso você seja cadastrado no PJe com certificado digital
+									ou Usuário e Senha e queira acompanhar as movimentações,
+									acesse
+Menu Principal
+Processo
+Outras ações
+Incluir no PUSH
+Procedimentos para se cadastrar no Push
+Clique no link "Push", na tela inicial de login do PJe
+Clique no link "Ainda não é cadastrado?", na tela do
+										Push
+Insira o seu CPF, ou o CNPJ, e seu email (deve ser um
+										e-mail válido, pois será onde você receberá o email de
+										confirmação com o link para confirmar o cadastro)
+Clique em "
+Confirmar
+"
+Entre no email informado e abra o email enviado pelo
+										Push e clique no link de confirmaçao ou copie e cole o link na
+										barra de endereço do seu navegador
+Preencha os seus dados pessoais e clique em "
+Gravar
+"
+Como me cadastrar no PJe?
+Com certificado digital
+Para se cadastrar no PJe é necessário somente um
+certificado
+											digital
+válido, do tipo A3, que pertença à cadeia ICP-Brasil
+										(para mais explicações sobre os requisitos para acessar com
+										certificado digital.
+Procedimentos para se cadastrar
+Insira o seu
+certificado digital
+em
+											seu computador
+Na página do PJe, clique no botão
+"Certificado Digital"
+Insira a
+senha do seu certificado digital
+Confirme as suas informações pessoais no formulário apresentado
+Assine o
+"Termo de Compromisso"
+.
+											Após seguir este procedimento, o seu cadastro estará
+											terminado!
+Para acessar o sistema, clique novamente no botão
+"Certificado Digital"
+, na tela de login do PJe
+Com login e senha
+Se você possui um certificado digital
+Insira o seu
+certificado digital
+em seu computador
+Na página do PJe, clique no botão "
+Certificado Digital
+"
+Insira a senha do seu certificado digital
+Confirme as suas informações pessoais no formulário apresentado
+Assine o "Termo de Compromisso"
+Na tela inicial de login do PJe, clique no botão
+"Solicitar nova senha"
+Informe o CPF/CNPJ e o e-mail cadastrado no PJe
+Clique no botão
+"Solicitar"
+Entre no e-mail informado e procure o e-mail enviado
+											pelo PJe. Nele haverá um link. Clique nele ou copie e cole o
+											link na barra de endereço do seu navegador
+Siga as instruções contidas no e-mail para o cadastro da sua senha
+Se você não possui certificado digital, por favor
+										entre em contato com posto de atendimento do tribunal e
+										obtenha as informações necessárias.
+Informações Fale Conosco 1º grau
+Fechar
+De que forma você gostaria de realizar assinatura digital e autenticação?
+Modo utilizado atualmente no PJe, precisa ser instalado o Java no computador.
+Clique aqui
+para instalar o PJeOffice.
+Já instalado em sua máquina.
+Verificando ambiente...
+Fechar
+Assinatura digital e autenticação utilizando PJeOffice
+Clique aqui
+para instalar o PJeOffice.
+Já instalado em sua máquina.
+Verificando ambiente...
+PJeOffice Indisponível
+O aplicativo PJeOffice não está disponível!
+Por favor aguarde

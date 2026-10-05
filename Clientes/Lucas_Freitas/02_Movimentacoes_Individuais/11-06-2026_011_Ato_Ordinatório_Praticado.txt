@@ -1,0 +1,41 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #11
+DATA: 11/06/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 162
+DESCRIÇÃO: Certifico que nesta data exclui os patronos de defesa do réu Ronny e cadastrei a DPGE.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:11/06/2026
+  Descrição:Certifico que nesta data exclui os patronos de defesa do réu Ronny e cadastrei a DPGE. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 162,
+  "dtAlt": "11/06/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "11/06/2026",
+  "descricao": "Certifico que nesta data exclui os patronos de defesa do réu Ronny e cadastrei a DPGE. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "11/06/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que nesta data exclui os patronos de defesa do réu Ronny e cadastrei a DPGE. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "11/06/2026",
+  "indPublicado": "não"
+}

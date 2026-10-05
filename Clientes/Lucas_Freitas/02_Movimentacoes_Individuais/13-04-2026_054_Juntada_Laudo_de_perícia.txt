@@ -1,0 +1,34 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #54
+DATA: 13/04/2026
+TIPO: Juntada - Laudo de perícia
+ORDEM: 120
+
+SUB-MOVIMENTO: Juntada - Laudo de perícia
+  Data da juntada:13/04/2026
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 120,
+  "dtAlt": "13/04/2026",
+  "descrMov": "Juntada - Laudo de perícia",
+  "dtMovimento": "13/04/2026",
+  "descricao": " ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - Laudo de perícia",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "13/04/2026"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "13/04/2026"
+}

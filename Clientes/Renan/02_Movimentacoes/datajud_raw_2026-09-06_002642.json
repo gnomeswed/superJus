@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "TJRJ_G1_08212481720258190031",
+    "tribunal": "TJRJ",
+    "grau": "G1",
+    "numeroProcesso": "08212481720258190031",
+    "dataAjuizamento": "20251130195947",
+    "nivelSigilo": 0,
+    "orgaoJulgador": {
+      "codigo": 16444,
+      "nome": "MARICA VARA CRIMINAL",
+      "codigoMunicipioIBGE": 3302700
+    },
+    "classe": {
+      "codigo": 283,
+      "nome": "Ação Penal - Procedimento Ordinário"
+    },
+    "sistema": {
+      "codigo": 1,
+      "nome": "PJe"
+    },
+    "formato": {
+      "codigo": 1,
+      "nome": "Eletrônico"
+    },
+    "dataHoraUltimaAtualizacao": "2026-08-21T14:04:29.278000Z",
+    "@timestamp": "2026-08-21T14:04:29.278000Z",
+    "movimentos": [
+      {
+        "codigo": 26,
+        "dataHora": "2025-11-30T19:59:47.000Z",
+        "nome": "Distribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 2,
+            "nome": "sorteio"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-11-30T19:59:51.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-11-30T19:59:52.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-11-30T19:59:52.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 36,
+        "dataHora": "2025-11-30T19:59:53.000Z",
+        "nome": "Redistribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 17,
+            "descricao": "motivo_da_redistribuicao",
+            "valor": 83,
+            "nome": "incompetência"
+          },
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 1,
+            "nome": "competência exclusiva"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-01T13:44:11.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-01T13:45:52.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2025-12-01T18:41:09.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 9,
+            "nome": "designada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2025-12-01T18:41:58.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 9,
+            "nome": "designada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-02T10:29:33.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2025-12-02T16:32:46.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-02T18:10:31.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2025-12-02T18:10:31.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 13,
+            "nome": "realizada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-02T18:12:29.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-02T18:18:36.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-02T18:22:37.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2025-12-02T18:22:38.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 13,
+            "nome": "realizada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-02T18:23:00.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-02T18:23:01.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-02T18:38:31.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-02T18:38:32.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-02T22:00:45.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 36,
+        "dataHora": "2025-12-02T22:00:59.000Z",
+        "nome": "Redistribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 1,
+            "nome": "competência exclusiva"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-02T22:00:59.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2025-12-06T15:36:28.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-06T17:26:54.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 36,
+        "dataHora": "2025-12-06T17:27:04.000Z",
+        "nome": "Redistribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 3,
+            "nome": "prevenção"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2025-12-09T18:54:18.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2025-12-10T19:28:07.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 391,
+        "dataHora": "2025-12-11T21:10:24.000Z",
+        "nome": "Denúncia",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-15T22:26:31.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-15T22:29:46.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-15T22:31:47.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-16T17:17:00.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2025-12-18T13:41:43.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2025-12-24T18:22:14.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2025-12-24T18:30:06.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-01-07T16:38:11.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-01-15T19:40:23.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-01-27T16:53:05.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-01-31T04:54:56.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-01-31T04:54:57.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-02-06T04:12:31.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-02-06T04:12:31.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-02-09T13:12:18.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-05T20:37:42.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-03-05T23:33:54.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-03-06T18:35:26.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 12291,
+        "dataHora": "2026-03-13T19:55:43.000Z",
+        "nome": "Movimentação processual",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-13T19:55:43.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-03-13T19:56:40.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 9,
+            "nome": "designada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-30T14:55:11.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-31T19:00:23.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-31T19:01:10.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-31T19:08:27.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-31T19:15:56.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-03-31T19:20:24.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-31T19:58:37.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-08T15:22:32.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-09T18:59:11.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-04-19T03:33:18.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-04-28T15:50:48.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-04-28T18:57:33.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 10,
+            "nome": "redesignada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-04-29T17:21:59.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-04-29T17:23:13.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-04-30T05:40:29.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-04T20:15:04.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-04T20:16:01.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-05-04T20:17:46.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-04T20:26:45.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-05-05T01:32:01.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-05-05T01:34:00.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-05-05T17:55:49.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-05-06T12:26:13.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-05-08T17:56:53.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-05-08T18:01:24.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-05-13T05:09:35.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-05-14T20:03:36.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-05-19T02:21:04.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-05-19T02:21:04.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 13,
+            "nome": "realizada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-05-19T02:21:05.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-01T17:22:39.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-01T17:40:01.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-09T17:17:25.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-06-16T18:24:33.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-03T17:37:58.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-08-04T18:09:32.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-08-06T22:18:01.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-08-06T22:20:46.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-12T14:21:00.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-12T14:32:59.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-08-13T20:43:45.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-08-13T20:43:45.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 12140,
+        "dataHora": "2025-12-02T18:10:31.000Z",
+        "nome": "Prisão em Flagrante em Prisão Preventiva",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 12140,
+        "dataHora": "2025-12-02T18:22:38.000Z",
+        "nome": "Prisão em Flagrante em Prisão Preventiva",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 12265,
+        "dataHora": "2025-12-02T22:00:59.000Z",
+        "nome": "Expedida/certificada",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 14738,
+        "dataHora": "2025-12-15T22:21:11.000Z",
+        "nome": "Retificação de Classe Processual",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2025-12-18T19:20:08.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-03-06T18:35:10.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 15032,
+        "dataHora": "2026-03-13T19:02:43.000Z",
+        "nome": "Manutenção da Prisão Preventiva",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11010,
+        "dataHora": "2026-04-28T20:27:07.000Z",
+        "nome": "Mero expediente",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-05-08T18:01:09.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11010,
+        "dataHora": "2026-05-11T18:02:23.000Z",
+        "nome": "Mero expediente",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11010,
+        "dataHora": "2026-05-19T02:21:05.000Z",
+        "nome": "Mero expediente",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-06-09T17:25:46.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 219,
+        "dataHora": "2026-07-03T14:16:51.000Z",
+        "nome": "Procedência",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 12270,
+        "dataHora": "2026-08-12T14:30:22.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "16444",
+          "nome": "MARICA VARA CRIMINAL"
+        }
+      }
+    ],
+    "assuntos": [
+      {
+        "codigo": 3417,
+        "nome": "Furto Qualificado "
+      },
+      {
+        "codigo": 7929,
+        "nome": "Prisão em flagrante"
+      }
+    ]
+  }
+]

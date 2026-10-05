@@ -1,0 +1,252 @@
+{
+  "id": "STJ_SUP_03112101020263000000",
+  "tribunal": "STJ",
+  "grau": "SUP",
+  "numeroProcesso": "03112101020263000000",
+  "dataAjuizamento": "20260724000000",
+  "nivelSigilo": 0,
+  "orgaoJulgador": {
+    "codigo": 76770,
+    "nome": "GABINETE DO MINISTRO OG FERNANDES",
+    "codigoMunicipioIBGE": 5300108
+  },
+  "classe": {
+    "codigo": 1720,
+    "nome": "Habeas Corpus"
+  },
+  "sistema": {
+    "codigo": -1,
+    "nome": "Inválido"
+  },
+  "formato": {
+    "codigo": 1,
+    "nome": "Eletrônico"
+  },
+  "dataHoraUltimaAtualizacao": "2026-08-18T09:00:47.046000Z",
+  "@timestamp": "2026-08-18T09:00:47.046000Z",
+  "movimentos": [
+    {
+      "codigo": 26,
+      "dataHora": "2026-07-27T14:00:10.000Z",
+      "nome": "Distribuição",
+      "complementosTabelados": [
+        {
+          "codigo": 2,
+          "descricao": "tipo_de_distribuicao_redistribuicao",
+          "valor": 2,
+          "nome": "sorteio"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2026-07-27T14:20:20.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-07-29T17:57:21.000Z",
+      "nome": "Expedição de documento",
+      "complementosTabelados": [
+        {
+          "codigo": 4,
+          "descricao": "tipo_de_documento",
+          "valor": 79,
+          "nome": "Ofício"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-07-29T17:57:21.000Z",
+      "nome": "Expedição de documento",
+      "complementosTabelados": [
+        {
+          "codigo": 4,
+          "descricao": "tipo_de_documento",
+          "valor": 79,
+          "nome": "Ofício"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2026-07-31T13:01:01.000Z",
+      "nome": "Petição",
+      "complementosTabelados": [
+        {
+          "codigo": 19,
+          "descricao": "tipo_de_peticao",
+          "valor": 57,
+          "nome": "Petição (outras)"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2026-08-04T14:31:00.000Z",
+      "nome": "Petição",
+      "complementosTabelados": [
+        {
+          "codigo": 19,
+          "descricao": "tipo_de_peticao",
+          "valor": 57,
+          "nome": "Petição (outras)"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2026-08-13T17:21:06.000Z",
+      "nome": "Petição",
+      "complementosTabelados": [
+        {
+          "codigo": 19,
+          "descricao": "tipo_de_peticao",
+          "valor": 122,
+          "nome": "Parecer de Mérito (MP)"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2026-08-13T17:45:57.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 792,
+      "dataHora": "2026-07-29T10:50:03.000Z",
+      "nome": "Liminar",
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 132,
+      "dataHora": "2026-08-13T17:35:00.000Z",
+      "nome": "Recebimento",
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 118,
+      "dataHora": "2026-07-24T18:03:03.000Z",
+      "nome": "Protocolo de Petição",
+      "orgaoJulgador": {
+        "codigo": "33544",
+        "nome": "SECRETARIA JUDICIÃRIA - SJD"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2026-07-29T10:50:03.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 1061,
+      "dataHora": "2026-07-30T01:00:59.000Z",
+      "nome": "Disponibilização no Diário da Justiça Eletrônico",
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 92,
+      "dataHora": "2026-07-31T03:01:12.000Z",
+      "nome": "Publicação",
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 118,
+      "dataHora": "2026-07-31T12:49:21.000Z",
+      "nome": "Protocolo de Petição",
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 118,
+      "dataHora": "2026-08-04T14:11:08.000Z",
+      "nome": "Protocolo de Petição",
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    },
+    {
+      "codigo": 118,
+      "dataHora": "2026-08-13T17:08:50.000Z",
+      "nome": "Protocolo de Petição",
+      "orgaoJulgador": {
+        "codigo": "76770",
+        "nome": "GABINETE DO MINISTRO OG FERNANDES"
+      }
+    }
+  ],
+  "assuntos": [
+    {
+      "codigo": 3608,
+      "nome": "Tráfico de Drogas e Condutas Afins"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "processo": "0821248-17.2025.8.19.0031",
+  "tentativas": [
+    {
+      "metodo": "URL https://pje2.tjrj.jus.br/pje/login.seam",
+      "status": null,
+      "final": null
+    },
+    {
+      "metodo": "URL https://pje2.tjrj.jus.br/pje/",
+      "status": null,
+      "final": null
+    },
+    {
+      "metodo": "URL https://consultapje.tjrj.jus.br/",
+      "status": null,
+      "final": null
+    },
+    {
+      "metodo": "URL https://www.pje.tjrj.jus.br/",
+      "status": null,
+      "final": null
+    },
+    {
+      "metodo": "URL https://tj-rj.pje.jus.br/",
+      "status": null,
+      "final": null
+    },
+    {
+      "metodo": "URL https://pje.trf2.jus.br/",
+      "status": 500,
+      "final": "https://pje.trf2.jus.br/"
+    },
+    {
+      "metodo": "DataJud cDZHYzlSd0drRzR0eHBp",
+      "status": 401,
+      "body": "{\"error\":{\"root_cause\":[{\"type\":\"security_exception\",\"reason\":\"missing authentication credentials for REST request [/api_publica_tjrj/_search]\",\"header\":{\"WWW-Authenticate\":[\"Basic realm=\\\"security\\\" "
+    },
+    {
+      "metodo": "DataJud APIKey cDZHYzlSd0drR",
+      "status": 401,
+      "body": "{\"error\":{\"root_cause\":[{\"type\":\"security_exception\",\"reason\":\"unable to authenticate with provided credentials and anonymous access is not allowed for this request\",\"additional_unsuccessful_credentia"
+    },
+    {
+      "metodo": "DataJud Bearer cDZHYzlSd0drR",
+      "status": 401,
+      "body": "{\"error\":{\"root_cause\":[{\"type\":\"security_exception\",\"reason\":\"unable to authenticate with provided credentials and anonymous access is not allowed for this request\",\"additional_unsuccessful_credentia"
+    },
+    {
+      "metodo": "DataJud Basic cDZHYzlSd0drRz",
+      "status": 401,
+      "body": "{\"error\":{\"root_cause\":[{\"type\":\"security_exception\",\"reason\":\"invalid basic authentication header value\",\"header\":{\"WWW-Authenticate\":[\"Basic realm=\\\"security\\\" charset=\\\"UTF-8\\\"\",\"Bearer realm=\\\"sec"
+    },
+    {
+      "metodo": "Bing search",
+      "total_links": 20,
+      "relevantes": 0,
+      "samples": []
+    }
+  ]
+}

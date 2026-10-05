@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  @page {
+    size: A4;
+    margin: 18mm 15mm 18mm 15mm;
+    @bottom-right {
+      content: "Página " counter(page);
+      font-family: Arial, sans-serif;
+      font-size: 9pt;
+      color: #718096;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #2d3748;
+    line-height: 1.5;
+    font-size: 10.5pt;
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    border-bottom: 2px solid #3182ce;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+  }
+  .header-tag {
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #2b6cb0;
+    font-weight: 700;
+  }
+  .header h1 {
+    font-size: 18pt;
+    color: #1a365d;
+    margin: 4px 0 6px 0;
+    font-weight: 800;
+  }
+  .header-meta {
+    font-size: 9pt;
+    color: #4a5568;
+  }
+  .highlight-card {
+    background-color: #ebf8ff;
+    border-left: 4px solid #3182ce;
+    border-radius: 6px;
+    padding: 14px 16px;
+    margin-bottom: 20px;
+  }
+  .highlight-title {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #2b6cb0;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .highlight-p {
+    margin: 0;
+    font-size: 10pt;
+    color: #2d3748;
+  }
+  .badge-grid {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .badge-card {
+    flex: 1;
+    background: #f7fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 12px;
+    text-align: center;
+  }
+  .badge-label {
+    font-size: 8pt;
+    text-transform: uppercase;
+    color: #718096;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+  .badge-value {
+    font-size: 12pt;
+    font-weight: 800;
+    color: #2d3748;
+  }
+  .badge-value.blue { color: #2b6cb0; }
+  .badge-value.green { color: #276749; }
+  .badge-value.orange { color: #c05621; }
+
+  .qa-section {
+    margin-bottom: 22px;
+  }
+  .qa-box {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+  }
+  .qa-question {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #1a365d;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: baseline;
+  }
+  .qa-question::before {
+    content: "📌 ";
+    font-size: 11pt;
+  }
+  .qa-answer {
+    font-size: 10pt;
+    color: #4a5568;
+    margin: 0;
+  }
+  .qa-answer strong {
+    color: #2d3748;
+  }
+
+  .alert-box {
+    background-color: #fffaf0;
+    border-left: 4px solid #dd6b20;
+    border-radius: 6px;
+    padding: 14px 16px;
+    margin-bottom: 20px;
+  }
+  .alert-title {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #c05621;
+    margin-bottom: 6px;
+  }
+  .alert-box p {
+    margin: 0 0 6px 0;
+    font-size: 9.5pt;
+    color: #744210;
+  }
+  .alert-box p:last-child { margin-bottom: 0; }
+
+  .steps-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  .steps-table th {
+    background: #edf2f7;
+    color: #4a5568;
+    text-align: left;
+    padding: 8px 10px;
+    font-size: 9pt;
+    border-bottom: 1px solid #cbd5e0;
+  }
+  .steps-table td {
+    padding: 8px 10px;
+    font-size: 9.5pt;
+    border-bottom: 1px solid #e2e8f0;
+    color: #2d3748;
+  }
+  .steps-table tr:last-child td { border-bottom: none; }
+  .status-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 8pt;
+    font-weight: 700;
+  }
+  .status-badge.done { background: #c6f6d5; color: #22543d; }
+  .status-badge.urgent { background: #feebc8; color: #7b341e; }
+  .status-badge.waiting { background: #e2e8f0; color: #4a5568; }
+
+  .footer {
+    margin-top: 25px;
+    border-top: 1px solid #e2e8f0;
+    padding-top: 10px;
+    font-size: 8.5pt;
+    color: #718096;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-tag">Informativo Jurídico Explicativo para a Família</div>
+  <h1>Entendendo a Sentença de Lucas Dias Oliveira</h1>
+  <div class="header-meta">
+    <strong>Processo:</strong> 0808595-36.2026.8.19.0002 &nbsp;|&nbsp; 
+    <strong>Vara:</strong> 4ª Vara Criminal de Niterói / RJ &nbsp;|&nbsp; 
+    <strong>Data da Sentença:</strong> 14/09/2026
+  </div>
+</div>
+
+<div class="highlight-card">
+  <div class="highlight-title">💡 Resumo Rápido em 30 Segundos</div>
+  <p class="highlight-p">
+    A juíza concluiu o julgamento de 1º grau e fixou a pena de Lucas no <strong>REGIME SEMIABERTO</strong> (ele <strong>não</strong> foi condenado ao regime fechado). Os advogados já recorreram no dia seguinte (15/09/2026). Agora, o direito mais urgente da família é exigir que ele <strong>não continue em presídio de regime fechado</strong>, podendo pleitear <strong>tornozeleira eletrônica ou prisão domiciliar</strong> com base na Súmula Vinculante 56 do Supremo Tribunal Federal (STF).
+  </p>
+</div>
+
+<div class="badge-grid">
+  <div class="badge-card">
+    <div class="badge-label">Regime Determinado</div>
+    <div class="badge-value green">SEMIABERTO</div>
+  </div>
+  <div class="badge-card">
+    <div class="badge-label">Pena Total</div>
+    <div class="badge-value blue">8 Anos</div>
+  </div>
+  <div class="badge-card">
+    <div class="badge-label">Tempo já Cumprido</div>
+    <div class="badge-value orange">~ 6 Meses (Abatidos)</div>
+  </div>
+  <div class="badge-card">
+    <div class="badge-label">Recurso de Apelação</div>
+    <div class="badge-value green">PROTOCOLADO</div>
+  </div>
+</div>
+
+<div class="qa-section">
+
+  <div class="qa-box">
+    <div class="qa-question">O que a juíza decidiu na sentença de ontem (14/09/2026)?</div>
+    <p class="qa-answer">
+      A magistrada entendeu que, pela função de apoio/batedor e pelas viagens anteriores, houve concurso nos crimes de tráfico (art. 33) e associação para o tráfico (art. 35). Somando as duas infrações, estabeleceu a pena em 8 anos. <strong>Contudo, reconheceu que Lucas é réu primário e possui bons antecedentes</strong>, motivo pelo qual concedeu expressamente o <strong>Regime Semiaberto</strong> e reduziu a pena com a atenuante da confissão espontânea.
+    </p>
+  </div>
+
+  <div class="qa-box">
+    <div class="qa-question">Por que ele não foi para casa imediatamente se o regime é Semiaberto?</div>
+    <p class="qa-answer">
+      A juíza manteve a prisão preventiva provisória enquanto o recurso corre, negando que recorram em liberdade plena. <strong>No entanto, a própria juíza mandou expedir a "Guia de Execução Provisória (CES)"</strong> para que a administração penitenciária e a vara de execuções transfiram Lucas para as condições próprias do regime semiaberto.
+    </p>
+  </div>
+
+  <div class="alert-box">
+    <div class="alert-title">🚨 O Ponto Central de Liberdade: Súmula Vinculante 56 do STF</div>
+    <p>
+      O Supremo Tribunal Federal tem uma regra obrigatória para todos os juízes do país: <strong>é expressamente proibido manter em presídio de regime fechado alguém que foi condenado ao regime semiaberto</strong>.
+    </p>
+    <p>
+      Como o Estado do Rio de Janeiro frequentemente não tem vagas imediatas e adequadas em colônias do semiaberto, a defesa pode e deve acionar o juiz ou ingressar com <strong>Habeas Corpus imediato no Tribunal de Justiça</strong> solicitando:
+    </p>
+    <p style="font-weight: bold; margin-top: 4px;">
+      👉 Concessão de Prisão Domiciliar com Monitoração Eletrônica (Tornozeleira) ou aplicação de medidas cautelares alternativas, até que haja vaga legal no semiaberto.
+    </p>
+  </div>
+
+  <div class="qa-box">
+    <div class="qa-question">O que os advogados de Lucas já fizeram?</div>
+    <p class="qa-answer">
+      Os advogados agiram com rapidez exemplar: a sentença saiu em 14/09 e, já no dia seguinte (<strong>15/09/2026 às 18:44:01</strong>), protocolaram nos autos eletrônicos a <strong>Petição de Apelação</strong>. Isso significa que a sentença não é definitiva e o caso será reexaminado pelos Desembargadores do Tribunal de Justiça do RJ, onde é possível pleitear a absolvição da associação e aplicação do redutor de tráfico privilegiado.
+    </p>
+  </div>
+
+</div>
+
+<div class="qa-box" style="margin-top: 10px;">
+  <div class="qa-question" style="margin-bottom: 6px;">Quais são os próximos passos práticos para a família?</div>
+  <table class="steps-table">
+    <thead>
+      <tr>
+        <th style="width: 25%;">Etapa</th>
+        <th style="width: 55%;">O que acontece</th>
+        <th style="width: 20%;">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1. Apelação</strong></td>
+        <td>Defesa apresentou o recurso para levar o caso para os Desembargadores do TJRJ.</td>
+        <td><span class="status-badge done">Protocolado</span></td>
+      </tr>
+      <tr>
+        <td><strong>2. Vaga Semiaberto / HC</strong></td>
+        <td>Cobrar cumprimento imediato da Súmula Vinculante 56 para retirar Lucas do regime fechado (pedido de tornozeleira/domiciliar).</td>
+        <td><span class="status-badge urgent">Ação Urgente</span></td>
+      </tr>
+      <tr>
+        <td><strong>3. Julgamento no TJRJ</strong></td>
+        <td>Tribunal de Justiça analisará as teses de defesa para diminuição da pena e regime aberto.</td>
+        <td><span class="status-badge waiting">Aguardando</span></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="footer">
+  Informativo elaborado com base nos autos eletrônicos do Processo nº 0808595-36.2026.8.19.0002 (PJe - TJRJ).<br>
+  Documento de apoio e orientação aos familiares. As decisões táticas cabem aos advogados constituídos nos autos.
+</div>
+
+</body>
+</html>

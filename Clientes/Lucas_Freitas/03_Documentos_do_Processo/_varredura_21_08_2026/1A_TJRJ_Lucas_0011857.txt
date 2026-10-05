@@ -1,0 +1,26 @@
+Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J.
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Tipo de numeração
+Selecione o tipo de numeração
+Antiga
+Única
+Número do processo *
+ .8.19. 
+ Pesquisar Limpar Filtros
+Resultado
+Código CNJ	Nome Comarca	Descrição Serventia	Classe	Assunto	último Movimento
+0011857-95.2024.8.19.0002
+(2024.002.011419-1)
+	Comarca de Niterói	Cartório da 3ª Vara Criminal	Ação Penal de Competência do Júri	Homicídio Qualificado (Art. 121, § 2º - CP);Homicídio Qualificado (Art. 121, § 2º - CP);Destruição, Subração Ou Ocultação de Cadáver (Art. 211 - Cp);Crime Ou Contravenção Contra Idoso (Art. 61, Lei 10.741/03).;Fato Atípico (Art. 29, Cp)	Remessa
+0011857-95.2024.8.19.0002
+(2026.050.14194)
+	Comarca da Capital	SEGUNDA CAMARA CRIMINAL	APELAÇÃO	Destruição / Subração / Ocultação de Cadáver / Crimes contra o sentimento religioso e contra o respeito aos mortos / DIREITO PENAL	
+1
+10

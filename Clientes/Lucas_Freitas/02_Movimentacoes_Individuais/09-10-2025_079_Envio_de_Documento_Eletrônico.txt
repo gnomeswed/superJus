@@ -1,0 +1,117 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #79
+DATA: 09/10/2025
+TIPO: Envio de Documento Eletrônico
+ORDEM: 95
+DATA REMESSA: 09/10/2025
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:09/10/2025
+  Nome da Central Destinatária:NITEROI CENTRAL CUMP DE MANDADOS
+  Data de Recebimento pelo OJA:19/10/2025
+  Data de Devolução pelo OJA:19/10/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 95,
+  "dtAlt": "09/10/2025",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "09/10/2025",
+  "intimados": [
+    {
+      "nomeIntimado": "NITEROI CENTRAL CUMP DE MANDADOS"
+    },
+    {
+      "nomeIntimado": "NITEROI CENTRAL CUMP DE MANDADOS"
+    },
+    {
+      "nomeIntimado": "NITEROI CENTRAL CUMP DE MANDADOS"
+    }
+  ],
+  "textosVinculadosProc": [
+    {
+      "descr": "Mandado de Intimação p/ Julgamento no Trib.do Júri.",
+      "numDoc": "1372/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "19/10/2025",
+      "dataDevolOJA": "19/10/2025",
+      "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+    },
+    {
+      "descr": "Mandado de Intimação p/ Julgamento no Trib.do Júri.",
+      "numDoc": "1373/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "18/10/2025",
+      "dataDevolOJA": "22/11/2025",
+      "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+    },
+    {
+      "descr": "Mandado de Intimação p/ Julgamento no Trib.do Júri.",
+      "numDoc": "1374/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "18/11/2025",
+      "dataDevolOJA": "18/11/2025",
+      "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "09/10/2025"
+        },
+        {
+          "codigo": "Nome da Central Destinatária: ",
+          "descricao": "NITEROI CENTRAL CUMP DE MANDADOS"
+        },
+        {
+          "codigo": "Data de Recebimento pelo OJA: ",
+          "descricao": "19/10/2025"
+        },
+        {
+          "codigo": "Data de Devolução pelo OJA: ",
+          "descricao": "19/10/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": [
+        {
+          "descr": "Mandado de Intimação p/ Julgamento no Trib.do Júri.",
+          "numDoc": "1372/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "19/10/2025",
+          "dataDevolOJA": "19/10/2025",
+          "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+        },
+        {
+          "descr": "Mandado de Intimação p/ Julgamento no Trib.do Júri.",
+          "numDoc": "1373/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "18/10/2025",
+          "dataDevolOJA": "22/11/2025",
+          "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+        },
+        {
+          "descr": "Mandado de Intimação p/ Julgamento no Trib.do Júri.",
+          "numDoc": "1374/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "18/11/2025",
+          "dataDevolOJA": "18/11/2025",
+          "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+        }
+      ],
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "09/10/2025"
+}

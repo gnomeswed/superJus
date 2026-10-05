@@ -1,0 +1,13 @@
+{
+  "processo": "0821248-17.2025.8.19.0031",
+  "fontes_tentadas": [
+    {
+      "fonte": "TJRJ",
+      "url": "https://www3.tjrj.jus.br/consultaprocessual/#/conspublica"
+    }
+  ],
+  "tjrj_codigo_interno": null,
+  "tjrj_body_inicial": "Por Número\nPor Nome\nPor OAB\nPor CPF/CNPJ\nPor Nome do Advogado\nPor Protocolo\nAguardando Sentença\nFalência/Recuperação Judicial\nTipo de numeração\nSelecione o tipo de numeração\nAntiga\nÚnica\nNúmero do processo *\n .8.19. \n Pesquisar Limpar Filtros\nMensagem Processo do PJe\n\nSrs. Usuários,\n\nO número 0821248-17.2025.8.19.0031 informado é um processo do PJe, para consultá-lo clique no botão Acessar PJe.\n\n\n\n Acessar PJe\n Fechar",
+  "djen_error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://comunica.pje.jus.br/consulta?siglaTribunal=TJRJ&meio=D\nCall log:\n  - navigating to \"https://comunica.pje.jus.br/consulta?siglaTribunal=TJRJ&meio=D\", waiting until \"load\"\n",
+  "pje_error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pje.tjrj.jus.br/pje/login.seam\nCall log:\n  - navigating to \"https://pje.tjrj.jus.br/pje/login.seam\", waiting until \"load\"\n"
+}

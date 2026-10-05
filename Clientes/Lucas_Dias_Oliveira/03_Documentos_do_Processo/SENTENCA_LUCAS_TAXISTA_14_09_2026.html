@@ -1,0 +1,889 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js csstransforms3d" style=""><head>
+		
+	
+	<title>Bem vindo ao PJe · Processo Judicial Eletrônico</title>
+	
+	
+	<script src="/pje/a4j/g/3_3_3.Final/org/ajax4jsf/framework.pack.js" type="text/javascript"></script><script src="/pje/a4j/g/3_3_3.Final/org/richfaces/ui.pack.js" type="text/javascript"></script><link class="component" href="/pje/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/basic_classes.xcss/DATB/eAELXT5DOhSIAQ!sA18_" rel="stylesheet" type="text/css"><link class="component" href="/pje/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/extended_classes.xcss/DATB/eAELXT5DOhSIAQ!sA18_" rel="stylesheet" type="text/css"><link class="component" href="/pje/a4j/s/3_3_3.Final/org/richfaces/skin.xcss/DATB/eAELXT5DOhSIAQ!sA18_" rel="stylesheet" type="text/css"><script id="org.ajax4jsf.queue_script" type="text/javascript">if (typeof A4J != 'undefined') { if (A4J.AJAX) { with (A4J.AJAX) {if (!EventQueue.getQueue('org.richfaces.queue.global')) { EventQueue.addQueue(new EventQueue('org.richfaces.queue.global',null,null)) };}}};</script><script type="text/javascript">window.RICH_FACES_EXTENDED_SKINNING_ON=true;</script><link class="user" href="/pje/stylesheet/estilos/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css"><link class="user" href="/pje/stylesheet/dropzone/dropzone.css" rel="stylesheet" type="text/css"><link class="user" href="/pje/stylesheet/estilos/richfaces/tema.css" rel="stylesheet" type="text/css"><link class="user" href="/pje/stylesheet/padrao.css" rel="stylesheet" type="text/css"><link class="user" href="/pje/stylesheet/autos-digitais.css" rel="stylesheet" type="text/css"><link class="user" href="/pje/stylesheet/login.css" rel="stylesheet" type="text/css"><script src="/pje/js/modernizr.custom.js" type="text/javascript"></script><script src="/pje/js/jquery-ui-1.8.1.min.custom.js" type="text/javascript"></script><script src="/pje/js/jquery-2.1.4.min.js" type="text/javascript"></script><script src="/pje/js/bootstrap/bootstrap.min.js" type="text/javascript"></script><script src="/pje/js/jquery.maskedinput.min.js" type="text/javascript"></script><script src="/pje/js/mousetrap/mousetrap.min.js" type="text/javascript"></script><script src="/pje/js/mousetrap/plugins/global-bind/mousetrap-global-bind.js" type="text/javascript"></script><script src="/pje/js/pje/menu.js" type="text/javascript"></script><script src="/pje/js/global.js" type="text/javascript"></script><script src="/pje/js/login.js?v=1" type="text/javascript"></script><script src="/pje/js/pje.js" type="text/javascript"></script><script src="/pje/js/pjeOffice.js" type="text/javascript"></script><script src="/pje/js/signerApplet.js" type="text/javascript"></script><link rel="apple-touch-icon" sizes="57x57" href="/pje/img/favicon/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/pje/img/favicon/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/pje/img/favicon/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/pje/img/favicon/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/pje/img/favicon/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/pje/img/favicon/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/pje/img/favicon/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/pje/img/favicon/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/pje/img/favicon/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="/pje/img/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/pje/img/favicon/favicon-194x194.png" sizes="194x194">
+	<link rel="icon" type="image/png" href="/pje/img/favicon/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/pje/img/favicon/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="/pje/img/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/pje/img/favicon/manifest.json">
+	<link rel="mask-icon" href="/pje/img/favicon/safari-pinned-tab.svg" color="#0078aa">
+	<link rel="stylesheet" href="/pje/stylesheet/estilos/font-awesome/v5.11.2/css/all.min.css">
+	<link rel="stylesheet" href="/pje/stylesheet/estilos/font-awesome/v5.11.2/css/v4-shims.min.css">
+	<meta name="msapplication-TileColor" content="#0078aa">
+	<meta name="msapplication-TileImage" content="/pje/img/favicon/mstile-144x144.png">
+	<meta name="theme-color" content="#0078AA">
+	
+				        
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="processo judicial, processo, audiências, sessão, peticionar, expedientes, magistrado, procurador, oficial de justiça, advogado, perito, retificar autuação, OAB">
+    <meta name="description" content="Processo Judicial Eletrônico - Acompanhe processos judiciais independentemente de tramitações">
+    <meta property="og:title" content="PJe - Processo Judicial Eletrônico">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="/pje">
+	<meta property="og:image" itemprop="image" content="/pje/img/pjeMini.png">
+	<meta property="og:site_name" content="PJe - Processo Judicial Eletrônico">
+	<meta property="og:description" content="Acompanhe processos judiciais independentemente de tramitações">
+	<meta property="og:locale" content="pt_BR">
+	
+	<meta name="Robots" content="INDEX,FOLLOW">
+    <meta name="RESOURCE-TYPE" content="DOCUMENT">
+    <meta name="DISTRIBUTION" content="GLOBAL">
+    <meta name="AUTHOR" content="CNJ">
+    <meta name="COPYRIGHT" content="Copyright (c) CNJ">
+    <meta name="language" content="pt-br">
+    <meta name="RATING" content="GENERAL">
+       <script type="text/javascript">
+       
+			function executarReCaptcha() {
+				if (false) {
+					grecaptcha.execute();
+					return false;
+				}
+				document.getElementById('login').submit();
+				return false;
+			}
+			
+			function executarReCaptchaKeycloak() {
+				document.getElementById('loginKeycloakForm').submit();
+				return false;
+			}			
+    	
+			function onSubmit(token) {
+				document.getElementById('login').submit();
+				return false;
+			}
+			(function(){
+				reducePolyfill();
+			})();
+    	</script>
+	</head>
+
+	<body class="pageBody pageLogin">
+<form id="j_id25" name="j_id25" method="post" action="/pje/loginOld.seam" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id25" value="j_id25">
+<script id="j_id25:j_id26" type="text/javascript">//<![CDATA[
+		updateToken=function(){A4J.AJAX.Submit('j_id25',null,{'similarityGroupingId':'j_id25:j_id26','parameters':{'j_id25:j_id26':'j_id25:j_id26','ajaxSingle':'j_id25:j_id26'} } )};
+		//]]></script>
+		<nav class="navbar navbar-default navbar-fixed-top navtop " role="navigation">
+			<div class="container-fluid ">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed " data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Exibir navegação</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<div class="navbar-brand">
+						<a class="logo"><img src="/pje/img/pje2-branco.png" alt="Processo Judicial Eletrônico"></a><span class="titulo">Processo Judicial Eletrônico</span>
+					</div>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse ">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href=".identificacao" class="anchor btnPreRequisitos" title="Entrar">Entrar</a></li>
+						<li><a href=".formas-de-acesso" class="anchor btnFormasAcesso" title="Formas de acesso">Formas de acesso</a></li>
+						<li><a href="https://tjrj.pje.jus.br/pje/ConsultaPublica/listView.seam" target="_blank">Consulta processual</a></li>
+						<li><a href="https://tjrj.pje.jus.br:443/pje/Push/loginPush.seam" target="_blank">Push</a></li>
+						<li><a href=".conteudo-pre-requisitos" class="anchor btnPreRequisitos" title="O que é necessário para acessar o PJe ?" onclick="testarPopup(resultadoPopup)">Pré-requisitos</a></li>
+						<li><a href=".conteudo-manuais" class="anchor btnManuais">Manuais</a></li>
+						<li><a href="#" data-target=".modal-contato" class="tip botao-contato" title="" data-toggle="modal" data-original-title="Fale conosco">Fale conosco</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id1" autocomplete="off">
+</form><div id="modalStatus" style="display: none;"><input autocomplete="off" id="modalStatusOpenedState" name="modalStatusOpenedState" type="hidden"><div class="rich-modalpanel ajax-loader" id="modalStatusContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="modalStatusDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="modalStatusFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="modalStatusCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="modalStatusShadowDiv" style=" opacity:0.0; filter:alpha(opacity=0);"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="modalStatusContentDiv"><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="modalStatusContentTable" style="height: 100%; width: 100%;"><tbody><tr style="height: 99%"><td class="rich-mpnl-body" valign="top"></td></tr></tbody></table></div><div class="rich-mpnl-resizer" id="modalStatusResizerN" style="width: 40px; height: 4px; cursor: n-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerE" style="height: 40px; width: 4px; cursor: e-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerS" style="width: 40px; height: 4px; cursor: s-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerW" style="height: 40px; width: 4px; cursor: w-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerNWU" style="width: 40px; height: 4px; cursor: nw-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerNEU" style="height: 40px; width: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerNEL" style="width: 40px; height: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerSEU" style="height: 40px; width: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerSEL" style="width: 40px; height: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerSWL" style="height: 40px; width: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerSWU" style="width: 40px; height: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="modalStatusResizerNWL" style="height: 40px; width: 4px; cursor: nw-resize;"></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="modalStatusCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="modalStatusLastHref"></button></div><script type="text/javascript">new ModalPanel('modalStatus',
+				{
+					width: -1,
+					height: -1,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: true,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div>
+	
+	<div class="modal fade modal-contato" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+			<div class="modal-header">
+				<a href="#" class="btn-fechar pull-right" data-dismiss="modal" aria-label="Fechar"><i class="icon-fechar"></i></a>
+				<h4 class="modal-title">Fale conosco</h4>
+			</div>
+			<div class="modal-body">Informações Fale Conosco 1º grau
+			</div>
+			</div>
+		</div>
+	</div>
+		
+		<div class="conteudo-login">
+			<div class="orgao">
+				<img src="img/brasaoRep.png" height="100" width="100" alt="Brasão da República">
+				<p class="nomeSistema">Processo Judicial Eletrônico</p>
+				<p class="subNomeSistema">Poder Judiciário do Estado do Rio de Janeiro</p>
+			</div>
+			<div class="login" id="divErroMsgLogin" style="display:none;">
+				<div class="msg-login">
+					<div id="mensagemErroLogin" class="alert alert-danger" role="alert"></div>
+				</div>
+			</div>
+			
+			<div class="login">
+				<div class="msg-login"><dl id="j_id37" class="rich-messages"><dt><span class="rich-messages-label">Você precisa estar logado para realizar esta operação.</span></dt><dt><span class="rich-messages-label">Por favor, identifique-se.</span></dt></dl>
+				</div><div id="j_id39">
+					<div class="identificacao">
+						<div class="dados">
+							<div class="acessar-certificado botoes">
+								<form><span id="tokenAssinatura" class="hidden">AxJkDmZ5umlo2Wpd4STRAKchJvtfmBtG</span>
+										
+									<a href="#" class="btn-link modoOperacao" onclick="mostrarMpModoOperacao()" style="visibility: visible;">
+										Modo de assinatura
+										<span class="modoOperacaoApplet hidden">Java Applet</span>
+										<span class="modoOperacaoPJeOffice" style="display: inline;">PJeOffice</span>
+									</a>
+									
+									<div class="btnModo"></div><input id="loginAplicacaoButton" type="submit" name="loginAplicacaoButton" value="Certificado Digital" onclick="autenticar(); return false;">
+									
+									<a id="obterCertificado" class="btn-link" href="https://www.gov.br/pt-br/servicos/obter-certificacao-digital" target="_blank" title="Saiba como obter o certificado digital">Saiba como obter o certificado digital</a>
+								</form>
+							</div>
+							
+							
+		
+							<div id="divLogin" class="formLogin">
+										<form method="post" action="/pje/logar.seam" id="login">
+											<div class="cpf"><input id="username" type="text" name="username" class="login-usuario text-upper" maxlength="14" onkeyup="apenasAlfanumerico(this)" placeholder="CPF / CNPJ"><label for="username">
+CPF | CNPJ</label>
+											</div>
+											
+				
+											<div class="senha"><input id="password" type="password" name="password" value="" placeholder="Senha"><label for="password">
+Senha</label>
+											</div>
+											
+											<div id="novaSenha" style="display: none"><label for="newPassword1">
+Nova Senha</label><input id="newPassword1" type="password" name="newPassword1" value=""><label for="newPassword2">
+Confirmação</label><input id="newPassword2" type="password" name="newPassword2" value="">
+											</div>
+											
+				
+											<div class="botoes"><input id="btnEntrar" type="submit" name="btnEntrar" value="Entrar" onclick="return executarReCaptcha();" class="btn btn btn-primary pull-right">
+												<a href="#" id="btnTrocarSenha" class="btn-link pull-left" onclick="Richfaces.showModalPanel('panelSolicitarSenha')">Solicitar nova senha</a>
+											</div>
+											
+										</form>
+							</div>
+							
+		
+						</div>
+						
+					</div></div>
+				
+				
+				
+				<div class="versaoSistema">
+					<div class="row">
+		 <span class="transform-none">Versao</span> 2.2.0.5 <span class="transform-none">- Atualizado em </span> 03/09/2026 - 18:45
+					</div>
+				</div>
+				
+				<div class="conteudos-links conteudo-pre-requisitos" style="display: none;">
+					<h4><a name="prerequisitos">Pré-requisitos</a></h4>
+					
+					<p>O <b>PJe</b> é compatível com os principais sistemas operacionais utilizados atualmente.</p>
+						
+					<p>
+						Para acessar o <strong>PJe</strong> é necessário possuir os
+						seguintes itens:
+					</p>
+	
+					<div id="panelAmbiente">
+						<div class="verificacaoAmbiente_navegador">
+							
+							<div class="testeNavegador_true"><img src="/pje/img/passed.png" alt="Navegador de Internet compatível - verde" title="Navegador de Internet compatível">
+								<p>Navegador de Internet compatível</p>
+							</div>
+	
+							
+							<div class="testeNavegador_false" style="display: none;"><img src="/pje/img/failed.png" alt="Seu navegador de Internet não foi homologado para o uso do PJe. Recomendamos que utilize o Mozilla Firefox" title="Seu navegador de Internet não foi homologado para o uso do PJe. Recomendamos que utilize o Mozilla Firefox">
+								<p>Seu navegador de Internet não foi homologado para o uso do PJe. Recomendamos que utilize o <strong><a class="btn-link" target="_blank" href="http://www.mozilla.org/pt-BR/firefox/new" title="Link para baixor o Mozilla Firefox atualizado">Mozilla Firefox</a></strong></p>
+							</div>
+						</div>
+						
+	
+						<div class="verificacaoAmbiente_popup">
+							
+							<div class="testePopup_load"><img src="/pje/img/loading.gif" alt="Verificando se as popup's estão habilitadas" title="Verificando se as popup's estão habilitadas">
+								<p>Verificando se as popup's estão habilitadas</p>
+							</div>
+	
+							
+							<div class="testePopup_true" style="display: none"><img src="/pje/img/passed.png" alt="Popup's habilitadas - verde" title="Popup's habilitadas">
+								<p>Popup's habilitadas</p>
+							</div>
+	
+							
+							<div class="testePopup_false" style="display: none"><img src="/pje/img/failed.png" alt="Popup's desabilitadas em seu navegador de internet. No navegador Firefox, verifique em menu opções/conteúdo" title="Popup's desabilitadas em seu navegador de internet. No navegador Firefox, verifique em menu opções/conteúdo">
+								<p>Popup's desabilitadas em seu navegador de internet. No navegador Firefox, verifique em menu opções/conteúdo</p>
+							</div>
+						</div>
+						
+	
+						<div class="modoOperacaoApplet verificacaoAmbiente_java hidden">
+							
+							<div class="testeJava_true"><img src="/pje/img/passed.png" alt="Java e plugins instalados - verde" title="Java e plugins instalados">
+								<p>Java e plugins instalados</p>
+							</div>
+	
+							
+							<div class="testeJava_false"><img src="/pje/img/failed.png" alt="Verifique se o plugin java está habilitado em seu navegador de internet." title="Verifique se o plugin java está habilitado em seu navegador de internet.">
+								<p>
+									Verifique se o plugin java está habilitado em seu navegador de internet (menu complementos/plugins).
+									<br>
+									Caso não esteja instalado, 
+										<a class="btn-link" href="http://www.java.com/pt_BR/download/" target="_blank" title="Link para baixar versão atualizada do java (abre link em outra aba)" alt="Link para baixar versão atualizada do java (abre link em outra aba)">
+										       <i class="fa fa-external-link" aria-hidden="true"></i>
+											   clique aqui e baixe a versão atualizada
+										</a>
+									<br>
+									Senão o seu navegador de internet não acessa o Certificado Digital. Recomendamos utilizar o <a class="btn-link" target="_blank" href="http://www.getfirefox.com">Mozilla Firefox</a>. O seu navegador de internet acessará o PJe apenas por login e senha (há restrições ao utilizar este tipo de acesso)
+								</p>
+							</div>
+						</div>
+						
+						
+						<div class="modoOperacaoPJeOffice verificacaoAmbiente_pjeOffice" style="display: block;">
+							
+							<div class="testePJeOffice_true" style="display: none;"><img src="/pje/img/passed.png" alt="Aplicativo de assinatura">
+								<p>PJeOffice</p>
+							</div>
+	
+							
+							<div class="testePJeOffice_false" style="display: block;"><img src="/pje/img/failed.png" alt="O PJeOffice está indisponível ou não instalado">
+								<p>O PJeOffice está indisponível ou não instalado
+									<br>						
+									<span class="modoOperacaoAppletDisponivel" style="visibility: hidden;">1 - </span><span>Para instalar o PJeOffice, <a class="btn-link" href="http://www.pje.jus.br/wiki/index.php/PJeOffice" target="_blank">clique aqui</a>.</span>
+									<br>
+									<span class="modoOperacaoAppletDisponivel" style="visibility: hidden;">2 - Para utilizar o Java Applet, <a class="btn-link" target="_blank" href="javascript: fecharMpPreRequisitos(); utilizarAppletRecarregarTela()">clique aqui</a>.</span>
+								</p>
+							</div>
+							
+							<div class="testePJeOffice_load" style="display: none;"><img src="/pje/img/loading.gif" alt="Verificando o aplicativo..." class="ml-30">
+								<p>Verificando o aplicativo...</p>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				
+				<div class="conteudos-links formas-de-acesso" style="display: none;">
+					<h4><a name="primeiro-acesso">Formas de acesso</a></h4>
+					<h3 class="acesso-com-certificado-digital">Acesso com certificado digital</h3>
+					<p>
+						Para se cadastrar no <b>PJe</b> é necessário ter um <b>certificado digital</b> válido, do tipo A3, 
+						que pertença à cadeia ICP-Brasil, para mais informações acesse o link 
+						<a class="btn-link" target="_blank" href="https://www.gov.br/pt-br/servicos/obter-certificacao-digital">Saiba como obter o certificado digital</a>.
+					</p>
+					
+					<div class="texto-identado-50">
+						<p><b>Procedimentos para se cadastrar no PJe</b></p>
+						<ul>
+							<li>1- Insira o seu <b>certificado digital</b> em seu computador.</li>
+							<li>2- Na página de login do PJe, clique no botão <b>Certificado digital</b>.</li>
+							<li>3- Insira a <b>senha do seu certificado digital</b>.</li>
+							<li>4- Confirme as suas informações pessoais no <b>formulário</b> apresentado.</li>
+							<li>5- Assine o <b>Termo de Compromisso</b>.</li>
+							<li>Após seguir este procedimento, o seu cadastro estará concluído.</li>
+						</ul>
+					</div>
+					<p>Para acessar o sistema, clique no botão <b>Certificado digital</b> na tela de login do PJe.</p>
+					
+					<h3>Acesso com login e senha para quem já possui certificado digital</h3>
+					<p>Primeiramente, é necessário realizar o cadastro utilizando o certificado digital.</p>
+					<p>Para acessar o sistema, clique no link "Solicitar nova senha" na tela de login do PJe, informe o CPF/CNPJ (apenas números), o e-mail cadastrado no sistema e clique no botão "Solicitar".</p>
+					<p>O sistema encaminhará para o e-mail informado as instruções de cadastro de uma nova senha.</p>
+					
+					<h3>Acesso para quem não possui o certificado digital</h3>
+					
+					<p>Para quem que não possui certificado digital é necessário dirigir-se pessoalmente a um posto de atendimento do Tribunal levando os seguintes documentos: uma cópia do CPF, do RG (ou da OAB no caso de advogado) e um comprovante de residência.</p>
+					<p>Após o cadastro, o sistema encaminhará para o e-mail informado as instruções de cadastro de uma nova senha.</p>
+					<p>Para mais informações sobre como acessar o PJe, acesse a wiki em <a class="btn-link" target="_blank" href="http://www.pje.jus.br/wiki/index.php/Acesso_ao_PJe">Acesso ao PJe</a>.</p>
+					
+				</div>
+				
+				<div class="conteudos-links conteudo-manuais" style="display: none;">
+					<h4><a name="manuais">Manuais</a></h4>
+					<p>Acesse os guias rápidos para utilização do PJe, de acordo com o seu perfil de usuário, pelos links abaixo</p>
+					
+					<dl>
+						<dt class="mt-20 mb-5">Advogados</dt>
+						<dd class="mb-10">
+							<a class="btn-link" href="http://www.pje.jus.br/wiki/index.php/Manual_do_Advogado" title="Manual do advogado" target="_blank">http://www.pje.jus.br/wiki/index.php/Manual_do_Advogado</a>
+						</dd>
+						
+						<dt class="mt-20 mb-5">Tribunais, varas e outros órgãos</dt>
+						<dd class="mb-10">
+							<a class="btn-link" href="http://www.pje.jus.br/wiki/index.php/Manual_dos_Representantes" title="Manual dos representantes" target="_blank">http://www.pje.jus.br/wiki/index.php/Manual_dos_Representantes</a>
+						</dd>
+						
+						<dt class="mt-20 mb-5">Pessoas físicas não servidores e pessoas jurídicas</dt>
+						<dd class="mb-10">
+							<a class="btn-link" href="http://www.pje.jus.br/wiki/index.php/Manual_do_Usu%C3%A1rio_sem_representa%C3%A7%C3%A3o" title="Manual do usuário sem representação" target="_blank">http://www.pje.jus.br/wiki/index.php/Manual_do_Usuario_sem_representacao</a>
+						</dd>
+						
+						<dt class="mt-20 mb-5">Mais informações podem ser encontradas em</dt>
+						<dd class="mb-10">
+							<a class="btn-link" href="http://www.cnj.jus.br/wikipje" title="Mais informações" target="_blank">http://www.cnj.jus.br/wikipje/index.php</a>
+						</dd>
+					</dl>
+				</div>
+				
+			</div>
+<form id="j_id83" name="j_id83" method="post" action="/pje/loginOld.seam" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id83" value="j_id83">
+<input id="j_id83:certChainStringLog" type="hidden" name="j_id83:certChainStringLog"><script id="j_id83:j_id84" type="text/javascript">//<![CDATA[
+		logCertChain=function(){A4J.AJAX.Submit('j_id83',null,{'similarityGroupingId':'j_id83:j_id84','parameters':{'j_id83:j_id84':'j_id83:j_id84'} ,'status':'status'} )};
+		//]]></script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id1" autocomplete="off">
+</form><div id="mp_formValidar" style="display: none;"><input autocomplete="off" id="mp_formValidarOpenedState" name="mp_formValidarOpenedState" type="hidden"><div class="rich-modalpanel modal-small" id="mp_formValidarContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="mp_formValidarDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="mp_formValidarFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="mp_formValidarCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="mp_formValidarShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="mp_formValidarContentDiv"><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="mp_formValidarContentTable" style="height: 100%; width: 100%;"><tbody><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">
+				<div class="media">
+					<div class="media-left media-middle">
+						<div class="svg-preloader">
+							<svg version="1.1" height="30" width="30" viewBox="0 0 75 75"><circle cx="37.5" cy="37.5" r="33.5" stroke-width="8"></circle></svg>
+						</div>
+					</div>
+					<div class="media-body">
+						<h6>Aguarde a inicialização do certificado digital.</h6>
+					</div>
+				</div></td></tr></tbody></table></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="mp_formValidarCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="mp_formValidarLastHref"></button></div><script type="text/javascript">new ModalPanel('mp_formValidar',
+				{
+					width: -1,
+					height: 110,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: false,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div>
+	
+			<div class="versao hidden">
+		 <span class="transform-none">Versao</span> 2.2.0.5 <span class="transform-none">- Atualizado em </span> 03/09/2026 - 18:45
+			</div><div id="panelSolicitarSenha" style="display: none;"><input autocomplete="off" id="panelSolicitarSenhaOpenedState" name="panelSolicitarSenhaOpenedState" type="hidden"><div class="rich-modalpanel solicitarSenhaLogin" id="panelSolicitarSenhaContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="panelSolicitarSenhaDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="panelSolicitarSenhaFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="panelSolicitarSenhaCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="panelSolicitarSenhaShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="panelSolicitarSenhaContentDiv"><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="panelSolicitarSenhaContentTable" style="height: 100%; width: 100%;"><tbody><tr style="height: 1%;"><td class="rich-mpnl-header-cell"><div class="rich-mpnl-text rich-mpnl-header " id="panelSolicitarSenhaHeader" style="white-space: nowrap; cursor: move;">Solicitar nova senha</div></td></tr><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">
+<form id="j_id92" name="j_id92" method="post" action="/pje/loginOld.seam" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id92" value="j_id92">
+
+					<div>
+						<div class="form-group"><label for="j_id92:login">
+CPF / CNPJ</label><input id="j_id92:login" type="text" name="j_id92:login">
+						</div>
+						<div class="form-group"><label for="j_id92:email">
+Email</label><input id="j_id92:email" type="text" name="j_id92:email">
+						</div><input id="j_id92:solicita" type="submit" name="j_id92:solicita" value="Solicitar" onclick="showLoading();" class="btn btn-primary"><input id="j_id92:cancela" type="submit" name="j_id92:cancela" value="Cancelar" onclick="Richfaces.hideModalPanel('panelSolicitarSenha')" class="btn btn-default">
+					</div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id1" autocomplete="off">
+</form></td></tr></tbody></table></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerN" style="width: 40px; height: 4px; cursor: n-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerE" style="height: 40px; width: 4px; cursor: e-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerS" style="width: 40px; height: 4px; cursor: s-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerW" style="height: 40px; width: 4px; cursor: w-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerNWU" style="width: 40px; height: 4px; cursor: nw-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerNEU" style="height: 40px; width: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerNEL" style="width: 40px; height: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerSEU" style="height: 40px; width: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerSEL" style="width: 40px; height: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerSWL" style="height: 40px; width: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerSWU" style="width: 40px; height: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="panelSolicitarSenhaResizerNWL" style="height: 40px; width: 4px; cursor: nw-resize;"></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="panelSolicitarSenhaCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="panelSolicitarSenhaLastHref"></button></div><script type="text/javascript">new ModalPanel('panelSolicitarSenha',
+				{
+					width: 400,
+					height: 300,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: true,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div><div id="mpPrimeiroAcesso" style="display: none;"><input autocomplete="off" id="mpPrimeiroAcessoOpenedState" name="mpPrimeiroAcessoOpenedState" type="hidden"><div class="rich-modalpanel " id="mpPrimeiroAcessoContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="mpPrimeiroAcessoDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="mpPrimeiroAcessoFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="mpPrimeiroAcessoCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="mpPrimeiroAcessoShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="mpPrimeiroAcessoContentDiv"><div class="rich-mpnl-text rich-mpnl-controls ">
+						<span class="btn-fechar" onclick="Richfaces.hideModalPanel('mpPrimeiroAcesso')" title="Fechar"><i class="icon-fechar"></i></span></div><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="mpPrimeiroAcessoContentTable" style="height: 100%; width: 100%;"><tbody><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">
+				<br>
+				<div class="informacaoModal tgl textoPadrao">
+					<div id="explicacaoSistema">
+						<h3 id="acessoCertificado">Primeiro acesso</h3>
+						<div id="informacaoPJe"><div id="j_id104">
+								<p>
+									O <strong>PJe</strong> permite o <b>acesso</b> com <strong>Certificado Digital</strong> e também através de <strong>login e senha</strong>.
+								</p></div><div id="j_id108" class="acessoLoginSenha">
+								<p>
+									Para acessar o sistema utilizando login e senha (há restrições
+									ao utilizar este tipo de acesso), por favor veja o <a class="btn-link" target="_blank" href="http://www.cnj.jus.br/wikipje/images/2/27/Manual_de_utiliza%C3%A7%C3%A3o_do_PJe_sem_certificado_digital.pdf" title="Manual de configuração do PJe (arquivo pdf)">Manual de configuração da utilização do PJe sem certificado digital</a>
+									em nossa <a class="btn-link" target="_blank" href="http://www.cnj.jus.br/wikipje/index.php/P%C3%A1gina_principal">wiki</a>.
+								</p></div>
+							
+	
+							<div class="acessoCertificado">
+								<h3>Certificado Digital</h3>
+								<p>
+									O <strong>certificado digital</strong> é um dispositivo
+									criptografico que armazena suas chaves públicas e privadas, ou
+									seja, a sua <strong>assinatura digital</strong>. Esse
+									dispositivo pode ser um <strong>cartão inteligente (smartcard)</strong> ou um <strong>token</strong> criptográfico.
+								</p>
+								<p>
+									Quando utilizado um <strong>cartão inteligente</strong>, é
+									necessário que o usuário disponha de uma <strong>leitora de smartcard devidamente instalada</strong>. Os aplicativos necessários
+									à utilização desses dispositivos devem ser fornecidos pela
+									entidade onde foi adquirido o certificado digital.
+								</p>
+								<p>
+									<strong>Certificado ICP-Brasil</strong> a assinatura de
+									documentos no PJe somente pode ser feita utilizando
+									certificados digitais do tipo A3, que pertence à cadeia
+									ICP-Brasil. A cadeia de certificação deve ser instalada no
+									computador do usuário, o que pode ser feito seguindo as
+									instruções do <a class="btn-link" target="_blank" href=" http://www.iti.gov.br/icp-brasil/certificados">repositório das cadeias de certificação</a> do Instituto Nacional de
+									Tecnologia da Informação.
+								</p>
+							</div>
+							
+							<div class="recomendacao">
+								<p>
+									Você pode utilizar o botão de <a class="btn-link" onclick="jQuery('.testePopup_true,.testePopup_false').hide();jQuery('.testePopup_load').show();Richfaces.showModalPanel('panelAmbiente');testesAmbiente();">Pré-requisitos</a>,
+									que realizará um teste em seu computador, analisando os
+									requisitos mínimos para se ter acesso ao PJe, inclusive a
+									verificação de seu certificado digital.
+								</p>
+								<p>
+									Outros testes podem ser feitos no sítio de atendimento do
+									contribuinte da <b>Receita Federal do Brasil</b> (<a class="btn-link" target="_blank" href="https://cav.receita.fazenda.gov.br">e-CAC</a>) ou
+									utilizando o programa responsável pela administração do
+									certificado no seu computador.
+								</p>
+	
+								<p>Em caso de problemas nos testes, será necessário entrar
+									em contato com seu fornecedor de certificado digital ou
+									consultar um técnico especializado para configurar corretamente
+									seu computador.</p>
+	
+								<p>Eis alguns sites com dicas para instalação e configuração
+									da leitora de certificados e de tokens criptográficos:</p>
+								<ul>
+									<li><a class="btn-link" target="_blank" href="http://www.certisign.com.br/atendimento-suporte/downloads">Certisign</a></li>
+									<li><a class="btn-link" target="_blank" href="http://www.acbr.org.br/arquivos/manual/GuiadeinstalacaSafeSign.pdf">Autoridade Certificadora Brasileira de Registros</a></li>
+									<li><a class="btn-link" target="_blank" href="http://www.receita.fazenda.gov.br/Novidades/Informa/DestaqueCertificadoDigital.htm">Receita Federal do Brasil</a></li>
+								</ul>
+							</div>
+							
+							<div class="sugestao">
+								<ol>
+									<li>Instale os drivers da leitora de cartão inteligente ou do token criptográfico.</li>
+									<li>Instale a cadeia de certificação da <a class="btn-link" target="_blank" href="http://www.iti.gov.br/icp-brasil/certificados">ICP-Brasil</a></li>
+									<li>Instale o navegador <a class="btn-link" target="_blank" href="http://www.getfirefox.com">Mozilla Firefox</a></li>
+									<li>Instale ou atualize o <a class="btn-link" target="_blank" href="http://www.java.com/pt_BR/download">Java</a></li>
+									<li>Teste o uso de seu certificado digital no programa de
+										gerenciamento do cartão ou use a 
+										<a class="btn-link" href="#" onclick="jQuery('.testePopup_true,.testePopup_false').hide();jQuery('.testePopup_load').show();Richfaces.showModalPanel('panelAmbiente');testesAmbiente();">Verificação de pré-requisitos</a>
+									</li>
+									<li>Este <a class="btn-link" target="_blank" href="http://www.cnj.jus.br/wikipje/images/e/ec/CorrecaoCertificadoCNJ.mp4">vídeo</a>
+										orienta o usuário sobre como proceder com relação à
+										advertência de segurança (site não confiável) emitida pelo
+										browser.
+									</li>
+								</ol>
+							</div>
+							
+						</div>
+						
+	
+						<div class="informacaoCadastro">
+	
+							<div class="informacoes">
+								<p>
+									Existem duas formar de acesso ao <b>PJe</b>, com
+									características diferentes, dependendo das suas necessidades.
+								</p>
+								<p>
+									O <strong>Push</strong>, permite apenas o recebimento de email,
+									informando sobre as movimentações dos seus processos.
+								</p>
+								<p>
+									O acesso ao <strong>PJe</strong> pela tela de login com
+									certificado digital é a principal forma de acesso e permite,
+									dentre outras coisas (dependendo do seu perfil de acesso),
+									criar novos processos, inserir e abrir documentos em processos,
+									responder intimações, receber e-mails informando sobre as
+									movimentações dos seus processos, etc.
+								</p>
+							</div>
+							
+	
+	
+							<div class="cadastroPush">
+								<h3 id="cadastroPush">Como me cadastrar no Push?</h3>
+	
+								<p>
+									Para se cadastrar no <strong>Push</strong> é necessário que o
+									usuário <strong>não seja cadastrado no sistema</strong> com
+									certificado digital ou com Usuário e Senha, pois o cadastro
+									diretamente no PJe impede o cadastro no Push.
+								</p>
+								<p>Caso você seja cadastrado no PJe com certificado digital
+									ou Usuário e Senha e queira acompanhar as movimentações,
+									acesse</p>
+								<ul class="caminhoMenu">
+									<li><strong>Menu Principal</strong></li>
+									<li><strong>Processo</strong></li>
+									<li><strong>Outras ações</strong></li>
+									<li><strong>Incluir no PUSH</strong></li>
+								</ul>
+	
+								<p>Procedimentos para se cadastrar no Push</p>
+								<ol>
+									<li>Clique no link "Push", na tela inicial de login do PJe</li>
+									<li>Clique no link "Ainda não é cadastrado?", na tela do
+										Push</li>
+									<li>Insira o seu CPF, ou o CNPJ, e seu email (deve ser um
+										e-mail válido, pois será onde você receberá o email de
+										confirmação com o link para confirmar o cadastro)</li>
+									<li>Clique em "<strong>Confirmar</strong>"
+									</li>
+									<li>Entre no email informado e abra o email enviado pelo
+										Push e clique no link de confirmaçao ou copie e cole o link na
+										barra de endereço do seu navegador</li>
+									<li>Preencha os seus dados pessoais e clique em "<strong>Gravar</strong>"
+									</li>
+								</ol>
+							</div>
+							
+	
+	
+							<div class="cadastroPJe">
+								<h3 id="pjeCadastro">Como me cadastrar no PJe?</h3>
+	
+								<div class="pjeCertificado">
+									<h6>Com certificado digital</h6>
+	
+									<p>
+										Para se cadastrar no PJe é necessário somente um <b>certificado
+											digital</b> válido, do tipo A3, que pertença à cadeia ICP-Brasil
+										(para mais explicações sobre os requisitos para acessar com
+										certificado digital.
+									</p>
+									<p>Procedimentos para se cadastrar</p>
+									<ol>
+										<li>Insira o seu <strong>certificado digital</strong> em
+											seu computador
+										</li>
+										<li>Na página do PJe, clique no botão <strong>"Certificado Digital"</strong></li>
+										<li>Insira a <strong>senha do seu certificado digital</strong></li>
+										<li>Confirme as suas informações pessoais no formulário apresentado</li>
+										<li>Assine o <strong>"Termo de Compromisso"</strong>.
+											Após seguir este procedimento, o seu cadastro estará
+											terminado!
+										</li>
+										<li>Para acessar o sistema, clique novamente no botão <strong>"Certificado Digital"</strong>, na tela de login do PJe</li>
+									</ol>
+								</div>
+								
+	
+	
+								<div class="pjeLogin">
+									<h6>Com login e senha</h6>
+	
+									<h5>Se você possui um certificado digital</h5>
+									<ol>
+										<li>Insira o seu <strong>certificado digital</strong> em seu computador
+										</li>
+										<li>Na página do PJe, clique no botão "<strong>Certificado Digital</strong>"
+										</li>
+										<li>Insira a senha do seu certificado digital</li>
+										<li>Confirme as suas informações pessoais no formulário apresentado</li>
+										<li>Assine o "Termo de Compromisso"</li>
+										<li>Na tela inicial de login do PJe, clique no botão <strong>"Solicitar nova senha"</strong></li>
+										<li>Informe o CPF/CNPJ e o e-mail cadastrado no PJe</li>
+										<li>Clique no botão <strong>"Solicitar"</strong></li>
+										<li>Entre no e-mail informado e procure o e-mail enviado
+											pelo PJe. Nele haverá um link. Clique nele ou copie e cole o
+											link na barra de endereço do seu navegador</li>
+										<li>Siga as instruções contidas no e-mail para o cadastro da sua senha</li>
+									</ol>
+	
+									<h5>Se você não possui certificado digital, por favor
+										entre em contato com posto de atendimento do tribunal e
+										obtenha as informações necessárias.</h5>
+								</div>
+								
+							</div>
+							
+						</div>
+						
+					</div>
+					
+				</div>
+				
+				<div id="informacaoContato"><style>p {text-align: justify;}</style>Informações Fale Conosco 1º grau	
+				</div></td></tr></tbody></table></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerN" style="width: 40px; height: 4px; cursor: n-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerE" style="height: 40px; width: 4px; cursor: e-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerS" style="width: 40px; height: 4px; cursor: s-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerW" style="height: 40px; width: 4px; cursor: w-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerNWU" style="width: 40px; height: 4px; cursor: nw-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerNEU" style="height: 40px; width: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerNEL" style="width: 40px; height: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerSEU" style="height: 40px; width: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerSEL" style="width: 40px; height: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerSWL" style="height: 40px; width: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerSWU" style="width: 40px; height: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="mpPrimeiroAcessoResizerNWL" style="height: 40px; width: 4px; cursor: nw-resize;"></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="mpPrimeiroAcessoCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="mpPrimeiroAcessoLastHref"></button></div><script type="text/javascript">new ModalPanel('mpPrimeiroAcesso',
+				{
+					width: 800,
+					height: 600,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: true,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div>
+			
+	
+			<div class="bgLoading hidden" style="display: block;"></div><div id="mpModoOperacao" style="display: none;"><input autocomplete="off" id="mpModoOperacaoOpenedState" name="mpModoOperacaoOpenedState" type="hidden"><div class="rich-modalpanel " id="mpModoOperacaoContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="mpModoOperacaoDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="mpModoOperacaoFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="mpModoOperacaoCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="mpModoOperacaoShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="mpModoOperacaoContentDiv"><div class="rich-mpnl-text rich-mpnl-controls ">
+						<span class="btn-fechar" onclick="fecharMpModoOperacaoSemEscolherOpcao();" title="Fechar">
+							<i class="icon-fechar"></i>
+							<span class="sr-only">Fechar</span>
+						</span></div><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="mpModoOperacaoContentTable" style="height: 100%; width: 100%;"><tbody><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">
+	
+				<h3>De que forma você gostaria de realizar assinatura digital e autenticação?</h3>
+				<br>
+				<table>
+					<tbody><tr>
+						<td align="center"><img src="/pje/img/true.png" alt="Java Instalado" class="modoOperacaoApplet hidden">
+						</td>
+						<td align="center"><input id="btnUtilizarPJeOffice" type="submit" name="btnUtilizarPJeOffice" value="Java Applet" onclick="fecharMpModoOperacao(); utilizarAppletRecarregarTela();" class="btn btn-primary">
+						</td>
+						<td>Modo utilizado atualmente no PJe, precisa ser instalado o Java no computador.</td>
+					</tr>
+					<tr>
+						<td align="center"><img src="/pje/img/true.png" alt="Aplicativo locali instalado" style="display: inline;" class="modoOperacaoPJeOffice">
+						</td>
+						<td align="center"><input id="btnUtilizarApplet" type="submit" name="btnUtilizarApplet" value="PJeOffice" onclick="fecharMpModoOperacao(); utilizarPJeOfficeRecarregarTela();" class="btn btn-primary">
+						</td>
+						<td>
+							<div class="testePJeOffice_false" style="display: block;"><a class="btn-link" href="http://www.pje.jus.br/wiki/index.php/PJeOffice" target="_blank">Clique aqui</a> para instalar o PJeOffice.</div>
+							<div class="testePJeOffice_true" style="display: none;">Já instalado em sua máquina.</div>
+							<div class="testePJeOffice_load" style="display: none;">							
+								Verificando ambiente...<img src="/pje/img/loading.gif">
+							</div>
+						</td>
+					</tr>
+				</tbody></table></td></tr></tbody></table></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerN" style="width: 40px; height: 4px; cursor: n-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerE" style="height: 40px; width: 4px; cursor: e-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerS" style="width: 40px; height: 4px; cursor: s-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerW" style="height: 40px; width: 4px; cursor: w-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerNWU" style="width: 40px; height: 4px; cursor: nw-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerNEU" style="height: 40px; width: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerNEL" style="width: 40px; height: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerSEU" style="height: 40px; width: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerSEL" style="width: 40px; height: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerSWL" style="height: 40px; width: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerSWU" style="width: 40px; height: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoResizerNWL" style="height: 40px; width: 4px; cursor: nw-resize;"></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="mpModoOperacaoCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="mpModoOperacaoLastHref"></button></div><script type="text/javascript">new ModalPanel('mpModoOperacao',
+				{
+					width: 480,
+					height: 310,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: true,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div><div id="mpModoOperacaoLocal" style="display: none;"><input autocomplete="off" id="mpModoOperacaoLocalOpenedState" name="mpModoOperacaoLocalOpenedState" type="hidden"><div class="rich-modalpanel " id="mpModoOperacaoLocalContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="mpModoOperacaoLocalDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="mpModoOperacaoLocalFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="mpModoOperacaoLocalCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="mpModoOperacaoLocalShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="mpModoOperacaoLocalContentDiv"><div class="rich-mpnl-text rich-mpnl-controls ">
+						<span class="btn-fechar" onclick="fecharMpModoOperacaoLocalSemEscolherOpcao();" title="Fechar">
+							<i class="icon-fechar"></i>
+							<span class="sr-only">Fechar</span>
+						</span></div><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="mpModoOperacaoLocalContentTable" style="height: 100%; width: 100%;"><tbody><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">
+	
+				<h3>Assinatura digital e autenticação utilizando PJeOffice</h3>
+				<br>
+				<table>
+					<tbody><tr>
+						<td align="center">
+						</td>
+						<td align="center">						
+						</td>
+						<td>
+							<div class="testePJeOffice_false" style="display: block;"><a class="btn-link" href="http://www.pje.jus.br/wiki/index.php/PJeOffice" target="_blank">Clique aqui</a> para instalar o PJeOffice.</div>
+							<div class="testePJeOffice_true" style="display: none;">Já instalado em sua máquina.</div>
+							<div class="testePJeOffice_load" style="display: none;">							
+								Verificando ambiente...<img src="/pje/img/loading.gif">
+							</div>
+						</td>
+					</tr>
+				</tbody></table></td></tr></tbody></table></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerN" style="width: 40px; height: 4px; cursor: n-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerE" style="height: 40px; width: 4px; cursor: e-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerS" style="width: 40px; height: 4px; cursor: s-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerW" style="height: 40px; width: 4px; cursor: w-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerNWU" style="width: 40px; height: 4px; cursor: nw-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerNEU" style="height: 40px; width: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerNEL" style="width: 40px; height: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerSEU" style="height: 40px; width: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerSEL" style="width: 40px; height: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerSWL" style="height: 40px; width: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerSWU" style="width: 40px; height: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="mpModoOperacaoLocalResizerNWL" style="height: 40px; width: 4px; cursor: nw-resize;"></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="mpModoOperacaoLocalCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="mpModoOperacaoLocalLastHref"></button></div><script type="text/javascript">new ModalPanel('mpModoOperacaoLocal',
+				{
+					width: 480,
+					height: 310,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: true,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div>
+		</div>
+		
+		<script type="text/javascript">
+			var PJE_OFFICE_HABILITADO = true;
+			var SSO_HABILITADO = false;
+			var PJE_OFFICE_CODIGO_SEGURANCA = "wfZ5Xvrz66vveH7N6Hf2RXjcHuYAmtDWYcqQ3c+6AYAIFcT9xQZu5BeJSGvia2Nj3xXbFje8kyTz1bTm3KPqPO9TMoz2yBlG8VEX/67KhWbyp25BD84PB4Q4doeQNYH53ZE9W2uxQXvRtSl7a01CWnf4DepQyW+TsggMz1W3iJtcKUpHc+AKTIqUsj2gghiNk1rpBzi+PUMfZPRzkXfYsbYP8GmZEJJaOrrX550Uyr/aC++vEZ8nfxx9Sis3aSEtiCx7+7Tdjr3F5vp+BRgzm3FMoSWYvVA+v4TkwCGB2svwJg89li+1MT9sBUoGil5Kc8CeF9t7VoIfyTxVSEs/0A==";
+			var BOTAO_AUTENTICACAO = "loginAplicacaoButton";
+			var WEB_ROOT = location.protocol + "//tjrj.pje.jus.br/pje";
+			var CONVERSATION_ID = "12461";
+			var JSESSION_ID = "JSESSIONID=5yv4DCCn3cujdh4wHoUwR-9gC2ysYmrhDN4dwJ-Y.pje-legacy-cp-68ddccdb7f-v4vlq";
+			var ASSINATURA_MENSAGEM = "AxJkDmZ5umlo2Wpd4STRAKchJvtfmBtG";
+			var ASSINATURA_MODO_TESTE = "false";
+			var JUSTICA_TRABALHO = false;
+			var ssoFrame = document.getElementById('ssoFrame');
+			if(ssoFrame){
+				document.getElementById('ssoFrame').src = location.protocol + "//tjrj.pje.jus.br/pje" + "/authenticateSSO.seam";
+			}
+			// updateToken() e definido via a:jsFunction (a4j), sem Seam Remoting.
+
+			function isEmpty(str) {
+			    return (!str || 0 === str.length);
+			};
+
+			function verificarMensagemErroLogin(){
+				var mensagemErroLoginParam = '';
+
+				if(!isEmpty(mensagemErroLoginParam)){
+					sessionStorage.setItem('mensagemErroLogin',  mensagemErroLoginParam);
+				}
+
+				var mensagemErroLogin = sessionStorage.getItem('mensagemErroLogin');
+				if(mensagemErroLogin){
+					document.getElementById('mensagemErroLogin').innerHTML = mensagemErroLogin;
+					document.getElementById('divErroMsgLogin').style.display = 'block';
+					sessionStorage.removeItem('mensagemErroLogin');
+					setTimeout(()=> document.getElementById('divErroMsgLogin').style.display = 'none', 5000);
+				}
+			}
+			verificarMensagemErroLogin();
+			
+
+			definirSameSiteDoCookieParaNone("JSESSIONID");
+			
+		</script>
+
+	<style>
+			.index-topo {
+				z-index: 2000 !important;
+			}
+	</style><div id="mpPJeOfficeIndisponivel" style="display: none;"><input autocomplete="off" id="mpPJeOfficeIndisponivelOpenedState" name="mpPJeOfficeIndisponivelOpenedState" type="hidden"><div class="rich-modalpanel index-topo" id="mpPJeOfficeIndisponivelContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="mpPJeOfficeIndisponivelDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="mpPJeOfficeIndisponivelFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="mpPJeOfficeIndisponivelCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="mpPJeOfficeIndisponivelShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="mpPJeOfficeIndisponivelContentDiv"><div class="rich-mpnl-text rich-mpnl-controls ">
+				<span class="btn-fechar" onclick="Richfaces.hideModalPanel('mpPJeOfficeIndisponivel')" title="Fechar"><i class="icon-fechar"></i></span></div><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="mpPJeOfficeIndisponivelContentTable" style="height: 100%; width: 100%;"><tbody><tr style="height: 1%;"><td class="rich-mpnl-header-cell"><div class="rich-mpnl-text rich-mpnl-header " id="mpPJeOfficeIndisponivelHeader" style="white-space: nowrap; cursor: move;">PJeOffice Indisponível</div></td></tr><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">
+								
+		<h3>O aplicativo PJeOffice não está disponível!</h3></td></tr></tbody></table></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerN" style="width: 40px; height: 4px; cursor: n-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerE" style="height: 40px; width: 4px; cursor: e-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerS" style="width: 40px; height: 4px; cursor: s-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerW" style="height: 40px; width: 4px; cursor: w-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerNWU" style="width: 40px; height: 4px; cursor: nw-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerNEU" style="height: 40px; width: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerNEL" style="width: 40px; height: 4px; cursor: ne-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerSEU" style="height: 40px; width: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerSEL" style="width: 40px; height: 4px; cursor: se-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerSWL" style="height: 40px; width: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerSWU" style="width: 40px; height: 4px; cursor: sw-resize;"></div><div class="rich-mpnl-resizer" id="mpPJeOfficeIndisponivelResizerNWL" style="height: 40px; width: 4px; cursor: nw-resize;"></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="mpPJeOfficeIndisponivelCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="mpPJeOfficeIndisponivelLastHref"></button></div><script type="text/javascript">new ModalPanel('mpPJeOfficeIndisponivel',
+				{
+					width: 400,
+					height: 190,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: true,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div><div id="mpProgresso" style="display: none;"><input autocomplete="off" id="mpProgressoOpenedState" name="mpProgressoOpenedState" type="hidden"><div class="rich-modalpanel modal-small" id="mpProgressoContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="rich-mpnl-mask-div-opaque rich-mpnl-mask-div" id="mpProgressoDiv" style="z-index: -1;"><button class="rich-mpnl-button" id="mpProgressoFirstHref"></button></div><div class="rich-mpnl-panel"><div class="rich-mp-container" id="mpProgressoCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="rich-mpnl-shadow" id="mpProgressoShadowDiv"></div><div class="rich-mpnl-ovf-hd rich-mpnl-trim rich-mpnl-content" id="mpProgressoContentDiv"><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="mpProgressoContentTable" style="height: 100%; width: 100%;"><tbody><tr style="height: 99%"><td class="rich-mpnl-body" valign="top">			
+		<div class="media">
+			<div class="media-left media-middle">
+				<div class="svg-preloader">
+					<svg version="1.1" height="30" width="30" viewBox="0 0 75 75"><circle cx="37.5" cy="37.5" r="33.5" stroke-width="8"></circle></svg>
+				</div>
+			</div>
+			<div class="media-body">
+				<h6>Por favor aguarde</h6>
+			</div>
+		</div></td></tr></tbody></table></div></div></div><div class="rich-mpnl-mask-div rich-mpnl-mask-div-transparent" id="mpProgressoCursorDiv" style="z-index: -200;"><button class="rich-mpnl-button" id="mpProgressoLastHref"></button></div><script type="text/javascript">new ModalPanel('mpProgresso',
+				{
+					width: -1,
+					height: 110,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: false,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: '',onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "",				
+					keepVisualState: false,
+					showWhenRendered: false,
+					selectBehavior: "disable",
+
+					autosized: false,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript"></script></div>
+	
+	<script type="text/javascript">
+		function showMpProgresso() {
+			Richfaces.showModalPanel('mpProgresso');
+		}
+		function hideMpProgresso() {
+			Richfaces.hideModalPanel('mpProgresso');
+		}
+	</script>
+	
+</body></html>

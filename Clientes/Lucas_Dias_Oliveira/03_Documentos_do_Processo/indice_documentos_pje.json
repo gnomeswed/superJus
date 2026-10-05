@@ -1,0 +1,72 @@
+{
+  "processo": "0808595-36.2026.8.19.0002",
+  "cliente": "Lucas Dias Oliveira (Taxista)",
+  "data_extracao": "2026-08-16",
+  "total_documentos": 8,
+  "documentos": [
+    {
+      "arquivo_original": "Documento_PJe_01.mhtml",
+      "doc_id": "281122579",
+      "tipo": "Não identificado",
+      "data": "Não identificada",
+      "tamanho_texto": 479817,
+      "arquivo_saida": "Doc_PJe_01_id281122579.txt"
+    },
+    {
+      "arquivo_original": "Documento_PJe_02.mhtml",
+      "doc_id": "280659639",
+      "tipo": "Não identificado",
+      "data": "Não identificada",
+      "tamanho_texto": 479519,
+      "arquivo_saida": "Doc_PJe_02_id280659639.txt"
+    },
+    {
+      "arquivo_original": "Documento_PJe_03.mhtml",
+      "doc_id": "278145702",
+      "tipo": "Não identificado",
+      "data": "Não identificada",
+      "tamanho_texto": 483426,
+      "arquivo_saida": "Doc_PJe_03_id278145702.txt"
+    },
+    {
+      "arquivo_original": "Documento_PJe_04.mhtml",
+      "doc_id": "277050897",
+      "tipo": "Não identificado",
+      "data": "Não identificada",
+      "tamanho_texto": 480652,
+      "arquivo_saida": "Doc_PJe_04_id277050897.txt"
+    },
+    {
+      "arquivo_original": "Documento_PJe_05.mhtml",
+      "doc_id": "275104905",
+      "tipo": "Não identificado",
+      "data": "Não identificada",
+      "tamanho_texto": 482650,
+      "arquivo_saida": "Doc_PJe_05_id275104905.txt"
+    },
+    {
+      "arquivo_original": "Documento_PJe_06.mhtml",
+      "doc_id": "274550507",
+      "tipo": "Não identificado",
+      "data": "Não identificada",
+      "tamanho_texto": 484302,
+      "arquivo_saida": "Doc_PJe_06_id274550507.txt"
+    },
+    {
+      "arquivo_original": "Documento_PJe_07.mhtml",
+      "doc_id": "273106393",
+      "tipo": "Não identificado",
+      "data": "Não identificada",
+      "tamanho_texto": 479740,
+      "arquivo_saida": "Doc_PJe_07_id273106393.txt"
+    },
+    {
+      "arquivo_original": "Documento_PJe_08.mhtml",
+      "doc_id": "273145859",
+      "tipo": "Não identificado",
+      "data": "Não identificada",
+      "tamanho_texto": 480442,
+      "arquivo_saida": "Doc_PJe_08_id273145859.txt"
+    }
+  ]
+}

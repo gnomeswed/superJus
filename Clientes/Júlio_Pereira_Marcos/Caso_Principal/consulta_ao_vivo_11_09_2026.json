@@ -1,0 +1,80 @@
+{
+  "data_consulta": "11/09/2026",
+  "hora_consulta": "16:58:20",
+  "datajud_tjrj": {
+    "0023013-51.2021.8.19.0078": [],
+    "0001140-87.2024.8.19.0078": [],
+    "0022975-39.2021.8.19.0078": [],
+    "0029845-67.2026.8.19.0000": []
+  },
+  "datajud_stj": [],
+  "portal_tjrj": {
+    "0023013-51.2021.8.19.0078": {
+      "status": "sucesso",
+      "data_hora_consulta": "11/09/2026 17:02:18",
+      "localizacao": "Processamento",
+      "ultimo_movimento": "Tipo do Movimento: Juntada - Documento | Data da juntada: 04/08/2026",
+      "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_tjrj_1A_Principal_Julio_11set.txt"
+    },
+    "0001140-87.2024.8.19.0078": {
+      "status": "sucesso",
+      "localizacao": "Localização na Serventia | Aguardando Cumprimento de Mandado | Dados dos Personagens | Advogado(s) | RJ208273 - CARLA SANT'ANNA DOS SANTOS POLICARPO | RJ082256 - ALBERTO PECANHA DO ESPIRITO SANTO | RJ223681 - DANIEL TELLES ROZA | RJ160511 - JOSÉ VINICIUS SANTOS GR",
+      "ultimo_movimento": "Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 11/09/2026 | Tipo do Movimento: Ato Ordinatório Praticado | Data: | 11/09/2026 | Descrição: | Certifico que compulsando os autos constatei que os recorridos: - CHRISTIANO PEREIRA MARCOS, AULO HENRIQUE DA SILVA BENTO e JULIANO LUCAS NUNES, representados pela DP, apresentaram contrarrazões no id",
+      "recent_movs": [
+        "Tipo do Movimento: Envio de Documento Eletrônico -> Data da remessa:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:",
+        "Tipo do Movimento: Juntada de Mandado -> Data da juntada:",
+        "Tipo do Movimento: Juntada - Contrarrazões -> Data da juntada:",
+        "Tipo do Movimento: Juntada - Petição -> Data da juntada:",
+        "Tipo do Movimento: Envio de Documento Eletrônico -> Data da remessa:",
+        "Tipo do Movimento: Recebimento -> Data de Recebimento:",
+        "Tipo do Movimento: Conclusão ao Juiz -> Data da conclusão:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:",
+        "Tipo do Movimento: Enviado para publicação -> Data do expediente:"
+      ],
+      "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_tjrj_1A_Apenso_RSE_11set.txt",
+      "nova_movimentacao_hoje": {
+        "data": "11/09/2026",
+        "tipo": "Ato Ordinatório Praticado / Envio de Documento Eletrônico",
+        "descricao": "Certifico que compulsando os autos constatei que os recorridos: - CHRISTIANO PEREIRA MARCOS, AULO HENRIQUE DA SILVA BENTO e JULIANO LUCAS NUNES, representados pela DP, apresentaram contrarrazões no id 162; - JOSE GUILHERME DA COSTA FREIRE, representado pelo advogado Dr. ALBERTO PEÇANHA DO ESPÍRITO SANTO, apresentou contrarrazões no id 190; Certifico que não houve intimação do recorrido EMERSON FERNANDES ANANIAS, conforme Despacho de id 183, o que faço na presente data."
+      }
+    },
+    "0022975-39.2021.8.19.0078": {
+      "status": "sucesso",
+      "localizacao": "Localização na Serventia | Aguardando Cumprimento de Mandado | Dados dos Personagens | Advogado(s) | RJ208273 - CARLA SANT'ANNA DOS SANTOS POLICARPO | RJ082256 - ALBERTO PECANHA DO ESPIRITO SANTO | RJ223681 - DANIEL TELLES ROZA | RJ160511 - JOSÉ VINICIUS SANTOS GR",
+      "ultimo_movimento": "Tipo do Movimento: Juntada - Petição | Data da juntada: | 05/08/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 25/07/2026 | Nome da Central Destinatária: | ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL. | Data de Recebimento pelo OJA: | 30/07/2026 | Documento(s) dig",
+      "recent_movs": [
+        "Tipo do Movimento: Juntada - Petição -> Data da juntada:",
+        "Tipo do Movimento: Envio de Documento Eletrônico -> Data da remessa:",
+        "Tipo do Movimento: Desentranhamento -> Data do movimento:",
+        "Tipo do Movimento: Juntada - Petição Custódia -> Data da juntada:",
+        "Tipo do Movimento: Enviado para publicação -> Data do expediente:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:",
+        "Tipo do Movimento: Juntada - Petição -> Data da juntada:",
+        "Tipo do Movimento: Envio de Documento Eletrônico -> Data da remessa:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:"
+      ],
+      "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_tjrj_1A_Original_Desmembrado_11set.txt"
+    },
+    "0029845-67.2026.8.19.0000": {
+      "status": "sucesso",
+      "localizacao": "N/A",
+      "ultimo_movimento": "N/A",
+      "recent_movs": [],
+      "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_tjrj_2A_HC_11set.txt"
+    }
+  },
+  "portal_stj": {
+    "status": "sucesso",
+    "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_stj_live_direct_11set.txt",
+    "has_monocratica": false,
+    "phases": []
+  },
+  "djerj": {
+    "0023013-51.2021.8.19.0078": "Sem publicações no período (01 a 11/09/2026)",
+    "0001140-87.2024.8.19.0078": "Sem publicações no período (01 a 11/09/2026)",
+    "0022975-39.2021.8.19.0078": "Sem publicações no período (01 a 11/09/2026)",
+    "0029845-67.2026.8.19.0000": "Sem publicações no período (01 a 11/09/2026)"
+  }
+}

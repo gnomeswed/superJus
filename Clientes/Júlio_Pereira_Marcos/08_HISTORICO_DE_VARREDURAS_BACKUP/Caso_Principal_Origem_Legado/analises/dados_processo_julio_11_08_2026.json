@@ -1,0 +1,16 @@
+[
+  {
+    "numProcesso": "2021.078.023002-1",
+    "tipoProcesso": 1,
+    "codigoCnj": "0023013-51.2021.8.19.0078",
+    "nomeComarca": "Comarca de Búzios",
+    "descricaoServentia": "Cartório da 2ª Vara",
+    "classe": "Ação Penal - Procedimento Ordinário",
+    "assunto": "Tráfico de Drogas e Condutas Afins (Art. 33 - Lei 11.343/06);Prisão em flagrante",
+    "ultimoMovimento": "Juntada",
+    "isProcessoVirtual": true,
+    "idProcesso": 133666226,
+    "statusMigradoPje": 0,
+    "codTipAutos": "P"
+  }
+]

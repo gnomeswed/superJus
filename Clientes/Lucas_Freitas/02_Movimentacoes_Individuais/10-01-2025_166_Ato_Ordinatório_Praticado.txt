@@ -1,0 +1,51 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #166
+DATA: 10/01/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 9
+DESCRIÇÃO: Certifico que:
+
+- completei a autuação eletrônica do feito e 
+- NÃO FOI POSSIVEL obter a FAC do réu RONNY uma vez que não foi localizado o RG no presente feito e na consulta realizada no SEI . 
+
+Ao MP.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:10/01/2025
+  Descrição:Certifico que:
+
+- completei a autuação eletrônica do feito e 
+- NÃO FOI POSSIVEL obter a FAC do réu RONNY uma vez que não foi localizado o RG no presente feito e na consulta realizada no SEI . 
+
+Ao MP. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 9,
+  "dtAlt": "10/01/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "10/01/2025",
+  "descricao": "Certifico que:\r\n\r\n- completei a autuação eletrônica do feito e \r\n- NÃO FOI POSSIVEL obter a FAC do réu RONNY uma vez que não foi localizado o RG no presente feito e na consulta realizada no SEI . \r\n\r\nAo MP. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "10/01/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que:\r\n\r\n- completei a autuação eletrônica do feito e \r\n- NÃO FOI POSSIVEL obter a FAC do réu RONNY uma vez que não foi localizado o RG no presente feito e na consulta realizada no SEI . \r\n\r\nAo MP. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "10/01/2025",
+  "indPublicado": "não"
+}

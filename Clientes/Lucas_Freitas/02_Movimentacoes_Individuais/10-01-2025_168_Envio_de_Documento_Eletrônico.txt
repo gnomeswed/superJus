@@ -1,0 +1,138 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #168
+DATA: 10/01/2025
+TIPO: Envio de Documento Eletrônico
+ORDEM: 7
+DATA REMESSA: 10/01/2025
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:10/01/2025
+  Nome da Central Destinatária:ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS
+  Data de Recebimento pelo OJA:07/02/2025
+  Data de Devolução pelo OJA:18/02/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 7,
+  "dtAlt": "10/01/2025",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "10/01/2025",
+  "intimados": [
+    {
+      "nomeIntimado": "BANGU REGIONAL CENTRAL DE CUMP MANDADOS"
+    },
+    {
+      "nomeIntimado": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+    },
+    {
+      "nomeIntimado": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+    },
+    {
+      "nomeIntimado": "BANGU REGIONAL CENTRAL DE CUMP MANDADOS"
+    }
+  ],
+  "textosVinculadosProc": [
+    {
+      "descr": "Mandado Genérico",
+      "numDoc": "10/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "07/02/2025",
+      "dataDevolOJA": "18/02/2025",
+      "nomeDestinatario": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+    },
+    {
+      "descr": "Mandado de Citação e Intimação - Art. 406 do CPP (Trib. Júri)",
+      "numDoc": "7/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "10/01/2025",
+      "dataDevolOJA": "15/01/2025",
+      "nomeDestinatario": "BANGU REGIONAL CENTRAL DE CUMP MANDADOS"
+    },
+    {
+      "descr": "Mandado Genérico",
+      "numDoc": "8/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "10/01/2025",
+      "dataDevolOJA": "15/01/2025",
+      "nomeDestinatario": "BANGU REGIONAL CENTRAL DE CUMP MANDADOS"
+    },
+    {
+      "descr": "Mandado de Citação e Intimação - Art. 406 do CPP (Trib. Júri)",
+      "numDoc": "9/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "07/02/2025",
+      "dataDevolOJA": "18/02/2025",
+      "nomeDestinatario": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "10/01/2025"
+        },
+        {
+          "codigo": "Nome da Central Destinatária: ",
+          "descricao": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+        },
+        {
+          "codigo": "Data de Recebimento pelo OJA: ",
+          "descricao": "07/02/2025"
+        },
+        {
+          "codigo": "Data de Devolução pelo OJA: ",
+          "descricao": "18/02/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": [
+        {
+          "descr": "Mandado Genérico",
+          "numDoc": "10/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "07/02/2025",
+          "dataDevolOJA": "18/02/2025",
+          "nomeDestinatario": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+        },
+        {
+          "descr": "Mandado de Citação e Intimação - Art. 406 do CPP (Trib. Júri)",
+          "numDoc": "7/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "10/01/2025",
+          "dataDevolOJA": "15/01/2025",
+          "nomeDestinatario": "BANGU REGIONAL CENTRAL DE CUMP MANDADOS"
+        },
+        {
+          "descr": "Mandado Genérico",
+          "numDoc": "8/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "10/01/2025",
+          "dataDevolOJA": "15/01/2025",
+          "nomeDestinatario": "BANGU REGIONAL CENTRAL DE CUMP MANDADOS"
+        },
+        {
+          "descr": "Mandado de Citação e Intimação - Art. 406 do CPP (Trib. Júri)",
+          "numDoc": "9/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "07/02/2025",
+          "dataDevolOJA": "18/02/2025",
+          "nomeDestinatario": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+        }
+      ],
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "10/01/2025"
+}

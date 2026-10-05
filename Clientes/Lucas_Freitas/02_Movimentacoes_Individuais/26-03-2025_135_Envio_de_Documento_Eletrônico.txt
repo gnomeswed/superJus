@@ -1,0 +1,117 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #135
+DATA: 26/03/2025
+TIPO: Envio de Documento Eletrônico
+ORDEM: 40
+DATA REMESSA: 26/03/2025
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:26/03/2025
+  Nome da Central Destinatária:NITEROI CENTRAL CUMP DE MANDADOS
+  Data de Recebimento pelo OJA:01/04/2025
+  Data de Devolução pelo OJA:02/04/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 40,
+  "dtAlt": "26/03/2025",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "26/03/2025",
+  "intimados": [
+    {
+      "nomeIntimado": "NITEROI CENTRAL CUMP DE MANDADOS"
+    },
+    {
+      "nomeIntimado": "NITEROI CENTRAL CUMP DE MANDADOS"
+    },
+    {
+      "nomeIntimado": "NITEROI CENTRAL CUMP DE MANDADOS"
+    }
+  ],
+  "textosVinculadosProc": [
+    {
+      "descr": "Mandado de Intimação de Testemunha/Vítima",
+      "numDoc": "358/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "01/04/2025",
+      "dataDevolOJA": "02/04/2025",
+      "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+    },
+    {
+      "descr": "Mandado de Intimação de Testemunha/Vítima",
+      "numDoc": "359/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "01/04/2025",
+      "dataDevolOJA": "01/04/2025",
+      "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+    },
+    {
+      "descr": "Mandado de Intimação de Testemunha/Vítima",
+      "numDoc": "360/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "01/04/2025",
+      "dataDevolOJA": "01/04/2025",
+      "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "26/03/2025"
+        },
+        {
+          "codigo": "Nome da Central Destinatária: ",
+          "descricao": "NITEROI CENTRAL CUMP DE MANDADOS"
+        },
+        {
+          "codigo": "Data de Recebimento pelo OJA: ",
+          "descricao": "01/04/2025"
+        },
+        {
+          "codigo": "Data de Devolução pelo OJA: ",
+          "descricao": "02/04/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": [
+        {
+          "descr": "Mandado de Intimação de Testemunha/Vítima",
+          "numDoc": "358/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "01/04/2025",
+          "dataDevolOJA": "02/04/2025",
+          "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+        },
+        {
+          "descr": "Mandado de Intimação de Testemunha/Vítima",
+          "numDoc": "359/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "01/04/2025",
+          "dataDevolOJA": "01/04/2025",
+          "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+        },
+        {
+          "descr": "Mandado de Intimação de Testemunha/Vítima",
+          "numDoc": "360/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "01/04/2025",
+          "dataDevolOJA": "01/04/2025",
+          "nomeDestinatario": "NITEROI CENTRAL CUMP DE MANDADOS"
+        }
+      ],
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "26/03/2025"
+}

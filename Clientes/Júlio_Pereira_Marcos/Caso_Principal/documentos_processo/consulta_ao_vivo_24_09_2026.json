@@ -1,0 +1,35 @@
+{
+  "data_consulta": "24/09/2026",
+  "hora_consulta": "09:15:01",
+  "tjrj": {
+    "0023013-51.2021.8.19.0078": {
+      "status": "erro",
+      "erro": "Falha após 3 tentativas"
+    },
+    "0001140-87.2024.8.19.0078": {
+      "status": "erro",
+      "erro": "Falha após 3 tentativas"
+    },
+    "0022975-39.2021.8.19.0078": {
+      "status": "erro",
+      "erro": "Falha após 3 tentativas"
+    },
+    "0029845-67.2026.8.19.0000": {
+      "status": "erro",
+      "erro": "Falha após 3 tentativas"
+    }
+  },
+  "stj": {
+    "status": "sucesso",
+    "data_hora_consulta": "24/09/2026 09:22:53",
+    "relevant_lines": [],
+    "raw": "Verificação automática em andamento.\nAguarde a verificação automática. Caso não seja redirecionado, responda ao desafio abaixo.\n\n\n\nSe desejar, entre em contato com o nosso suporte técnico, informando o RAY(ID) mostrado acima.\nData e hora do evento: 24/09/2026, 09:22:42\nLigue: (61)3319-9393\nemail: sac@stj.jus.br\nAtendimento de segunda a sexta, das 7 às 20h.\n\nCoordenadoria de Segurança e Defesa Cibernética (CSID/STJ)\n\nSecretaria de Tecnologia da Informação e Comunicação (STI/STJ)\n[voltar]"
+  },
+  "djerj": {
+    "0023013-51.2021.8.19.0078": "Sem publicações no período (01 a 24/09/2026)",
+    "0001140-87.2024.8.19.0078": "Sem publicações no período (01 a 24/09/2026)",
+    "0022975-39.2021.8.19.0078": "Sem publicações no período (01 a 24/09/2026)",
+    "0029845-67.2026.8.19.0000": "Sem publicações no período (01 a 24/09/2026)",
+    "Julio Pereira Marcos": "Sem publicações no período (01 a 24/09/2026)"
+  }
+}

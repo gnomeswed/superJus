@@ -1,0 +1,39 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #10
+DATA: 11/06/2026
+TIPO: Envio de Documento Eletrônico
+ORDEM: 163
+DATA REMESSA: 11/06/2026
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:11/06/2026
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 163,
+  "dtAlt": "11/06/2026",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "11/06/2026",
+  "intimados": [
+    {
+      "nomeIntimado": "NITEROI 1 DEFENSORIA PUB. 3 V CRIM/JURI"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "11/06/2026"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "11/06/2026"
+}

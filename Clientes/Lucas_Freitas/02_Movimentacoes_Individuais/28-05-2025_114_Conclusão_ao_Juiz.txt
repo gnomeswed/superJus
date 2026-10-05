@@ -1,0 +1,97 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #114
+DATA: 28/05/2025
+TIPO: Conclusão ao Juiz
+ORDEM: 60
+DESCRIÇÃO: Verifica-se que a prisão preventiva dos acusados LUCAS DE SOUZA FREITAS e RONNY BATALHA FERNANDES foi decretada às fls. 149/152 e devidamente fundamentada na necessidade de garantia da ordem pública e de eventual futura aplicação da Lei Penal, bem como por conveniência da instrução criminal.
+	Não houve qualquer alteração da situação fática, permanecendo íntegros e inalterados os motivos que justificaram a decretação da custódia cautelar. 
+	Em verdade, os réus foram pronunciados conforme decisão proferida na AIJ de fls. 312/323 e renunciaram ao prazo recursal, aguardando o feito a apresentação dos róis de testemunhas para a designação da sessão de julgamento, o que corrobora a necessidade de manutenção da prisão para a conveniência da futura instrução criminal, com o fito de garantir que as testemunhas virão a plenário prestar depoimento não se sintam intimidadas pela mudança na situação prisional do réu.
+	Diante do exposto, em sede de análise prevista no artigo 316 do CPP, mantenho a prisão preventiva dos pronunciados.
+	Ciência ao Ministério Público e aos Defensores Públicos que assistem os réus.
+
+SUB-MOVIMENTO: Enviado para publicação
+  Data do expediente:29/05/2025
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:28/05/2025
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:20/05/2025
+  Juiz:NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=0004AC184A545C45959F9C513C265144BC42C5190A30571C
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 60,
+  "dtAlt": "28/05/2025",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "28/05/2025",
+  "pseudoDocEletronico": "0004AC184A545C45959F9C513C265144BC42C5190A30571C",
+  "descricao": "\tVerifica-se que a prisão preventiva dos acusados LUCAS DE SOUZA FREITAS e RONNY BATALHA FERNANDES foi decretada às fls. 149/152 e devidamente fundamentada na necessidade de garantia da ordem pública e de eventual futura aplicação da Lei Penal, bem como por conveniência da instrução criminal.\r\n\tNão houve qualquer alteração da situação fática, permanecendo íntegros e inalterados os motivos que justificaram a decretação da custódia cautelar. \r\n\tEm verdade, os réus foram pronunciados conforme decisão proferida na AIJ de fls. 312/323 e renunciaram ao prazo recursal, aguardando o feito a apresentação dos róis de testemunhas para a designação da sessão de julgamento, o que corrobora a necessidade de manutenção da prisão para a conveniência da futura instrução criminal, com o fito de garantir que as testemunhas virão a plenário prestar depoimento não se sintam intimidadas pela mudança na situação prisional do réu.\r\n\tDiante do exposto, em sede de análise prevista no artigo 316 do CPP, mantenho a prisão preventiva dos pronunciados.\r\n\tCiência ao Ministério Público e aos Defensores Públicos que assistem os réus.  ",
+  "descResumida": "\t(...) Diante do exposto, em sede de análise prevista no artigo 316 do CPP, mantenho a prisão preventiva dos pronunciados.\r\n\tCiência ao Ministério Público e aos Defensores Públicos que assistem os réus.",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Enviado para publicação",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data do expediente:",
+          "descricao": "29/05/2025"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    },
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "28/05/2025"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Decisão",
+        "descResumida": "\t(...) Diante do exposto, em sede de análise prevista no artigo 316 do CPP, mantenho a prisão preventiva dos pronunciados.\r\n\tCiência ao Ministério Público e aos Defensores Públicos que assistem os réus.",
+        "descCompleta": "\tVerifica-se que a prisão preventiva dos acusados LUCAS DE SOUZA FREITAS e RONNY BATALHA FERNANDES foi decretada às fls. 149/152 e devidamente fundamentada na necessidade de garantia da ordem pública e de eventual futura aplicação da Lei Penal, bem como por conveniência da instrução criminal.\r\n\tNão houve qualquer alteração da situação fática, permanecendo íntegros e inalterados os motivos que justificaram a decretação da custódia cautelar. \r\n\tEm verdade, os réus foram pronunciados conforme decisão proferida na AIJ de fls. 312/323 e renunciaram ao prazo recursal, aguardando o feito a apresentação dos róis de testemunhas para a designação da sessão de julgamento, o que corrobora a necessidade de manutenção da prisão para a conveniência da futura instrução criminal, com o fito de garantir que as testemunhas virão a plenário prestar depoimento não se sintam intimidadas pela mudança na situação prisional do réu.\r\n\tDiante do exposto, em sede de análise prevista no artigo 316 do CPP, mantenho a prisão preventiva dos pronunciados.\r\n\tCiência ao Ministério Público e aos Defensores Públicos que assistem os réus.  "
+      },
+      "codDocAtoAssinadoDig": "0004AC184A545C45959F9C513C265144BC42C5190A30571C"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "20/05/2025"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Decisão",
+  "descrAto": "Não concedida a revogação de Prisão Preventiva",
+  "descrTipMov": "Outras Decisões",
+  "codTipMov": "12164",
+  "nomeJuiz": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS",
+  "dtConclusao": "20/05/2025",
+  "dtDevolucao": "28/05/2025",
+  "indPublicado": "sim",
+  "publicado": {
+    "dtExp": "29/05/2025",
+    "dtPubPrev": "03/06/2025"
+  }
+}

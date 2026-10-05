@@ -1,0 +1,45 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #115
+DATA: 20/05/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 59
+DESCRIÇÃO: Certifico que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.
+
+          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:20/05/2025
+  Descrição:          Certifico que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.
+
+          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 59,
+  "dtAlt": "20/05/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "20/05/2025",
+  "descricao": "          Certifico que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.\r\n\r\n          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "20/05/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "          Certifico que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.\r\n\r\n          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "20/05/2025",
+  "indPublicado": "não"
+}

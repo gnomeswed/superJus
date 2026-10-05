@@ -1,0 +1,39 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #160
+DATA: 15/01/2025
+TIPO: Envio de Documento Eletrônico
+ORDEM: 15
+DATA REMESSA: 15/01/2025
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:15/01/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 15,
+  "dtAlt": "15/01/2025",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "15/01/2025",
+  "intimados": [
+    {
+      "nomeIntimado": "NITEROI 1 DEFENSORIA PUB. 3 V CRIM/JURI"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "15/01/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "15/01/2025"
+}

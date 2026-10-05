@@ -1,0 +1,1773 @@
+{
+  "total": 55,
+  "movimentos": [
+    {
+      "codTipAnd": 6,
+      "ordem": 54,
+      "dtAlt": "06/08/2026",
+      "descrMov": "Juntada - Documento",
+      "dtMovimento": "06/08/2026",
+      "descricao": "  ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Documento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "04/08/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "04/08/2026"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 53,
+      "dtAlt": "01/08/2026",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "01/08/2026",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "01/08/2026"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "30/07/2026"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "DANILO MARQUES BORGES"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "DANILO MARQUES BORGES",
+      "dtConclusao": "30/07/2026",
+      "dtDevolucao": "01/08/2026",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 52,
+      "dtAlt": "30/07/2026",
+      "descrMov": "Juntada - Documento",
+      "dtMovimento": "30/07/2026",
+      "descricao": " ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Documento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "30/07/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "30/07/2026"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 51,
+      "dtAlt": "29/07/2026",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "29/07/2026",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "29/07/2026"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "29/07/2026"
+    },
+    {
+      "codTipAnd": 68,
+      "ordem": 50,
+      "dtAlt": "28/07/2026",
+      "descrMov": "Envio de Documento Eletrônico",
+      "dtMovimento": "28/07/2026",
+      "intimados": [
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS 2 PROMOTORIA DE JUSTICA"
+        }
+      ],
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Envio de Documento Eletrônico",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da remessa: ",
+              "descricao": "28/07/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtRemessa": "28/07/2026"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 49,
+      "dtAlt": "28/07/2026",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "28/07/2026",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Enviado para publicação",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data do expediente:",
+              "descricao": "29/07/2026"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "24/07/2026"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "23/07/2026"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "DANILO MARQUES BORGES"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Decisão",
+      "descrAto": "Não concedida a revogação de Prisão Preventiva",
+      "descrTipMov": "Outras Decisões",
+      "codTipMov": "12164",
+      "nomeJuiz": "DANILO MARQUES BORGES",
+      "dtConclusao": "23/07/2026",
+      "dtDevolucao": "24/07/2026",
+      "indPublicado": "sim",
+      "publicado": {
+        "dtExp": "29/07/2026",
+        "dtPubPrev": "31/07/2026"
+      }
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 48,
+      "dtAlt": "21/07/2026",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "21/07/2026",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "21/07/2026"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "21/07/2026"
+    },
+    {
+      "codTipAnd": 68,
+      "ordem": 47,
+      "dtAlt": "17/07/2026",
+      "descrMov": "Envio de Documento Eletrônico",
+      "dtMovimento": "17/07/2026",
+      "intimados": [
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS 2 PROMOTORIA DE JUSTICA"
+        }
+      ],
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Envio de Documento Eletrônico",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da remessa: ",
+              "descricao": "17/07/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtRemessa": "17/07/2026"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 46,
+      "dtAlt": "17/07/2026",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "17/07/2026",
+      "descricao": "Certifico, em atenção ao determinado em fl. 1255, que juntei às fls. 1257/1287 as peças referentes ao cumprimento do Mandado de Prisão de Julio Pereira Marcos, que foram desentranhados dos autos originários (0022975-39.2021.8.19.0078). Assim, sendo o que cabia informar, faço vista dos autos ao Ministério Público.  ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "17/07/2026"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Certifico, em atenção ao determinado em fl. 1255, que juntei às fls. 1257/1287 as peças referentes ao cumprimento do Mandado de Prisão de Julio Pereira Marcos, que foram desentranhados dos autos originários (0022975-39.2021.8.19.0078). Assim, sendo o que cabia informar, faço vista dos autos ao Ministério Público.  "
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "17/07/2026",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 45,
+      "dtAlt": "17/07/2026",
+      "descrMov": "Juntada - Documento",
+      "dtMovimento": "17/07/2026",
+      "descricao": " ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Documento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "17/07/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "17/07/2026"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 44,
+      "dtAlt": "17/07/2026",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "17/07/2026",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "17/07/2026"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "10/07/2026"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "DANILO MARQUES BORGES"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "DANILO MARQUES BORGES",
+      "dtConclusao": "10/07/2026",
+      "dtDevolucao": "17/07/2026",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 43,
+      "dtAlt": "10/07/2026",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "10/07/2026",
+      "descricao": "Tendo em vista a petição de fl.1249, torno os autos conclusos. ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "10/07/2026"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Tendo em vista a petição de fl.1249, torno os autos conclusos. "
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "10/07/2026",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 42,
+      "dtAlt": "10/07/2026",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "10/07/2026",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "10/07/2026"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "10/07/2026"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 41,
+      "dtAlt": "08/06/2026",
+      "descrMov": "Juntada - FAC",
+      "dtMovimento": "08/06/2026",
+      "descricao": " ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - FAC",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "08/06/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "08/06/2026"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 40,
+      "dtAlt": "26/05/2026",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "26/05/2026",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "26/05/2026"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "26/05/2026"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 39,
+      "dtAlt": "16/05/2026",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "16/05/2026",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "16/05/2026"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "16/05/2026"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 38,
+      "dtAlt": "15/05/2026",
+      "descrMov": "Juntada - Documento",
+      "dtMovimento": "15/05/2026",
+      "descricao": " ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Documento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "15/05/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "15/05/2026"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 37,
+      "dtAlt": "15/05/2026",
+      "descrMov": "Juntada - Documento",
+      "dtMovimento": "15/05/2026",
+      "descricao": "  ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Documento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "15/05/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "15/05/2026"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 36,
+      "dtAlt": "15/05/2026",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "15/05/2026",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "15/05/2026"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "12/05/2026"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "DANILO MARQUES BORGES"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "DANILO MARQUES BORGES",
+      "dtConclusao": "12/05/2026",
+      "dtDevolucao": "15/05/2026",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 35,
+      "dtAlt": "12/05/2026",
+      "descrMov": "Juntada - Documento",
+      "dtMovimento": "12/05/2026",
+      "descricao": " ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Documento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "12/05/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "12/05/2026"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 34,
+      "dtAlt": "27/04/2026",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "27/04/2026",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "27/04/2026"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "27/04/2026"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 33,
+      "dtAlt": "27/04/2026",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "27/04/2026",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "27/04/2026"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "27/04/2026"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 32,
+      "dtAlt": "07/04/2026",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "07/04/2026",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "07/04/2026"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "01/04/2026"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "DANILO MARQUES BORGES"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "DANILO MARQUES BORGES",
+      "dtConclusao": "01/04/2026",
+      "dtDevolucao": "07/04/2026",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 31,
+      "dtAlt": "16/01/2026",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "16/01/2026",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "16/01/2026"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "16/01/2026"
+    },
+    {
+      "codTipAnd": 68,
+      "ordem": 30,
+      "dtAlt": "12/01/2026",
+      "descrMov": "Envio de Documento Eletrônico",
+      "dtMovimento": "12/01/2026",
+      "intimados": [
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS 2 PROMOTORIA DE JUSTICA"
+        }
+      ],
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Envio de Documento Eletrônico",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da remessa: ",
+              "descricao": "12/01/2026"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtRemessa": "12/01/2026"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 29,
+      "dtAlt": "12/01/2026",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "12/01/2026",
+      "descricao": "Tendo   em  vista  ,o   cumprimento das  determinações  encaminho  ao   Ministério  Público.  ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "12/01/2026"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Tendo   em  vista  ,o   cumprimento das  determinações  encaminho  ao   Ministério  Público.  "
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "12/01/2026",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 28,
+      "dtAlt": "24/04/2025",
+      "descrMov": "Juntada - FAC",
+      "dtMovimento": "24/04/2025",
+      "descricao": " ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - FAC",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "24/04/2025"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "24/04/2025"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 27,
+      "dtAlt": "26/02/2025",
+      "descrMov": "Juntada - Documento",
+      "dtMovimento": "26/02/2025",
+      "descricao": "  ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Documento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "24/01/2025"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "24/01/2025"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 26,
+      "dtAlt": "24/01/2025",
+      "descrMov": "Juntada - FAC",
+      "dtMovimento": "24/01/2025",
+      "descricao": " ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - FAC",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "07/01/2025"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "07/01/2025"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 25,
+      "dtAlt": "25/10/2024",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "25/10/2024",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "25/10/2024"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "07/10/2024"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "DANILO MARQUES BORGES"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "DANILO MARQUES BORGES",
+      "dtConclusao": "07/10/2024",
+      "dtDevolucao": "25/10/2024",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 24,
+      "dtAlt": "07/10/2024",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "07/10/2024",
+      "descricao": "Certifico que os mandados de prisão expedidos em desfavor dos réus não estão regularizados, tendo em vista que os mesmos constam com numeração do processo original do qual este foi desmembrado, além de não cosntarem no sistema BNMP. \r\n\r\nCom relação a FAC e CAC dos réus, procedi, nesta data, ao requerimento junto aos sistemas apropriados, juntando-os posteriormente. ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "07/10/2024"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Certifico que os mandados de prisão expedidos em desfavor dos réus não estão regularizados, tendo em vista que os mesmos constam com numeração do processo original do qual este foi desmembrado, além de não cosntarem no sistema BNMP. \r\n\r\nCom relação a FAC e CAC dos réus, procedi, nesta data, ao requerimento junto aos sistemas apropriados, juntando-os posteriormente. "
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "07/10/2024",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 23,
+      "dtAlt": "27/09/2024",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "27/09/2024",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "27/09/2024"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "08/09/2024"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "DANILO MARQUES BORGES"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "DANILO MARQUES BORGES",
+      "dtConclusao": "08/09/2024",
+      "dtDevolucao": "27/09/2024",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 22,
+      "dtAlt": "08/09/2024",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "08/09/2024",
+      "descricao": "Certifico que os mandados de prisão expedidos em desfavor dos acusados Júlio e Rodrigo não foram regularizados após o desmembramento, constando no BNMP apenas os mandados expedidos no feito original ( fls 508 e 514).   ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "08/09/2024"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Certifico que os mandados de prisão expedidos em desfavor dos acusados Júlio e Rodrigo não foram regularizados após o desmembramento, constando no BNMP apenas os mandados expedidos no feito original ( fls 508 e 514).   "
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "08/09/2024",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 21,
+      "dtAlt": "02/06/2024",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "02/06/2024",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "02/06/2024"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "02/06/2024"
+    },
+    {
+      "codTipAnd": 68,
+      "ordem": 20,
+      "dtAlt": "22/05/2024",
+      "descrMov": "Envio de Documento Eletrônico",
+      "dtMovimento": "22/05/2024",
+      "intimados": [
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS 2 PROMOTORIA DE JUSTICA"
+        }
+      ],
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Envio de Documento Eletrônico",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da remessa: ",
+              "descricao": "22/05/2024"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtRemessa": "22/05/2024"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 19,
+      "dtAlt": "01/11/2023",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "01/11/2023",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "01/11/2023"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "09/10/2023"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "ANDREW FRANCIS DOS SANTOS MACIEL"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "ANDREW FRANCIS DOS SANTOS MACIEL",
+      "dtConclusao": "09/10/2023",
+      "dtDevolucao": "01/11/2023",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 18,
+      "dtAlt": "09/10/2023",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "09/10/2023",
+      "descricao": "Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "01/09/2023"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "01/09/2023",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 50,
+      "ordem": 17,
+      "dtAlt": "01/09/2023",
+      "descrMov": "Juntada de Mandado",
+      "dtMovimento": "01/09/2023",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada de Mandado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "01/09/2023"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "01/09/2023"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 16,
+      "dtAlt": "08/08/2023",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "08/08/2023",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "08/08/2023"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "08/08/2023"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 15,
+      "dtAlt": "08/08/2023",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "08/08/2023",
+      "descricao": "Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "08/08/2023"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "08/08/2023",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 50,
+      "ordem": 14,
+      "dtAlt": "08/08/2023",
+      "descrMov": "Juntada de Mandado",
+      "dtMovimento": "08/08/2023",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada de Mandado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "08/08/2023"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "08/08/2023"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 13,
+      "dtAlt": "08/08/2023",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "08/08/2023",
+      "descricao": "Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "08/08/2023"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "08/08/2023",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 50,
+      "ordem": 12,
+      "dtAlt": "08/08/2023",
+      "descrMov": "Juntada de Mandado",
+      "dtMovimento": "08/08/2023",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada de Mandado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "08/08/2023"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "08/08/2023"
+    },
+    {
+      "codTipAnd": 68,
+      "ordem": 11,
+      "dtAlt": "10/07/2023",
+      "descrMov": "Envio de Documento Eletrônico",
+      "dtMovimento": "10/07/2023",
+      "intimados": [
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+        },
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+        },
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+        }
+      ],
+      "textosVinculadosProc": [
+        {
+          "descr": "Mandado de Intimação p/ fins diversos. ",
+          "numDoc": "1421/2023/MND",
+          "codOrg": "4068",
+          "numAgRel": 0,
+          "dataRecebOJA": "11/07/2023",
+          "dataDevolOJA": "31/08/2023",
+          "nomeDestinatario": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+        },
+        {
+          "descr": "Mandado de Intimação p/ fins diversos. ",
+          "numDoc": "1422/2023/MND",
+          "codOrg": "4068",
+          "numAgRel": 0,
+          "dataRecebOJA": "12/07/2023",
+          "dataDevolOJA": "07/08/2023",
+          "nomeDestinatario": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+        },
+        {
+          "descr": "Mandado de Intimação p/ fins diversos. ",
+          "numDoc": "1423/2023/MND",
+          "codOrg": "4068",
+          "numAgRel": 0,
+          "dataRecebOJA": "12/07/2023",
+          "dataDevolOJA": "07/08/2023",
+          "nomeDestinatario": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+        }
+      ],
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Envio de Documento Eletrônico",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da remessa: ",
+              "descricao": "10/07/2023"
+            },
+            {
+              "codigo": "Nome da Central Destinatária: ",
+              "descricao": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+            },
+            {
+              "codigo": "Data de Recebimento pelo OJA: ",
+              "descricao": "11/07/2023"
+            },
+            {
+              "codigo": "Data de Devolução pelo OJA: ",
+              "descricao": "31/08/2023"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": [
+            {
+              "descr": "Mandado de Intimação p/ fins diversos. ",
+              "numDoc": "1421/2023/MND",
+              "codOrg": "4068",
+              "numAgRel": 0,
+              "dataRecebOJA": "11/07/2023",
+              "dataDevolOJA": "31/08/2023",
+              "nomeDestinatario": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+            },
+            {
+              "descr": "Mandado de Intimação p/ fins diversos. ",
+              "numDoc": "1422/2023/MND",
+              "codOrg": "4068",
+              "numAgRel": 0,
+              "dataRecebOJA": "12/07/2023",
+              "dataDevolOJA": "07/08/2023",
+              "nomeDestinatario": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+            },
+            {
+              "descr": "Mandado de Intimação p/ fins diversos. ",
+              "numDoc": "1423/2023/MND",
+              "codOrg": "4068",
+              "numAgRel": 0,
+              "dataRecebOJA": "12/07/2023",
+              "dataDevolOJA": "07/08/2023",
+              "nomeDestinatario": "ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL."
+            }
+          ],
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtRemessa": "10/07/2023"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 10,
+      "dtAlt": "16/05/2023",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "16/05/2023",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "16/05/2023"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "25/04/2023"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "RAPHAEL BADDINI DE QUEIROZ CAMPOS"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "RAPHAEL BADDINI DE QUEIROZ CAMPOS",
+      "dtConclusao": "25/04/2023",
+      "dtDevolucao": "16/05/2023",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 9,
+      "dtAlt": "16/03/2023",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "16/03/2023",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "16/03/2023"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "16/03/2023"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 8,
+      "dtAlt": "05/02/2023",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "05/02/2023",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "05/02/2023"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "05/02/2023"
+    },
+    {
+      "codTipAnd": 68,
+      "ordem": 7,
+      "dtAlt": "30/01/2023",
+      "descrMov": "Envio de Documento Eletrônico",
+      "dtMovimento": "30/01/2023",
+      "intimados": [
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS 2 PROMOTORIA DE JUSTICA"
+        }
+      ],
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Envio de Documento Eletrônico",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da remessa: ",
+              "descricao": "30/01/2023"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtRemessa": "30/01/2023"
+    },
+    {
+      "codTipAnd": 1,
+      "ordem": 6,
+      "dtAlt": "11/01/2023",
+      "descrMov": "Conclusão ao Juiz",
+      "dtMovimento": "11/01/2023",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Recebimento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data de Recebimento: ",
+              "descricao": "11/01/2023"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        },
+        {
+          "tipoMovimento": "Conclusão ao Juiz",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da conclusão: ",
+              "descricao": "10/10/2022"
+            },
+            {
+              "codigo": "Juiz: ",
+              "descricao": "RAPHAEL BADDINI DE QUEIROZ CAMPOS"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "descrTipAto": "Despacho",
+      "descrAto": "Proferido despacho de mero expediente",
+      "descrTipMov": "Proferido despacho de mero expediente",
+      "codTipMov": "11010",
+      "nomeJuiz": "RAPHAEL BADDINI DE QUEIROZ CAMPOS",
+      "dtConclusao": "10/10/2022",
+      "dtDevolucao": "11/01/2023",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 5,
+      "dtAlt": "10/08/2022",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "10/08/2022",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "10/08/2022"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "10/08/2022"
+    },
+    {
+      "codTipAnd": 6,
+      "ordem": 4,
+      "dtAlt": "29/05/2022",
+      "descrMov": "Juntada - Petição",
+      "dtMovimento": "29/05/2022",
+      "descricao": "Documento eletrônico juntado de forma automática.",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Juntada - Petição",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da juntada: ",
+              "descricao": "29/05/2022"
+            },
+            {
+              "codigo": "Descrição da Juntada: ",
+              "descricao": "Documento eletrônico juntado de forma automática."
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtJuntada": "29/05/2022"
+    },
+    {
+      "codTipAnd": 68,
+      "ordem": 3,
+      "dtAlt": "20/05/2022",
+      "descrMov": "Envio de Documento Eletrônico",
+      "dtMovimento": "20/05/2022",
+      "intimados": [
+        {
+          "nomeIntimado": "ARMACAO DOS BUZIOS 2 PROMOTORIA DE JUSTICA"
+        }
+      ],
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Envio de Documento Eletrônico",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da remessa: ",
+              "descricao": "20/05/2022"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtRemessa": "20/05/2022"
+    },
+    {
+      "codTipAnd": 4,
+      "ordem": 2,
+      "dtAlt": "20/05/2022",
+      "descrMov": "Ato Ordinatório Praticado",
+      "dtMovimento": "20/05/2022",
+      "descricao": "Em atenção ao r. despacho de fls. 1092 (item 01), certifico que procedi ao desmembramento do processo 0022975-39.2021.8.19.0078  em relação aos réus JULIO PEREIRA MARCOS e RODRIGO DUARTE DE SOUZA, o que gerou o presente feito (processo 0023013-51.2021.8.19.0078). \r\n\r\nEncaminho os autos ao MP em cumprimento do item 01 do despacho de fls. 1092.  ",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Ato Ordinatório Praticado",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data: ",
+              "descricao": "20/05/2022"
+            },
+            {
+              "codigo": "Descrição: ",
+              "descricao": "Em atenção ao r. despacho de fls. 1092 (item 01), certifico que procedi ao desmembramento do processo 0022975-39.2021.8.19.0078  em relação aos réus JULIO PEREIRA MARCOS e RODRIGO DUARTE DE SOUZA, o que gerou o presente feito (processo 0023013-51.2021.8.19.0078). \r\n\r\nEncaminho os autos ao MP em cumprimento do item 01 do despacho de fls. 1092.  "
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "20/05/2022",
+      "indPublicado": "não"
+    },
+    {
+      "codTipAnd": 25,
+      "ordem": 1,
+      "dtAlt": "17/05/2022",
+      "descrMov": "Desmembramento de Processo",
+      "dtMovimento": "17/05/2022",
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Desmembramento de Processo",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data do movimento: ",
+              "descricao": "17/05/2022"
+            }
+          ],
+          "docEletronico": [],
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dtInic": "17/05/2022"
+    },
+    {
+      "movimentosExibicao": [
+        {
+          "tipoMovimento": "Distribuição Desmembramento",
+          "detalhesMovimento": [
+            {
+              "codigo": "Data da Distribuição: ",
+              "descricao": "23/12/2021"
+            },
+            {
+              "codigo": "Serventia: ",
+              "descricao": "Cartório da 2ª Vara - 2ª Vara"
+            }
+          ],
+          "docEletronico": null,
+          "textosVinculadosProc": null,
+          "resumoOuIntegra": null,
+          "codDocAtoAssinadoDig": null
+        }
+      ],
+      "dt": "23/12/2021",
+      "descDistribuicao": "Desmembramento",
+      "dtAtualizacao": "17/05/2022",
+      "serventia": "Cartório da 2ª Vara - 2ª Vara"
+    }
+  ]
+}

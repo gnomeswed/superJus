@@ -1,0 +1,41 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #61
+DATA: 19/03/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 113
+DESCRIÇÃO: CERTIDÃO
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:19/03/2026
+  Descrição:CERTIDÃO 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 113,
+  "dtAlt": "19/03/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "19/03/2026",
+  "descricao": "CERTIDÃO ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "19/03/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "CERTIDÃO "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "19/03/2026",
+  "indPublicado": "não"
+}

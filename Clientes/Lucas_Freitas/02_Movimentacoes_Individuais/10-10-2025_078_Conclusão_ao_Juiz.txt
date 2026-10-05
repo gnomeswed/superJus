@@ -1,0 +1,71 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #78
+DATA: 10/10/2025
+TIPO: Conclusão ao Juiz
+ORDEM: 96
+DESCRIÇÃO: Fl. 473 - Digam as defesas técnicas (DPGE e DP Tabelar).
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:10/10/2025
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:09/10/2025
+  Juiz:DANIEL DA SILVA FONSECA
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=000401A22AB60E6369B4B60D76B93093E410C51959071A40
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 96,
+  "dtAlt": "10/10/2025",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "10/10/2025",
+  "pseudoDocEletronico": "000401A22AB60E6369B4B60D76B93093E410C51959071A40",
+  "descricao": "Fl. 473 - Digam as defesas técnicas (DPGE e DP Tabelar).  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "10/10/2025"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "Fl. 473 - Digam as defesas técnicas (DPGE e DP Tabelar).  "
+      },
+      "codDocAtoAssinadoDig": "000401A22AB60E6369B4B60D76B93093E410C51959071A40"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "09/10/2025"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "DANIEL DA SILVA FONSECA"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "DANIEL DA SILVA FONSECA",
+  "dtConclusao": "09/10/2025",
+  "dtDevolucao": "10/10/2025",
+  "indPublicado": "não"
+}

@@ -1,0 +1,48 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #32
+DATA: 20/04/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 142
+DESCRIÇÃO: Certifico que, nesta data, entrei em contato com a testemunha, Sra. Márcia de Sousa Germano, pelo telefone nº 21-97882-4830, cientificando-a da alteração do horário da sessão plenária designada para o dia 22/04/2026, com horário alterado para as 13h.
+
+Certifico, ainda, que, em contato com a testemunha, Sr. Darlan Germano de Souza, pelo telefone nº 21-96821-2790, cientifiquei-o da referida alteração.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:20/04/2026
+  Descrição:Certifico que, nesta data, entrei em contato com a testemunha, Sra. Márcia de Sousa Germano, pelo telefone nº 21-97882-4830, cientificando-a da alteração do horário da sessão plenária designada para o dia 22/04/2026, com horário alterado para as 13h.
+
+Certifico, ainda, que, em contato com a testemunha, Sr. Darlan Germano de Souza, pelo telefone nº 21-96821-2790, cientifiquei-o da referida alteração.
+
+
+ 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 142,
+  "dtAlt": "20/04/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "20/04/2026",
+  "descricao": "Certifico que, nesta data, entrei em contato com a testemunha, Sra. Márcia de Sousa Germano, pelo telefone nº 21-97882-4830, cientificando-a da alteração do horário da sessão plenária designada para o dia 22/04/2026, com horário alterado para as 13h.\r\n\r\nCertifico, ainda, que, em contato com a testemunha, Sr. Darlan Germano de Souza, pelo telefone nº 21-96821-2790, cientifiquei-o da referida alteração.\r\n\r\n\r\n ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "20/04/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que, nesta data, entrei em contato com a testemunha, Sra. Márcia de Sousa Germano, pelo telefone nº 21-97882-4830, cientificando-a da alteração do horário da sessão plenária designada para o dia 22/04/2026, com horário alterado para as 13h.\r\n\r\nCertifico, ainda, que, em contato com a testemunha, Sr. Darlan Germano de Souza, pelo telefone nº 21-96821-2790, cientifiquei-o da referida alteração.\r\n\r\n\r\n "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "20/04/2026",
+  "indPublicado": "não"
+}

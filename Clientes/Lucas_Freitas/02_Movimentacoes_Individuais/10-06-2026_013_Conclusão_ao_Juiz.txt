@@ -1,0 +1,78 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #13
+DATA: 10/06/2026
+TIPO: Conclusão ao Juiz
+ORDEM: 160
+DESCRIÇÃO: Defiro a habilitação da Defensoria Pública para a defesa de Ronny Batalha Fernandes, diante da renúncia de sua patrona (fls. 767) e da manifestação do acusado nesse sentido (fls. 783).
+
+Recebidas as apelações em plenário (fls. 728), dê-se vista à Defensoria Pública para as razões e, após, ao Ministério Público para as contrarrazões, no prazo legal.
+
+Em seguida, subam os autos ao Egrégio Tribunal de Justiça, com as homenagens de estilo.
+
+Intimem-se.
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:10/06/2026
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:09/06/2026
+  Juiz:NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=0004E0493C215A4E68A6307317F0C09E8D8BC51A5E395E17
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 160,
+  "dtAlt": "10/06/2026",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "10/06/2026",
+  "pseudoDocEletronico": "0004E0493C215A4E68A6307317F0C09E8D8BC51A5E395E17",
+  "descricao": "Defiro a habilitação da Defensoria Pública para a defesa de Ronny Batalha Fernandes, diante da renúncia de sua patrona (fls. 767) e da manifestação do acusado nesse sentido (fls. 783).\n\r\nRecebidas as apelações em plenário (fls. 728), dê-se vista à Defensoria Pública para as razões e, após, ao Ministério Público para as contrarrazões, no prazo legal.\r\n\nEm seguida, subam os autos ao Egrégio Tribunal de Justiça, com as homenagens de estilo.\r\n\nIntimem-se.  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "10/06/2026"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "Defiro a habilitação da Defensoria Pública para a defesa de Ronny Batalha Fernandes, diante da renúncia de sua patrona (fls. 767) e da manifestação do acusado nesse sentido (fls. 783).\n\r\nRecebidas as apelações em plenári...",
+        "descCompleta": "Defiro a habilitação da Defensoria Pública para a defesa de Ronny Batalha Fernandes, diante da renúncia de sua patrona (fls. 767) e da manifestação do acusado nesse sentido (fls. 783).\n\r\nRecebidas as apelações em plenário (fls. 728), dê-se vista à Defensoria Pública para as razões e, após, ao Ministério Público para as contrarrazões, no prazo legal.\r\n\nEm seguida, subam os autos ao Egrégio Tribunal de Justiça, com as homenagens de estilo.\r\n\nIntimem-se.  "
+      },
+      "codDocAtoAssinadoDig": "0004E0493C215A4E68A6307317F0C09E8D8BC51A5E395E17"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "09/06/2026"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS",
+  "dtConclusao": "09/06/2026",
+  "dtDevolucao": "10/06/2026",
+  "indPublicado": "não"
+}

@@ -1,0 +1,85 @@
+{
+  "status": "sucesso",
+  "data_consulta": "30/09/2026",
+  "hora_consulta": "20:43:11",
+  "dias_prisao_preventiva": 141,
+  "stj_tempo_concluso": "48 dias ininterruptos",
+  "tjrj": {
+    "0023013-51.2021.8.19.0078": {
+      "status": "sucesso",
+      "descricao": "Ação Penal Principal Desmembrada - 2ª Vara de Búzios",
+      "localizacao": "Conclusão Minutada",
+      "total_movimentos": 10,
+      "ultimos_movimentos": [
+        "Tipo do Movimento: Conclusão ao Juiz | Data da conclusão: | 30/09/2026 | Juiz: | CARLOS GUSTAVO FERNANDES DE MORAIS | Tipo do Movimento: Juntada - Petição | Data da juntada: | 28/09/2026",
+        "Tipo do Movimento: Juntada - Petição | Data da juntada: | 28/09/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Juntada - Documento | Data da juntada: | 04/08/2026",
+        "Tipo do Movimento: Juntada - Documento | Data da juntada: | 04/08/2026 | Tipo do Movimento: Recebimento | Data de Recebimento: | 01/08/2026 | Tipo do Movimento: Conclusão ao Juiz | Data da conclusão:",
+        "Tipo do Movimento: Recebimento | Data de Recebimento: | 01/08/2026 | Tipo do Movimento: Conclusão ao Juiz | Data da conclusão: | 30/07/2026 | Juiz: | DANILO MARQUES BORGES",
+        "Tipo do Movimento: Conclusão ao Juiz | Data da conclusão: | 30/07/2026 | Juiz: | DANILO MARQUES BORGES | Tipo do Movimento: Juntada - Documento | Data da juntada: | 30/07/2026",
+        "Tipo do Movimento: Juntada - Documento | Data da juntada: | 30/07/2026 | Tipo do Movimento: Juntada - Petição | Data da juntada: | 29/07/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática.",
+        "Tipo do Movimento: Juntada - Petição | Data da juntada: | 29/07/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 28/07/2026",
+        "Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 28/07/2026 | Tipo do Movimento: Enviado para publicação | Data do expediente: | 29/07/2026 | Tipo do Movimento: Recebimento | Data de Recebimento:"
+      ]
+    },
+    "0001140-87.2024.8.19.0078": {
+      "status": "sucesso",
+      "descricao": "Recurso em Sentido Estrito / Apenso Búzios",
+      "localizacao": "Aguardando Cumprimento de Mandado",
+      "total_movimentos": 10,
+      "ultimos_movimentos": [
+        "Tipo do Movimento: Ato Ordinatório Praticado | Data: | 30/09/2026 | Descrição: | Certifico que houve desmembramento dos autos em relação aos réus JULIO PEREIRA MARCOS e RODRIGO DUARTE DE SOUZA no id 114. | Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 11/09/2026",
+        "Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 11/09/2026 | Nome da Central Destinatária: | ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL. | Data de Recebimento pelo OJA: | 16/09/2026 | Documento(s) digitado(s):",
+        "Tipo do Movimento: Ato Ordinatório Praticado | Data: | 11/09/2026 | Descrição: | Certifico que compulsando os autos constatei que os recorridos: - CHRISTIANO PEREIRA MARCOS, AULO HENRIQUE DA SILVA BENTO e JULIANO LUCAS NUNES, representados pela DP, apresentaram contrarrazões no id 162; - JOSE GUILHERME DA COSTA FREIRE, representado pelo advogado Dr. ALBERTO PEÇANHA DO ESPÍRITO SANTO, apresentou contrarrazões no id 190; Certifico que não houve intimação do recorrido EMERSON FERNANDES ANANIAS, conforme Despacho de id 183, o que faço na presente data. | Tipo do Movimento: Juntada de Mandado | Data da juntada: | 15/08/2026",
+        "Tipo do Movimento: Juntada de Mandado | Data da juntada: | 15/08/2026 | Tipo do Movimento: Juntada - Contrarrazões | Data da juntada: | 14/08/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática.",
+        "Tipo do Movimento: Juntada - Contrarrazões | Data da juntada: | 14/08/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Juntada - Petição | Data da juntada: | 05/08/2026",
+        "Tipo do Movimento: Juntada - Petição | Data da juntada: | 05/08/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 29/07/2026",
+        "Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 29/07/2026 | Nome da Central Destinatária: | ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL. | Data de Recebimento pelo OJA: | 31/07/2026 | Data de Devolução pelo OJA:",
+        "Tipo do Movimento: Recebimento | Data de Recebimento: | 29/07/2026 | Tipo do Movimento: Conclusão ao Juiz | Data da conclusão: | 25/07/2026 | Juiz: | DANILO MARQUES BORGES"
+      ]
+    },
+    "0022975-39.2021.8.19.0078": {
+      "status": "sucesso",
+      "descricao": "Processo Originário / Co-réus Búzios",
+      "localizacao": "Aguardando Cumprimento de Mandado",
+      "total_movimentos": 10,
+      "ultimos_movimentos": [
+        "Tipo do Movimento: Juntada - Petição | Data da juntada: | 05/08/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 25/07/2026",
+        "Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 25/07/2026 | Nome da Central Destinatária: | ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL. | Data de Recebimento pelo OJA: | 30/07/2026 | Documento(s) digitado(s):",
+        "Tipo do Movimento: Desentranhamento | Data do movimento: | 17/07/2026 | Tipo do Movimento: Juntada - Petição Custódia | Data da juntada: | 14/05/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática.",
+        "Tipo do Movimento: Juntada - Petição Custódia | Data da juntada: | 14/05/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Enviado para publicação | Data do expediente: | 09/12/2025",
+        "Tipo do Movimento: Enviado para publicação | Data do expediente: | 09/12/2025 | Tipo do Movimento: Ato Ordinatório Praticado | Data: | 08/12/2025 | Descrição: | Aos patronos dos acusados para se manifestarem sobre o item 4 de fls. 1660",
+        "Tipo do Movimento: Ato Ordinatório Praticado | Data: | 08/12/2025 | Descrição: | Aos patronos dos acusados para se manifestarem sobre o item 4 de fls. 1660 | Tipo do Movimento: Juntada - Petição | Data da juntada: | 27/01/2025",
+        "Tipo do Movimento: Juntada - Petição | Data da juntada: | 27/01/2025 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 23/01/2025",
+        "Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 23/01/2025 | Tipo do Movimento: Ato Ordinatório Praticado | Data: | 23/01/2025 | Descrição: | À Defensoria Público conforme item 4 de id 1660."
+      ]
+    },
+    "0029845-67.2026.8.19.0000": {
+      "status": "sucesso",
+      "descricao": "2ª Instância TJRJ (HC e ROC - 7ª Câmara Criminal)",
+      "fase": "Arquivamento Definitivo",
+      "detalhe": "Baixa definitiva no TJRJ em 20/08/2026 e envio do ROC ao STJ"
+    }
+  },
+  "djerj": {
+    "0023013-51.2021.8.19.0078": "Sem publicações no período (01/09/2026 a 30/09/2026)",
+    "0001140-87.2024.8.19.0078": "Sem publicações no período (01/09/2026 a 30/09/2026)",
+    "0022975-39.2021.8.19.0078": "Sem publicações no período (01/09/2026 a 30/09/2026)",
+    "0029845-67.2026.8.19.0000": "Sem publicações no período (01/09/2026 a 30/09/2026)",
+    "Julio Pereira Marcos": "Sem publicações no período (01/09/2026 a 30/09/2026)"
+  },
+  "stj": {
+    "numeroProcesso": "0311210-10.2026.3.00.0000",
+    "hc": "1.116.750 / RJ",
+    "relator": "MINISTRO OG FERNANDES",
+    "faseAtual": "Conclusos para Decisão ao Relator (desde 13/08/2026)",
+    "tempoConcluso": "48 dias ininterruptos",
+    "erro_conexao": "HTTP Error 429: Too Many Requests"
+  },
+  "novidades_detectadas": [
+    {
+      "processo": "0023013-51.2021.8.19.0078",
+      "descricao": "Ação Penal Principal Desmembrada - 2ª Vara de Búzios",
+      "movimento": "Tipo do Movimento: Conclusão ao Juiz | Data da conclusão: | 30/09/2026 | Juiz: | CARLOS GUSTAVO FERNANDES DE MORAIS | Tipo do Movimento: Juntada - Petição | Dat"
+    }
+  ]
+}

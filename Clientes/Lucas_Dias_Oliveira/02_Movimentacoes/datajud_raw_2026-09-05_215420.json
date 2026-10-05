@@ -1,0 +1,1378 @@
+[
+  {
+    "id": "TJRJ_G1_08085953620268190002",
+    "tribunal": "TJRJ",
+    "grau": "G1",
+    "numeroProcesso": "08085953620268190002",
+    "dataAjuizamento": "20260330035136",
+    "nivelSigilo": 0,
+    "orgaoJulgador": {
+      "codigo": 7588,
+      "nome": "NITEROI 4 VARA CRIMINAL",
+      "codigoMunicipioIBGE": 3303302
+    },
+    "classe": {
+      "codigo": 300,
+      "nome": "Procedimento Especial da Lei Antitóxicos"
+    },
+    "sistema": {
+      "codigo": 1,
+      "nome": "PJe"
+    },
+    "formato": {
+      "codigo": 1,
+      "nome": "Eletrônico"
+    },
+    "dataHoraUltimaAtualizacao": "2026-08-21T12:25:59.261000Z",
+    "@timestamp": "2026-08-21T12:25:59.261000Z",
+    "movimentos": [
+      {
+        "codigo": 26,
+        "dataHora": "2026-03-30T03:51:36.000Z",
+        "nome": "Distribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 2,
+            "nome": "sorteio"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-30T03:51:39.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-30T03:51:40.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-30T03:51:41.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 36,
+        "dataHora": "2026-03-30T03:51:41.000Z",
+        "nome": "Redistribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 17,
+            "descricao": "motivo_da_redistribuicao",
+            "valor": 83,
+            "nome": "incompetência"
+          },
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 1,
+            "nome": "competência exclusiva"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-03-30T13:18:12.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-03-30T15:20:09.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-03-30T19:57:23.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 9,
+            "nome": "designada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-03-30T19:58:26.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 9,
+            "nome": "designada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-03-31T12:19:55.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-03-31T14:36:57.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-31T15:07:03.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-31T15:07:30.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-31T18:14:02.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-03-31T18:14:02.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 13,
+            "nome": "realizada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-03-31T18:14:02.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-31T19:02:57.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-03-31T19:02:57.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 13,
+            "nome": "realizada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-03-31T19:02:57.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-31T21:45:20.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-03-31T21:45:49.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 36,
+        "dataHora": "2026-03-31T21:46:01.000Z",
+        "nome": "Redistribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 1,
+            "nome": "competência exclusiva"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-03-31T21:46:02.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-03T05:26:09.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-06T17:29:33.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-07T20:29:02.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 36,
+        "dataHora": "2026-04-07T20:29:52.000Z",
+        "nome": "Redistribuição",
+        "complementosTabelados": [
+          {
+            "codigo": 2,
+            "descricao": "tipo_de_distribuicao_redistribuicao",
+            "valor": 3,
+            "nome": "prevenção"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-04-08T14:03:58.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-08T21:07:31.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-09T15:34:55.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-09T15:38:07.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-09T15:39:35.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-09T23:39:43.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-04-10T14:32:54.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-14T19:48:30.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-16T21:37:09.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-17T14:38:21.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-17T14:42:09.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-17T14:52:20.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-17T14:54:43.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-04-17T16:20:52.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-17T16:43:56.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-04-20T13:14:46.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-04-20T14:15:16.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-20T21:37:47.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-20T21:37:47.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-04-22T04:07:31.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-22T12:53:12.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-22T16:04:26.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-04-23T21:44:16.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1061,
+        "dataHora": "2026-04-27T04:23:16.000Z",
+        "nome": "Disponibilização no Diário da Justiça Eletrônico",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 92,
+        "dataHora": "2026-04-27T04:23:16.000Z",
+        "nome": "Publicação",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-27T18:25:03.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-04-27T19:43:08.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-04-27T19:55:18.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 9,
+            "nome": "designada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 391,
+        "dataHora": "2026-04-27T20:12:57.000Z",
+        "nome": "Denúncia",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-04-27T20:37:16.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-04-27T20:40:07.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-04-28T00:38:00.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-05-05T05:01:48.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-05-07T22:19:20.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-08T14:52:22.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-08T14:52:22.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-08T14:52:23.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-05-08T14:52:36.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-05-11T15:23:18.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-05-11T18:40:37.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1061,
+        "dataHora": "2026-05-13T04:01:13.000Z",
+        "nome": "Disponibilização no Diário da Justiça Eletrônico",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 92,
+        "dataHora": "2026-05-13T04:01:13.000Z",
+        "nome": "Publicação",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-05-19T05:32:58.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-05-19T05:32:58.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-21T14:09:03.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-21T14:09:03.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-05-21T14:09:03.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-05-22T19:36:05.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1061,
+        "dataHora": "2026-05-25T03:21:23.000Z",
+        "nome": "Disponibilização no Diário da Justiça Eletrônico",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 92,
+        "dataHora": "2026-05-25T03:21:24.000Z",
+        "nome": "Publicação",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-05-27T20:24:27.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-06-02T05:59:59.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-06-02T05:59:59.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-10T17:14:09.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-06-10T17:19:04.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-10T17:22:56.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-10T17:22:56.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-10T17:22:56.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-10T17:28:55.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-10T17:30:00.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-10T17:32:48.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-06-10T17:32:49.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-06-11T15:41:56.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1061,
+        "dataHora": "2026-06-12T04:24:30.000Z",
+        "nome": "Disponibilização no Diário da Justiça Eletrônico",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 92,
+        "dataHora": "2026-06-12T04:24:30.000Z",
+        "nome": "Publicação",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-06-22T03:48:36.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-06-23T18:31:25.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-06T18:43:52.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-09T02:26:41.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-09T04:10:02.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-07-09T04:34:47.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-07-09T04:34:47.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-09T13:40:59.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-09T18:16:28.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 970,
+        "dataHora": "2026-07-09T18:16:28.000Z",
+        "nome": "Audiência",
+        "complementosTabelados": [
+          {
+            "codigo": 15,
+            "descricao": "situacao_da_audiencia",
+            "valor": 13,
+            "nome": "realizada"
+          }
+        ],
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-07-13T15:19:00.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-07-15T04:20:40.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 1051,
+        "dataHora": "2026-07-15T04:20:41.000Z",
+        "nome": "Decurso de Prazo",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-17T02:38:15.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-07-17T16:14:16.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-07-20T18:08:38.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-20T18:11:35.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-07-20T18:15:00.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-07-20T18:22:24.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-07-21T20:38:09.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-08-04T02:28:36.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-04T15:03:23.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-08-08T15:35:16.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 51,
+        "dataHora": "2026-08-10T14:09:25.000Z",
+        "nome": "Conclusão",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-08-10T18:32:40.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-08-10T18:33:28.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-08-10T18:47:27.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 581,
+        "dataHora": "2026-08-10T18:49:54.000Z",
+        "nome": "Documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-10T18:53:45.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 85,
+        "dataHora": "2026-08-17T10:06:52.000Z",
+        "nome": "Petição",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-17T18:17:18.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-17T18:19:04.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-17T18:19:04.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-17T18:20:09.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 60,
+        "dataHora": "2026-08-17T18:20:09.000Z",
+        "nome": "Expedição de documento",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 12140,
+        "dataHora": "2026-03-31T18:14:03.000Z",
+        "nome": "Prisão em Flagrante em Prisão Preventiva",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 12140,
+        "dataHora": "2026-03-31T19:02:57.000Z",
+        "nome": "Prisão em Flagrante em Prisão Preventiva",
+        "orgaoJulgador": {
+          "codigo": "72807",
+          "nome": "CAPITAL - CENTRAL AUD CUST DES ANTONIO J. BOENTE"
+        }
+      },
+      {
+        "codigo": 12265,
+        "dataHora": "2026-03-31T21:46:01.000Z",
+        "nome": "Expedida/certificada",
+        "orgaoJulgador": {
+          "codigo": "92323",
+          "nome": "NITEROI - 2 VARA DAS GARANTIAS"
+        }
+      },
+      {
+        "codigo": 12146,
+        "dataHora": "2026-04-10T20:29:02.000Z",
+        "nome": "Liberdade Provisória",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11383,
+        "dataHora": "2026-04-20T13:16:30.000Z",
+        "nome": "Ato ordinatório",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 12164,
+        "dataHora": "2026-04-20T16:42:19.000Z",
+        "nome": "Outras Decisões",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 14739,
+        "dataHora": "2026-04-28T14:56:15.000Z",
+        "nome": "Evolução da Classe Processual",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 14738,
+        "dataHora": "2026-05-08T14:49:30.000Z",
+        "nome": "Retificação de Classe Processual",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11010,
+        "dataHora": "2026-05-08T15:17:14.000Z",
+        "nome": "Mero expediente",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 12164,
+        "dataHora": "2026-05-11T19:08:12.000Z",
+        "nome": "Outras Decisões",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 11010,
+        "dataHora": "2026-07-17T16:52:01.000Z",
+        "nome": "Mero expediente",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      },
+      {
+        "codigo": 12146,
+        "dataHora": "2026-08-10T16:08:47.000Z",
+        "nome": "Liberdade Provisória",
+        "orgaoJulgador": {
+          "codigo": "7588",
+          "nome": "NITEROI 4 VARA CRIMINAL"
+        }
+      }
+    ],
+    "assuntos": [
+      {
+        "codigo": 7929,
+        "nome": "Prisão em flagrante"
+      },
+      {
+        "codigo": 3608,
+        "nome": "Tráfico de Drogas e Condutas Afins"
+      }
+    ]
+  }
+]

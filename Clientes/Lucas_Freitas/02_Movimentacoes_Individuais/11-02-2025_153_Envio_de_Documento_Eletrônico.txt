@@ -1,0 +1,39 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #153
+DATA: 11/02/2025
+TIPO: Envio de Documento Eletrônico
+ORDEM: 22
+DATA REMESSA: 11/02/2025
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:11/02/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 22,
+  "dtAlt": "11/02/2025",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "11/02/2025",
+  "intimados": [
+    {
+      "nomeIntimado": "NITEROI PROMOTORIA JUST 3 VARA CRIMINAL"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "11/02/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "11/02/2025"
+}

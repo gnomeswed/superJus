@@ -1,0 +1,73 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #158
+DATA: 16/01/2025
+TIPO: Conclusão ao Juiz
+ORDEM: 17
+DESCRIÇÃO: A certidão cartorária de fl. 193 informa que consta erro no número do RG constante do Mandado de Prisão de fls. 154/155, referente ao réu RONNY BATALHA FERNANDES.
+	Ante o exposto, recolha-se o mandado de prisão que contém o erro material e expeça-se novo, com a informação correta.
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:16/01/2025
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:15/01/2025
+  Juiz:NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=000498003591EA68DB2DAE4DBE0B26E3EE4BC5182303291F
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 17,
+  "dtAlt": "16/01/2025",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "16/01/2025",
+  "pseudoDocEletronico": "000498003591EA68DB2DAE4DBE0B26E3EE4BC5182303291F",
+  "descricao": "\tA certidão cartorária de fl. 193 informa que consta erro no número do RG constante do Mandado de Prisão de fls. 154/155, referente ao réu RONNY BATALHA FERNANDES.\r\n\tAnte o exposto, recolha-se o mandado de prisão que contém o erro material e expeça-se novo, com a informação correta.  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "16/01/2025"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "\tA certidão cartorária de fl. 193 informa que consta erro no número do RG constante do Mandado de Prisão de fls. 154/155, referente ao réu RONNY BATALHA FERNANDES.\r\n\tAnte o exposto, recolha-se o mandado de prisão que con...",
+        "descCompleta": "\tA certidão cartorária de fl. 193 informa que consta erro no número do RG constante do Mandado de Prisão de fls. 154/155, referente ao réu RONNY BATALHA FERNANDES.\r\n\tAnte o exposto, recolha-se o mandado de prisão que contém o erro material e expeça-se novo, com a informação correta.  "
+      },
+      "codDocAtoAssinadoDig": "000498003591EA68DB2DAE4DBE0B26E3EE4BC5182303291F"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "15/01/2025"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "NEARIS DOS SANTOS CARVALHO ARCE DOS SANTOS",
+  "dtConclusao": "15/01/2025",
+  "dtDevolucao": "16/01/2025",
+  "indPublicado": "não"
+}

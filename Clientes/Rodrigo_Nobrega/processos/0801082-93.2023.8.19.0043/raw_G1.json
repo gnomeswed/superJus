@@ -1,0 +1,2313 @@
+{
+  "id": "TJRJ_G1_08010829320238190043",
+  "tribunal": "TJRJ",
+  "grau": "G1",
+  "numeroProcesso": "08010829320238190043",
+  "dataAjuizamento": "20230707154504",
+  "nivelSigilo": 0,
+  "orgaoJulgador": {
+    "codigo": 7385,
+    "nome": "PIRAI VARA UNICA",
+    "codigoMunicipioIBGE": 3304003
+  },
+  "classe": {
+    "codigo": 283,
+    "nome": "Ação Penal - Procedimento Ordinário"
+  },
+  "sistema": {
+    "codigo": 1,
+    "nome": "PJe"
+  },
+  "formato": {
+    "codigo": 1,
+    "nome": "Eletrônico"
+  },
+  "dataHoraUltimaAtualizacao": "2026-07-19T11:07:55.379000Z",
+  "@timestamp": "2026-07-19T11:07:55.379000Z",
+  "movimentos": [
+    {
+      "codigo": 26,
+      "dataHora": "2023-07-07T15:45:04.000Z",
+      "nome": "Distribuição",
+      "complementosTabelados": [
+        {
+          "codigo": 2,
+          "descricao": "tipo_de_distribuicao_redistribuicao",
+          "valor": 2,
+          "nome": "sorteio"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-07T16:29:37.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-07-07T16:32:23.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 391,
+      "dataHora": "2023-07-10T23:42:07.000Z",
+      "nome": "Denúncia",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-07-12T18:15:24.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-07-12T18:16:55.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-07-12T18:17:42.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-07-12T18:18:21.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-12T18:25:04.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-12T18:25:05.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-07-14T18:10:35.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-17T17:49:17.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-17T17:49:20.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-17T17:52:51.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-17T17:52:52.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-17T17:53:16.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-17T17:53:17.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-17T20:43:42.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-07-18T13:49:10.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-07-27T20:01:35.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 5,
+          "nome": "para despacho"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-08-23T20:37:46.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 14738,
+      "dataHora": "2023-09-02T18:20:24.000Z",
+      "nome": "Retificação de Classe Processual",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-02T21:02:01.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-05T18:08:49.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-05T18:23:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-05T18:23:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-05T18:23:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-05T18:23:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-05T18:29:37.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-05T20:33:04.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-09-12T17:58:46.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-21T16:02:10.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-21T21:54:35.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-26T14:58:36.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-09-26T15:18:09.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 5,
+          "nome": "para despacho"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-27T18:48:38.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-27T18:55:13.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-27T18:57:59.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-28T20:21:53.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-08T03:48:07.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-08T03:48:07.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-08T03:48:07.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-10T03:33:27.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-17T15:28:19.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-17T15:28:19.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-17T15:28:19.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-17T15:28:20.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2023-10-26T12:54:21.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 9,
+          "nome": "designada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-10-31T17:05:58.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-11-01T15:48:03.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-11-01T19:04:03.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-11-05T21:43:43.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-11-17T18:01:14.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-11-17T18:01:44.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-11-17T18:08:32.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-11-17T18:09:21.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-11-18T12:58:33.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-11-22T03:26:09.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-11-22T03:26:09.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-11-22T03:26:09.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-11-24T17:51:04.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2024-01-31T14:59:02.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2024-01-31T14:59:02.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 13,
+          "nome": "realizada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-02-05T18:42:46.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-02-19T20:27:45.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-02-20T15:04:09.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-02-28T19:54:20.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2024-02-29T15:51:01.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 36,
+          "nome": "para julgamento"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-03-10T03:07:51.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-03-10T03:07:51.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-03-10T03:07:51.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-03-10T03:07:51.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-03-13T14:22:14.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-03-18T14:44:29.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-03-18T19:48:34.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-03-25T18:15:46.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-03-25T18:15:47.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-03-25T18:15:47.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-03-25T18:15:47.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-03-26T19:02:37.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2024-04-03T13:51:34.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-04-09T03:13:51.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-04-09T03:13:51.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-04-09T03:13:52.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-04-10T21:06:43.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-04-10T21:08:24.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-04-10T21:12:45.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-04-16T03:20:37.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-04-16T03:20:38.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-04-16T03:20:38.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-04-16T14:32:32.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-04-17T15:48:25.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-04-27T21:43:26.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-04-30T03:13:42.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-04-30T16:28:31.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-05-08T20:31:49.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-05-13T19:20:41.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-05-15T03:27:19.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-05-15T03:28:02.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-05-15T03:28:03.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-06-04T13:40:18.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-06-19T17:04:00.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-07-02T20:24:47.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2024-07-02T20:27:42.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 38,
+          "nome": "em grau de recurso"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-12-16T19:40:01.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2024-12-19T21:44:25.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 5,
+          "nome": "para despacho"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-12-22T19:52:08.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-12-22T20:10:12.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-12-23T15:55:16.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-12-23T15:55:51.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-12-23T15:56:15.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-12-23T15:56:38.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-01-13T18:53:23.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 5,
+          "nome": "para despacho"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2025-01-14T17:52:37.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 9,
+          "nome": "designada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-01-14T19:22:05.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-01-14T19:22:06.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-01-15T14:17:35.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-01-16T19:26:15.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-01-16T19:34:01.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-01-26T17:54:04.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-01-29T19:28:27.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-02-04T05:59:45.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-02-04T05:59:45.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-02-04T05:59:45.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-03-10T20:35:11.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2025-03-10T20:35:11.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 13,
+          "nome": "realizada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-18T21:00:33.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-19T13:55:09.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-03T16:40:21.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-04-07T20:09:26.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-22T16:46:56.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-04-30T04:56:11.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-04-30T04:56:20.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-04-30T04:56:20.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-04-30T04:56:20.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-05-08T20:34:20.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-05-19T22:05:33.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1061,
+      "dataHora": "2025-05-21T03:50:02.000Z",
+      "nome": "Disponibilização no Diário da Justiça Eletrônico",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 92,
+      "dataHora": "2025-05-21T03:50:02.000Z",
+      "nome": "Publicação",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-05-21T16:24:24.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-05-26T16:10:58.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-05-26T16:12:26.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-05-26T16:13:24.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-05-26T16:15:57.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-05-26T16:17:31.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-05-27T03:47:35.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-05-27T03:47:35.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-05-27T03:47:35.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-05-27T03:47:35.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-05-27T16:18:10.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-06-01T01:45:28.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-06-10T01:57:04.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-06-11T13:17:58.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-06-11T13:18:18.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-06-11T13:29:49.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-06-12T17:41:52.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-06-12T20:06:44.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-06-13T13:44:38.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1061,
+      "dataHora": "2025-06-15T03:08:38.000Z",
+      "nome": "Disponibilização no Diário da Justiça Eletrônico",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 92,
+      "dataHora": "2025-06-16T03:11:55.000Z",
+      "nome": "Publicação",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-06-17T04:47:35.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-06-24T05:31:49.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-06-24T19:27:33.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-06-29T05:29:26.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-06-29T05:29:26.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-06-29T05:29:26.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-06-29T05:29:27.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-06-29T05:39:56.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-06-29T05:39:56.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-06-30T22:54:09.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-07T14:18:11.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-07T14:19:07.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-07-07T19:29:28.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-07-11T17:59:57.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-07-11T17:59:57.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-07-11T17:59:59.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-07-11T18:00:00.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-11T20:26:58.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-11T20:30:03.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-07-17T05:49:42.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-07-17T05:49:43.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-07-17T05:50:16.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-07-23T04:35:39.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-08-04T18:36:21.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-08-11T20:03:17.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2025-08-11T20:08:45.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 38,
+          "nome": "em grau de recurso"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2026-01-30T19:45:14.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2026-02-05T19:38:01.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:56.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:57.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:57.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:57.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:57.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:58.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:58.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:18:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-03-20T21:19:00.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-05-25T18:15:49.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-05-25T18:20:51.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2023-07-07T16:17:49.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2023-07-17T20:31:58.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2023-07-17T20:35:09.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2023-07-17T20:38:38.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2023-08-28T14:49:55.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2023-09-05T17:57:23.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12291,
+      "dataHora": "2023-09-05T18:07:22.000Z",
+      "nome": "Movimentação processual",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12270,
+      "dataHora": "2023-09-05T18:07:22.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2023-09-12T17:58:24.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12146,
+      "dataHora": "2023-09-14T17:38:01.000Z",
+      "nome": "Liberdade Provisória",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 100001,
+      "dataHora": "2023-10-31T17:05:57.000Z",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2023-10-31T17:05:58.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2024-01-31T14:59:03.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2024-02-29T15:50:03.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 219,
+      "dataHora": "2024-03-13T14:22:09.000Z",
+      "nome": "Procedência",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2024-03-13T14:22:14.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2024-04-03T13:51:19.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 394,
+      "dataHora": "2024-04-16T14:32:30.000Z",
+      "nome": "Com efeito suspensivo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2024-04-16T14:32:32.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 132,
+      "dataHora": "2024-12-16T19:40:02.000Z",
+      "nome": "Recebimento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2024-12-22T19:52:07.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2024-12-22T19:52:08.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 100001,
+      "dataHora": "2025-01-14T19:22:04.000Z",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-01-14T19:22:06.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12164,
+      "dataHora": "2025-03-10T20:35:11.000Z",
+      "nome": "Outras Decisões",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12329,
+      "dataHora": "2025-05-19T22:05:31.000Z",
+      "nome": "Pedido conhecido em parte e procedente",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-05-19T22:05:34.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 394,
+      "dataHora": "2025-06-12T17:41:50.000Z",
+      "nome": "Com efeito suspensivo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-06-12T17:41:52.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-07-07T19:25:53.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 12164,
+      "dataHora": "2025-07-07T21:23:32.000Z",
+      "nome": "Outras Decisões",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 132,
+      "dataHora": "2026-01-30T19:45:14.000Z",
+      "nome": "Recebimento",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2026-02-09T19:47:35.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2026-03-03T15:55:36.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2026-03-25T17:22:22.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2026-03-26T16:37:17.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2026-04-13T18:00:49.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    },
+    {
+      "codigo": 246,
+      "dataHora": "2026-05-25T18:21:24.000Z",
+      "nome": "Definitivo",
+      "orgaoJulgador": {
+        "codigo": "7385",
+        "nome": "PIRAI VARA UNICA"
+      }
+    }
+  ],
+  "assuntos": [
+    {
+      "codigo": 3419,
+      "nome": "Roubo "
+    }
+  ]
+}

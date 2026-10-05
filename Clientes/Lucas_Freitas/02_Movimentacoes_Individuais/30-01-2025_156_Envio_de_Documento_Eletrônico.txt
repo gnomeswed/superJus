@@ -1,0 +1,75 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #156
+DATA: 30/01/2025
+TIPO: Envio de Documento Eletrônico
+ORDEM: 19
+DATA REMESSA: 30/01/2025
+
+SUB-MOVIMENTO: Envio de Documento Eletrônico
+  Data da remessa:30/01/2025
+  Nome da Central Destinatária:ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS
+  Data de Recebimento pelo OJA:31/01/2025
+  Data de Devolução pelo OJA:06/02/2025
+
+--- JSON CRU ---
+{
+  "codTipAnd": 68,
+  "ordem": 19,
+  "dtAlt": "30/01/2025",
+  "descrMov": "Envio de Documento Eletrônico",
+  "dtMovimento": "30/01/2025",
+  "intimados": [
+    {
+      "nomeIntimado": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+    }
+  ],
+  "textosVinculadosProc": [
+    {
+      "descr": "Mandado Genérico",
+      "numDoc": "91/2025/MND",
+      "codOrg": "260",
+      "numAgRel": 0,
+      "dataRecebOJA": "31/01/2025",
+      "dataDevolOJA": "06/02/2025",
+      "nomeDestinatario": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+    }
+  ],
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Envio de Documento Eletrônico",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da remessa: ",
+          "descricao": "30/01/2025"
+        },
+        {
+          "codigo": "Nome da Central Destinatária: ",
+          "descricao": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+        },
+        {
+          "codigo": "Data de Recebimento pelo OJA: ",
+          "descricao": "31/01/2025"
+        },
+        {
+          "codigo": "Data de Devolução pelo OJA: ",
+          "descricao": "06/02/2025"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": [
+        {
+          "descr": "Mandado Genérico",
+          "numDoc": "91/2025/MND",
+          "codOrg": "260",
+          "numAgRel": 0,
+          "dataRecebOJA": "31/01/2025",
+          "dataDevolOJA": "06/02/2025",
+          "nomeDestinatario": "ALCANTARA REG SAO GONCALO CENTRAL DE CUMP MANDADOS"
+        }
+      ],
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtRemessa": "30/01/2025"
+}

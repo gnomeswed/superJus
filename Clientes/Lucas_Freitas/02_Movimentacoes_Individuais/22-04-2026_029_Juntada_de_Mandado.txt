@@ -1,0 +1,33 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #29
+DATA: 22/04/2026
+TIPO: Juntada de Mandado
+ORDEM: 145
+
+SUB-MOVIMENTO: Juntada de Mandado
+  Data da juntada:21/04/2026
+
+--- JSON CRU ---
+{
+  "codTipAnd": 50,
+  "ordem": 145,
+  "dtAlt": "22/04/2026",
+  "descrMov": "Juntada de Mandado",
+  "dtMovimento": "22/04/2026",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada de Mandado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "21/04/2026"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "21/04/2026"
+}

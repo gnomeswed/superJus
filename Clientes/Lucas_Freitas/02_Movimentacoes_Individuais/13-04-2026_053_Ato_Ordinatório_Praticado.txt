@@ -1,0 +1,61 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #53
+DATA: 13/04/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 121
+DESCRIÇÃO: Ao MP e Defesa dos réus para ciência da juntada dos laudos de necropsia, material e necropapiloscopia de fls. 580/587, 589/591, 593/594, respéctivamente.
+
+SUB-MOVIMENTO: Enviado para publicação
+  Data do expediente:13/04/2026
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:13/04/2026
+  Descrição:Ao MP e Defesa dos réus para ciência da juntada dos laudos de necropsia, material e necropapiloscopia de fls. 580/587, 589/591, 593/594, respéctivamente.  
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 121,
+  "dtAlt": "13/04/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "13/04/2026",
+  "descricao": "Ao MP e Defesa dos réus para ciência da juntada dos laudos de necropsia, material e necropapiloscopia de fls. 580/587, 589/591, 593/594, respéctivamente.  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Enviado para publicação",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data do expediente:",
+          "descricao": "13/04/2026"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    },
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "13/04/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Ao MP e Defesa dos réus para ciência da juntada dos laudos de necropsia, material e necropapiloscopia de fls. 580/587, 589/591, 593/594, respéctivamente.  "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "13/04/2026",
+  "indPublicado": "sim",
+  "publicado": {
+    "dtExp": "13/04/2026",
+    "dtPubPrev": "15/04/2026"
+  }
+}

@@ -1,0 +1,40 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #74
+DATA: 29/10/2025
+TIPO: Juntada - Petição
+ORDEM: 100
+DESCRIÇÃO: Documento eletrônico juntado de forma automática.
+
+SUB-MOVIMENTO: Juntada - Petição
+  Data da juntada:27/10/2025
+  Descrição da Juntada:Documento eletrônico juntado de forma automática. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 100,
+  "dtAlt": "29/10/2025",
+  "descrMov": "Juntada - Petição",
+  "dtMovimento": "29/10/2025",
+  "descricao": "Documento eletrônico juntado de forma automática. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - Petição",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "27/10/2025"
+        },
+        {
+          "codigo": "Descrição da Juntada: ",
+          "descricao": "Documento eletrônico juntado de forma automática. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "27/10/2025"
+}

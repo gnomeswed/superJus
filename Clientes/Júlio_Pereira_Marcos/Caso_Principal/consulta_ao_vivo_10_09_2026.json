@@ -1,0 +1,86 @@
+{
+  "data_consulta": "10/09/2026",
+  "hora_consulta": "20:52:00",
+  "datajud_tjrj": {
+    "0023013-51.2021.8.19.0078": [],
+    "0001140-87.2024.8.19.0078": [],
+    "0022975-39.2021.8.19.0078": [],
+    "0029845-67.2026.8.19.0000": []
+  },
+  "datajud_stj": [],
+  "portal_tjrj": {
+    "0023013-51.2021.8.19.0078": {
+      "status": "sucesso",
+      "localizacao": "Localização na Serventia | Processamento | Dados dos Personagens | Advogado(s) | RJ163342 - VITOR VALE NOGUEIRA DA SILVA | RJ203902 - GABRIEL ALVES GUIMARÃES | Para visualizar Petições Pendentes de Análise ou Juntada Clique Aqui | Movimentação | Tipo do Movimento: J",
+      "ultimo_movimento": "Tipo do Movimento: Juntada - Documento | Data da juntada: | 04/08/2026 | Tipo do Movimento: Recebimento | Data de Recebimento: | 01/08/2026 | Tipo do Movimento: Conclusão ao Juiz | Data da conclusão: | 30/07/2026 | Juiz: | DANILO MARQUES BORGES | Tipo do Movimento: Juntada - Documento | Data da juntada: | 30/07/2026 | Tipo do Movimento: Juntada - Petição | Data da juntada: | 29/0",
+      "recent_movs": [
+        "Tipo do Movimento: Juntada - Documento -> Data da juntada:",
+        "Tipo do Movimento: Recebimento -> Data de Recebimento:",
+        "Tipo do Movimento: Conclusão ao Juiz -> Data da conclusão:",
+        "Tipo do Movimento: Juntada - Documento -> Data da juntada:",
+        "Tipo do Movimento: Juntada - Petição -> Data da juntada:",
+        "Tipo do Movimento: Envio de Documento Eletrônico -> Data da remessa:",
+        "Tipo do Movimento: Enviado para publicação -> Data do expediente:",
+        "Tipo do Movimento: Recebimento -> Data de Recebimento:",
+        "Tipo do Movimento: Conclusão ao Juiz -> Data da conclusão:",
+        "Tipo do Movimento: Juntada - Petição -> Data da juntada:"
+      ],
+      "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_tjrj_1A_Principal_Julio_10set.txt"
+    },
+    "0001140-87.2024.8.19.0078": {
+      "status": "sucesso",
+      "localizacao": "Localização na Serventia | Mandado Junto Automaticamente | Dados dos Personagens | Advogado(s) | RJ208273 - CARLA SANT'ANNA DOS SANTOS POLICARPO | RJ082256 - ALBERTO PECANHA DO ESPIRITO SANTO | RJ223681 - DANIEL TELLES ROZA | RJ160511 - JOSÉ VINICIUS SANTOS GRALAT",
+      "ultimo_movimento": "Tipo do Movimento: Juntada de Mandado | Data da juntada: | 15/08/2026 | Tipo do Movimento: Juntada - Contrarrazões | Data da juntada: | 14/08/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Juntada - Petição | Data da juntada: | 05/08/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo",
+      "recent_movs": [
+        "Tipo do Movimento: Juntada de Mandado -> Data da juntada:",
+        "Tipo do Movimento: Juntada - Contrarrazões -> Data da juntada:",
+        "Tipo do Movimento: Juntada - Petição -> Data da juntada:",
+        "Tipo do Movimento: Envio de Documento Eletrônico -> Data da remessa:",
+        "Tipo do Movimento: Recebimento -> Data de Recebimento:",
+        "Tipo do Movimento: Conclusão ao Juiz -> Data da conclusão:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:",
+        "Tipo do Movimento: Enviado para publicação -> Data do expediente:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:"
+      ],
+      "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_tjrj_1A_Apenso_RSE_10set.txt"
+    },
+    "0022975-39.2021.8.19.0078": {
+      "status": "sucesso",
+      "localizacao": "Localização na Serventia | Aguardando Cumprimento de Mandado | Dados dos Personagens | Advogado(s) | RJ208273 - CARLA SANT'ANNA DOS SANTOS POLICARPO | RJ082256 - ALBERTO PECANHA DO ESPIRITO SANTO | RJ223681 - DANIEL TELLES ROZA | RJ160511 - JOSÉ VINICIUS SANTOS GR",
+      "ultimo_movimento": "Tipo do Movimento: Juntada - Petição | Data da juntada: | 05/08/2026 | Descrição da Juntada: | Documento eletrônico juntado de forma automática. | Tipo do Movimento: Envio de Documento Eletrônico | Data da remessa: | 25/07/2026 | Nome da Central Destinatária: | ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL. | Data de Recebimento pelo OJA: | 30/07/2026 | Documento(s) dig",
+      "recent_movs": [
+        "Tipo do Movimento: Juntada - Petição -> Data da juntada:",
+        "Tipo do Movimento: Envio de Documento Eletrônico -> Data da remessa:",
+        "Tipo do Movimento: Desentranhamento -> Data do movimento:",
+        "Tipo do Movimento: Juntada - Petição Custódia -> Data da juntada:",
+        "Tipo do Movimento: Enviado para publicação -> Data do expediente:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:",
+        "Tipo do Movimento: Juntada - Petição -> Data da juntada:",
+        "Tipo do Movimento: Envio de Documento Eletrônico -> Data da remessa:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:",
+        "Tipo do Movimento: Ato Ordinatório Praticado -> Data:"
+      ],
+      "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_tjrj_1A_Original_Desmembrado_10set.txt"
+    },
+    "0029845-67.2026.8.19.0000": {
+      "status": "sucesso",
+      "localizacao": "N/A",
+      "ultimo_movimento": "N/A",
+      "recent_movs": [],
+      "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_tjrj_2A_HC_10set.txt"
+    }
+  },
+  "portal_stj": {
+    "status": "sucesso",
+    "fpath": "C:\\Projetos\\superJus\\Clientes\\Júlio_Pereira_Marcos\\Caso_Principal\\documentos_processo\\julio_stj_live_direct_10set.txt",
+    "has_monocratica": false,
+    "phases": []
+  },
+  "djerj": {
+    "0023013-51.2021.8.19.0078": "Sem publicações no período (01 a 10/09/2026)",
+    "0001140-87.2024.8.19.0078": "Sem publicações no período (01 a 10/09/2026)",
+    "0022975-39.2021.8.19.0078": "Sem publicações no período (01 a 10/09/2026)",
+    "0029845-67.2026.8.19.0000": "Sem publicações no período (01 a 10/09/2026)"
+  }
+}

@@ -1,0 +1,29 @@
+Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J.
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Tipo de numeração
+Selecione o tipo de numeração
+Antiga
+Única
+Número do processo *
+ .8.19. 
+ Pesquisar Limpar Filtros
+Resultado
+Código CNJ	Nome Comarca	Descrição Serventia	Classe	Assunto	último Movimento
+0004301-33.2018.8.19.0073
+(2018.073.004263-4)
+	Comarca de Guapimirim	Cartório da 2ª Vara	Ação Penal de Competência do Júri	Homicídio Simples (Art. 121, caput - CP)	Remessa
+0004301-33.2018.8.19.0073
+(2025.051.00184)
+	Comarca da Capital	QUARTA CAMARA CRIMINAL	RECURSO EM SENTIDO ESTRITO	Homicídio Qualificado / Crimes contra a vida / DIREITO PENAL	
+0004301-33.2018.8.19.0073
+(2026.050.10760)
+	Comarca da Capital	QUARTA CAMARA CRIMINAL	APELAÇÃO	Homicídio Qualificado / Crimes contra a vida / DIREITO PENAL	
+1
+10

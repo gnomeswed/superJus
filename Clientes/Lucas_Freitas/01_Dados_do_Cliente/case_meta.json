@@ -1,0 +1,37 @@
+{
+  "nome": "Lucas de Souza Freitas",
+  "apelido": "Motoboy Lucas",
+  "numero_processo": "0011857-95.2024.8.19.0002",
+  "juizo": "3ª Vara Criminal - Tribunal do Júri da Comarca de Niterói",
+  "juiza": "Dra. Nearis dos Santos Carvalho Arce",
+  "correus": [
+    "Ronny Batalha Fernandes"
+  ],
+  "artigo": "Art. 121, § 2º, I, III e IV (Homicídio Triplamente Qualificado) e Art. 211 (Ocultação de Cadáver) do CP",
+  "pena_total": "22 anos de reclusão em regime inicial FECHADO",
+  "dosimetria": {
+    "homicidio": "21 anos de reclusão",
+    "ocultacao_cadaver": "1 ano de reclusão e 10 dias-multa"
+  },
+  "status": "Em Grau de Apelação no TJRJ (2ª Câmara Criminal) - PEDINDO DIA PARA JULGAMENTO",
+  "data_sentenca": "2026-04-22",
+  "recurso_cabivel": "Apelação Criminal (Art. 593, III, 'c' e 'd' do CPP)",
+  "localizacao_atual": "Secretaria da 2ª Câmara Criminal do TJRJ",
+  "processo_antigo": {
+    "numero_1a_instancia": "0000253-78.2017.8.19.0004",
+    "comarca": "Comarca de Niterói",
+    "vara": "2ª Vara Criminal de Niterói",
+    "habeas_corpus": {
+      "numero": "0046418-98.2017.8.19.0000",
+      "orgao": "3ª Câmara Criminal do TJRJ",
+      "relator": "Des. Paulo Sérgio Rangel do Nascimento",
+      "data_julgamento_soltura": "29/08/2017"
+    },
+    "transito_em_julgado": "09/10/2017",
+    "data_arquivamento": "08/11/2017"
+  },
+  "fase_atual": "Observações Pedindo Dia (03/09/2026)",
+  "relator_2a_instancia": "Des. Flávio Itabaiana de Oliveira Nicolau",
+  "revisor_2a_instancia": "Des. Katia Maria Amaral Jangutta",
+  "data_pedido_dia": "2026-09-02"
+}

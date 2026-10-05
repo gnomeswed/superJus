@@ -1,0 +1,102 @@
+{
+  "0800060-52.2023.8.19.0058": {
+    "descricao": "Roubo Majorado - 2ª Vara Saquarema",
+    "orgao": "GAB DES CARLOS EDUARDO FREIRE ROBOREDO",
+    "classe": "Apelação Criminal",
+    "assunto": "Roubo Majorado, Aplicação da Pena",
+    "total_movimentos": 26,
+    "ultimos_movimentos": [
+      {
+        "codigo": 22,
+        "nome": "Baixa Definitiva",
+        "dataHora": "2024-12-04T14:12:00.000Z"
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 19,
+            "valor": 57,
+            "nome": "Petição (outras)",
+            "descricao": "tipo_de_peticao"
+          }
+        ],
+        "codigo": 85,
+        "nome": "Petição",
+        "dataHora": "2024-11-01T16:54:00.000Z"
+      },
+      {
+        "codigo": 12266,
+        "nome": "Confirmada",
+        "dataHora": "2024-10-31T11:17:00.000Z"
+      },
+      {
+        "codigo": 92,
+        "nome": "Publicação",
+        "dataHora": "2024-10-31T00:05:00.000Z"
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 4,
+            "valor": 117,
+            "nome": "Acórdão",
+            "descricao": "tipo_de_documento"
+          }
+        ],
+        "codigo": 581,
+        "nome": "Documento",
+        "dataHora": "2024-10-29T18:04:00.000Z"
+      }
+    ]
+  },
+  "0800262-29.2023.8.19.0058": {
+    "descricao": "Ação Penal / Apelação - 2ª Vara Saquarema",
+    "orgao": "GAB DES PEDRO FREIRE RAGUENET",
+    "classe": "Apelação Criminal",
+    "assunto": "Roubo , Prisão em flagrante",
+    "total_movimentos": 25,
+    "ultimos_movimentos": [
+      {
+        "codigo": 22,
+        "nome": "Baixa Definitiva",
+        "dataHora": "2025-01-09T09:16:00.000Z"
+      },
+      {
+        "codigo": 581,
+        "nome": "Documento",
+        "dataHora": "2025-01-09T09:15:00.000Z"
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 19,
+            "valor": 57,
+            "nome": "Petição (outras)",
+            "descricao": "tipo_de_peticao"
+          }
+        ],
+        "codigo": 85,
+        "nome": "Petição",
+        "dataHora": "2024-10-14T15:07:00.000Z"
+      },
+      {
+        "complementosTabelados": [
+          {
+            "codigo": 19,
+            "valor": 57,
+            "nome": "Petição (outras)",
+            "descricao": "tipo_de_peticao"
+          }
+        ],
+        "codigo": 85,
+        "nome": "Petição",
+        "dataHora": "2024-10-11T01:55:00.000Z"
+      },
+      {
+        "codigo": 12266,
+        "nome": "Confirmada",
+        "dataHora": "2024-10-09T10:32:00.000Z"
+      }
+    ]
+  }
+}

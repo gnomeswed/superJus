@@ -1,0 +1,45 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #159
+DATA: 15/01/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 16
+DESCRIÇÃO: Certifico que consta erro no número do RG constante no Mandado de Prisão de fls. 154/155 referente ao réu RONNY. Esclareço que no Mandado consta  o RG: 230570555-8 - DETRAN e na FAC de fls 185/189 RG nº023057055-8.
+
+Era o que me cumpria certificar.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:15/01/2025
+  Descrição:Certifico que consta erro no número do RG constante no Mandado de Prisão de fls. 154/155 referente ao réu RONNY. Esclareço que no Mandado consta  o RG: 230570555-8 - DETRAN e na FAC de fls 185/189 RG nº023057055-8.
+
+Era o que me cumpria certificar. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 16,
+  "dtAlt": "15/01/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "15/01/2025",
+  "descricao": "Certifico que consta erro no número do RG constante no Mandado de Prisão de fls. 154/155 referente ao réu RONNY. Esclareço que no Mandado consta  o RG: 230570555-8 - DETRAN e na FAC de fls 185/189 RG nº023057055-8.\r\n\r\nEra o que me cumpria certificar. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "15/01/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que consta erro no número do RG constante no Mandado de Prisão de fls. 154/155 referente ao réu RONNY. Esclareço que no Mandado consta  o RG: 230570555-8 - DETRAN e na FAC de fls 185/189 RG nº023057055-8.\r\n\r\nEra o que me cumpria certificar. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "15/01/2025",
+  "indPublicado": "não"
+}

@@ -1,0 +1,31 @@
+{
+  "processo": "0011857-95.2024.8.19.0002",
+  "data": "2026-08-10 14:33:30",
+  "total": 3,
+  "integrais": [
+    {
+      "data": "01/06/2026",
+      "tipo": "Decisão",
+      "ordem": "?",
+      "botao": "Ver íntegra do(a) Decisão (Original)",
+      "arquivo": "01-06-2026_ORDSORD_001_Ver_íntegra_doa_Decisão_Original.txt",
+      "tamanho": 6160
+    },
+    {
+      "data": "01/06/2026",
+      "tipo": "Decisão",
+      "ordem": "?",
+      "botao": "Ver íntegra do(a) Decisão (Simplificado)",
+      "arquivo": "01-06-2026_ORDSORD_002_Ver_íntegra_doa_Decisão_Simplificado.txt",
+      "tamanho": 6284
+    },
+    {
+      "data": "01/06/2026",
+      "tipo": "Decisão",
+      "ordem": "?",
+      "botao": "Visualizar Ato Assinado Digitalmente",
+      "arquivo": "01-06-2026_ORDSORD_003_Visualizar_Ato_Assinado_Digitalmente.txt",
+      "tamanho": 6284
+    }
+  ]
+}

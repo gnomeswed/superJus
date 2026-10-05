@@ -1,0 +1,40 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #3
+DATA: 05/08/2026
+TIPO: Juntada - Contrarrazões
+ORDEM: 170
+DESCRIÇÃO: Documento eletrônico juntado de forma automática.
+
+SUB-MOVIMENTO: Juntada - Contrarrazões
+  Data da juntada:05/08/2026
+  Descrição da Juntada:Documento eletrônico juntado de forma automática.
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 170,
+  "dtAlt": "05/08/2026",
+  "descrMov": "Juntada - Contrarrazões",
+  "dtMovimento": "05/08/2026",
+  "descricao": "Documento eletrônico juntado de forma automática.",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - Contrarrazões",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "05/08/2026"
+        },
+        {
+          "codigo": "Descrição da Juntada: ",
+          "descricao": "Documento eletrônico juntado de forma automática."
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "05/08/2026"
+}

@@ -1,0 +1,26 @@
+{
+  "data_consulta": "11/09/2026",
+  "hora_consulta": "00:13:22",
+  "processo": "0821248-17.2025.8.19.0031",
+  "movimentacoes_recentes": [
+    "10/09/2026 16:49:46 - Juntada de Petição de diligência -> 10/09/2026 16:39:09 - Juntada de Petição de diligência",
+    "10/09/2026 16:39:09 - Juntada de Petição de diligência -> 26/08/2026 16:30:46 - Expedição de Certidão.",
+    "26/08/2026 16:30:46 - Expedição de Certidão. -> 13/08/2026 17:43:45 - Juntada de guia de recolhimento",
+    "13/08/2026 17:43:45 - Juntada de guia de recolhimento -> 13/08/2026 17:43:45 - Juntada de guia de recolhimento",
+    "13/08/2026 17:43:45 - Juntada de guia de recolhimento -> 12/08/2026 11:32:59 - Expedição de Mandado.",
+    "12/08/2026 11:32:59 - Expedição de Mandado. -> 12/08/2026 11:21:00 - Expedição de Mandado.",
+    "12/08/2026 11:21:00 - Expedição de Mandado. -> 12/08/2026 11:30:22 - Desentranhado o documento",
+    "06/08/2026 19:18:01 - Juntada de Petição de petição -> 06/08/2026 19:20:46 - Juntada de Petição de petição",
+    "06/08/2026 19:20:46 - Juntada de Petição de petição -> 04/08/2026 15:09:32 - Juntada de Petição de ciência",
+    "04/08/2026 15:09:32 - Juntada de Petição de ciência -> 03/08/2026 14:37:58 - Expedição de Outros documentos.",
+    "03/08/2026 14:37:58 - Expedição de Outros documentos. -> 03/07/2026 11:16:51 - Julgado procedente o pedido",
+    "03/07/2026 11:15:40 - Sentença (Sentença) -> 16/06/2026 15:24:33 - Conclusos ao Juiz",
+    "09/06/2026 14:17:25 - Expedição de Certidão. -> 109 resultados encontrados",
+    "03/07/2026 11:16:50 - SENTENÇA (SENTENÇA) -> VISUALIZAR RECIBO",
+    "13/03/2026 16:02:42 - DECISÃO (DECISÃO) -> VISUALIZAR RECIBO",
+    "11/12/2025 18:10:24 - DECISÃO (DECISÃO) -> VISUALIZAR DOCUMENTOS",
+    "02/12/2025 15:10:31 - DECISÃO (DECISÃO) -> VISUALIZAR DOCUMENTOS",
+    "02/12/2025 15:22:38 - DECISÃO (DECISÃO) -> VISUALIZAR DOCUMENTOS"
+  ],
+  "djerj": "Erro: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www3.tjrj.jus.br/consultadje/Result.aspx?dtInicio=01%2F08%2F2026&dtFim=11%2F09%2F2026&txtPesq=0821248-17.2025.8.19.0031&tipoPesq=PROC\", waiting until \"domcontentloaded\"\n"
+}

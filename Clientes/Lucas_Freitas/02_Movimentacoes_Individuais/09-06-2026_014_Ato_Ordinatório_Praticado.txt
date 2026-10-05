@@ -1,0 +1,41 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #14
+DATA: 09/06/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 159
+DESCRIÇÃO: Certifico que o réu RONNY manifestou o desejo de ser assistido pela DPGE, conforme fls. 783.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:09/06/2026
+  Descrição:Certifico que o réu RONNY manifestou o desejo de ser assistido pela DPGE, conforme fls. 783. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 159,
+  "dtAlt": "09/06/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "09/06/2026",
+  "descricao": "Certifico que o réu RONNY manifestou o desejo de ser assistido pela DPGE, conforme fls. 783. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "09/06/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que o réu RONNY manifestou o desejo de ser assistido pela DPGE, conforme fls. 783. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "09/06/2026",
+  "indPublicado": "não"
+}

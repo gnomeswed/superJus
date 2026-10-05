@@ -1,0 +1,78 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #98
+DATA: 10/08/2025
+TIPO: Conclusão ao Juiz
+ORDEM: 76
+DESCRIÇÃO: Considerando a necessidade de reorganização da pauta das Sessões Plenárias do Tribunal do Júri, redesigno o julgamento do presente feito para o dia 22/04/2026, às 10 horas.
+ 
+Requisitem-se e/ou intimem-se os acusados e as testemunhas arroladas pelas partes.
+ 
+Certifique-se se todas as diligências requeridas foram devidamente cumpridas.
+ 
+Dê-se ciência às partes.
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:10/08/2025
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:08/08/2025
+  Juiz:DANIEL DA SILVA FONSECA
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=0004562C6D26B7010C0868FE5B4CFD3B0B01C519374F214A
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 76,
+  "dtAlt": "10/08/2025",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "10/08/2025",
+  "pseudoDocEletronico": "0004562C6D26B7010C0868FE5B4CFD3B0B01C519374F214A",
+  "descricao": "Considerando a necessidade de reorganização da pauta das Sessões Plenárias do Tribunal do Júri, redesigno o julgamento do presente feito para o dia 22/04/2026, às 10 horas.\n \nRequisitem-se e/ou intimem-se os acusados e as testemunhas arroladas pelas partes.\n \nCertifique-se se todas as diligências requeridas foram devidamente cumpridas.\n \nDê-se ciência às partes.  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "10/08/2025"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "Considerando a necessidade de reorganização da pauta das Sessões Plenárias do Tribunal do Júri, redesigno o julgamento do presente feito para o dia 22/04/2026, às 10 horas.\n \nRequisitem-se e/ou intimem-se os acusados e a...",
+        "descCompleta": "Considerando a necessidade de reorganização da pauta das Sessões Plenárias do Tribunal do Júri, redesigno o julgamento do presente feito para o dia 22/04/2026, às 10 horas.\n \nRequisitem-se e/ou intimem-se os acusados e as testemunhas arroladas pelas partes.\n \nCertifique-se se todas as diligências requeridas foram devidamente cumpridas.\n \nDê-se ciência às partes.  "
+      },
+      "codDocAtoAssinadoDig": "0004562C6D26B7010C0868FE5B4CFD3B0B01C519374F214A"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "08/08/2025"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "DANIEL DA SILVA FONSECA"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "DANIEL DA SILVA FONSECA",
+  "dtConclusao": "08/08/2025",
+  "dtDevolucao": "10/08/2025",
+  "indPublicado": "não"
+}

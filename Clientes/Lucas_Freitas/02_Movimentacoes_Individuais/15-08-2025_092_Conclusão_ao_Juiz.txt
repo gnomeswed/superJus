@@ -1,0 +1,85 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #92
+DATA: 15/08/2025
+TIPO: Conclusão ao Juiz
+ORDEM: 82
+DESCRIÇÃO: I - Tendo em vista o decurso de mais de 80 dias desde a prisão dos acusados e considerando o disposto no p. único do art. 316 do CPP, este modificado pela Lei 13964/2019 (Pacote Anticrime), passo a analisar a necessidade da manutenção do decreto de prisão preventiva. 
+
+Depreende-se dos autos que os denunciados LUCAS e RONNY, com inequívoco propósito de matar, concretaram o corpo da vítima MARCOS, após desferirem diversos golpes, mediante ações perfurocortantes, as quais foram a causa eficiente de seu óbito.   
+
+No caso, o periculum libertatis permanece hígido, estando presentes no trinômio gravidade, periculosidade e repercussão do fato, sendo certo que as condições pessoais eventualmente favoráveis aos acusados, como residência fixa e ocupação  lícita, não são garantidoras de eventual direito subjetivo à liberdade, conforme já assentado pela jurisprudência. 
+
+De fato, a imputação recai sobre crime de natureza grave e que, por ora, não recomenda  a substituição da prisão por qualquer outra medida cautelar.   
+
+Inalterados, portanto, os fundamentos adotados por ocasião da decretação da prisão  preventiva a fls. 149-151 e manutenção de fls. 312-322, aos quais me reporto como razões para a manutenção da custódia cautelar.
+
+II - Fl. 432 - Dê-se ciência ao Ministério Público.
+
+III - Cumpra-se o despacho de fl. 424, em sua íntegra. Providenciem-se os atos necessários à realização do julgamento designado para o dia 22/04/2026, às 10 horas.
+
+SUB-MOVIMENTO: Recebimento
+  Data de Recebimento:15/08/2025
+
+SUB-MOVIMENTO: Conclusão ao Juiz
+  Data da conclusão:14/08/2025
+  Juiz:DANIEL DA SILVA FONSECA
+
+INTEGRAIS DISPONÍVEIS:
+  - resumoOuIntegra
+  - codDocAtoAssinadoDig=000442ED8CC4C793C5822937D55DA7E81EE2C5193A5A595A
+
+--- JSON CRU ---
+{
+  "codTipAnd": 1,
+  "ordem": 82,
+  "dtAlt": "15/08/2025",
+  "descrMov": "Conclusão ao Juiz",
+  "dtMovimento": "15/08/2025",
+  "pseudoDocEletronico": "000442ED8CC4C793C5822937D55DA7E81EE2C5193A5A595A",
+  "descricao": "I - Tendo em vista o decurso de mais de 80 dias desde a prisão dos acusados e considerando o disposto no p. único do art. 316 do CPP, este modificado pela Lei 13964/2019 (Pacote Anticrime), passo a analisar a necessidade da manutenção do decreto de prisão preventiva. \r\n\r\nDepreende-se dos autos que os denunciados LUCAS e RONNY, com inequívoco propósito de matar, concretaram o corpo da vítima MARCOS, após desferirem diversos golpes, mediante ações perfurocortantes, as quais foram a causa eficiente de seu óbito.   \r\n\r\nNo caso, o periculum libertatis permanece hígido, estando presentes no trinômio gravidade, periculosidade e repercussão do fato, sendo certo que as condições pessoais eventualmente favoráveis aos acusados, como residência fixa e ocupação  lícita, não são garantidoras de eventual direito subjetivo à liberdade, conforme já assentado pela jurisprudência. \r\n\r\nDe fato, a imputação recai sobre crime de natureza grave e que, por ora, não recomenda  a substituição da prisão por qualquer outra medida cautelar.   \r\n\r\nInalterados, portanto, os fundamentos adotados por ocasião da decretação da prisão  preventiva a fls. 149-151 e manutenção de fls. 312-322, aos quais me reporto como razões para a manutenção da custódia cautelar.\r\n\r\nII - Fl. 432 - Dê-se ciência ao Ministério Público.\r\n\r\nIII - Cumpra-se o despacho de fl. 424, em sua íntegra. Providenciem-se os atos necessários à realização do julgamento designado para o dia 22/04/2026, às 10 horas.  ",
+  "descResumida": "... concretaram o corpo da vítima MARCOS, após desferirem diversos golpes, mediante ações perfurocortantes, as quais foram a causa eficiente de seu óbito.   \r\n\r\nNo caso, o periculum libertatis permanece hígido, estando presentes no trinômio gravidade, periculosidade e repercussão do fato, sendo certo que as condições pessoais eventualmente favoráveis aos acusados, como residência fixa e ocupação  lícita, não são garantidoras de eventual direito subjetivo à liberdade, conforme já assentado pela jurisprudência. \r\n\r\nDe fato, a imputação recai sobre crime de natureza grave e que, por ora, não recomenda  a substituição da prisão por qualquer outra medida cautelar.   \r\n\r\nInalterados, portanto, os fundamentos adotados por ocasião da decretação da prisão  preventiva a fls. 149-151 e manutenção de fls. 312-322, aos quais me reporto como razões para a manutenção da custódia cautelar.\r\n\r\nII - Fl. 432 - Dê-se ciência ao Ministério Público.\r\n\r\nIII - Cumpra-se o despacho de fls. 424, em sua íntegra.",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Recebimento",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data de Recebimento: ",
+          "descricao": "15/08/2025"
+        }
+      ],
+      "docEletronico": null,
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": {
+        "descTipoAto": "Despacho",
+        "descResumida": "... concretaram o corpo da vítima MARCOS, após desferirem diversos golpes, mediante ações perfurocortantes, as quais foram a causa eficiente de seu óbito.   \r\n\r\nNo caso, o periculum libertatis permanece hígido, estando p...",
+        "descCompleta": "I - Tendo em vista o decurso de mais de 80 dias desde a prisão dos acusados e considerando o disposto no p. único do art. 316 do CPP, este modificado pela Lei 13964/2019 (Pacote Anticrime), passo a analisar a necessidade da manutenção do decreto de prisão preventiva. \r\n\r\nDepreende-se dos autos que os denunciados LUCAS e RONNY, com inequívoco propósito de matar, concretaram o corpo da vítima MARCOS, após desferirem diversos golpes, mediante ações perfurocortantes, as quais foram a causa eficiente de seu óbito.   \r\n\r\nNo caso, o periculum libertatis permanece hígido, estando presentes no trinômio gravidade, periculosidade e repercussão do fato, sendo certo que as condições pessoais eventualmente favoráveis aos acusados, como residência fixa e ocupação  lícita, não são garantidoras de eventual direito subjetivo à liberdade, conforme já assentado pela jurisprudência. \r\n\r\nDe fato, a imputação recai sobre crime de natureza grave e que, por ora, não recomenda  a substituição da prisão por qualquer outra medida cautelar.   \r\n\r\nInalterados, portanto, os fundamentos adotados por ocasião da decretação da prisão  preventiva a fls. 149-151 e manutenção de fls. 312-322, aos quais me reporto como razões para a manutenção da custódia cautelar.\r\n\r\nII - Fl. 432 - Dê-se ciência ao Ministério Público.\r\n\r\nIII - Cumpra-se o despacho de fl. 424, em sua íntegra. Providenciem-se os atos necessários à realização do julgamento designado para o dia 22/04/2026, às 10 horas.  "
+      },
+      "codDocAtoAssinadoDig": "000442ED8CC4C793C5822937D55DA7E81EE2C5193A5A595A"
+    },
+    {
+      "tipoMovimento": "Conclusão ao Juiz",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da conclusão: ",
+          "descricao": "14/08/2025"
+        },
+        {
+          "codigo": "Juiz: ",
+          "descricao": "DANIEL DA SILVA FONSECA"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "descrTipAto": "Despacho",
+  "descrAto": "Proferido despacho de mero expediente",
+  "descrTipMov": "Proferido despacho de mero expediente",
+  "codTipMov": "11010",
+  "nomeJuiz": "DANIEL DA SILVA FONSECA",
+  "dtConclusao": "14/08/2025",
+  "dtDevolucao": "15/08/2025",
+  "indPublicado": "não"
+}

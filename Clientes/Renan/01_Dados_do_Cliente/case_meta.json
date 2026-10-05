@@ -1,0 +1,78 @@
+{
+  "nome": "Renan Rodrigues de Souza",
+  "cpf": "198.249.487-59",
+  "mae": "Lenir Rodrigues Neto",
+  "correu": "Irapuã Amorim Turlach",
+  "cpf_correu": "091.108.887-30",
+  "numero_processo": "0821248-17.2025.8.19.0031",
+  "numero_processo_vep": "5014830-25.2026.8.19.0500",
+  "sistema": "PJe (Conhecimento) / SEEU (Execução Penal)",
+  "orgao_julgador": "Vara Criminal da Comarca de Maricá/RJ",
+  "orgao_julgador_vep": "Vara de Execuções Penais da Comarca da Capital / TJRJ",
+  "codigo_orgao_cnj": 16444,
+  "classe": "Ação Penal - Procedimento Ordinário (Cód. CNJ 283)",
+  "assuntos": [
+    "Furto Qualificado (Art. 155, § 4º, IV do Código Penal)",
+    "Prisão em flagrante"
+  ],
+  "data_ajuizamento": "30/11/2025",
+  "status": "PROGRESSÃO DE REGIME PARA PRISÃO DOMICILIAR CONCEDIDA (22/09) - ALVARÁ DE SOLTURA EXPEDIDO (24/09) - PREJUÍZO INVALIDADO EM 30/09/2026",
+  "situacao_prisional": "Alvará de Soltura expedido no BNMP3 em 24/09/2026 com Prisão Domiciliar e monitoramento eletrônico concedidos; benefício liberado para cumprimento imediato pela decisão de 30/09/2026",
+  "dados_vep": {
+    "numero_processo_vep": "5014830-25.2026.8.19.0500",
+    "data_progressao": "22/09/2026 (Seq. 15)",
+    "incidente_prisao_domiciliar": "31262309 (Seq. 17)",
+    "alvara_soltura_bnmp3": "24/09/2026 13:00:36 (Seq. 26)",
+    "decisao_invalida_prejuizo": "30/09/2026 23:49:45 (Seq. 39)"
+  },
+    "data_sentenca": "03/07/2026",
+    "pena_reclusao": "02 anos",
+    "dias_multa": 10,
+    "regime_fixado": "Semiaberto",
+    "recorrer_em_liberdade": "Negado",
+    "detracao_na_sentenca": "Não aplicada (remetida à VEP)",
+    "ces_provisoria_expedida": "13/08/2026"
+  },
+  "fases_chave": [
+    {
+      "data": "30/11/2025",
+      "evento": "Autuação do Auto de Prisão em Flagrante (APF)"
+    },
+    {
+      "data": "02/12/2025",
+      "evento": "Audiência de Custódia — Conversão em Prisão Preventiva"
+    },
+    {
+      "data": "11/12/2025",
+      "evento": "Oferecimento da Denúncia pelo Ministério Público"
+    },
+    {
+      "data": "13/03/2026",
+      "evento": "Reanálise do Art. 316 CPP — Manutenção da Prisão Preventiva"
+    },
+    {
+      "data": "19/05/2026",
+      "evento": "Audiência de Instrução e Julgamento (AIJ) Realizada"
+    },
+    {
+      "data": "16/06/2026",
+      "evento": "Conclusão dos autos para Sentença"
+    },
+    {
+      "data": "03/07/2026",
+      "evento": "SENTENÇA CONDENATÓRIA PROFERIDA (Procedência - 2 anos em regime semiaberto)"
+    },
+    {
+      "data": "13/08/2026",
+      "evento": "Juntada de Guia de Recolhimento Provisória (CES VEP)"
+    },
+    {
+      "data": "26/08/2026",
+      "evento": "Expedição de Certidão Cartorária"
+    },
+    {
+      "data": "10/09/2026",
+      "evento": "Juntada de Petições de Diligência (16:39 e 16:49)"
+    }
+  ]
+}

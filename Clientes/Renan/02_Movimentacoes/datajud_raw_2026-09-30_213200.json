@@ -1,0 +1,52 @@
+{
+  "numeroProcesso": "08212481720258190031",
+  "tribunal": "TJRJ",
+  "grau": "G1",
+  "classe_codigo": 283,
+  "classe_nome": "Ação Penal - Procedimento Ordinário",
+  "orgao_julgador": {
+    "codigo": 16444,
+    "nome": "MARICA VARA CRIMINAL"
+  },
+  "data_ultima_atualizacao": "2026-09-24T16:54:48.192000Z",
+  "consultado_em": "2026-09-30T21:32:00-03:00",
+  "status_processual": "Sentença de Procedência Proferida em 03/07/2026 - Guia de Recolhimento CES Provisória expedida em 13/08/2026 - Petições de diligência em 10/09/2026",
+  "ultimas_movimentacoes": [
+    {
+      "codigo": 85,
+      "nome": "Petição",
+      "data_hora": "2026-09-10T19:49:46Z",
+      "descricao": "Juntada de Petição de diligência"
+    },
+    {
+      "codigo": 85,
+      "nome": "Petição",
+      "data_hora": "2026-09-10T19:39:09Z",
+      "descricao": "Juntada de Petição de diligência"
+    },
+    {
+      "codigo": 60,
+      "nome": "Expedição de documento",
+      "data_hora": "2026-08-26T19:30:46Z",
+      "descricao": "Expedição de Certidão"
+    },
+    {
+      "codigo": 581,
+      "nome": "Documento",
+      "data_hora": "2026-08-13T20:43:45Z",
+      "descricao": "Juntada de guia de recolhimento (CES Provisória - VEP)"
+    },
+    {
+      "codigo": 60,
+      "nome": "Expedição de documento",
+      "data_hora": "2026-08-12T14:32:59Z",
+      "descricao": "Expedição de Mandado (intimação da sentença)"
+    },
+    {
+      "codigo": 219,
+      "nome": "Procedência",
+      "data_hora": "2026-07-03T14:16:51Z",
+      "descricao": "Sentença Condenatória - 02 anos de reclusão em regime semiaberto"
+    }
+  ]
+}

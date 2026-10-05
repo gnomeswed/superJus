@@ -1,0 +1,37 @@
+{
+  "data_consulta": "29/08/2026 22:56",
+  "1a_instancia": {
+    "0023013-51.2021.8.19.0078": {
+      "descricao": "Ação Penal Desmembrada - 2ª Vara Búzios",
+      "localizacao": "Não identificada",
+      "total_movs": 0,
+      "ultimos_movs": []
+    },
+    "0001140-87.2024.8.19.0078": {
+      "descricao": "Recurso em Sentido Estrito / Apenso Búzios",
+      "localizacao": "Não identificada",
+      "total_movs": 0,
+      "ultimos_movs": []
+    },
+    "0022975-39.2021.8.19.0078": {
+      "descricao": "Processo Originário / Co-réus Búzios",
+      "localizacao": "Não identificada",
+      "total_movs": 0,
+      "ultimos_movs": []
+    }
+  },
+  "2a_instancia": {
+    "0029845-67.2026.8.19.0000": {
+      "localizacao": "Não identificada",
+      "total_movs": 0,
+      "ultimos_movs": []
+    }
+  },
+  "stj": {
+    "registro": "2026/0311210-7",
+    "processo": "HC 1.116.750 / RJ",
+    "relator": "Min. Og Fernandes - 6ª Turma",
+    "total_fases": 0,
+    "ultimas_fases": []
+  }
+}

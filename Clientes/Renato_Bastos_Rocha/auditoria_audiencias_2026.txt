@@ -1,0 +1,57 @@
+================================================================================
+AUDITORIA DE AUDIENCIAS - PROCESSOS DE FURTO 2026 (ITAPERUNA)
+================================================================================
+Total de processos a verificar: 20
+
+[1/20] Erro ao consultar 0802889-97.2026.8.19.0026: The read operation timed out
+
+[2/20] Erro ao consultar 0801907-83.2026.8.19.0026: The read operation timed out
+
+[3/20] Erro ao consultar 0801990-02.2026.8.19.0026: The read operation timed out
+
+[4/20] Erro ao consultar 0802936-71.2026.8.19.0026: The read operation timed out
+
+[5/20] Erro ao consultar 0801911-23.2026.8.19.0026: The read operation timed out
+
+[6/20] Erro ao consultar 0800153-09.2026.8.19.0026: The read operation timed out
+
+[7/20] Erro ao consultar 0800408-64.2026.8.19.0026: The read operation timed out
+
+[8/20] Erro ao consultar 0800258-83.2026.8.19.0026: The read operation timed out
+
+[9/20] Erro ao consultar 0802420-51.2026.8.19.0026: The read operation timed out
+
+[10/20] Erro ao consultar 0801989-17.2026.8.19.0026: The read operation timed out
+
+[11/20] PROCESSO: 0800009-35.2026.8.19.0026
+   Orgao: ITAPERUNA 2 VARA | Classe: Ação Penal - Procedimento Ordinário | Ajuizado: 20260104233438
+   >>> AUDIENCIAS REGISTRADAS (4):
+      Data/Hora: 2026-03-05T18:15:38.000Z | Tipo: Audiência | Detalhes: realizada: situacao_da_audiencia [Cod. 970]
+      Data/Hora: 2026-02-20T17:35:46.000Z | Tipo: Audiência | Detalhes: designada: situacao_da_audiencia [Cod. 970]
+      Data/Hora: 2026-01-06T13:33:09.000Z | Tipo: Audiência | Detalhes: realizada: situacao_da_audiencia [Cod. 970]
+      Data/Hora: 2026-01-05T15:45:52.000Z | Tipo: Audiência | Detalhes: designada: situacao_da_audiencia [Cod. 970]
+
+[12/20] Erro ao consultar 0800914-40.2026.8.19.0026: The read operation timed out
+
+[13/20] Erro ao consultar 0800066-53.2026.8.19.0026: The read operation timed out
+
+[14/20] Erro ao consultar 0802833-64.2026.8.19.0026: The read operation timed out
+
+[15/20] Erro ao consultar 0802895-07.2026.8.19.0026: The read operation timed out
+
+[16/20] PROCESSO: 0802290-61.2026.8.19.0026
+   Orgao: ITAPERUNA 2 VARA | Classe: Carta Precatória Criminal | Ajuizado: 20260507194239
+   - Nenhuma audiencia registrada (Total movs: 7)
+      Ultimo ato: 2026-06-11T18:01:52.000Z - Expedição de documento ()
+
+[17/20] Erro ao consultar 0802860-47.2026.8.19.0026: The read operation timed out
+
+[18/20] Erro ao consultar 0008549-08.2026.8.19.0026: The read operation timed out
+
+[19/20] Erro ao consultar 0005392-27.2026.8.19.0026: The read operation timed out
+
+[20/20] Erro ao consultar 0007475-16.2026.8.19.0026: The read operation timed out
+
+================================================================================
+AUDITORIA FINALIZADA COM SUCESSO.
+================================================================================

@@ -1,0 +1,45 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #2
+DATA: 06/08/2026
+TIPO: Ato Ordinatório Praticado
+ORDEM: 171
+DESCRIÇÃO: Certifico que as contrarrazões de fls. 846/864 são tempestivas. 
+
+Remeto os autos ao TJ, conforme determinado à fl. 806.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:06/08/2026
+  Descrição:Certifico que as contrarrazões de fls. 846/864 são tempestivas. 
+
+Remeto os autos ao TJ, conforme determinado à fl. 806.  
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 171,
+  "dtAlt": "06/08/2026",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "06/08/2026",
+  "descricao": "Certifico que as contrarrazões de fls. 846/864 são tempestivas. \r\n\r\nRemeto os autos ao TJ, conforme determinado à fl. 806.  ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "06/08/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Certifico que as contrarrazões de fls. 846/864 são tempestivas. \r\n\r\nRemeto os autos ao TJ, conforme determinado à fl. 806.  "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "06/08/2026",
+  "indPublicado": "não"
+}

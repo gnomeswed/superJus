@@ -1,0 +1,49 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #94
+DATA: 14/08/2025
+TIPO: Ato Ordinatório Praticado
+ORDEM: 80
+DESCRIÇÃO: Certifico que abro vista ao MP sobre o informado pelo PRPTC à fl. 432.
+
+           Certifico ainda que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.
+
+          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP.
+
+SUB-MOVIMENTO: Ato Ordinatório Praticado
+  Data:14/08/2025
+  Descrição:          Certifico que abro vista ao MP sobre o informado pelo PRPTC à fl. 432.
+
+           Certifico ainda que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.
+
+          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 4,
+  "ordem": 80,
+  "dtAlt": "14/08/2025",
+  "descrMov": "Ato Ordinatório Praticado",
+  "dtMovimento": "14/08/2025",
+  "descricao": "          Certifico que abro vista ao MP sobre o informado pelo PRPTC à fl. 432.\r\n\r\n           Certifico ainda que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.\r\n\r\n          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Ato Ordinatório Praticado",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data: ",
+          "descricao": "14/08/2025"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "          Certifico que abro vista ao MP sobre o informado pelo PRPTC à fl. 432.\r\n\r\n           Certifico ainda que, revendo os presentes autos, verifiquei constar réu preso por prazo superior a 80 dias.\r\n\r\n          Assim, em cumprimento da O.S. nº 01/2021, remeto à conclusão, para os fins previstos no artigo 316, parágrafo único, do CPP. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dt": "14/08/2025",
+  "indPublicado": "não"
+}

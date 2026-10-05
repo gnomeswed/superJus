@@ -1,0 +1,16 @@
+Por Número
+Por Nome
+Por OAB
+Por CPF/CNPJ
+Por Nome do Advogado
+Por Protocolo
+Aguardando Sentença
+Falência/Recuperação Judicial
+Origem *
+Nº Protocolo *
+
+ 
+
+ Pesquisar Limpar Filtros
+O campo Origem deve ser preenchido.
+O campo Origem deve ser preenchido.

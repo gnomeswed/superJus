@@ -1,0 +1,40 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #8
+DATA: 09/07/2026
+TIPO: Juntada - Apelação
+ORDEM: 165
+DESCRIÇÃO: Documento eletrônico juntado de forma automática.
+
+SUB-MOVIMENTO: Juntada - Apelação
+  Data da juntada:09/07/2026
+  Descrição da Juntada:Documento eletrônico juntado de forma automática.
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 165,
+  "dtAlt": "09/07/2026",
+  "descrMov": "Juntada - Apelação",
+  "dtMovimento": "09/07/2026",
+  "descricao": "Documento eletrônico juntado de forma automática.",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - Apelação",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "09/07/2026"
+        },
+        {
+          "codigo": "Descrição da Juntada: ",
+          "descricao": "Documento eletrônico juntado de forma automática."
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "09/07/2026"
+}

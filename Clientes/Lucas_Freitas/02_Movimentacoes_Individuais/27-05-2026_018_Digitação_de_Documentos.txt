@@ -1,0 +1,40 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #18
+DATA: 27/05/2026
+TIPO: Digitação de Documentos
+ORDEM: 155
+DESCRIÇÃO: Ofício à SEAP.
+
+SUB-MOVIMENTO: Digitação de Documentos
+  Data da digitação:27/05/2026
+  Descrição:Ofício à SEAP. 
+
+--- JSON CRU ---
+{
+  "codTipAnd": 52,
+  "ordem": 155,
+  "dtAlt": "27/05/2026",
+  "descrMov": "Digitação de Documentos",
+  "dtMovimento": "27/05/2026",
+  "descricao": "Ofício à SEAP. ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Digitação de Documentos",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da digitação: ",
+          "descricao": "27/05/2026"
+        },
+        {
+          "codigo": "Descrição: ",
+          "descricao": "Ofício à SEAP. "
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtDigitacao": "27/05/2026"
+}

@@ -1,0 +1,26 @@
+{
+  "processo": "0808595-36.2026.8.19.0002",
+  "cliente": "Lucas Dias Oliveira (Taxista)",
+  "data_raspagem": "2026-08-16",
+  "metodos_tentados": [
+    {
+      "metodo": "DataJud",
+      "status": "HTTP 401"
+    },
+    {
+      "metodo": "PJe TJRJ",
+      "status": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pje.tjrj.jus.br/pje/login.seam\nCall log:\n  - navigating to \"https://pje.tjrj.jus.br/pje/login.seam\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "metodo": "Google",
+      "status": "encontrado",
+      "tamanho": 368
+    },
+    {
+      "metodo": "TJRJ API",
+      "status": "HTTP 404",
+      "tamanho": 158
+    }
+  ],
+  "erros": []
+}

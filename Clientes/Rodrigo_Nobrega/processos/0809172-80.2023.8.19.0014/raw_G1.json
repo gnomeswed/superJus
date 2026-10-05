@@ -1,0 +1,1130 @@
+{
+  "id": "TJRJ_G1_08091728020238190014",
+  "tribunal": "TJRJ",
+  "grau": "G1",
+  "numeroProcesso": "08091728020238190014",
+  "dataAjuizamento": "20230429112123",
+  "nivelSigilo": 0,
+  "orgaoJulgador": {
+    "codigo": 7404,
+    "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL",
+    "codigoMunicipioIBGE": 3301009
+  },
+  "classe": {
+    "codigo": 283,
+    "nome": "Ação Penal - Procedimento Ordinário"
+  },
+  "sistema": {
+    "codigo": 1,
+    "nome": "PJe"
+  },
+  "formato": {
+    "codigo": 1,
+    "nome": "Eletrônico"
+  },
+  "dataHoraUltimaAtualizacao": "2026-07-18T21:05:44.599000Z",
+  "@timestamp": "2026-07-18T21:05:44.599000Z",
+  "movimentos": [
+    {
+      "codigo": 26,
+      "dataHora": "2023-04-29T11:21:23.000Z",
+      "nome": "Distribuição",
+      "complementosTabelados": [
+        {
+          "codigo": 2,
+          "descricao": "tipo_de_distribuicao_redistribuicao",
+          "valor": 2,
+          "nome": "sorteio"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2023-04-29T11:21:44.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 40,
+          "nome": "outros motivos"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-04-29T16:22:44.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2023-04-29T16:26:01.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 9,
+          "nome": "designada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-04-30T14:39:46.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-04-30T20:10:23.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2023-04-30T20:10:24.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 13,
+          "nome": "realizada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-04-30T20:26:56.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-04-30T20:26:57.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-04-30T21:40:10.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-05-01T14:45:54.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2023-05-01T19:03:36.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 108,
+          "nome": "cumpridos"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-05-02T17:31:36.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 5,
+          "nome": "para despacho"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-05-09T13:28:28.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-05-15T19:44:58.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-05-26T16:24:35.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 14739,
+      "dataHora": "2023-05-26T19:51:50.000Z",
+      "nome": "Evolução da Classe Processual",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-05-26T20:06:50.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 391,
+      "dataHora": "2023-05-29T20:54:04.000Z",
+      "nome": "Denúncia",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-06-05T15:38:30.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-06-05T15:42:07.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-06-05T15:45:39.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-06-05T15:48:55.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-06-05T17:14:58.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-06-05T17:15:20.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-06-13T16:53:07.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-06-19T23:31:29.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-06-27T04:06:56.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-06-30T22:56:54.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-07-04T14:11:10.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-07-11T21:30:00.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-07-13T18:49:54.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-07-14T13:35:56.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-08-01T20:00:20.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2023-08-02T14:19:08.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 9,
+          "nome": "designada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 14738,
+      "dataHora": "2023-08-02T16:56:18.000Z",
+      "nome": "Retificação de Classe Processual",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-12T16:16:52.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-12T16:25:06.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-09-12T16:26:33.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-12T16:30:08.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-12T20:09:29.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-09-22T22:23:31.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-25T13:54:00.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-09-25T15:50:01.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-10-03T16:00:40.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-10-03T21:24:34.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2023-10-03T21:24:34.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 13,
+          "nome": "realizada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-10-04T17:25:56.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-10-04T17:53:35.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2023-10-11T03:23:10.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-10-16T19:43:45.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 36,
+          "nome": "para julgamento"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-11-09T22:36:40.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 1061,
+      "dataHora": "2023-11-12T03:07:04.000Z",
+      "nome": "Disponibilização no Diário da Justiça Eletrônico",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 92,
+      "dataHora": "2023-11-13T03:05:25.000Z",
+      "nome": "Publicação",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-11-13T18:35:09.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-11-14T21:01:22.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-11-17T12:16:21.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2023-11-21T18:38:29.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-11-22T18:04:52.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2023-11-22T18:06:07.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-12-11T18:29:58.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2023-12-13T17:04:37.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-12-13T20:03:42.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-12-14T17:03:28.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-12-14T18:24:02.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-12-19T18:31:07.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2023-12-19T18:39:51.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-01-05T12:10:29.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-01-24T14:45:01.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2024-01-24T14:45:16.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-01-28T03:20:56.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-02-01T17:39:52.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-02-05T19:14:15.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-02-08T17:50:06.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-02-08T17:50:50.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-02-23T17:10:19.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-02-23T20:26:07.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2024-03-12T03:12:12.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-03-22T15:09:46.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2024-03-27T16:35:27.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2024-04-11T18:05:55.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2024-04-19T21:33:53.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 38,
+          "nome": "em grau de recurso"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-01-09T11:46:40.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-01-09T14:14:04.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 5,
+          "nome": "para despacho"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-02-07T14:58:27.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-02-10T15:13:46.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-02-10T15:16:27.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-02-10T15:22:28.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-11T13:24:27.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-11T14:48:47.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-04-03T19:15:00.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-04-03T19:16:15.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-08-05T14:49:56.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 12140,
+      "dataHora": "2023-04-30T20:10:24.000Z",
+      "nome": "Prisão em Flagrante em Prisão Preventiva",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 132,
+      "dataHora": "2023-05-01T19:03:36.000Z",
+      "nome": "Recebimento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2023-05-03T21:06:04.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2023-05-15T16:21:59.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 12146,
+      "dataHora": "2023-08-02T14:57:54.000Z",
+      "nome": "Liberdade Provisória",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2023-09-25T13:50:33.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2023-10-03T21:24:35.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 221,
+      "dataHora": "2023-11-09T22:36:36.000Z",
+      "nome": "Procedência em Parte",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 394,
+      "dataHora": "2023-11-22T18:48:39.000Z",
+      "nome": "Com efeito suspensivo",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 394,
+      "dataHora": "2024-01-24T18:44:52.000Z",
+      "nome": "Com efeito suspensivo",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2024-03-27T16:32:50.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 132,
+      "dataHora": "2025-01-09T11:46:41.000Z",
+      "nome": "Recebimento",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2025-01-09T20:41:27.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    },
+    {
+      "codigo": 246,
+      "dataHora": "2025-04-03T19:16:25.000Z",
+      "nome": "Definitivo",
+      "orgaoJulgador": {
+        "codigo": "7404",
+        "nome": "CAMPOS DOS GOYTACAZES 3 VARA CRIMINAL"
+      }
+    }
+  ],
+  "assuntos": [
+    {
+      "codigo": 3608,
+      "nome": "Tráfico de Drogas e Condutas Afins"
+    },
+    {
+      "codigo": 3633,
+      "nome": "Crimes do Sistema Nacional de Armas"
+    },
+    {
+      "codigo": 10523,
+      "nome": "Despenalização / Descriminalização"
+    },
+    {
+      "codigo": 5897,
+      "nome": "Associação para a Produção e Tráfico e Condutas Afins"
+    }
+  ]
+}

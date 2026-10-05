@@ -1,0 +1,34 @@
+PROCESSO: 0011857-95.2024.8.19.0002
+MOVIMENTO #16
+DATA: 29/05/2026
+TIPO: Juntada - Guia de recolhimento de preso
+ORDEM: 157
+
+SUB-MOVIMENTO: Juntada - Guia de recolhimento de preso
+  Data da juntada:29/05/2026
+
+--- JSON CRU ---
+{
+  "codTipAnd": 6,
+  "ordem": 157,
+  "dtAlt": "29/05/2026",
+  "descrMov": "Juntada - Guia de recolhimento de preso",
+  "dtMovimento": "29/05/2026",
+  "descricao": " ",
+  "movimentosExibicao": [
+    {
+      "tipoMovimento": "Juntada - Guia de recolhimento de preso",
+      "detalhesMovimento": [
+        {
+          "codigo": "Data da juntada: ",
+          "descricao": "29/05/2026"
+        }
+      ],
+      "docEletronico": [],
+      "textosVinculadosProc": null,
+      "resumoOuIntegra": null,
+      "codDocAtoAssinadoDig": null
+    }
+  ],
+  "dtJuntada": "29/05/2026"
+}

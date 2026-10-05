@@ -1,0 +1,165 @@
+{
+  "data_consulta": "23/09/2026",
+  "hora_consulta": "09:16:56",
+  "portal_tjrj": {
+    "0023013-51.2021.8.19.0078": {
+      "status": "sucesso",
+      "data_hora_consulta": "23/09/2026 09:13:35",
+      "comarca": "Comarca de Búzios",
+      "serventia": "Cartório da 2ª Vara",
+      "classe": "Ação Penal - Procedimento Ordinário",
+      "fase_atual": "Processamento",
+      "total_movimentos": 55,
+      "ultimo_movimento": "Juntada (06/08/2026)",
+      "ultimos_movimentos": [
+        "06/08/2026 | Juntada - Documento - Data da juntada: 04/08/2026",
+        "01/08/2026 | Conclusão ao Juiz - Data de Recebimento: 01/08/2026; Data da conclusão: 30/07/2026; Juiz: DANILO MARQUES BORGES",
+        "30/07/2026 | Juntada - Documento - Data da juntada: 30/07/2026",
+        "29/07/2026 | Juntada - Petição - Data da juntada: 29/07/2026; Descrição da Juntada: Documento eletrônico juntado de forma automática.",
+        "28/07/2026 | Envio de Documento Eletrônico - Data da remessa: 28/07/2026",
+        "28/07/2026 | Conclusão ao Juiz - Data do expediente:29/07/2026; Data de Recebimento: 24/07/2026; Data da conclusão: 23/07/2026; Juiz: DANILO MARQUES BORGES",
+        "21/07/2026 | Juntada - Petição - Data da juntada: 21/07/2026; Descrição da Juntada: Documento eletrônico juntado de forma automática.",
+        "17/07/2026 | Envio de Documento Eletrônico - Data da remessa: 17/07/2026"
+      ],
+      "cad_info": {
+        "numProcesso": "2021.078.023002-1",
+        "tipoProcesso": 1,
+        "codigoCnj": "0023013-51.2021.8.19.0078",
+        "nomeComarca": "Comarca de Búzios",
+        "descricaoServentia": "Cartório da 2ª Vara",
+        "classe": "Ação Penal - Procedimento Ordinário",
+        "assunto": "Tráfico de Drogas e Condutas Afins (Art. 33 - Lei 11.343/06);Prisão em flagrante",
+        "ultimoMovimento": "Juntada",
+        "isProcessoVirtual": true,
+        "idProcesso": 133666226,
+        "statusMigradoPje": 0,
+        "codTipAutos": "P"
+      }
+    },
+    "0001140-87.2024.8.19.0078": {
+      "status": "sucesso",
+      "data_hora_consulta": "23/09/2026 09:14:16",
+      "comarca": "Comarca de Búzios",
+      "serventia": "Cartório do Juizado Especial Adjunto Criminal",
+      "classe": "Auto de Prisão em Flagrante",
+      "fase_atual": "Mandado Junto Automaticamente",
+      "total_movimentos": 20,
+      "ultimo_movimento": "Envio de Documento Eletrônico (11/09/2026)",
+      "ultimos_movimentos": [
+        "11/09/2026 | Ato Ordinatório Praticado - Data: 11/09/2026; Descrição: Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.",
+        "11/09/2026 | Juntada de Mandado - Data da juntada: 11/09/2026",
+        "10/09/2026 | Preliminar - Data da audiência: 09/09/2026; Resultado: Adiada por ausência do autor do fato / vítima",
+        "10/09/2026 | Ato Ordinatório Praticado - Data: 04/09/2026; Descrição: Ao interessado para que se manifeste sobre a Certidão do Oficial de Justiça.",
+        "04/09/2026 | Juntada de Mandado - Data da juntada: 04/09/2026",
+        "01/09/2026 | Envio de Documento Eletrônico - Data da remessa: 01/09/2026; Nome da Central Destinatária: ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL.; Data de Recebimento pelo OJA",
+        "22/07/2026 | Conclusão ao Juiz - Data de Recebimento: 22/07/2026; Data da conclusão: 22/07/2026; Juiz: DANILO MARQUES BORGES",
+        "27/05/2026 | Juntada - Petição - Data da juntada: 27/05/2026; Descrição da Juntada: Documento eletrônico juntado de forma automática."
+      ],
+      "cad_info": {
+        "numProcesso": "2021.078.022964-0A",
+        "tipoProcesso": 1,
+        "codigoCnj": "0001140-87.2024.8.19.0078",
+        "nomeComarca": "Comarca de Búzios",
+        "descricaoServentia": "Cartório da 2ª Vara",
+        "classe": "Recurso em Sentido Estrito - Criminal",
+        "assunto": "Tráfico de Drogas e Condutas Afins (Art. 33 - Lei 11.343/06)",
+        "ultimoMovimento": "Envio de Documento Eletrônico",
+        "isProcessoVirtual": true,
+        "idProcesso": 139683310,
+        "statusMigradoPje": 0,
+        "codTipAutos": "P"
+      }
+    },
+    "0022975-39.2021.8.19.0078": {
+      "status": "sucesso",
+      "data_hora_consulta": "23/09/2026 09:14:58",
+      "comarca": "Comarca de Búzios",
+      "serventia": "Cartório da 2ª Vara",
+      "classe": "Ação Penal - Procedimento Ordinário",
+      "fase_atual": "Aguardando Cumprimento de Mandado",
+      "total_movimentos": 231,
+      "ultimo_movimento": "Juntada (05/08/2026)",
+      "ultimos_movimentos": [
+        "05/08/2026 | Juntada - Petição - Data da juntada: 05/08/2026; Descrição da Juntada: Documento eletrônico juntado de forma automática.",
+        "25/07/2026 | Envio de Documento Eletrônico - Data da remessa: 25/07/2026; Nome da Central Destinatária: ARMACAO DOS BUZIOS NUC.APOIO RECIP.OF.JUST.AVAL.; Data de Recebimento pelo OJA",
+        "17/07/2026 | Desentranhamento - Data do movimento: 17/07/2026",
+        "14/05/2026 | Juntada - Petição Custódia - Data da juntada: 14/05/2026; Descrição da Juntada: Documento eletrônico juntado de forma automática.",
+        "14/05/2026 | Ato Ordinatório Praticado - Data do expediente:09/12/2025; Data: 08/12/2025; Descrição: Aos   patronos  dos   acusados   para   se   manifestarem  sobre o item 4  de",
+        "27/01/2025 | Juntada - Petição - Data da juntada: 27/01/2025; Descrição da Juntada: Documento eletrônico juntado de forma automática.",
+        "23/01/2025 | Envio de Documento Eletrônico - Data da remessa: 23/01/2025",
+        "23/01/2025 | Ato Ordinatório Praticado - Data: 23/01/2025; Descrição: À Defensoria Público conforme item 4 de id 1660. "
+      ],
+      "cad_info": {
+        "numProcesso": "2021.078.022964-0",
+        "tipoProcesso": 1,
+        "codigoCnj": "0022975-39.2021.8.19.0078",
+        "nomeComarca": "Comarca de Búzios",
+        "descricaoServentia": "Cartório da 2ª Vara",
+        "classe": "Ação Penal - Procedimento Ordinário",
+        "assunto": "Tráfico de Drogas e Condutas Afins (Art. 33 - Lei 11.343/06);Prisão em flagrante",
+        "ultimoMovimento": "Juntada",
+        "isProcessoVirtual": true,
+        "idProcesso": 132540138,
+        "statusMigradoPje": 0,
+        "codTipAutos": "P"
+      }
+    },
+    "0029845-67.2026.8.19.0000": {
+      "status": "sucesso",
+      "data_hora_consulta": "23/09/2026 09:15:39",
+      "comarca": "Comarca da Capital",
+      "serventia": "SÉTIMA CAMARA CRIMINAL",
+      "classe": "HABEAS CORPUS",
+      "fase_atual": "N/A",
+      "total_movimentos": 0,
+      "ultimo_movimento": "N/A (N/A)",
+      "ultimos_movimentos": [],
+      "cad_info": {
+        "numProcesso": "2026.059.10770",
+        "tipoProcesso": 2,
+        "url": "https://www3.tjrj.jus.br/ejud/ConsultaProcesso.aspx?N=2026.059.10770",
+        "codigoCnj": "0029845-67.2026.8.19.0000",
+        "nomeComarca": "Comarca da Capital",
+        "descricaoServentia": "SÉTIMA CAMARA CRIMINAL",
+        "classe": "HABEAS CORPUS",
+        "assunto": "Tráfico de Drogas e Condutas Afins / Crimes de Tráfico Ilícito e Uso Indevido de Drogas / Crimes Previstos na Legislação Extravagante / DIREITO PENAL",
+        "isProcessoVirtual": true,
+        "idProcesso": 145135296
+      }
+    }
+  },
+  "datajud_stj": [
+    {
+      "numeroProcesso": "03112101020263000000",
+      "classe": "HABEAS CORPUS",
+      "orgao": "SEXTA TURMA",
+      "relator": "MINISTRO OG FERNANDES",
+      "ultimaAtualizacao": "2026-08-18T09:00:47.046000Z",
+      "diasConcluso": 41,
+      "ultimosMovimentos": [
+        {
+          "dataHora": "2026-08-13 17:45:57",
+          "nome": "Conclusão para Decisão ao Relator"
+        },
+        {
+          "dataHora": "2026-08-13 17:35:00",
+          "nome": "Recebimento"
+        },
+        {
+          "dataHora": "2026-08-13 17:21:06",
+          "nome": "Petição (Parecer do MPF nº 816581/2026)"
+        },
+        {
+          "dataHora": "2026-08-13 17:08:50",
+          "nome": "Protocolo de Petição"
+        }
+      ]
+    }
+  ],
+  "djerj": {
+    "0023013-51.2021.8.19.0078": "Erro consulta DJERJ: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www3.tjrj.jus.br/consultadje/Result.aspx?dtInicio=01%2F09%2F2026&dtFim=23%2F09%2F2026&txtPesq=0023013-51.2021.8.19.0078&tipoPesq=PROC\", waiting until \"load\"\n",
+    "0029845-67.2026.8.19.0000": "Sem publicações no período (01 a 23/09/2026)",
+    "0001140-87.2024.8.19.0078": "Sem publicações no período (01 a 23/09/2026)",
+    "Julio Pereira Marcos": "Sem publicações no período (01 a 23/09/2026)"
+  }
+}

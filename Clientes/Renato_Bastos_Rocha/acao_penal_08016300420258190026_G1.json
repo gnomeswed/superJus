@@ -1,0 +1,1025 @@
+{
+  "id": "TJRJ_G1_08016300420258190026",
+  "tribunal": "TJRJ",
+  "grau": "G1",
+  "numeroProcesso": "08016300420258190026",
+  "dataAjuizamento": "20250323123809",
+  "nivelSigilo": 0,
+  "orgaoJulgador": {
+    "codigo": 7388,
+    "nome": "ITAPERUNA 2 VARA",
+    "codigoMunicipioIBGE": 3302205
+  },
+  "classe": {
+    "codigo": 283,
+    "nome": "Ação Penal - Procedimento Ordinário"
+  },
+  "sistema": {
+    "codigo": 1,
+    "nome": "PJe"
+  },
+  "formato": {
+    "codigo": 1,
+    "nome": "Eletrônico"
+  },
+  "dataHoraUltimaAtualizacao": "2026-07-24T01:41:42.275000Z",
+  "@timestamp": "2026-07-24T01:41:42.275000Z",
+  "movimentos": [
+    {
+      "codigo": 26,
+      "dataHora": "2025-03-23T12:38:09.000Z",
+      "nome": "Distribuição",
+      "complementosTabelados": [
+        {
+          "codigo": 2,
+          "descricao": "tipo_de_distribuicao_redistribuicao",
+          "valor": 2,
+          "nome": "sorteio"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2025-03-23T12:38:11.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 40,
+          "nome": "outros motivos"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-03-23T15:47:40.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2025-03-23T17:28:31.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 9,
+          "nome": "designada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-03-24T17:01:45.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2025-03-24T17:01:46.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 13,
+          "nome": "realizada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-03-24T17:11:16.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-03-24T17:11:33.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-24T17:11:38.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-24T18:19:15.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-03-25T15:02:21.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 123,
+      "dataHora": "2025-03-25T16:35:04.000Z",
+      "nome": "Remessa",
+      "complementosTabelados": [
+        {
+          "codigo": 18,
+          "descricao": "motivo_da_remessa",
+          "valor": 108,
+          "nome": "cumpridos"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-03-25T17:34:29.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-25T18:20:08.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-03-26T21:04:12.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 14739,
+      "dataHora": "2025-03-27T12:40:21.000Z",
+      "nome": "Evolução da Classe Processual",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-03-27T12:40:53.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 391,
+      "dataHora": "2025-03-27T14:38:51.000Z",
+      "nome": "Denúncia",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-03-27T17:11:16.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-27T19:26:38.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-28T12:03:41.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-28T16:40:17.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-28T17:27:44.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-28T17:49:31.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-03-28T18:11:30.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-08T14:31:50.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-04-11T19:48:29.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-16T11:50:07.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-04-16T17:54:19.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-21T11:57:26.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-23T14:51:07.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-04-24T17:35:50.000Z",
+      "nome": "Conclusão",
+      "complementosTabelados": [
+        {
+          "codigo": 3,
+          "descricao": "tipo_de_conclusao",
+          "valor": 6,
+          "nome": "para decisão"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2025-04-24T19:06:29.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 9,
+          "nome": "designada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-04-25T15:27:53.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-04-25T15:28:29.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-25T16:55:03.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-25T20:25:53.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-04-25T20:40:57.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-05-04T03:23:58.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-06-11T20:36:07.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-06-11T20:47:46.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 970,
+      "dataHora": "2025-06-11T20:53:33.000Z",
+      "nome": "Audiência",
+      "complementosTabelados": [
+        {
+          "codigo": 15,
+          "descricao": "situacao_da_audiencia",
+          "valor": 10,
+          "nome": "redesignada"
+        }
+      ],
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-06-12T18:16:45.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-06-12T18:17:08.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-08T00:42:47.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-08T14:02:14.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-07-09T18:23:36.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-10T17:35:36.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-07-10T18:28:27.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-07-24T05:13:18.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-07-24T19:37:37.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-25T14:22:59.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-07-25T14:37:12.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-25T14:37:13.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-07-25T14:42:35.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-25T14:55:52.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-25T15:09:00.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-07-25T22:58:09.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-07-25T23:07:50.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 581,
+      "dataHora": "2025-07-29T14:47:26.000Z",
+      "nome": "Documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-07-29T14:57:55.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-07-29T19:00:11.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-29T19:46:54.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-07-31T17:48:27.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-07-31T17:53:04.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-07-31T17:57:10.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-08-01T03:42:18.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-08-11T18:36:14.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2025-08-19T04:29:58.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 51,
+      "dataHora": "2025-11-19T20:20:32.000Z",
+      "nome": "Conclusão",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-12-12T21:25:08.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-12-15T14:42:06.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2025-12-16T17:09:08.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2025-12-31T16:34:41.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 60,
+      "dataHora": "2026-01-21T15:25:19.000Z",
+      "nome": "Expedição de documento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 1051,
+      "dataHora": "2026-01-28T04:42:58.000Z",
+      "nome": "Decurso de Prazo",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 85,
+      "dataHora": "2026-01-28T17:04:13.000Z",
+      "nome": "Petição",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12140,
+      "dataHora": "2025-03-24T17:01:46.000Z",
+      "nome": "Prisão em Flagrante em Prisão Preventiva",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 132,
+      "dataHora": "2025-03-25T16:35:04.000Z",
+      "nome": "Recebimento",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-03-27T14:38:52.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-03-27T19:41:39.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-03-28T18:46:45.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-03-31T18:47:37.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-04-03T18:29:23.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12164,
+      "dataHora": "2025-04-25T12:57:10.000Z",
+      "nome": "Outras Decisões",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-04-25T12:57:11.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-04-25T15:27:53.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2025-06-11T20:43:53.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-06-11T20:43:55.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12164,
+      "dataHora": "2025-06-11T20:58:20.000Z",
+      "nome": "Outras Decisões",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-06-11T20:58:22.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-07-22T19:52:29.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2025-07-24T20:36:57.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-07-24T20:36:59.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-07-25T14:11:49.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-07-25T15:08:26.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-07-29T14:57:33.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11010,
+      "dataHora": "2025-07-29T18:00:13.000Z",
+      "nome": "Mero expediente",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 12265,
+      "dataHora": "2025-07-29T18:00:15.000Z",
+      "nome": "Expedida/certificada",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2025-07-31T17:55:58.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 219,
+      "dataHora": "2025-11-24T19:31:20.000Z",
+      "nome": "Procedência",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    },
+    {
+      "codigo": 11383,
+      "dataHora": "2026-07-13T16:10:10.000Z",
+      "nome": "Ato ordinatório",
+      "orgaoJulgador": {
+        "codigo": "7388",
+        "nome": "ITAPERUNA 2 VARA"
+      }
+    }
+  ],
+  "assuntos": [
+    {
+      "codigo": 3416,
+      "nome": "Furto "
+    }
+  ]
+}
